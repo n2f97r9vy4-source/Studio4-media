@@ -17,7 +17,7 @@
     "img/1_LUN_bis_4.jpg"
    ],
    "didascalia": "didascalie/lun_0700.txt",
-   "approvato": false,
+   "approvato": true,
    "attesa_foto": false,
    "pubblicato": false
   },
@@ -31,7 +31,7 @@
     "img/1_LUN_post_1.jpg"
    ],
    "didascalia": "didascalie/lun_1930.txt",
-   "approvato": false,
+   "approvato": true,
    "attesa_foto": false,
    "pubblicato": false
   },
@@ -48,7 +48,7 @@
     "img/2_MAR_4.jpg"
    ],
    "didascalia": "didascalie/mar_0700.txt",
-   "approvato": false,
+   "approvato": true,
    "attesa_foto": false,
    "pubblicato": false
   },
@@ -62,7 +62,7 @@
     "img/2_MAR_bis_1.jpg"
    ],
    "didascalia": "didascalie/mar_1930.txt",
-   "approvato": false,
+   "approvato": true,
    "attesa_foto": false,
    "pubblicato": false
   },
@@ -81,7 +81,7 @@
     "img/3_MER_6.jpg"
    ],
    "didascalia": "didascalie/mer_0700.txt",
-   "approvato": false,
+   "approvato": true,
    "attesa_foto": true,
    "pubblicato": false
   },
@@ -98,7 +98,7 @@
     "img/3_MER_bis_4.jpg"
    ],
    "didascalia": "didascalie/mer_1930.txt",
-   "approvato": false,
+   "approvato": true,
    "attesa_foto": false,
    "pubblicato": false
   },
@@ -115,7 +115,7 @@
     "img/4_GIO_bis_4.jpg"
    ],
    "didascalia": "didascalie/gio_0700.txt",
-   "approvato": false,
+   "approvato": true,
    "attesa_foto": false,
    "pubblicato": false
   },
@@ -129,7 +129,7 @@
     "img/4_GIO_1.jpg"
    ],
    "didascalia": "didascalie/gio_1930.txt",
-   "approvato": false,
+   "approvato": true,
    "attesa_foto": false,
    "pubblicato": false
   },
@@ -146,7 +146,7 @@
     "img/5_VEN_4.jpg"
    ],
    "didascalia": "didascalie/ven_0700.txt",
-   "approvato": false,
+   "approvato": true,
    "attesa_foto": true,
    "pubblicato": false
   },
@@ -163,7 +163,7 @@
     "img/7_DOM_bis_4.jpg"
    ],
    "didascalia": "didascalie/ven_1930.txt",
-   "approvato": false,
+   "approvato": true,
    "attesa_foto": false,
    "pubblicato": false
   },
@@ -177,7 +177,7 @@
     "img/6_SAB_1.jpg"
    ],
    "didascalia": "didascalie/sab_0700.txt",
-   "approvato": false,
+   "approvato": true,
    "attesa_foto": false,
    "pubblicato": false
   },
@@ -194,7 +194,7 @@
     "img/X_NEMA_4.jpg"
    ],
    "didascalia": "didascalie/sab_1930.txt",
-   "approvato": false,
+   "approvato": true,
    "attesa_foto": false,
    "pubblicato": false
   },
@@ -211,7 +211,7 @@
     "img/X_RAZORMIN_4.jpg"
    ],
    "didascalia": "didascalie/dom_0700.txt",
-   "approvato": false,
+   "approvato": true,
    "attesa_foto": false,
    "pubblicato": false
   },
@@ -228,7 +228,7 @@
     "img/X_PROG_4.jpg"
    ],
    "didascalia": "didascalie/dom_1930.txt",
-   "approvato": false,
+   "approvato": true,
    "attesa_foto": false,
    "pubblicato": false
   },
@@ -242,7 +242,7 @@
     "img/1_LUN_storia_1.jpg"
    ],
    "automatica": false,
-   "approvato": false,
+   "approvato": true,
    "pubblicato": false
   },
   {
@@ -255,7 +255,7 @@
     "img/1_LUN_storia_2.jpg"
    ],
    "automatica": false,
-   "approvato": false,
+   "approvato": true,
    "pubblicato": false
   },
   {
@@ -268,7 +268,7 @@
     "img/1_LUN_storia_3.jpg"
    ],
    "automatica": true,
-   "approvato": false,
+   "approvato": true,
    "pubblicato": false
   },
   {
@@ -281,7 +281,7 @@
     "img/2_MAR_storia_consegna.jpg"
    ],
    "automatica": true,
-   "approvato": false,
+   "approvato": true,
    "pubblicato": false
   },
   {
@@ -294,7 +294,7 @@
     "img/3_MER_storia_ordine.jpg"
    ],
    "automatica": true,
-   "approvato": false,
+   "approvato": true,
    "pubblicato": false
   },
   {
@@ -307,7 +307,7 @@
     "img/4_GIO_storia_orari.jpg"
    ],
    "automatica": true,
-   "approvato": false,
+   "approvato": true,
    "pubblicato": false
   },
   {
@@ -320,7 +320,7 @@
     "img/5_VEN_storia.jpg"
    ],
    "automatica": false,
-   "approvato": false,
+   "approvato": true,
    "pubblicato": false
   },
   {
@@ -333,7 +333,7 @@
     "img/6_SAB_storia.jpg"
    ],
    "automatica": false,
-   "approvato": false,
+   "approvato": true,
    "pubblicato": false
   },
   {
@@ -346,8 +346,9 @@
     "img/7_DOM_storia.jpg"
    ],
    "automatica": false,
-   "approvato": false,
+   "approvato": true,
    "pubblicato": false
   }
- ]
+ ],
+ "approvazione": "Valerio, 08/11/2026 18:38 (\"Ok va bene\")"
 }
