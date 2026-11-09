@@ -19,7 +19,9 @@
    "didascalia": "didascalie/lun_0700.txt",
    "approvato": true,
    "attesa_foto": false,
-   "pubblicato": false
+   "pubblicato": true,
+   "media_id": "17915535762516218",
+   "ora_pubblicazione": "07:11"
   },
   {
    "id": "lun_1930",
