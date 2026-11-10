@@ -70,7 +70,9 @@
    "didascalia": "didascalie/mar_1930.txt",
    "approvato": true,
    "attesa_foto": false,
-   "pubblicato": false
+   "pubblicato": true,
+   "media_id": "18106225934368281",
+   "ora_pubblicazione": "19:43"
   },
   {
    "id": "mer_0700",
