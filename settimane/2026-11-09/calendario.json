@@ -1,362 +1,364 @@
 {
- "settimana": "2026-11-09",
- "fuso": "Europe/Rome",
- "account_instagram": "17841427890713085",
- "base_url": "https://raw.githubusercontent.com/n2f97r9vy4-source/studio4-media/main/settimane/2026-11-09/",
- "uscite": [
-  {
-   "id": "lun_0700",
-   "tipo": "carosello",
-   "data": "2026-11-09",
-   "ora": "07:00",
-   "titolo": "Nitrato di calcio o di potassio",
-   "files": [
-    "img/1_LUN_bis_1.jpg",
-    "img/1_LUN_bis_2.jpg",
-    "img/1_LUN_bis_3.jpg",
-    "img/1_LUN_bis_4.jpg"
-   ],
-   "didascalia": "didascalie/lun_0700.txt",
-   "approvato": true,
-   "attesa_foto": false,
-   "pubblicato": true,
-   "media_id": "17915535762516218",
-   "ora_pubblicazione": "07:11"
-  },
-  {
-   "id": "lun_1930",
-   "tipo": "immagine",
-   "data": "2026-11-09",
-   "ora": "19:30",
-   "titolo": "Tuta absoluta: catture per trappola",
-   "files": [
-    "img/1_LUN_post_1.jpg"
-   ],
-   "didascalia": "didascalie/lun_1930.txt",
-   "approvato": true,
-   "attesa_foto": false,
-   "pubblicato": true,
-   "media_id": "17907354918355061",
-   "ora_pubblicazione": "19:41"
-  },
-  {
-   "id": "mar_0700",
-   "tipo": "carosello",
-   "data": "2026-11-10",
-   "ora": "07:00",
-   "titolo": "La dose giusta: Cidely Top",
-   "files": [
-    "img/2_MAR_1.jpg",
-    "img/2_MAR_2.jpg",
-    "img/2_MAR_3.jpg",
-    "img/2_MAR_4.jpg"
-   ],
-   "didascalia": "didascalie/mar_0700.txt",
-   "approvato": true,
-   "attesa_foto": false,
-   "pubblicato": true,
-   "media_id": "17970260208197643",
-   "ora_pubblicazione": "07:10"
-  },
-  {
-   "id": "mar_1930",
-   "tipo": "immagine",
-   "data": "2026-11-10",
-   "ora": "19:30",
-   "titolo": "Rete antinsetto: conta la maglia",
-   "files": [
-    "img/2_MAR_bis_1.jpg"
-   ],
-   "didascalia": "didascalie/mar_1930.txt",
-   "approvato": true,
-   "attesa_foto": false,
-   "pubblicato": false
-  },
-  {
-   "id": "mer_0700",
-   "tipo": "carosello",
-   "data": "2026-11-11",
-   "ora": "07:00",
-   "titolo": "Distillato di legno",
-   "files": [
-    "img/3_MER_1.jpg",
-    "img/3_MER_2.jpg",
-    "img/3_MER_3.jpg",
-    "img/3_MER_4.jpg",
-    "img/3_MER_5.jpg",
-    "img/3_MER_6.jpg"
-   ],
-   "didascalia": "didascalie/mer_0700.txt",
-   "approvato": true,
-   "attesa_foto": true,
-   "pubblicato": false
-  },
-  {
-   "id": "mer_1930",
-   "tipo": "carosello",
-   "data": "2026-11-11",
-   "ora": "19:30",
-   "titolo": "Sprintene",
-   "files": [
-    "img/3_MER_bis_1.jpg",
-    "img/3_MER_bis_2.jpg",
-    "img/3_MER_bis_3.jpg",
-    "img/3_MER_bis_4.jpg"
-   ],
-   "didascalia": "didascalie/mer_1930.txt",
-   "approvato": true,
-   "attesa_foto": false,
-   "pubblicato": false
-  },
-  {
-   "id": "gio_0700",
-   "tipo": "carosello",
-   "data": "2026-11-12",
-   "ora": "07:00",
-   "titolo": "Isonet T",
-   "files": [
-    "img/4_GIO_bis_1.jpg",
-    "img/4_GIO_bis_2.jpg",
-    "img/4_GIO_bis_3.jpg",
-    "img/4_GIO_bis_4.jpg"
-   ],
-   "didascalia": "didascalie/gio_0700.txt",
-   "approvato": true,
-   "attesa_foto": false,
-   "pubblicato": false
-  },
-  {
-   "id": "gio_1930",
-   "tipo": "immagine",
-   "data": "2026-11-12",
-   "ora": "19:30",
-   "titolo": "Botrite: ore sopra il 90%",
-   "files": [
-    "img/4_GIO_1.jpg"
-   ],
-   "didascalia": "didascalie/gio_1930.txt",
-   "approvato": true,
-   "attesa_foto": false,
-   "pubblicato": false
-  },
-  {
-   "id": "ven_0700",
-   "tipo": "carosello",
-   "data": "2026-11-13",
-   "ora": "07:00",
-   "titolo": "La dose giusta: Laser 120 SC",
-   "files": [
-    "img/5_VEN_1.jpg",
-    "img/5_VEN_2.jpg",
-    "img/5_VEN_3.jpg",
-    "img/5_VEN_4.jpg"
-   ],
-   "didascalia": "didascalie/ven_0700.txt",
-   "approvato": true,
-   "attesa_foto": true,
-   "pubblicato": false
-  },
-  {
-   "id": "ven_1930",
-   "tipo": "carosello",
-   "data": "2026-11-13",
-   "ora": "19:30",
-   "titolo": "MKP o MAP",
-   "files": [
-    "img/7_DOM_bis_1.jpg",
-    "img/7_DOM_bis_2.jpg",
-    "img/7_DOM_bis_3.jpg",
-    "img/7_DOM_bis_4.jpg"
-   ],
-   "didascalia": "didascalie/ven_1930.txt",
-   "approvato": true,
-   "attesa_foto": false,
-   "pubblicato": false
-  },
-  {
-   "id": "sab_0700",
-   "tipo": "immagine",
-   "data": "2026-11-14",
-   "ora": "07:00",
-   "titolo": "IRAC: due nomi, una molecola",
-   "files": [
-    "img/6_SAB_1.jpg"
-   ],
-   "didascalia": "didascalie/sab_0700.txt",
-   "approvato": true,
-   "attesa_foto": false,
-   "pubblicato": false
-  },
-  {
-   "id": "sab_1930",
-   "tipo": "carosello",
-   "data": "2026-11-14",
-   "ora": "19:30",
-   "titolo": "Nematodi: Velum + Bioact",
-   "files": [
-    "img/X_NEMA_1.jpg",
-    "img/X_NEMA_2.jpg",
-    "img/X_NEMA_3.jpg",
-    "img/X_NEMA_4.jpg"
-   ],
-   "didascalia": "didascalie/sab_1930.txt",
-   "approvato": true,
-   "attesa_foto": false,
-   "pubblicato": false
-  },
-  {
-   "id": "dom_0700",
-   "tipo": "carosello",
-   "data": "2026-11-15",
-   "ora": "07:00",
-   "titolo": "Razormin",
-   "files": [
-    "img/X_RAZORMIN_1.jpg",
-    "img/X_RAZORMIN_2.jpg",
-    "img/X_RAZORMIN_3.jpg",
-    "img/X_RAZORMIN_4.jpg"
-   ],
-   "didascalia": "didascalie/dom_0700.txt",
-   "approvato": true,
-   "attesa_foto": false,
-   "pubblicato": false
-  },
-  {
-   "id": "dom_1930",
-   "tipo": "carosello",
-   "data": "2026-11-15",
-   "ora": "19:30",
-   "titolo": "Pomodoro in serra: i primi 40 giorni",
-   "files": [
-    "img/X_PROG_1.jpg",
-    "img/X_PROG_2.jpg",
-    "img/X_PROG_3.jpg",
-    "img/X_PROG_4.jpg"
-   ],
-   "didascalia": "didascalie/dom_1930.txt",
-   "approvato": true,
-   "attesa_foto": false,
-   "pubblicato": false
-  },
-  {
-   "id": "lun_storia_1_LUN_storia_1",
-   "tipo": "storia",
-   "data": "2026-11-09",
-   "ora": "08:30",
-   "titolo": "Cosa vedi in serra (adesivo domanda)",
-   "files": [
-    "img/1_LUN_storia_1.jpg"
-   ],
-   "automatica": false,
-   "approvato": true,
-   "pubblicato": false
-  },
-  {
-   "id": "lun_storia_1_LUN_storia_2",
-   "tipo": "storia",
-   "data": "2026-11-09",
-   "ora": "08:30",
-   "titolo": "Trappole a feromoni (adesivo sondaggio)",
-   "files": [
-    "img/1_LUN_storia_2.jpg"
-   ],
-   "automatica": false,
-   "approvato": true,
-   "pubblicato": false
-  },
-  {
-   "id": "lun_storia_1_LUN_storia_3",
-   "tipo": "storia",
-   "data": "2026-11-09",
-   "ora": "08:30",
-   "titolo": "Patentino",
-   "files": [
-    "img/1_LUN_storia_3.jpg"
-   ],
-   "automatica": true,
-   "approvato": true,
-   "pubblicato": true,
-   "media_id": "18291231916295115",
-   "ora_pubblicazione": "08:31"
-  },
-  {
-   "id": "mar_storia_2_MAR_storia_consegna",
-   "tipo": "storia",
-   "data": "2026-11-10",
-   "ora": "08:30",
-   "titolo": "Consegna: come si fa",
-   "files": [
-    "img/2_MAR_storia_consegna.jpg"
-   ],
-   "automatica": true,
-   "approvato": true,
-   "pubblicato": false
-  },
-  {
-   "id": "mer_storia_3_MER_storia_ordine",
-   "tipo": "storia",
-   "data": "2026-11-11",
-   "ora": "08:30",
-   "titolo": "Devi fare un ordine?",
-   "files": [
-    "img/3_MER_storia_ordine.jpg"
-   ],
-   "automatica": true,
-   "approvato": true,
-   "pubblicato": false
-  },
-  {
-   "id": "gio_storia_4_GIO_storia_orari",
-   "tipo": "storia",
-   "data": "2026-11-12",
-   "ora": "08:30",
-   "titolo": "Orari di apertura",
-   "files": [
-    "img/4_GIO_storia_orari.jpg"
-   ],
-   "automatica": true,
-   "approvato": true,
-   "pubblicato": false
-  },
-  {
-   "id": "ven_storia_5_VEN_storia",
-   "tipo": "storia",
-   "data": "2026-11-13",
-   "ora": "08:30",
-   "titolo": "MKP o MAP (adesivo sondaggio)",
-   "files": [
-    "img/5_VEN_storia.jpg"
-   ],
-   "automatica": false,
-   "approvato": true,
-   "pubblicato": false
-  },
-  {
-   "id": "sab_storia_6_SAB_storia",
-   "tipo": "storia",
-   "data": "2026-11-14",
-   "ora": "08:30",
-   "titolo": "Nematodi (adesivo sondaggio)",
-   "files": [
-    "img/6_SAB_storia.jpg"
-   ],
-   "automatica": false,
-   "approvato": true,
-   "pubblicato": false
-  },
-  {
-   "id": "dom_storia_7_DOM_storia",
-   "tipo": "storia",
-   "data": "2026-11-15",
-   "ora": "08:30",
-   "titolo": "Quando trapianti (adesivo domanda)",
-   "files": [
-    "img/7_DOM_storia.jpg"
-   ],
-   "automatica": false,
-   "approvato": true,
-   "pubblicato": false
-  }
- ],
- "approvazione": "Valerio, 08/11/2026 18:38 (\"Ok va bene\")"
+  "settimana": "2026-11-09",
+  "fuso": "Europe/Rome",
+  "account_instagram": "17841427890713085",
+  "base_url": "https://raw.githubusercontent.com/n2f97r9vy4-source/studio4-media/main/settimane/2026-11-09/",
+  "uscite": [
+    {
+      "id": "lun_0700",
+      "tipo": "carosello",
+      "data": "2026-11-09",
+      "ora": "07:00",
+      "titolo": "Nitrato di calcio o di potassio",
+      "files": [
+        "img/1_LUN_bis_1.jpg",
+        "img/1_LUN_bis_2.jpg",
+        "img/1_LUN_bis_3.jpg",
+        "img/1_LUN_bis_4.jpg"
+      ],
+      "didascalia": "didascalie/lun_0700.txt",
+      "approvato": true,
+      "attesa_foto": false,
+      "pubblicato": true,
+      "media_id": "17915535762516218",
+      "ora_pubblicazione": "07:11"
+    },
+    {
+      "id": "lun_1930",
+      "tipo": "immagine",
+      "data": "2026-11-09",
+      "ora": "19:30",
+      "titolo": "Tuta absoluta: catture per trappola",
+      "files": [
+        "img/1_LUN_post_1.jpg"
+      ],
+      "didascalia": "didascalie/lun_1930.txt",
+      "approvato": true,
+      "attesa_foto": false,
+      "pubblicato": true,
+      "media_id": "17907354918355061",
+      "ora_pubblicazione": "19:41"
+    },
+    {
+      "id": "mar_0700",
+      "tipo": "carosello",
+      "data": "2026-11-10",
+      "ora": "07:00",
+      "titolo": "La dose giusta: Cidely Top",
+      "files": [
+        "img/2_MAR_1.jpg",
+        "img/2_MAR_2.jpg",
+        "img/2_MAR_3.jpg",
+        "img/2_MAR_4.jpg"
+      ],
+      "didascalia": "didascalie/mar_0700.txt",
+      "approvato": true,
+      "attesa_foto": false,
+      "pubblicato": true,
+      "media_id": "17970260208197643",
+      "ora_pubblicazione": "07:10"
+    },
+    {
+      "id": "mar_1930",
+      "tipo": "immagine",
+      "data": "2026-11-10",
+      "ora": "19:30",
+      "titolo": "Rete antinsetto: conta la maglia",
+      "files": [
+        "img/2_MAR_bis_1.jpg"
+      ],
+      "didascalia": "didascalie/mar_1930.txt",
+      "approvato": true,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "mer_0700",
+      "tipo": "carosello",
+      "data": "2026-11-11",
+      "ora": "07:00",
+      "titolo": "Distillato di legno",
+      "files": [
+        "img/3_MER_1.jpg",
+        "img/3_MER_2.jpg",
+        "img/3_MER_3.jpg",
+        "img/3_MER_4.jpg",
+        "img/3_MER_5.jpg",
+        "img/3_MER_6.jpg"
+      ],
+      "didascalia": "didascalie/mer_0700.txt",
+      "approvato": true,
+      "attesa_foto": true,
+      "pubblicato": false
+    },
+    {
+      "id": "mer_1930",
+      "tipo": "carosello",
+      "data": "2026-11-11",
+      "ora": "19:30",
+      "titolo": "Sprintene",
+      "files": [
+        "img/3_MER_bis_1.jpg",
+        "img/3_MER_bis_2.jpg",
+        "img/3_MER_bis_3.jpg",
+        "img/3_MER_bis_4.jpg"
+      ],
+      "didascalia": "didascalie/mer_1930.txt",
+      "approvato": true,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "gio_0700",
+      "tipo": "carosello",
+      "data": "2026-11-12",
+      "ora": "07:00",
+      "titolo": "Isonet T",
+      "files": [
+        "img/4_GIO_bis_1.jpg",
+        "img/4_GIO_bis_2.jpg",
+        "img/4_GIO_bis_3.jpg",
+        "img/4_GIO_bis_4.jpg"
+      ],
+      "didascalia": "didascalie/gio_0700.txt",
+      "approvato": true,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "gio_1930",
+      "tipo": "immagine",
+      "data": "2026-11-12",
+      "ora": "19:30",
+      "titolo": "Botrite: ore sopra il 90%",
+      "files": [
+        "img/4_GIO_1.jpg"
+      ],
+      "didascalia": "didascalie/gio_1930.txt",
+      "approvato": true,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "ven_0700",
+      "tipo": "carosello",
+      "data": "2026-11-13",
+      "ora": "07:00",
+      "titolo": "La dose giusta: Laser 120 SC",
+      "files": [
+        "img/5_VEN_1.jpg",
+        "img/5_VEN_2.jpg",
+        "img/5_VEN_3.jpg",
+        "img/5_VEN_4.jpg"
+      ],
+      "didascalia": "didascalie/ven_0700.txt",
+      "approvato": true,
+      "attesa_foto": true,
+      "pubblicato": false
+    },
+    {
+      "id": "ven_1930",
+      "tipo": "carosello",
+      "data": "2026-11-13",
+      "ora": "19:30",
+      "titolo": "MKP o MAP",
+      "files": [
+        "img/7_DOM_bis_1.jpg",
+        "img/7_DOM_bis_2.jpg",
+        "img/7_DOM_bis_3.jpg",
+        "img/7_DOM_bis_4.jpg"
+      ],
+      "didascalia": "didascalie/ven_1930.txt",
+      "approvato": true,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "sab_0700",
+      "tipo": "immagine",
+      "data": "2026-11-14",
+      "ora": "07:00",
+      "titolo": "IRAC: due nomi, una molecola",
+      "files": [
+        "img/6_SAB_1.jpg"
+      ],
+      "didascalia": "didascalie/sab_0700.txt",
+      "approvato": true,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "sab_1930",
+      "tipo": "carosello",
+      "data": "2026-11-14",
+      "ora": "19:30",
+      "titolo": "Nematodi: Velum + Bioact",
+      "files": [
+        "img/X_NEMA_1.jpg",
+        "img/X_NEMA_2.jpg",
+        "img/X_NEMA_3.jpg",
+        "img/X_NEMA_4.jpg"
+      ],
+      "didascalia": "didascalie/sab_1930.txt",
+      "approvato": true,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "dom_0700",
+      "tipo": "carosello",
+      "data": "2026-11-15",
+      "ora": "07:00",
+      "titolo": "Razormin",
+      "files": [
+        "img/X_RAZORMIN_1.jpg",
+        "img/X_RAZORMIN_2.jpg",
+        "img/X_RAZORMIN_3.jpg",
+        "img/X_RAZORMIN_4.jpg"
+      ],
+      "didascalia": "didascalie/dom_0700.txt",
+      "approvato": true,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "dom_1930",
+      "tipo": "carosello",
+      "data": "2026-11-15",
+      "ora": "19:30",
+      "titolo": "Pomodoro in serra: i primi 40 giorni",
+      "files": [
+        "img/X_PROG_1.jpg",
+        "img/X_PROG_2.jpg",
+        "img/X_PROG_3.jpg",
+        "img/X_PROG_4.jpg"
+      ],
+      "didascalia": "didascalie/dom_1930.txt",
+      "approvato": true,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "lun_storia_1_LUN_storia_1",
+      "tipo": "storia",
+      "data": "2026-11-09",
+      "ora": "08:30",
+      "titolo": "Cosa vedi in serra (adesivo domanda)",
+      "files": [
+        "img/1_LUN_storia_1.jpg"
+      ],
+      "automatica": false,
+      "approvato": true,
+      "pubblicato": false
+    },
+    {
+      "id": "lun_storia_1_LUN_storia_2",
+      "tipo": "storia",
+      "data": "2026-11-09",
+      "ora": "08:30",
+      "titolo": "Trappole a feromoni (adesivo sondaggio)",
+      "files": [
+        "img/1_LUN_storia_2.jpg"
+      ],
+      "automatica": false,
+      "approvato": true,
+      "pubblicato": false
+    },
+    {
+      "id": "lun_storia_1_LUN_storia_3",
+      "tipo": "storia",
+      "data": "2026-11-09",
+      "ora": "08:30",
+      "titolo": "Patentino",
+      "files": [
+        "img/1_LUN_storia_3.jpg"
+      ],
+      "automatica": true,
+      "approvato": true,
+      "pubblicato": true,
+      "media_id": "18291231916295115",
+      "ora_pubblicazione": "08:31"
+    },
+    {
+      "id": "mar_storia_2_MAR_storia_consegna",
+      "tipo": "storia",
+      "data": "2026-11-10",
+      "ora": "08:30",
+      "titolo": "Consegna: come si fa",
+      "files": [
+        "img/2_MAR_storia_consegna.jpg"
+      ],
+      "automatica": true,
+      "approvato": true,
+      "pubblicato": true,
+      "media_id": "17912185599596780",
+      "ora_pubblicazione": "08:35"
+    },
+    {
+      "id": "mer_storia_3_MER_storia_ordine",
+      "tipo": "storia",
+      "data": "2026-11-11",
+      "ora": "08:30",
+      "titolo": "Devi fare un ordine?",
+      "files": [
+        "img/3_MER_storia_ordine.jpg"
+      ],
+      "automatica": true,
+      "approvato": true,
+      "pubblicato": false
+    },
+    {
+      "id": "gio_storia_4_GIO_storia_orari",
+      "tipo": "storia",
+      "data": "2026-11-12",
+      "ora": "08:30",
+      "titolo": "Orari di apertura",
+      "files": [
+        "img/4_GIO_storia_orari.jpg"
+      ],
+      "automatica": true,
+      "approvato": true,
+      "pubblicato": false
+    },
+    {
+      "id": "ven_storia_5_VEN_storia",
+      "tipo": "storia",
+      "data": "2026-11-13",
+      "ora": "08:30",
+      "titolo": "MKP o MAP (adesivo sondaggio)",
+      "files": [
+        "img/5_VEN_storia.jpg"
+      ],
+      "automatica": false,
+      "approvato": true,
+      "pubblicato": false
+    },
+    {
+      "id": "sab_storia_6_SAB_storia",
+      "tipo": "storia",
+      "data": "2026-11-14",
+      "ora": "08:30",
+      "titolo": "Nematodi (adesivo sondaggio)",
+      "files": [
+        "img/6_SAB_storia.jpg"
+      ],
+      "automatica": false,
+      "approvato": true,
+      "pubblicato": false
+    },
+    {
+      "id": "dom_storia_7_DOM_storia",
+      "tipo": "storia",
+      "data": "2026-11-15",
+      "ora": "08:30",
+      "titolo": "Quando trapianti (adesivo domanda)",
+      "files": [
+        "img/7_DOM_storia.jpg"
+      ],
+      "automatica": false,
+      "approvato": true,
+      "pubblicato": false
+    }
+  ],
+  "approvazione": "Valerio, 08/11/2026 18:38 (\"Ok va bene\")"
 }
