@@ -17,7 +17,7 @@
         "img/B_botte_3.jpg"
       ],
       "didascalia": "didascalie/lun_0700.txt",
-      "approvato": false,
+      "approvato": true,
       "attesa_foto": false,
       "pubblicato": false
     },
@@ -30,7 +30,7 @@
       "files": [
         "img/R_botte.jpg"
       ],
-      "approvato": false,
+      "approvato": true,
       "automatica": true,
       "attesa_foto": false,
       "pubblicato": false,
