@@ -6,38 +6,6 @@
   "approvazione": "in attesa",
   "uscite": [
     {
-      "id": "lun_1300",
-      "tipo": "carosello",
-      "data": "2026-11-16",
-      "ora": "13:00",
-      "titolo": "QZyme Bio",
-      "files": [
-        "img/N_qzyme_1.jpg",
-        "img/N_qzyme_2.jpg",
-        "img/N_qzyme_3.jpg",
-        "img/N_qzyme_4.jpg"
-      ],
-      "didascalia": "didascalie/lun_1300.txt",
-      "approvato": false,
-      "attesa_foto": false,
-      "pubblicato": false
-    },
-    {
-      "id": "lun_1300_storia",
-      "tipo": "storia",
-      "data": "2026-11-16",
-      "ora": "13:05",
-      "titolo": "Richiamo: QZyme Bio",
-      "files": [
-        "img/R_qzyme.jpg"
-      ],
-      "approvato": false,
-      "automatica": true,
-      "attesa_foto": false,
-      "pubblicato": false,
-      "dopo_post": "lun_1300"
-    },
-    {
       "id": "mar_1300",
       "tipo": "carosello",
       "data": "2026-11-17",

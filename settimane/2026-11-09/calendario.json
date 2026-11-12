@@ -361,12 +361,15 @@
     },
     {
       "id": "sab_0700",
-      "tipo": "immagine",
+      "tipo": "carosello",
       "data": "2026-11-14",
       "ora": "07:00",
-      "titolo": "IRAC: due nomi, una molecola",
+      "titolo": "QZyme Bio",
       "files": [
-        "img/6_SAB_1.jpg"
+        "img/N_qzyme_1.jpg",
+        "img/N_qzyme_2.jpg",
+        "img/N_qzyme_3.jpg",
+        "img/N_qzyme_4.jpg"
       ],
       "didascalia": "didascalie/sab_0700.txt",
       "approvato": true,
@@ -378,9 +381,9 @@
       "tipo": "storia",
       "data": "2026-11-14",
       "ora": "07:05",
-      "titolo": "Richiamo: IRAC: due nomi, una molecola",
+      "titolo": "Richiamo: QZyme Bio",
       "files": [
-        "img/R_sab07.jpg"
+        "img/R_qzyme.jpg"
       ],
       "approvato": true,
       "automatica": true,
@@ -505,7 +508,7 @@
       "tipo": "storia",
       "data": "2026-11-15",
       "ora": "08:30",
-      "titolo": "Quando trapianti (adesivo domanda)",
+      "titolo": "Hai già trapiantato? (adesivo sondaggio)",
       "files": [
         "img/7_DOM_storia.jpg"
       ],
