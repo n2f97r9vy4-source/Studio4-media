@@ -85,9 +85,15 @@
   "tipo": "nematocida biologico a base di un fungo",
   "reg": "17118",
   "fonte": "etichetta",
-  "dosi": [],
+  "dosi": [
+   "0,75 l/ha"
+  ],
   "fatti": [
-   "per le dosi rileggere l'etichetta: non registrate qui"
+   "pomodoro, peperone, melanzana, cetriolo, zucchino, melone e altre: 0,75 l/ha in 3000–6000 litri d'acqua per ettaro",
+   "pre-trapianto: 7–14 giorni prima, per aspersione o a goccia",
+   "post-trapianto: a goccia, ogni 4–6 settimane",
+   "massimo 7 trattamenti in successione",
+   "fungo Paecilomyces lilacinus ceppo 251"
   ],
   "foto": "bioact"
  },
@@ -357,12 +363,22 @@
  },
  "aximag": {
   "nome": "Aximag",
-  "tipo": "concime a base di magnesio",
+  "tipo": "concime fogliare, magnesio complessato (MgO 8%)",
   "reg": null,
-  "fonte": "scheda tecnica",
-  "dosi": [],
+  "fonte": "etichetta",
+  "dosi": [
+   "1,0–1,2 kg/ha",
+   "1,2–1,5 kg/ha",
+   "1,0–1,5 kg/ha"
+  ],
   "fatti": [
-   "dosi non registrate qui"
+   "pomodoro, peperone, melanzana: 1,0–1,2 kg/ha, 2–3 applicazioni dall'ingrossamento dei frutti del 1° palco, ogni 10–12 giorni",
+   "lattughe e ortaggi da foglia: 1,2–1,5 kg/ha ogni 7–8 giorni",
+   "ortaggi in genere: 1,0–1,5 kg/ha da frutto formato, ogni 8 giorni",
+   "dosi riferite a 1000 l/ha d'acqua; in serra o a basso volume ridurre la dose del 30%",
+   "non con dodina, oli minerali, fosetil-Al, polisolfuri",
+   "la carenza di magnesio ingiallisce le foglie più vecchie (basali)",
+   "solo fogliare, meglio trattamenti precoci"
   ],
   "foto": "aximag"
  },
