@@ -447,6 +447,21 @@
       "dopo_post": "ven_1930"
     },
     {
+      "id": "ven_2145",
+      "tipo": "storia",
+      "data": "2026-11-13",
+      "ora": "21:45",
+      "titolo": "Sera: Cerca questa insegna",
+      "files": [
+        "img/SERA_2026-11-13_insegna.jpg"
+      ],
+      "approvato": true,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false,
+      "tema": "cerca-questa-insegna"
+    },
+    {
       "id": "sab_0700",
       "tipo": "carosello",
       "data": "2026-11-14",
@@ -587,6 +602,21 @@
       "dopo_post": "sab_1930"
     },
     {
+      "id": "sab_2145",
+      "tipo": "storia",
+      "data": "2026-11-14",
+      "ora": "21:45",
+      "titolo": "Sera: Due sacchi che non devono mai incontrarsi",
+      "files": [
+        "img/SERA_2026-11-14_due_sacchi.jpg"
+      ],
+      "approvato": true,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false,
+      "tema": "due-sacchi-vasca-calcio-solfati"
+    },
+    {
       "id": "dom_0700",
       "tipo": "carosello",
       "data": "2026-11-15",
@@ -725,8 +755,23 @@
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false
+    },
+    {
+      "id": "dom_2145",
+      "tipo": "storia",
+      "data": "2026-11-15",
+      "ora": "21:45",
+      "titolo": "Sera: Tre volte al giorno, un consiglio",
+      "files": [
+        "img/SERA_2026-11-15_tre_consigli.jpg"
+      ],
+      "approvato": true,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false,
+      "tema": "tre-consigli-al-giorno"
     }
   ],
-  "approvazione": "Valerio, 08/11/2026 18:38 (\"Ok va bene\") · aggiunte 12/11 (3 post e 2 storie al giorno)",
+  "approvazione": "Valerio, 08/11/2026 18:38 (\"Ok va bene\") · aggiunte 12/11 (3 post e 2 storie al giorno) · storie serali 21:45 (ven, sab, dom) approvate da Valerio il 12/11/2026 alle 23:45 (\"Ok va bene\")",
   "regola_storie": "Ogni post ha una storia di richiamo 5 minuti dopo (campo dopo_post): la pubblica la stessa esecuzione del post, solo se il post è uscito."
 }
