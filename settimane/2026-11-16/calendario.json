@@ -142,6 +142,60 @@
       "pubblicato": false
     },
     {
+      "id": "mar_0700",
+      "tipo": "carosello",
+      "ora": "07:00",
+      "titolo": "Cetrioli storti o a punta: la forma dice la causa",
+      "tema": "cetriolo-frutti-deformi",
+      "prodotti": [],
+      "files": [
+        "img/mar_0700_1.jpg",
+        "img/mar_0700_2.jpg",
+        "img/mar_0700_3.jpg",
+        "img/mar_0700_4.jpg"
+      ],
+      "didascalia": "didascalie/mar_0700.txt",
+      "data": "2026-11-17",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "mar_0700_storia",
+      "tipo": "storia",
+      "ora": "07:05",
+      "titolo": "Richiamo: Cetrioli storti o a punta: la forma dice la causa",
+      "files": [
+        "img/mar_0700_storia.jpg"
+      ],
+      "automatica": true,
+      "dopo_post": "mar_0700",
+      "data": "2026-11-17",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "mar_0830",
+      "tipo": "storia",
+      "ora": "08:30",
+      "titolo": "Hai una lente in tasca? (adesivo sondaggio)",
+      "tema": "sondaggio-lente-in-serra",
+      "files": [
+        "img/mar_0830.jpg"
+      ],
+      "automatica": false,
+      "adesivo": "sondaggio",
+      "risposte": [
+        "Sempre",
+        "Mai usata"
+      ],
+      "data": "2026-11-17",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
       "id": "mar_1300",
       "tipo": "carosello",
       "data": "2026-11-17",
@@ -191,6 +245,97 @@
       "attesa_foto": false,
       "pubblicato": false,
       "tema": "trappole-gialle-o-blu"
+    },
+    {
+      "id": "mar_1930",
+      "tipo": "carosello",
+      "ora": "19:30",
+      "titolo": "Carenza e rientro: due tempi diversi",
+      "tema": "carenza-e-tempo-di-rientro",
+      "prodotti": [],
+      "files": [
+        "img/mar_1930_1.jpg",
+        "img/mar_1930_2.jpg",
+        "img/mar_1930_3.jpg",
+        "img/mar_1930_4.jpg"
+      ],
+      "didascalia": "didascalie/mar_1930.txt",
+      "data": "2026-11-17",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "mar_1930_storia",
+      "tipo": "storia",
+      "ora": "19:35",
+      "titolo": "Richiamo: Carenza e rientro: due tempi diversi",
+      "files": [
+        "img/mar_1930_storia.jpg"
+      ],
+      "automatica": true,
+      "dopo_post": "mar_1930",
+      "data": "2026-11-17",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "mer_0700",
+      "tipo": "carosello",
+      "ora": "07:00",
+      "titolo": "Fusto color bronzo: l'eriofide del pomodoro",
+      "tema": "eriofide-rugginoso-pomodoro",
+      "prodotti": [
+        "helio"
+      ],
+      "files": [
+        "img/mer_0700_1.jpg",
+        "img/mer_0700_2.jpg",
+        "img/mer_0700_3.jpg",
+        "img/mer_0700_4.jpg",
+        "img/mer_0700_5.jpg"
+      ],
+      "didascalia": "didascalie/mer_0700.txt",
+      "data": "2026-11-18",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "mer_0700_storia",
+      "tipo": "storia",
+      "ora": "07:05",
+      "titolo": "Richiamo: Fusto color bronzo: l'eriofide del pomodoro",
+      "files": [
+        "img/mer_0700_storia.jpg"
+      ],
+      "automatica": true,
+      "dopo_post": "mer_0700",
+      "data": "2026-11-18",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "mer_0830",
+      "tipo": "storia",
+      "ora": "08:30",
+      "titolo": "Quanti litri usi per 1.000 m²? (adesivo sondaggio)",
+      "tema": "sondaggio-litri-per-mille-metri",
+      "files": [
+        "img/mer_0830.jpg"
+      ],
+      "automatica": false,
+      "adesivo": "sondaggio",
+      "risposte": [
+        "Lo so preciso",
+        "Vado a occhio"
+      ],
+      "data": "2026-11-18",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
     },
     {
       "id": "mer_1300",
@@ -244,6 +389,95 @@
       "tema": "nematodi-quante-uova-in-una-radice"
     },
     {
+      "id": "mer_1930",
+      "tipo": "carosello",
+      "ora": "19:30",
+      "titolo": "Dose a ettaro, serra a metri: il conto già fatto",
+      "tema": "dose-ettaro-mille-metri",
+      "prodotti": [],
+      "files": [
+        "img/mer_1930_1.jpg",
+        "img/mer_1930_2.jpg",
+        "img/mer_1930_3.jpg",
+        "img/mer_1930_4.jpg",
+        "img/mer_1930_5.jpg"
+      ],
+      "didascalia": "didascalie/mer_1930.txt",
+      "data": "2026-11-18",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "mer_1930_storia",
+      "tipo": "storia",
+      "ora": "19:35",
+      "titolo": "Richiamo: Dose a ettaro, serra a metri: il conto già fatto",
+      "files": [
+        "img/mer_1930_storia.jpg"
+      ],
+      "automatica": true,
+      "dopo_post": "mer_1930",
+      "data": "2026-11-18",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "gio_0700",
+      "tipo": "carosello",
+      "ora": "07:00",
+      "titolo": "Peperone: l'oidio che vive dentro la foglia",
+      "tema": "oidio-peperone-dentro-la-foglia",
+      "prodotti": [],
+      "files": [
+        "img/gio_0700_1.jpg",
+        "img/gio_0700_2.jpg",
+        "img/gio_0700_3.jpg",
+        "img/gio_0700_4.jpg"
+      ],
+      "didascalia": "didascalie/gio_0700.txt",
+      "data": "2026-11-19",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "gio_0700_storia",
+      "tipo": "storia",
+      "ora": "07:05",
+      "titolo": "Richiamo: Peperone: l'oidio che vive dentro la foglia",
+      "files": [
+        "img/gio_0700_storia.jpg"
+      ],
+      "automatica": true,
+      "dopo_post": "gio_0700",
+      "data": "2026-11-19",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "gio_0830",
+      "tipo": "storia",
+      "ora": "08:30",
+      "titolo": "Chiudi la serra prima o dopo il tramonto? (adesivo sondaggio)",
+      "tema": "sondaggio-chiusura-serra",
+      "files": [
+        "img/gio_0830.jpg"
+      ],
+      "automatica": false,
+      "adesivo": "sondaggio",
+      "risposte": [
+        "Prima",
+        "Dopo"
+      ],
+      "data": "2026-11-19",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
       "id": "gio_1300",
       "tipo": "carosello",
       "data": "2026-11-19",
@@ -293,6 +527,94 @@
       "attesa_foto": false,
       "pubblicato": false,
       "tema": "muffa-grigia-da-dove-riparte"
+    },
+    {
+      "id": "gio_1930",
+      "tipo": "carosello",
+      "ora": "19:30",
+      "titolo": "Notte fredda in arrivo: la serra si prepara di giorno",
+      "tema": "notte-fredda-preparare-la-serra",
+      "prodotti": [],
+      "files": [
+        "img/gio_1930_1.jpg",
+        "img/gio_1930_2.jpg",
+        "img/gio_1930_3.jpg",
+        "img/gio_1930_4.jpg"
+      ],
+      "didascalia": "didascalie/gio_1930.txt",
+      "data": "2026-11-19",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "gio_1930_storia",
+      "tipo": "storia",
+      "ora": "19:35",
+      "titolo": "Richiamo: Notte fredda in arrivo: la serra si prepara di giorno",
+      "files": [
+        "img/gio_1930_storia.jpg"
+      ],
+      "automatica": true,
+      "dopo_post": "gio_1930",
+      "data": "2026-11-19",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "ven_0700",
+      "tipo": "carosello",
+      "ora": "07:00",
+      "titolo": "Foglie viola sotto: il fosforo c'è, la radice ha freddo",
+      "tema": "foglie-viola-fosforo-freddo",
+      "prodotti": [],
+      "files": [
+        "img/ven_0700_1.jpg",
+        "img/ven_0700_2.jpg",
+        "img/ven_0700_3.jpg",
+        "img/ven_0700_4.jpg"
+      ],
+      "didascalia": "didascalie/ven_0700.txt",
+      "data": "2026-11-20",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "ven_0700_storia",
+      "tipo": "storia",
+      "ora": "07:05",
+      "titolo": "Richiamo: Foglie viola sotto: il fosforo c'è, la radice ha freddo",
+      "files": [
+        "img/ven_0700_storia.jpg"
+      ],
+      "automatica": true,
+      "dopo_post": "ven_0700",
+      "data": "2026-11-20",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "ven_0830",
+      "tipo": "storia",
+      "ora": "08:30",
+      "titolo": "Hai lanciato insetti utili quest'anno? (adesivo sondaggio)",
+      "tema": "sondaggio-insetti-utili",
+      "files": [
+        "img/ven_0830.jpg"
+      ],
+      "automatica": false,
+      "adesivo": "sondaggio",
+      "risposte": [
+        "Sì",
+        "Non ancora"
+      ],
+      "data": "2026-11-20",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
     },
     {
       "id": "ven_1300",
@@ -346,6 +668,131 @@
       "tema": "ragnetto-rosso-ama-il-caldo"
     },
     {
+      "id": "ven_1930",
+      "tipo": "carosello",
+      "ora": "19:30",
+      "titolo": "Melanzana: la foglia gialla a metà",
+      "tema": "verticilliosi-melanzana",
+      "prodotti": [],
+      "files": [
+        "img/ven_1930_1.jpg",
+        "img/ven_1930_2.jpg",
+        "img/ven_1930_3.jpg",
+        "img/ven_1930_4.jpg"
+      ],
+      "didascalia": "didascalie/ven_1930.txt",
+      "data": "2026-11-20",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "ven_1930_storia",
+      "tipo": "storia",
+      "ora": "19:35",
+      "titolo": "Richiamo: Melanzana: la foglia gialla a metà",
+      "files": [
+        "img/ven_1930_storia.jpg"
+      ],
+      "automatica": true,
+      "dopo_post": "ven_1930",
+      "data": "2026-11-20",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "sab_0700",
+      "tipo": "carosello",
+      "ora": "07:00",
+      "titolo": "Naturalis: un insetticida vivo si usa in un altro modo",
+      "tema": "naturalis-fungo-vivo",
+      "prodotti": [
+        "naturalis"
+      ],
+      "files": [
+        "img/sab_0700_1.jpg",
+        "img/sab_0700_2.jpg",
+        "img/sab_0700_3.jpg",
+        "img/sab_0700_4.jpg",
+        "img/sab_0700_5.jpg"
+      ],
+      "didascalia": "didascalie/sab_0700.txt",
+      "data": "2026-11-21",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "sab_0700_storia",
+      "tipo": "storia",
+      "ora": "07:05",
+      "titolo": "Richiamo: Naturalis: un insetticida vivo si usa in un altro modo",
+      "files": [
+        "img/sab_0700_storia.jpg"
+      ],
+      "automatica": true,
+      "dopo_post": "sab_0700",
+      "data": "2026-11-21",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "sab_0830",
+      "tipo": "storia",
+      "ora": "08:30",
+      "titolo": "Foglia gialla: vecchia o nuova? (adesivo sondaggio)",
+      "tema": "sondaggio-foglia-vecchia-o-nuova",
+      "files": [
+        "img/sab_0830.jpg"
+      ],
+      "automatica": false,
+      "adesivo": "sondaggio",
+      "risposte": [
+        "Sempre",
+        "Mai pensato"
+      ],
+      "data": "2026-11-21",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "sab_1300",
+      "tipo": "carosello",
+      "ora": "13:00",
+      "titolo": "Carenze: leggi dove ingiallisce",
+      "tema": "carenze-foglie-vecchie-o-nuove",
+      "prodotti": [],
+      "files": [
+        "img/sab_1300_1.jpg",
+        "img/sab_1300_2.jpg",
+        "img/sab_1300_3.jpg",
+        "img/sab_1300_4.jpg"
+      ],
+      "didascalia": "didascalie/sab_1300.txt",
+      "data": "2026-11-21",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "sab_1300_storia",
+      "tipo": "storia",
+      "ora": "13:05",
+      "titolo": "Richiamo: Carenze: leggi dove ingiallisce",
+      "files": [
+        "img/sab_1300_storia.jpg"
+      ],
+      "automatica": true,
+      "dopo_post": "sab_1300",
+      "data": "2026-11-21",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
       "id": "sab_curiosita_1800",
       "tipo": "storia",
       "data": "2026-11-21",
@@ -361,6 +808,131 @@
       "tema": "melanzana-perche-il-fiore-cade"
     },
     {
+      "id": "sab_1930",
+      "tipo": "carosello",
+      "ora": "19:30",
+      "titolo": "Zucchina: foglie d'argento",
+      "tema": "zucchina-foglie-argentate",
+      "prodotti": [],
+      "files": [
+        "img/sab_1930_1.jpg",
+        "img/sab_1930_2.jpg",
+        "img/sab_1930_3.jpg",
+        "img/sab_1930_4.jpg"
+      ],
+      "didascalia": "didascalie/sab_1930.txt",
+      "data": "2026-11-21",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "sab_1930_storia",
+      "tipo": "storia",
+      "ora": "19:35",
+      "titolo": "Richiamo: Zucchina: foglie d'argento",
+      "files": [
+        "img/sab_1930_storia.jpg"
+      ],
+      "automatica": true,
+      "dopo_post": "sab_1930",
+      "data": "2026-11-21",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "dom_0700",
+      "tipo": "carosello",
+      "ora": "07:00",
+      "titolo": "Pomodoro: fiori che non legano col freddo",
+      "tema": "allegagione-pomodoro-freddo",
+      "prodotti": [
+        "auxiger"
+      ],
+      "files": [
+        "img/dom_0700_1.jpg",
+        "img/dom_0700_2.jpg",
+        "img/dom_0700_3.jpg",
+        "img/dom_0700_4.jpg",
+        "img/dom_0700_5.jpg"
+      ],
+      "didascalia": "didascalie/dom_0700.txt",
+      "data": "2026-11-22",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "dom_0700_storia",
+      "tipo": "storia",
+      "ora": "07:05",
+      "titolo": "Richiamo: Pomodoro: fiori che non legano col freddo",
+      "files": [
+        "img/dom_0700_storia.jpg"
+      ],
+      "automatica": true,
+      "dopo_post": "dom_0700",
+      "data": "2026-11-22",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "dom_0830",
+      "tipo": "storia",
+      "ora": "08:30",
+      "titolo": "Bombi o allegante? (adesivo sondaggio)",
+      "tema": "sondaggio-bombi-o-allegante",
+      "files": [
+        "img/dom_0830.jpg"
+      ],
+      "automatica": false,
+      "adesivo": "sondaggio",
+      "risposte": [
+        "Bombi",
+        "Allegante"
+      ],
+      "data": "2026-11-22",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "dom_1300",
+      "tipo": "carosello",
+      "ora": "13:00",
+      "titolo": "Pomodoro che spacca: guarda l'orario dell'acqua",
+      "tema": "spaccatura-frutti-orario-irrigazione",
+      "prodotti": [],
+      "files": [
+        "img/dom_1300_1.jpg",
+        "img/dom_1300_2.jpg",
+        "img/dom_1300_3.jpg",
+        "img/dom_1300_4.jpg"
+      ],
+      "didascalia": "didascalie/dom_1300.txt",
+      "data": "2026-11-22",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "dom_1300_storia",
+      "tipo": "storia",
+      "ora": "13:05",
+      "titolo": "Richiamo: Pomodoro che spacca: guarda l'orario dell'acqua",
+      "files": [
+        "img/dom_1300_storia.jpg"
+      ],
+      "automatica": true,
+      "dopo_post": "dom_1300",
+      "data": "2026-11-22",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
       "id": "dom_curiosita_1800",
       "tipo": "storia",
       "data": "2026-11-22",
@@ -374,6 +946,40 @@
       "attesa_foto": false,
       "pubblicato": false,
       "tema": "concime-dove-va-il-nitrato"
+    },
+    {
+      "id": "dom_1930",
+      "tipo": "carosello",
+      "ora": "19:30",
+      "titolo": "Peperone: gli anelli sui frutti, il tripide e il virus",
+      "tema": "tripide-peperone-virus",
+      "prodotti": [],
+      "files": [
+        "img/dom_1930_1.jpg",
+        "img/dom_1930_2.jpg",
+        "img/dom_1930_3.jpg",
+        "img/dom_1930_4.jpg"
+      ],
+      "didascalia": "didascalie/dom_1930.txt",
+      "data": "2026-11-22",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "dom_1930_storia",
+      "tipo": "storia",
+      "ora": "19:35",
+      "titolo": "Richiamo: Peperone: gli anelli sui frutti, il tripide e il virus",
+      "files": [
+        "img/dom_1930_storia.jpg"
+      ],
+      "automatica": true,
+      "dopo_post": "dom_1930",
+      "data": "2026-11-22",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
     }
   ],
   "regola_storie": "Ogni post ha una storia di richiamo 5 minuti dopo (campo dopo_post): la pubblica la stessa esecuzione del post, solo se il post è uscito."
