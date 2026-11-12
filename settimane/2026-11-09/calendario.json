@@ -279,13 +279,15 @@
       "didascalia": "didascalie/gio_1930.txt",
       "approvato": true,
       "attesa_foto": false,
-      "pubblicato": false,
+      "pubblicato": true,
       "tema": "botrite-la-prepari-di-notte-cosa-usare",
       "prodotti": [
         "amylo",
         "switch",
         "caffaro"
-      ]
+      ],
+      "media_id": "18146785195589159",
+      "ora_pubblicazione": "19:41"
     },
     {
       "id": "gio_1930_storia",
