@@ -6,6 +6,37 @@
   "approvazione": "in attesa",
   "uscite": [
     {
+      "id": "lun_0700",
+      "tipo": "carosello",
+      "data": "2026-11-16",
+      "ora": "07:00",
+      "titolo": "In botte: l'ordine giusto",
+      "files": [
+        "img/B_botte_1.jpg",
+        "img/B_botte_2.jpg",
+        "img/B_botte_3.jpg"
+      ],
+      "didascalia": "didascalie/lun_0700.txt",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "lun_0700_storia",
+      "tipo": "storia",
+      "data": "2026-11-16",
+      "ora": "07:05",
+      "titolo": "Richiamo: In botte: l'ordine giusto",
+      "files": [
+        "img/R_botte.jpg"
+      ],
+      "approvato": false,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false,
+      "dopo_post": "lun_0700"
+    },
+    {
       "id": "lun_curiosita_1800",
       "tipo": "storia",
       "data": "2026-11-16",
