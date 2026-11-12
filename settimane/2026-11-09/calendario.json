@@ -134,12 +134,15 @@
   },
   {
    "id": "gio_1930",
-   "tipo": "immagine",
+   "tipo": "carosello",
    "data": "2026-11-12",
    "ora": "19:30",
-   "titolo": "Botrite: ore sopra il 90%",
+   "titolo": "Botrite: la prepari di notte + cosa usare",
    "files": [
-    "img/4_GIO_1.jpg"
+    "img/4_GIO_1.jpg",
+    "img/4_GIO_2.jpg",
+    "img/4_GIO_3.jpg",
+    "img/4_GIO_4.jpg"
    ],
    "didascalia": "didascalie/gio_1930.txt",
    "approvato": true,
