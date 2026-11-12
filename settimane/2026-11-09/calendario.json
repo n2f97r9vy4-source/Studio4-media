@@ -259,8 +259,10 @@
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false,
-      "tema": "pomodoro-chi-impollina-i-tuoi-fiori"
+      "pubblicato": true,
+      "tema": "pomodoro-chi-impollina-i-tuoi-fiori",
+      "media_id": "18025816814926294",
+      "ora_pubblicazione": "18:10"
     },
     {
       "id": "gio_1930",
