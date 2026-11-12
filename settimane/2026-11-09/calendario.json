@@ -301,8 +301,10 @@
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false,
-      "dopo_post": "gio_1930"
+      "pubblicato": true,
+      "dopo_post": "gio_1930",
+      "media_id": "17966844930209414",
+      "ora_pubblicazione": "19:47"
     },
     {
       "id": "ven_0700",
