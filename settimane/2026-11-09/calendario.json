@@ -688,39 +688,39 @@
     {
       "id": "dom_1930",
       "tipo": "carosello",
-      "data": "2026-11-15",
       "ora": "19:30",
-      "titolo": "Pomodoro in serra: i primi 40 giorni",
+      "titolo": "Pomodoro in serra: prima la pianta, poi i fiori",
+      "tema": "pomodoro-serra-rigor-instant-trip",
+      "prodotti": [
+        "rigor",
+        "instanttrip"
+      ],
       "files": [
-        "img/X_PROG_1.jpg",
-        "img/X_PROG_2.jpg",
-        "img/X_PROG_3.jpg",
-        "img/X_PROG_4.jpg"
+        "img/dom_1930_1.jpg",
+        "img/dom_1930_2.jpg",
+        "img/dom_1930_3.jpg",
+        "img/dom_1930_4.jpg"
       ],
       "didascalia": "didascalie/dom_1930.txt",
-      "approvato": true,
+      "data": "2026-11-15",
+      "approvato": false,
       "attesa_foto": false,
-      "pubblicato": false,
-      "tema": "pomodoro-in-serra-i-primi-40-giorni",
-      "prodotti": [
-        "micosat",
-        "razormin"
-      ]
+      "pubblicato": false
     },
     {
       "id": "dom_1930_storia",
       "tipo": "storia",
-      "data": "2026-11-15",
       "ora": "19:35",
-      "titolo": "Richiamo: Pomodoro in serra: i primi 40 giorni",
+      "titolo": "Richiamo: Pomodoro in serra: prima la pianta, poi i fiori",
       "files": [
-        "img/R_dom19.jpg"
+        "img/dom_1930_storia.jpg"
       ],
-      "approvato": true,
       "automatica": true,
+      "dopo_post": "dom_1930",
+      "data": "2026-11-15",
+      "approvato": false,
       "attesa_foto": false,
-      "pubblicato": false,
-      "dopo_post": "dom_1930"
+      "pubblicato": false
     }
   ],
   "approvazione": "Valerio, 08/11/2026 18:38 (\"Ok va bene\") · aggiunte 12/11 (3 post e 2 storie al giorno)",

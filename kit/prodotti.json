@@ -421,5 +421,37 @@
   "dosi": [],
   "fatti": [],
   "foto": "map"
+ },
+ "instanttrip": {
+  "nome": "Instant Trip",
+  "tipo": "biostimolante a base di triptofano, idrolizzato di soia, alghe brune e lieviti",
+  "reg": null,
+  "fonte": "scheda del produttore",
+  "dosi": [
+   "350–400 g/hl",
+   "3–4 kg/ha"
+  ],
+  "fatti": [
+   "orticole in serra: fogliare 350–400 g/hl a inizio fioritura di ogni palco, fino a fine fioritura",
+   "non con zolfo, rame, oli minerali",
+   "nelle ore fresche"
+  ],
+  "foto": "instanttrip"
+ },
+ "rigor": {
+  "nome": "Rigor",
+  "tipo": "concime azotato fluido N 18% (ureico 16%, organico 2%), C organico 7%, con idrolizzati proteici",
+  "reg": null,
+  "fonte": "scheda tecnica",
+  "dosi": [
+   "100–150 ml/hl",
+   "2,5–3 l/ha"
+  ],
+  "fatti": [
+   "orticole in fertirrigazione 250–300 ml ogni 1.000 m², ogni 15–20 giorni, da 15 giorni dopo il trapianto",
+   "fogliare orticole 100–150 ml/hl",
+   "dà vigoria alla parte aerea: nuovi rami, foglie e fiori"
+  ],
+  "foto": "rigor"
  }
 }

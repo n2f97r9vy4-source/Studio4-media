@@ -1,0 +1,107 @@
+{
+ "settimana": "2026-11-09",
+ "uscite": [
+  {
+   "id": "dom_1930",
+   "tipo": "carosello",
+   "data": "2026-11-15",
+   "ora": "19:30",
+   "titolo": "Pomodoro in serra: prima la pianta, poi i fiori",
+   "tema": "pomodoro-serra-rigor-instant-trip",
+   "prodotti": [
+    "rigor",
+    "instanttrip"
+   ],
+   "colore": "rosso",
+   "argomento": "Pomodoro in serra",
+   "dato": "Rigor N 18% in fertirrigazione 250–300 ml/1.000 m² ogni 15–20 giorni dal 15° giorno; Instant Trip 350–400 g/hl a inizio fioritura di ogni palco; il triptofano è il precursore dell'auxina",
+   "fonte_dato": "scheda tecnica Rigor; scheda del produttore Instant Trip; nozione generale di fisiologia vegetale",
+   "slide": [
+    {
+     "tipo": "copertina",
+     "titolo": "Pomodoro:<br><em>prima la pianta,<br>poi i fiori.</em>",
+     "sotto": "Due fasi, due prodotti diversi. <span>Sbagli il momento e sprechi tutti e due.</span>",
+     "emoji": "🍅",
+     "box": "Quando dare l'azoto e quando la spinta ai fiori. Scorri."
+    },
+    {
+     "tipo": "passi",
+     "tag": "Il calendario",
+     "titolo": "Due fasi,<br><em>due prodotti.</em>",
+     "passi": [
+      [
+       "Trapianto",
+       "Le radici attaccano",
+       "Nei primi 15 giorni solo acqua e radicanti."
+      ],
+      [
+       "Dal 15° giorno",
+       "Rigor in fertirrigazione",
+       "250–300 ml ogni 1.000 m², ogni 15–20 giorni: costruisce foglie e rami."
+      ],
+      [
+       "Inizio fioritura",
+       "Instant Trip per foglia",
+       "350–400 g/hl a inizio fioritura di ogni palco."
+      ],
+      [
+       "Fino a fine fioritura",
+       "Si ripete palco dopo palco",
+       "Ogni nuovo palco che apre, un passaggio."
+      ]
+     ],
+     "box": "Rigor fa la pianta, Instant Trip aiuta i fiori a legare.",
+     "fonte": "Dosi da scheda tecnica."
+    },
+    {
+     "tipo": "confronto",
+     "tag": "Cosa c'è dentro",
+     "titolo": "Cosa c'è<br><em>dentro.</em>",
+     "colonne": [
+      {
+       "nome": "Rigor",
+       "righe": [
+        "Azoto 18%: 16 ureico, 2 organico",
+        "Carbonio organico 7%",
+        "Idrolizzati proteici: aiutano la ripresa dopo uno stress",
+        "Anche fogliare: 100–150 ml/hl"
+       ]
+      },
+      {
+       "nome": "Instant Trip",
+       "righe": [
+        "Triptofano e altri aminoacidi",
+        "Alghe brune e lieviti",
+        "Vitamine del gruppo B",
+        "Non con zolfo, rame e oli minerali"
+       ]
+      }
+     ],
+     "chiusa": "Uno lavora sulla crescita, l'altro sulla fioritura.",
+     "fonte": "Dati da scheda tecnica."
+    },
+    {
+     "tipo": "sapevi",
+     "titolo": "Il triptofano diventa ormone.",
+     "grande": "Con il triptofano la pianta fabbrica l'auxina.",
+     "piccolo": "È l'ormone che serve al fiore per allegare e al frutto per ingrossare.",
+     "punti": [
+      "Per questo il triptofano si dà quando apre il palco",
+      "Troppo azoto in fioritura fa foglie, non frutti",
+      "Prima costruisci la pianta, poi passa ai fiori"
+     ],
+     "chiusa": "Il momento giusto conta quanto la dose.",
+     "fonte": "Nozioni generali di fisiologia vegetale."
+    }
+   ],
+   "didascalia": "Pomodoro in serra: prima la pianta, poi i fiori 🍅\n\nNei primi giorni dopo il trapianto la pianta deve fare radici, foglie e rami. Quando aprono i palchi, il lavoro cambia: deve legare i fiori. Sono due fasi diverse e vanno nutrite in modo diverso.\n\n📅 Il calendario\n• Dal 15° giorno dopo il trapianto: Rigor in fertirrigazione, 250–300 ml ogni 1.000 m², ogni 15–20 giorni\n• A inizio fioritura di ogni palco: Instant Trip per foglia, 350–400 g/hl, fino a fine fioritura\n• Instant Trip non va con zolfo, rame e oli minerali\n\n💡 Lo sapevi? Il triptofano è la materia prima con cui la pianta fabbrica l'auxina, l'ormone che aiuta il fiore ad allegare e il frutto a ingrossare. Per questo si dà quando apre il palco. E troppo azoto in fioritura fa foglie, non frutti.\n\nDosi da scheda tecnica. Li trovi al banco.\n\n#pomodoro #serra #fioritura #allegagione #fertirrigazione #vittoria #studio4srl",
+   "storia": {
+    "titolo": "Pomodoro:<br><em>prima la pianta,<br>poi i fiori.</em>",
+    "emoji": "🍅",
+    "etichetta": "Il calendario",
+    "grande": "Dal 15° giorno Rigor, a fioritura Instant Trip.",
+    "piccolo": "Instant Trip 350–400 g/hl a inizio fioritura di ogni palco."
+   }
+  }
+ ]
+}
