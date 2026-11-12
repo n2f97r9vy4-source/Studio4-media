@@ -1,0 +1,128 @@
+{
+  "settimana": "2026-11-16",
+  "fuso": "Europe/Rome",
+  "account_instagram": "17841427890713085",
+  "base_url": "https://raw.githubusercontent.com/n2f97r9vy4-source/studio4-media/main/settimane/2026-11-16/",
+  "approvazione": "in attesa",
+  "uscite": [
+    {
+      "id": "lun_0700",
+      "tipo": "carosello",
+      "data": "2026-11-16",
+      "ora": "07:00",
+      "titolo": "Basfoliar Kelp",
+      "files": [
+        "img/N_kelp_1.jpg",
+        "img/N_kelp_2.jpg",
+        "img/N_kelp_3.jpg",
+        "img/N_kelp_4.jpg"
+      ],
+      "didascalia": "didascalie/lun_0700.txt",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "mar_0700",
+      "tipo": "carosello",
+      "data": "2026-11-17",
+      "ora": "07:00",
+      "titolo": "Turbo Root",
+      "files": [
+        "img/N_turbo_1.jpg",
+        "img/N_turbo_2.jpg",
+        "img/N_turbo_3.jpg",
+        "img/N_turbo_4.jpg"
+      ],
+      "didascalia": "didascalie/mar_0700.txt",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "mer_0700",
+      "tipo": "carosello",
+      "data": "2026-11-18",
+      "ora": "07:00",
+      "titolo": "QZyme Bio",
+      "files": [
+        "img/N_qzyme_1.jpg",
+        "img/N_qzyme_2.jpg",
+        "img/N_qzyme_3.jpg",
+        "img/N_qzyme_4.jpg"
+      ],
+      "didascalia": "didascalie/mer_0700.txt",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "gio_0700",
+      "tipo": "carosello",
+      "data": "2026-11-19",
+      "ora": "07:00",
+      "titolo": "pH Control",
+      "files": [
+        "img/N_ph_1.jpg",
+        "img/N_ph_2.jpg",
+        "img/N_ph_3.jpg",
+        "img/N_ph_4.jpg"
+      ],
+      "didascalia": "didascalie/gio_0700.txt",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "ven_0700",
+      "tipo": "carosello",
+      "data": "2026-11-20",
+      "ora": "07:00",
+      "titolo": "Amicos SEC",
+      "files": [
+        "img/N_amicos_1.jpg",
+        "img/N_amicos_2.jpg",
+        "img/N_amicos_3.jpg",
+        "img/N_amicos_4.jpg"
+      ],
+      "didascalia": "didascalie/ven_0700.txt",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "sab_0700",
+      "tipo": "carosello",
+      "data": "2026-11-21",
+      "ora": "07:00",
+      "titolo": "BioDea Bio",
+      "files": [
+        "img/N_biodeabio_1.jpg",
+        "img/N_biodeabio_2.jpg",
+        "img/N_biodeabio_3.jpg",
+        "img/N_biodeabio_4.jpg"
+      ],
+      "didascalia": "didascalie/sab_0700.txt",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "dom_0700",
+      "tipo": "carosello",
+      "data": "2026-11-22",
+      "ora": "07:00",
+      "titolo": "Vital Vegan",
+      "files": [
+        "img/N_vitalvegan_1.jpg",
+        "img/N_vitalvegan_2.jpg",
+        "img/N_vitalvegan_3.jpg",
+        "img/N_vitalvegan_4.jpg"
+      ],
+      "didascalia": "didascalie/dom_0700.txt",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    }
+  ]
+}
