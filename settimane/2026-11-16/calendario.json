@@ -6,6 +6,20 @@
   "approvazione": "in attesa",
   "uscite": [
     {
+      "id": "lun_curiosita_1800",
+      "tipo": "storia",
+      "data": "2026-11-16",
+      "ora": "18:00",
+      "titolo": "Curiosità: Afidi: perché esplodono così?",
+      "files": [
+        "img/CUR_2026-11-16.jpg"
+      ],
+      "approvato": false,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
       "id": "mar_1300",
       "tipo": "carosello",
       "data": "2026-11-17",
@@ -36,6 +50,20 @@
       "attesa_foto": false,
       "pubblicato": false,
       "dopo_post": "mar_1300"
+    },
+    {
+      "id": "mar_curiosita_1800",
+      "tipo": "storia",
+      "data": "2026-11-17",
+      "ora": "18:00",
+      "titolo": "Curiosità: Trappole: gialle o blu?",
+      "files": [
+        "img/CUR_2026-11-17.jpg"
+      ],
+      "approvato": false,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false
     },
     {
       "id": "mer_1300",
@@ -70,6 +98,20 @@
       "dopo_post": "mer_1300"
     },
     {
+      "id": "mer_curiosita_1800",
+      "tipo": "storia",
+      "data": "2026-11-18",
+      "ora": "18:00",
+      "titolo": "Curiosità: Nematodi: quante uova in una radice?",
+      "files": [
+        "img/CUR_2026-11-18.jpg"
+      ],
+      "approvato": false,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
       "id": "gio_1300",
       "tipo": "carosello",
       "data": "2026-11-19",
@@ -102,6 +144,20 @@
       "dopo_post": "gio_1300"
     },
     {
+      "id": "gio_curiosita_1800",
+      "tipo": "storia",
+      "data": "2026-11-19",
+      "ora": "18:00",
+      "titolo": "Curiosità: Muffa grigia: da dove riparte?",
+      "files": [
+        "img/CUR_2026-11-19.jpg"
+      ],
+      "approvato": false,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
       "id": "ven_1300",
       "tipo": "carosello",
       "data": "2026-11-20",
@@ -132,6 +188,48 @@
       "attesa_foto": false,
       "pubblicato": false,
       "dopo_post": "ven_1300"
+    },
+    {
+      "id": "ven_curiosita_1800",
+      "tipo": "storia",
+      "data": "2026-11-20",
+      "ora": "18:00",
+      "titolo": "Curiosità: Ragnetto rosso: ama il caldo.",
+      "files": [
+        "img/CUR_2026-11-20.jpg"
+      ],
+      "approvato": false,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "sab_curiosita_1800",
+      "tipo": "storia",
+      "data": "2026-11-21",
+      "ora": "18:00",
+      "titolo": "Curiosità: Melanzana: perché il fiore cade?",
+      "files": [
+        "img/CUR_2026-11-21.jpg"
+      ],
+      "approvato": false,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "dom_curiosita_1800",
+      "tipo": "storia",
+      "data": "2026-11-22",
+      "ora": "18:00",
+      "titolo": "Curiosità: Concime: dove va il nitrato?",
+      "files": [
+        "img/CUR_2026-11-22.jpg"
+      ],
+      "approvato": false,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false
     }
   ],
   "regola_storie": "Ogni post ha una storia di richiamo 5 minuti dopo (campo dopo_post): la pubblica la stessa esecuzione del post, solo se il post è uscito."

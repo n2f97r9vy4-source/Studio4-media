@@ -24,3 +24,6 @@ Link pubblici: `base_url` + percorso del file (raw.githubusercontent.com).
 - Stile: come la storia Basfoliar Kelp — titolo del post, foto del prodotto grande, riquadro con un dato tecnico utile, in fondo "Il post completo è sul profilo →".
 - La pubblica la stessa esecuzione del post: dopo il post riuscito aspetta 5 minuti (sleep 300) e pubblica la storia con create_story. Se il post non è uscito, la storia non esce.
 - Chi prepara il calendario deve creare la storia di richiamo insieme a ogni post: un post senza storia di richiamo non è completo.
+
+## Storia curiosità delle 18:00 (Valerio, 12/11/2026)
+- Ogni giorno alle 18:00 una storia automatica "Lo sapevi?": domanda in alto, una curiosità agronomica che molti non sanno, spiegata in modo semplice e utile. Niente prodotti, niente prezzi. Colori diversi ogni giorno.

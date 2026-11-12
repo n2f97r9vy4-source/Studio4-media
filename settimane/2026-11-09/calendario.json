@@ -219,6 +219,20 @@
       "ora_pubblicazione": "08:35"
     },
     {
+      "id": "gio_curiosita_1800",
+      "tipo": "storia",
+      "data": "2026-11-12",
+      "ora": "18:00",
+      "titolo": "Curiosità: Pomodoro: chi impollina i tuoi fiori?",
+      "files": [
+        "img/CUR_2026-11-12.jpg"
+      ],
+      "approvato": true,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
       "id": "gio_1930",
       "tipo": "carosello",
       "data": "2026-11-12",
@@ -326,6 +340,20 @@
       "attesa_foto": false,
       "pubblicato": false,
       "dopo_post": "ven_1300"
+    },
+    {
+      "id": "ven_curiosita_1800",
+      "tipo": "storia",
+      "data": "2026-11-13",
+      "ora": "18:00",
+      "titolo": "Curiosità: Tuta absoluta: quante uova fa una femmina?",
+      "files": [
+        "img/CUR_2026-11-13.jpg"
+      ],
+      "approvato": true,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false
     },
     {
       "id": "ven_1930",
@@ -439,6 +467,20 @@
       "dopo_post": "sab_1300"
     },
     {
+      "id": "sab_curiosita_1800",
+      "tipo": "storia",
+      "data": "2026-11-14",
+      "ora": "18:00",
+      "titolo": "Curiosità: Marciume apicale: manca calcio?",
+      "files": [
+        "img/CUR_2026-11-14.jpg"
+      ],
+      "approvato": true,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
       "id": "sab_1930",
       "tipo": "carosello",
       "data": "2026-11-14",
@@ -547,6 +589,20 @@
       "attesa_foto": false,
       "pubblicato": false,
       "dopo_post": "dom_1300"
+    },
+    {
+      "id": "dom_curiosita_1800",
+      "tipo": "storia",
+      "data": "2026-11-15",
+      "ora": "18:00",
+      "titolo": "Curiosità: Dove stanno davvero le radici?",
+      "files": [
+        "img/CUR_2026-11-15.jpg"
+      ],
+      "approvato": true,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false
     },
     {
       "id": "dom_1930",
