@@ -21,7 +21,12 @@
       "attesa_foto": false,
       "pubblicato": true,
       "media_id": "17915535762516218",
-      "ora_pubblicazione": "07:11"
+      "ora_pubblicazione": "07:11",
+      "tema": "nitrato-di-calcio-o-di-potassio",
+      "prodotti": [
+        "calcinit",
+        "nop"
+      ]
     },
     {
       "id": "lun_storia_1_LUN_storia_1",
@@ -34,7 +39,8 @@
       ],
       "automatica": false,
       "approvato": true,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "cosa-vedi-in-serra"
     },
     {
       "id": "lun_storia_1_LUN_storia_2",
@@ -47,7 +53,8 @@
       ],
       "automatica": false,
       "approvato": true,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "trappole-a-feromoni"
     },
     {
       "id": "lun_storia_1_LUN_storia_3",
@@ -62,7 +69,8 @@
       "approvato": true,
       "pubblicato": true,
       "media_id": "18291231916295115",
-      "ora_pubblicazione": "08:31"
+      "ora_pubblicazione": "08:31",
+      "tema": "patentino"
     },
     {
       "id": "lun_1930",
@@ -78,7 +86,9 @@
       "attesa_foto": false,
       "pubblicato": true,
       "media_id": "17907354918355061",
-      "ora_pubblicazione": "19:41"
+      "ora_pubblicazione": "19:41",
+      "tema": "tuta-absoluta-catture-per-trappola",
+      "prodotti": []
     },
     {
       "id": "mar_0700",
@@ -97,7 +107,11 @@
       "attesa_foto": false,
       "pubblicato": true,
       "media_id": "17970260208197643",
-      "ora_pubblicazione": "07:10"
+      "ora_pubblicazione": "07:10",
+      "tema": "cidely-top",
+      "prodotti": [
+        "cidely"
+      ]
     },
     {
       "id": "mar_storia_2_MAR_storia_consegna",
@@ -112,7 +126,8 @@
       "approvato": true,
       "pubblicato": true,
       "media_id": "17912185599596780",
-      "ora_pubblicazione": "08:35"
+      "ora_pubblicazione": "08:35",
+      "tema": "consegna-come-si-fa"
     },
     {
       "id": "mar_1930",
@@ -128,7 +143,9 @@
       "attesa_foto": false,
       "pubblicato": true,
       "media_id": "18106225934368281",
-      "ora_pubblicazione": "19:43"
+      "ora_pubblicazione": "19:43",
+      "tema": "rete-antinsetto-conta-la-maglia",
+      "prodotti": []
     },
     {
       "id": "mer_0700",
@@ -148,7 +165,11 @@
       "approvato": true,
       "attesa_foto": true,
       "pubblicato": false,
-      "spostato_a": "sab_1300"
+      "spostato_a": "sab_1300",
+      "tema": "distillato-di-legno",
+      "prodotti": [
+        "distillato"
+      ]
     },
     {
       "id": "mer_storia_3_MER_storia_ordine",
@@ -163,7 +184,8 @@
       "approvato": true,
       "pubblicato": true,
       "media_id": "18076144970725222",
-      "ora_pubblicazione": "08:35"
+      "ora_pubblicazione": "08:35",
+      "tema": "devi-fare-un-ordine"
     },
     {
       "id": "mer_1930",
@@ -182,7 +204,11 @@
       "attesa_foto": false,
       "pubblicato": true,
       "media_id": "18116952563128411",
-      "ora_pubblicazione": "19:41"
+      "ora_pubblicazione": "19:41",
+      "tema": "sprintene",
+      "prodotti": [
+        "sprintene"
+      ]
     },
     {
       "id": "gio_0700",
@@ -201,7 +227,9 @@
       "attesa_foto": false,
       "pubblicato": true,
       "media_id": "18212064130368547",
-      "ora_pubblicazione": "07:08"
+      "ora_pubblicazione": "07:08",
+      "tema": "isonet-t",
+      "prodotti": []
     },
     {
       "id": "gio_storia_4_GIO_storia_orari",
@@ -216,7 +244,8 @@
       "approvato": true,
       "pubblicato": true,
       "media_id": "18120428821957721",
-      "ora_pubblicazione": "08:35"
+      "ora_pubblicazione": "08:35",
+      "tema": "orari-di-apertura"
     },
     {
       "id": "gio_curiosita_1800",
@@ -230,7 +259,8 @@
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "pomodoro-chi-impollina-i-tuoi-fiori"
     },
     {
       "id": "gio_1930",
@@ -247,7 +277,13 @@
       "didascalia": "didascalie/gio_1930.txt",
       "approvato": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "botrite-la-prepari-di-notte-cosa-usare",
+      "prodotti": [
+        "amylo",
+        "switch",
+        "caffaro"
+      ]
     },
     {
       "id": "gio_1930_storia",
@@ -279,7 +315,13 @@
       "didascalia": "didascalie/ven_0700.txt",
       "approvato": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "laser-120-sc",
+      "prodotti": [
+        "laser",
+        "kristal",
+        "phcontrol"
+      ]
     },
     {
       "id": "ven_0700_storia",
@@ -307,7 +349,8 @@
       ],
       "automatica": false,
       "approvato": true,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "mkp-o-map"
     },
     {
       "id": "ven_1300",
@@ -324,7 +367,11 @@
       "didascalia": "didascalie/ven_1300.txt",
       "approvato": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "basfoliar-kelp",
+      "prodotti": [
+        "kelp"
+      ]
     },
     {
       "id": "ven_1300_storia",
@@ -353,7 +400,8 @@
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "tuta-absoluta-quante-uova-fa-una-femmina"
     },
     {
       "id": "ven_1930",
@@ -370,7 +418,12 @@
       "didascalia": "didascalie/ven_1930.txt",
       "approvato": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "mkp-o-map",
+      "prodotti": [
+        "mkp",
+        "map"
+      ]
     },
     {
       "id": "ven_1930_storia",
@@ -402,7 +455,11 @@
       "didascalia": "didascalie/sab_0700.txt",
       "approvato": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "qzyme-bio",
+      "prodotti": [
+        "qzyme"
+      ]
     },
     {
       "id": "sab_0700_storia",
@@ -430,7 +487,8 @@
       ],
       "automatica": false,
       "approvato": true,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "nematodi"
     },
     {
       "id": "sab_1300",
@@ -449,7 +507,11 @@
       "didascalia": "didascalie/sab_1300.txt",
       "approvato": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "distillato-di-legno",
+      "prodotti": [
+        "distillato"
+      ]
     },
     {
       "id": "sab_1300_storia",
@@ -478,7 +540,8 @@
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "marciume-apicale-manca-calcio"
     },
     {
       "id": "sab_1930",
@@ -495,7 +558,12 @@
       "didascalia": "didascalie/sab_1930.txt",
       "approvato": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "nematodi-velum-bioact",
+      "prodotti": [
+        "velum",
+        "bioact"
+      ]
     },
     {
       "id": "sab_1930_storia",
@@ -528,7 +596,12 @@
       "didascalia": "didascalie/dom_0700.txt",
       "approvato": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "razormin",
+      "prodotti": [
+        "razormin",
+        "micosat"
+      ]
     },
     {
       "id": "dom_0700_storia",
@@ -556,7 +629,8 @@
       ],
       "automatica": false,
       "approvato": true,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "hai-gia-trapiantato"
     },
     {
       "id": "dom_1300",
@@ -573,7 +647,11 @@
       "didascalia": "didascalie/dom_1300.txt",
       "approvato": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "turbo-root",
+      "prodotti": [
+        "turbo"
+      ]
     },
     {
       "id": "dom_1300_storia",
@@ -602,7 +680,8 @@
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "dove-stanno-davvero-le-radici"
     },
     {
       "id": "dom_1930",
@@ -619,7 +698,12 @@
       "didascalia": "didascalie/dom_1930.txt",
       "approvato": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "pomodoro-in-serra-i-primi-40-giorni",
+      "prodotti": [
+        "micosat",
+        "razormin"
+      ]
     },
     {
       "id": "dom_1930_storia",

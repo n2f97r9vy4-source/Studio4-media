@@ -19,7 +19,9 @@
       "didascalia": "didascalie/lun_0700.txt",
       "approvato": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "in-botte-l-ordine-giusto",
+      "prodotti": []
     },
     {
       "id": "lun_0700_storia",
@@ -37,6 +39,60 @@
       "dopo_post": "lun_0700"
     },
     {
+      "id": "lun_0830",
+      "tipo": "storia",
+      "ora": "08:30",
+      "titolo": "Misuri il pH dell'acqua? (adesivo sondaggio)",
+      "tema": "sondaggio-ph-acqua",
+      "files": [
+        "img/lun_0830.jpg"
+      ],
+      "automatica": false,
+      "adesivo": "sondaggio",
+      "risposte": [
+        "Sempre",
+        "Mai misurato"
+      ],
+      "data": "2026-11-16",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "lun_1300",
+      "tipo": "carosello",
+      "ora": "13:00",
+      "titolo": "Mosca bianca: perché torna sempre",
+      "tema": "mosca-bianca-ciclo",
+      "prodotti": [],
+      "files": [
+        "img/lun_1300_1.jpg",
+        "img/lun_1300_2.jpg",
+        "img/lun_1300_3.jpg",
+        "img/lun_1300_4.jpg"
+      ],
+      "didascalia": "didascalie/lun_1300.txt",
+      "data": "2026-11-16",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "lun_1300_storia",
+      "tipo": "storia",
+      "ora": "13:05",
+      "titolo": "Richiamo: Mosca bianca: perché torna sempre",
+      "files": [
+        "img/lun_1300_storia.jpg"
+      ],
+      "automatica": true,
+      "dopo_post": "lun_1300",
+      "data": "2026-11-16",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
       "id": "lun_curiosita_1800",
       "tipo": "storia",
       "data": "2026-11-16",
@@ -47,6 +103,41 @@
       ],
       "approvato": false,
       "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false,
+      "tema": "afidi-perche-esplodono-cosi"
+    },
+    {
+      "id": "lun_1930",
+      "tipo": "carosello",
+      "ora": "19:30",
+      "titolo": "Serra d'inverno: la condensa",
+      "tema": "condensa-serra-inverno",
+      "prodotti": [],
+      "files": [
+        "img/lun_1930_1.jpg",
+        "img/lun_1930_2.jpg",
+        "img/lun_1930_3.jpg",
+        "img/lun_1930_4.jpg"
+      ],
+      "didascalia": "didascalie/lun_1930.txt",
+      "data": "2026-11-16",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "lun_1930_storia",
+      "tipo": "storia",
+      "ora": "19:35",
+      "titolo": "Richiamo: Serra d'inverno: la condensa",
+      "files": [
+        "img/lun_1930_storia.jpg"
+      ],
+      "automatica": true,
+      "dopo_post": "lun_1930",
+      "data": "2026-11-16",
+      "approvato": false,
       "attesa_foto": false,
       "pubblicato": false
     },
@@ -65,7 +156,11 @@
       "didascalia": "didascalie/mar_1300.txt",
       "approvato": false,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "ph-control",
+      "prodotti": [
+        "phcontrol"
+      ]
     },
     {
       "id": "mar_1300_storia",
@@ -94,7 +189,8 @@
       "approvato": false,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "trappole-gialle-o-blu"
     },
     {
       "id": "mer_1300",
@@ -111,7 +207,11 @@
       "didascalia": "didascalie/mer_1300.txt",
       "approvato": false,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "amicos-sec",
+      "prodotti": [
+        "amicos"
+      ]
     },
     {
       "id": "mer_1300_storia",
@@ -140,7 +240,8 @@
       "approvato": false,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "nematodi-quante-uova-in-una-radice"
     },
     {
       "id": "gio_1300",
@@ -157,7 +258,11 @@
       "didascalia": "didascalie/gio_1300.txt",
       "approvato": false,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "biodea-bio",
+      "prodotti": [
+        "biodeabio"
+      ]
     },
     {
       "id": "gio_1300_storia",
@@ -186,7 +291,8 @@
       "approvato": false,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "muffa-grigia-da-dove-riparte"
     },
     {
       "id": "ven_1300",
@@ -203,7 +309,11 @@
       "didascalia": "didascalie/ven_1300.txt",
       "approvato": false,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "vital-vegan",
+      "prodotti": [
+        "vitalvegan"
+      ]
     },
     {
       "id": "ven_1300_storia",
@@ -232,7 +342,8 @@
       "approvato": false,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "ragnetto-rosso-ama-il-caldo"
     },
     {
       "id": "sab_curiosita_1800",
@@ -246,7 +357,8 @@
       "approvato": false,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "melanzana-perche-il-fiore-cade"
     },
     {
       "id": "dom_curiosita_1800",
@@ -260,7 +372,8 @@
       "approvato": false,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "tema": "concime-dove-va-il-nitrato"
     }
   ],
   "regola_storie": "Ogni post ha una storia di richiamo 5 minuti dopo (campo dopo_post): la pubblica la stessa esecuzione del post, solo se il post è uscito."

@@ -1,0 +1,13 @@
+
+body{margin:0;background:#fafafa;font-family:-apple-system,system-ui,Segoe UI,Roboto,sans-serif;color:#111}
+header{position:sticky;top:0;background:#fff;border-bottom:1px solid #ddd;padding:10px 12px;z-index:2}
+header h1{font-size:17px;margin:0 0 6px}nav{display:flex;gap:6px;overflow-x:auto}nav a{flex:none;font-size:13px;padding:5px 10px;border-radius:14px;background:#eef6f0;color:#1B9A4B;text-decoration:none;font-weight:600}
+main{max-width:520px;margin:0 auto;padding:6px 0 40px}h2{font-size:20px;margin:26px 12px 10px;color:#DF502E;scroll-margin-top:90px}
+.card{background:#fff;border:1px solid #e3e3e3;border-radius:10px;margin:0 6px 18px;overflow:hidden}
+.hd{display:flex;align-items:center;gap:8px;padding:9px 10px}.av{width:34px;height:34px;border-radius:50%;object-fit:contain;background:#fff;border:1px solid #ddd;padding:3px}.hd .t{margin-left:auto;color:#666;font-size:13px;font-weight:600}
+.car{display:flex;overflow-x:auto;scroll-snap-type:x mandatory}.car img{flex:none;width:100%;scroll-snap-align:start;display:block}
+.n{font-size:12px;color:#666;padding:6px 10px 0}
+.cap{padding:8px 12px 14px;font-size:14px;line-height:1.45}.tt{font-weight:700;margin-bottom:6px}
+.st{display:flex;justify-content:center;background:#111}.st img{width:78%;display:block}
+.b{display:inline-block;font-size:11px;font-weight:700;padding:3px 8px;border-radius:10px;background:#e7f3ff;color:#1F63B0;margin:4px 4px 0 0}.warn{background:#fff1e6;color:#B4561E}.man{background:#fdeceb;color:#c0392b}
+.miss{margin:0 6px 18px;padding:14px;border:2px dashed #ccc;border-radius:10px;color:#888;font-size:14px;font-weight:600}.ok{background:#e8f6ec;color:#1B9A4B}.no{background:#fff3e0;color:#B26A00}

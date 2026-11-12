@@ -1,0 +1,409 @@
+{
+ "laser": {
+  "nome": "Laser 120 SC",
+  "tipo": "insetticida (spinosad, IRAC 5)",
+  "reg": "16425",
+  "fonte": "etichetta",
+  "dosi": [
+   "80–100 ml/hl",
+   "640–1200 ml/ha"
+  ],
+  "fatti": [
+   "Tuta absoluta alla schiusura",
+   "massimo 3 trattamenti l'anno, non più di 2 di fila",
+   "carenza 3 giorni",
+   "ripetere dopo circa 10 giorni"
+  ],
+  "foto": "laser"
+ },
+ "kristal": {
+  "nome": "Kristal 32 WG",
+  "tipo": "insetticida biologico (Bacillus thuringiensis, IRAC 11A)",
+  "reg": "9679",
+  "fonte": "etichetta",
+  "dosi": [
+   "100–200 g/hl"
+  ],
+  "fatti": [
+   "fino a 3 trattamenti per generazione",
+   "non con calce o poltiglia bordolese",
+   "teme l'acqua alcalina: portare l'acqua a pH 6"
+  ],
+  "foto": "kristal"
+ },
+ "phcontrol": {
+  "nome": "pH Control",
+  "tipo": "concime NP acidificante con indicatore di colore",
+  "reg": null,
+  "fonte": "scheda tecnica",
+  "dosi": [
+   "70–100 ml/hl"
+  ],
+  "fatti": [
+   "si mette prima degli altri prodotti",
+   "giallo limone = pH 6",
+   "scala: viola 4, fucsia 4,5, arancio 5, ocra 5,5, giallo limone 6, giallo chiaro 7"
+  ],
+  "foto": "phcontrol"
+ },
+ "distillato": {
+  "nome": "Distillato di legno",
+  "tipo": "corroborante",
+  "reg": null,
+  "fonte": "scheda tecnica",
+  "dosi": [
+   "250 ml/hl",
+   "5 l/ha",
+   "300 ml/hl",
+   "200 ml/hl",
+   "350 ml/hl",
+   "1 l/ha"
+  ],
+  "fatti": [
+   "ortaggi: fogliare 250 ml/hl ogni 5–7 giorni, fertirrigazione 5 l/ha ogni 14 giorni, bagnetto pre-trapianto 300 ml/hl",
+   "acido: abbassa il pH in botte",
+   "tanica da 10 L"
+  ],
+  "foto": "distillato"
+ },
+ "velum": {
+  "nome": "Velum Prime",
+  "tipo": "nematocida",
+  "reg": "16438",
+  "fonte": "etichetta",
+  "dosi": [
+   "0,375–0,625 l/ha"
+  ],
+  "fatti": [
+   "a goccia, 1–3 giorni prima del trapianto, da solo",
+   "si ripete una volta dopo 15–30 giorni, massimo 2 volte l'anno"
+  ],
+  "foto": "velum"
+ },
+ "bioact": {
+  "nome": "Bioact Prime DC",
+  "tipo": "nematocida biologico a base di un fungo",
+  "reg": "17118",
+  "fonte": "etichetta",
+  "dosi": [],
+  "fatti": [
+   "per le dosi rileggere l'etichetta: non registrate qui"
+  ],
+  "foto": "bioact"
+ },
+ "amylo": {
+  "nome": "Amylo-X",
+  "tipo": "fungicida biologico (Bacillus)",
+  "reg": "15302",
+  "fonte": "etichetta",
+  "dosi": [
+   "1,5–2,5 kg/ha"
+  ],
+  "fatti": [
+   "botrite in prevenzione, ogni 7 giorni, fino a 6 volte"
+  ],
+  "foto": "amylo"
+ },
+ "switch": {
+  "nome": "Switch",
+  "tipo": "fungicida (FRAC 9 + 12)",
+  "reg": "9578",
+  "fonte": "etichetta",
+  "dosi": [
+   "60–80 g/hl"
+  ],
+  "fatti": [
+   "botrite, ogni 10–14 giorni, massimo 3",
+   "carenza 3 giorni"
+  ],
+  "foto": "switch"
+ },
+ "caffaro": {
+  "nome": "Pasta Caffaro NC",
+  "tipo": "fungicida rameico",
+  "reg": "7053",
+  "fonte": "etichetta",
+  "dosi": [
+   "250–300 ml/hl"
+  ],
+  "fatti": [
+   "massimo 6 l'anno, carenza 3 giorni"
+  ],
+  "foto": "caffaro"
+ },
+ "sprintene": {
+  "nome": "Sprintene",
+  "tipo": "biostimolante",
+  "reg": null,
+  "fonte": "scheda tecnica",
+  "dosi": [
+   "100 ml/hl",
+   "50 ml/hl",
+   "2–3 l/ha"
+  ],
+  "fatti": [
+   "ortaggi da frutto 100 ml/hl fogliare ogni settimana fino alla prima fioritura",
+   "ortaggi da foglia 50 ml/hl",
+   "fertirrigazione 2–3 l/ha"
+  ],
+  "foto": "sprintene"
+ },
+ "razormin": {
+  "nome": "Razormin",
+  "tipo": "biostimolante radicante",
+  "reg": null,
+  "fonte": "scheda tecnica",
+  "dosi": [
+   "2–3 l/ha",
+   "200–300 ml/hl",
+   "1–2 l/ha"
+  ],
+  "fatti": [
+   "orticole 2–3 l/ha in irrigazione dopo il trapianto, 1–3 volte ogni 15–30 giorni",
+   "fogliare 200–300 ml/hl",
+   "idroponica 1–2 l/ha a settimana",
+   "non con oli, rame, zolfo"
+  ],
+  "foto": "razormin"
+ },
+ "micosat": {
+  "nome": "Micosat F Len",
+  "tipo": "micorrize e batteri",
+  "reg": null,
+  "fonte": "scheda tecnica",
+  "dosi": [
+   "2 kg/ha",
+   "300 g/hl"
+  ],
+  "fatti": [
+   "2 kg/ha in fertirrigazione 1–3 giorni prima del trapianto, da solo",
+   "niente rame"
+  ],
+  "foto": "micosat"
+ },
+ "kelp": {
+  "nome": "Basfoliar Kelp SL",
+  "tipo": "biostimolante da alga Ecklonia maxima",
+  "reg": null,
+  "fonte": "etichetta",
+  "dosi": [
+   "7–10 l/ha"
+  ],
+  "fatti": [
+   "fogliare 0,2–1%",
+   "auxine 11 mg/l, citochinine 0,03 mg/l",
+   "non con rame, zolfo, solfato di calcio"
+  ],
+  "foto": "kelp"
+ },
+ "turbo": {
+  "nome": "Turbo Root WG",
+  "tipo": "concime NPK 3-16-18 con acidi umici 29%",
+  "reg": null,
+  "fonte": "etichetta",
+  "dosi": [
+   "15–20 kg/ha",
+   "2–4 kg/ha"
+  ],
+  "fatti": [
+   "orticole al suolo 15–20 kg/ha una volta prima del trapianto",
+   "fertirrigazione 2–4 kg/ha, 2–5 volte",
+   "non con nitrato di calcio, rame, zolfo, oli"
+  ],
+  "foto": "turbo"
+ },
+ "qzyme": {
+  "nome": "QZyme Bio",
+  "tipo": "ferro 1% e manganese 1% chelati EDTA",
+  "reg": null,
+  "fonte": "etichetta",
+  "dosi": [
+   "600–700 g/ha",
+   "1–1,5 kg/ha"
+  ],
+  "fatti": [
+   "orticole fogliare 600–700 g/ha, fertirrigazione 1–1,5 kg/ha",
+   "chelato stabile tra pH 4 e 9"
+  ],
+  "foto": "qzyme"
+ },
+ "amicos": {
+  "nome": "Amicos SEC",
+  "tipo": "zinco 3% da solfato",
+  "reg": null,
+  "fonte": "scheda tecnica",
+  "dosi": [
+   "200–400 ml/hl",
+   "150–250 ml/hl"
+  ],
+  "fatti": [
+   "orticole 200–400 ml/hl, peperone 150–250 ml/hl",
+   "3–5 trattamenti ogni 7 giorni alla comparsa dei sintomi"
+  ],
+  "foto": "amicos"
+ },
+ "biodeabio": {
+  "nome": "BioDea Bio",
+  "tipo": "micorrize e batteri della rizosfera",
+  "reg": null,
+  "fonte": "scheda tecnica",
+  "dosi": [
+   "3 l/ha"
+  ],
+  "fatti": [
+   "fertirrigazione insieme a Vital Vegan",
+   "mai con fungicidi, battericidi, diserbanti"
+  ],
+  "foto": "biodeabio"
+ },
+ "vitalvegan": {
+  "nome": "BioDea Vital Vegan",
+  "tipo": "azoto organico 3,9%, lieviti e alghe",
+  "reg": null,
+  "fonte": "scheda tecnica",
+  "dosi": [
+   "5 l/ha",
+   "250 ml/hl"
+  ],
+  "fatti": [
+   "ortaggi: fertirrigazione 5 l/ha e fogliare 250 ml/hl ogni 14 giorni",
+   "si alterna con il distillato di legno"
+  ],
+  "foto": "vitalvegan"
+ },
+ "cidely": {
+  "nome": "Cidely Top",
+  "tipo": "fungicida",
+  "reg": "15752",
+  "fonte": "etichetta",
+  "dosi": [
+   "1 l/ha",
+   "100 ml/hl"
+  ],
+  "fatti": [
+   "oidio, alternaria, cladosporiosi",
+   "massimo 2 trattamenti a 10 giorni, carenza 3 giorni"
+  ],
+  "foto": "cidely"
+ },
+ "helio": {
+  "nome": "Heliosoufre S",
+  "tipo": "zolfo liquido",
+  "reg": "11102",
+  "fonte": "etichetta",
+  "dosi": [
+   "1,5–7 l/ha"
+  ],
+  "fatti": [
+   "eriofide rugginoso; 2–6 trattamenti ogni 7 giorni; carenza 3 giorni",
+   "non in fioritura, non sopra i 30 °C"
+  ],
+  "foto": "helio"
+ },
+ "matacar": {
+  "nome": "Matacar FL",
+  "tipo": "acaricida ovo-larvicida (IRAC 10A)",
+  "reg": "7700",
+  "fonte": "etichetta",
+  "dosi": [
+   "20 ml/hl",
+   "200 ml/ha"
+  ],
+  "fatti": [
+   "ragnetto rosso: uova e larve; massimo 2 l'anno; carenza 3 giorni"
+  ],
+  "foto": "matacar"
+ },
+ "naturalis": {
+  "nome": "Naturalis",
+  "tipo": "insetticida-acaricida biologico (Beauveria bassiana)",
+  "reg": "10479",
+  "fonte": "etichetta",
+  "dosi": [
+   "1–2 l/ha",
+   "0,75–1 l/ha"
+  ],
+  "fatti": [
+   "massimo 10 trattamenti, intervallo minimo 5 giorni",
+   "bagnare bene tutta la pianta"
+  ],
+  "foto": "naturalis"
+ },
+ "kanemite": {
+  "nome": "Kanemite",
+  "tipo": "acaricida",
+  "reg": null,
+  "fonte": "etichetta",
+  "dosi": [
+   "1–1,2 l/ha"
+  ],
+  "fatti": [
+   "pomodoro: massimo 2 trattamenti a 10 giorni, carenza 3 giorni"
+  ],
+  "foto": "kanemite"
+ },
+ "auxiger": {
+  "nome": "Auxiger LG",
+  "tipo": "allegante",
+  "reg": "12114",
+  "fonte": "etichetta",
+  "dosi": [
+   "50–70 ml/hl"
+  ],
+  "fatti": [
+   "a ogni nuova fioritura; carenza 7 giorni; si impiega da solo"
+  ],
+  "foto": "auxiger"
+ },
+ "aximag": {
+  "nome": "Aximag",
+  "tipo": "concime a base di magnesio",
+  "reg": null,
+  "fonte": "scheda tecnica",
+  "dosi": [],
+  "fatti": [
+   "dosi non registrate qui"
+  ],
+  "foto": "aximag"
+ },
+ "calcinit": {
+  "nome": "Nitrato di calcio",
+  "tipo": "concime (N 15,5%, CaO 26,5%)",
+  "reg": null,
+  "fonte": "etichetta",
+  "dosi": [],
+  "fatti": [
+   "mai con fosfati e solfati in soluzione concentrata"
+  ],
+  "foto": "calcinit"
+ },
+ "nop": {
+  "nome": "Nitrato di potassio",
+  "tipo": "concime (N 13,7%, K2O 46,2%)",
+  "reg": null,
+  "fonte": "etichetta",
+  "dosi": [],
+  "fatti": [],
+  "foto": "nop"
+ },
+ "mkp": {
+  "nome": "MKP 0-52-34",
+  "tipo": "fosfato monopotassico",
+  "reg": null,
+  "fonte": "etichetta",
+  "dosi": [],
+  "fatti": [
+   "zero azoto"
+  ],
+  "foto": "mkp"
+ },
+ "map": {
+  "nome": "MAP 12-61-0",
+  "tipo": "fosfato monoammonico",
+  "reg": null,
+  "fonte": "etichetta",
+  "dosi": [],
+  "fatti": [],
+  "foto": "map"
+ }
+}
