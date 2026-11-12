@@ -23,6 +23,21 @@
       "pubblicato": false
     },
     {
+      "id": "lun_1300_storia",
+      "tipo": "storia",
+      "data": "2026-11-16",
+      "ora": "13:05",
+      "titolo": "Richiamo: QZyme Bio",
+      "files": [
+        "img/R_qzyme.jpg"
+      ],
+      "approvato": false,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false,
+      "dopo_post": "lun_1300"
+    },
+    {
       "id": "mar_1300",
       "tipo": "carosello",
       "data": "2026-11-17",
@@ -38,6 +53,21 @@
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false
+    },
+    {
+      "id": "mar_1300_storia",
+      "tipo": "storia",
+      "data": "2026-11-17",
+      "ora": "13:05",
+      "titolo": "Richiamo: pH Control",
+      "files": [
+        "img/R_ph.jpg"
+      ],
+      "approvato": false,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false,
+      "dopo_post": "mar_1300"
     },
     {
       "id": "mer_1300",
@@ -57,6 +87,21 @@
       "pubblicato": false
     },
     {
+      "id": "mer_1300_storia",
+      "tipo": "storia",
+      "data": "2026-11-18",
+      "ora": "13:05",
+      "titolo": "Richiamo: Amicos SEC",
+      "files": [
+        "img/R_amicos.jpg"
+      ],
+      "approvato": false,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false,
+      "dopo_post": "mer_1300"
+    },
+    {
       "id": "gio_1300",
       "tipo": "carosello",
       "data": "2026-11-19",
@@ -74,6 +119,21 @@
       "pubblicato": false
     },
     {
+      "id": "gio_1300_storia",
+      "tipo": "storia",
+      "data": "2026-11-19",
+      "ora": "13:05",
+      "titolo": "Richiamo: BioDea Bio",
+      "files": [
+        "img/R_biodeabio.jpg"
+      ],
+      "approvato": false,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false,
+      "dopo_post": "gio_1300"
+    },
+    {
       "id": "ven_1300",
       "tipo": "carosello",
       "data": "2026-11-20",
@@ -89,6 +149,22 @@
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false
+    },
+    {
+      "id": "ven_1300_storia",
+      "tipo": "storia",
+      "data": "2026-11-20",
+      "ora": "13:05",
+      "titolo": "Richiamo: Vital Vegan",
+      "files": [
+        "img/R_vitalvegan.jpg"
+      ],
+      "approvato": false,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false,
+      "dopo_post": "ven_1300"
     }
-  ]
+  ],
+  "regola_storie": "Ogni post ha una storia di richiamo 5 minuti dopo (campo dopo_post): la pubblica la stessa esecuzione del post, solo se il post è uscito."
 }

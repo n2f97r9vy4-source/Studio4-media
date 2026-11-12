@@ -219,20 +219,6 @@
       "ora_pubblicazione": "08:35"
     },
     {
-      "id": "gio_storia_1800",
-      "tipo": "storia",
-      "data": "2026-11-12",
-      "ora": "18:00",
-      "titolo": "Muffa grigia: la notte conta",
-      "files": [
-        "img/S18_gio.jpg"
-      ],
-      "approvato": true,
-      "automatica": true,
-      "attesa_foto": false,
-      "pubblicato": false
-    },
-    {
       "id": "gio_1930",
       "tipo": "carosello",
       "data": "2026-11-12",
@@ -250,6 +236,21 @@
       "pubblicato": false
     },
     {
+      "id": "gio_1930_storia",
+      "tipo": "storia",
+      "data": "2026-11-12",
+      "ora": "19:35",
+      "titolo": "Richiamo: Botrite: la prepari di notte + cosa usare",
+      "files": [
+        "img/R_gio.jpg"
+      ],
+      "approvato": true,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false,
+      "dopo_post": "gio_1930"
+    },
+    {
       "id": "ven_0700",
       "tipo": "carosello",
       "data": "2026-11-13",
@@ -265,6 +266,21 @@
       "approvato": true,
       "attesa_foto": false,
       "pubblicato": false
+    },
+    {
+      "id": "ven_0700_storia",
+      "tipo": "storia",
+      "data": "2026-11-13",
+      "ora": "07:05",
+      "titolo": "Richiamo: La dose giusta: Laser 120 SC",
+      "files": [
+        "img/R_ven07.jpg"
+      ],
+      "approvato": true,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false,
+      "dopo_post": "ven_0700"
     },
     {
       "id": "ven_storia_5_VEN_storia",
@@ -297,18 +313,19 @@
       "pubblicato": false
     },
     {
-      "id": "ven_storia_1800",
+      "id": "ven_1300_storia",
       "tipo": "storia",
       "data": "2026-11-13",
-      "ora": "18:00",
-      "titolo": "Biostimolante prima dello stress",
+      "ora": "13:05",
+      "titolo": "Richiamo: Basfoliar Kelp",
       "files": [
-        "img/S18_ven.jpg"
+        "img/R_ven.jpg"
       ],
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "dopo_post": "ven_1300"
     },
     {
       "id": "ven_1930",
@@ -328,6 +345,21 @@
       "pubblicato": false
     },
     {
+      "id": "ven_1930_storia",
+      "tipo": "storia",
+      "data": "2026-11-13",
+      "ora": "19:35",
+      "titolo": "Richiamo: MKP o MAP",
+      "files": [
+        "img/R_ven19.jpg"
+      ],
+      "approvato": true,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false,
+      "dopo_post": "ven_1930"
+    },
+    {
       "id": "sab_0700",
       "tipo": "immagine",
       "data": "2026-11-14",
@@ -340,6 +372,21 @@
       "approvato": true,
       "attesa_foto": false,
       "pubblicato": false
+    },
+    {
+      "id": "sab_0700_storia",
+      "tipo": "storia",
+      "data": "2026-11-14",
+      "ora": "07:05",
+      "titolo": "Richiamo: IRAC: due nomi, una molecola",
+      "files": [
+        "img/R_sab07.jpg"
+      ],
+      "approvato": true,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false,
+      "dopo_post": "sab_0700"
     },
     {
       "id": "sab_storia_6_SAB_storia",
@@ -374,18 +421,19 @@
       "pubblicato": false
     },
     {
-      "id": "sab_storia_1800",
+      "id": "sab_1300_storia",
       "tipo": "storia",
       "data": "2026-11-14",
-      "ora": "18:00",
-      "titolo": "Distillato: quanto ne metti",
+      "ora": "13:05",
+      "titolo": "Richiamo: Distillato di legno",
       "files": [
-        "img/S18_sab.jpg"
+        "img/R_sab.jpg"
       ],
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "dopo_post": "sab_1300"
     },
     {
       "id": "sab_1930",
@@ -405,6 +453,21 @@
       "pubblicato": false
     },
     {
+      "id": "sab_1930_storia",
+      "tipo": "storia",
+      "data": "2026-11-14",
+      "ora": "19:35",
+      "titolo": "Richiamo: Nematodi: Velum + Bioact",
+      "files": [
+        "img/R_sab19.jpg"
+      ],
+      "approvato": true,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false,
+      "dopo_post": "sab_1930"
+    },
+    {
       "id": "dom_0700",
       "tipo": "carosello",
       "data": "2026-11-15",
@@ -421,6 +484,21 @@
       "approvato": true,
       "attesa_foto": false,
       "pubblicato": false
+    },
+    {
+      "id": "dom_0700_storia",
+      "tipo": "storia",
+      "data": "2026-11-15",
+      "ora": "07:05",
+      "titolo": "Richiamo: Razormin",
+      "files": [
+        "img/R_dom07.jpg"
+      ],
+      "approvato": true,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false,
+      "dopo_post": "dom_0700"
     },
     {
       "id": "dom_storia_7_DOM_storia",
@@ -453,18 +531,19 @@
       "pubblicato": false
     },
     {
-      "id": "dom_storia_1800",
+      "id": "dom_1300_storia",
       "tipo": "storia",
       "data": "2026-11-15",
-      "ora": "18:00",
-      "titolo": "Il fosforo non cammina",
+      "ora": "13:05",
+      "titolo": "Richiamo: Turbo Root",
       "files": [
-        "img/S18_dom.jpg"
+        "img/R_dom.jpg"
       ],
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false
+      "pubblicato": false,
+      "dopo_post": "dom_1300"
     },
     {
       "id": "dom_1930",
@@ -482,7 +561,23 @@
       "approvato": true,
       "attesa_foto": false,
       "pubblicato": false
+    },
+    {
+      "id": "dom_1930_storia",
+      "tipo": "storia",
+      "data": "2026-11-15",
+      "ora": "19:35",
+      "titolo": "Richiamo: Pomodoro in serra: i primi 40 giorni",
+      "files": [
+        "img/R_dom19.jpg"
+      ],
+      "approvato": true,
+      "automatica": true,
+      "attesa_foto": false,
+      "pubblicato": false,
+      "dopo_post": "dom_1930"
     }
   ],
-  "approvazione": "Valerio, 08/11/2026 18:38 (\"Ok va bene\") · aggiunte 12/11 (3 post e 2 storie al giorno)"
+  "approvazione": "Valerio, 08/11/2026 18:38 (\"Ok va bene\") · aggiunte 12/11 (3 post e 2 storie al giorno)",
+  "regola_storie": "Ogni post ha una storia di richiamo 5 minuti dopo (campo dopo_post): la pubblica la stessa esecuzione del post, solo se il post è uscito."
 }
