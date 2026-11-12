@@ -52,6 +52,9 @@ def main():
         if u["tipo"] == "carosello" and u.get("ora") not in ORE_POST: err.append("i post escono alle 07:00, 13:00 o 19:30")
         if u["tipo"] == "curiosita" and u.get("ora") != "18:00": err.append("la curiosità esce alle 18:00")
         if u["tipo"] == "sondaggio" and u.get("ora") != "08:30": err.append("la storia con adesivo esce alle 08:30")
+        if u["tipo"] == "sera" and u.get("ora") != "21:45": err.append("la storia tecnica della sera esce alle 21:45")
+        if u["tipo"] == "sera":
+            err += [f"campo '{k}' mancante: ogni uscita dichiara tema, dato tecnico e da dove viene" for k in ("tema", "dato", "fonte_dato") if not str(u.get(k, "")).strip()]
         try:
             e, a = K.controlla_testi(u, prodotti); err += e; avv += a
             e, a = K.controlla_duplicati(u, lun, registro); err += e; avv += a
@@ -61,6 +64,9 @@ def main():
                 jobs.append({"kind": "post", "html": K.html_carosello(u), "out": [str(W / f) for f in files]})
                 st = dict(u["storia"]); st.setdefault("colore", u["colore"])
                 jobs.append({"kind": "storia", "html": K.html_storia(st, "richiamo"), "out": [str(W / f"img/{u['id']}_storia.jpg")]})
+            elif u["tipo"] == "sera":
+                st = dict(u); st.setdefault("piede", "Ogni sera una cosa da professionisti 🌙")
+                jobs.append({"kind": "storia", "html": K.html_storia(st, "curiosita"), "out": [str(W / f"img/{u['id']}.jpg")]})
             else:
                 jobs.append({"kind": "storia", "html": K.html_storia(u, u["tipo"]), "out": [str(W / f"img/{u['id']}.jpg")]})
         except Exception as ex:
@@ -88,6 +94,9 @@ def main():
         elif u["tipo"] == "curiosita":
             nuove.append({"id": u["id"], "tipo": "storia", "ora": "18:00", "titolo": "Curiosità: " + u["titolo_breve"], "tema": u["tema"],
                           "files": [f"img/{u['id']}.jpg"], "automatica": True, **base})
+        elif u["tipo"] == "sera":
+            nuove.append({"id": u["id"], "tipo": "storia", "ora": "21:45", "titolo": "Sera: " + u["titolo_breve"], "tema": u["tema"],
+                          "files": [f"img/{u['id']}.jpg"], "automatica": True, **base})
         else:
             nuove.append({"id": u["id"], "tipo": "storia", "ora": "08:30", "titolo": u["titolo_breve"] + f" (adesivo {u.get('adesivo', 'sondaggio')})", "tema": u["tema"],
                           "files": [f"img/{u['id']}.jpg"], "automatica": False, "adesivo": u.get("adesivo", "sondaggio"), "risposte": u.get("risposte", []), **base})
@@ -108,6 +117,7 @@ def main():
             elif not any(x.get("dopo_post") == p[0]["id"] for x in du): buchi.append(f"{GIORNI[i]} {piu5(h)}: manca la storia di richiamo di {p[0]['id']}")
         if not any(x["ora"] == "08:30" for x in du): buchi.append(f"{GIORNI[i]} 08:30: manca la storia con adesivo")
         if not any(x["ora"] == "18:00" for x in du): buchi.append(f"{GIORNI[i]} 18:00: manca la curiosità")
+        if not any(x["ora"] == "21:45" for x in du): buchi.append(f"{GIORNI[i]} 21:45: manca la storia tecnica della sera")
 
     righe = [f"# Rapporto di costruzione — settimana {lun}", ""]
     n_err = 0
@@ -115,7 +125,7 @@ def main():
         stato = "BLOCCATA" if err else "ok"; n_err += bool(err)
         righe.append(f"- **{i}**: {stato}")
         righe += [f"  - ERRORE: {e}" for e in err] + [f"  - avviso: {a}" for a in avv]
-    righe += ["", "## Copertura (3 post + richiami + adesivo 8:30 + curiosità 18:00 ogni giorno)"]
+    righe += ["", "## Copertura (3 post + richiami + adesivo 8:30 + curiosità 18:00 + tecnica 21:45 ogni giorno)"]
     righe += [f"- {b}" for b in buchi] or ["- completa"]
     (W / "rapporto.md").write_text("\n".join(righe) + "\n", encoding="utf-8")
     print("\n".join(righe))

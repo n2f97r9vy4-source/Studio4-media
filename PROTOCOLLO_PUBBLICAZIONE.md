@@ -27,3 +27,6 @@ Link pubblici: `base_url` + percorso del file (raw.githubusercontent.com).
 
 ## Storia curiosità delle 18:00 (Valerio, 12/11/2026)
 - Ogni giorno alle 18:00 una storia automatica "Lo sapevi?": domanda in alto, una curiosità agronomica che molti non sanno, spiegata in modo semplice e utile. Niente prodotti, niente prezzi. Colori diversi ogni giorno.
+
+## Storia tecnica delle 21:45 (Valerio, 12/11/2026)
+- Ogni giorno alle 21:45 una storia automatica con una cosa di agricoltura professionale che molti non sanno. La pubblica l'attività "storie Instagram 21:45" (create_story), solo se approvata.

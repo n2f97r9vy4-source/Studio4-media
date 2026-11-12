@@ -24,7 +24,7 @@ La pagina deve funzionare come una newsletter o un forum tecnico: uno la segue p
 9. **Contenuti da salvare.** Almeno due post a settimana devono essere una guida che uno si salva (tabelle semplici, ordine in botte, come riconoscere una carenza, calendario).
 
 ## 3. Regole fisse di Valerio
-- **Ritmo:** 3 post al giorno (07:00, 13:00, 19:30). Dopo ogni post, 5 minuti dopo, una **storia di richiamo** che lo riprende (direttiva: sempre, per ogni post). Alle 08:30 una storia interattiva con adesivo (sondaggio o domanda) che Valerio pubblica a mano. Alle 18:00 una storia **curiosità** ("Lo sapevi?", senza prodotti).
+- **Ritmo:** 3 post al giorno (07:00, 13:00, 19:30). Dopo ogni post, 5 minuti dopo, una **storia di richiamo** che lo riprende (direttiva: sempre, per ogni post). Alle 08:30 una storia interattiva con adesivo (sondaggio o domanda) che Valerio pubblica a mano. Alle 18:00 una storia **curiosità** ("Lo sapevi?", senza prodotti). Alle 21:45 una storia **tecnica della sera** (Valerio, 12/11/2026): una cosa di agricoltura professionale che molti non sanno, ogni giorno, automatica.
 - **Solo caroselli** (3–8 slide, di norma 4). Niente post a immagine singola, niente quiz in carosello.
 - **Prima slide:** deve sempre catturare l'attenzione.
 - **Logo:** solo il logo ufficiale STUDIO 4, già messo dal kit. Mai altri loghi.
@@ -53,7 +53,7 @@ La frase obbligatoria la aggiunge il kit prima degli hashtag.
 ## 6. Come si lavora (ogni settimana)
 1. `sh kit/setup.sh`
 2. Leggi: questo file, `PROTOCOLLO_PUBBLICAZIONE.md`, `kit/prodotti.json`, `kit/esempi/spec_esempio.json`, i calendari delle ultime 4 settimane (per non ripetere), le schede tema del Progetto, `settimane/<lunedì>/rapporto.md` se esiste.
-3. Scrivi il **piano editoriale** della settimana (21 post, 7 adesivi, 7 curiosità): per ogni giorno tre post di tipo diverso. Controlla la varietà (regola 7) prima di scrivere i testi.
+3. Scrivi il **piano editoriale** della settimana (21 post, 7 adesivi, 7 curiosità, 7 storie tecniche della sera): per ogni giorno tre post di tipo diverso. Controlla la varietà (regola 7) prima di scrivere i testi.
 4. Scrivi `settimane/<lunedì>/spec.json` (formato sotto). Se il file esiste già, aggiungi le uscite che mancano: non toccare quelle già approvate o pubblicate.
 5. `python3 kit/costruisci.py <lunedì>`: controlla i testi, crea immagini e didascalie, aggiorna il calendario, scrive `rapporto.md`. Un'uscita con errori è bloccata: correggi la specifica e rilancia (`--solo id1,id2` per rifare solo alcune).
 6. **Guarda le immagini** (ogni copertina, e a campione le altre): il testo si legge? c'è spazio vuoto? la foto è grande? Rifai quello che non ti convince. Rileggi ogni post con la prova del punto 1.
@@ -95,6 +95,11 @@ Storia di richiamo (`storia` dentro il carosello): titolo (riprende la copertina
 ```
 {"id":"mar_curiosita","tipo":"curiosita","data":"…","ora":"18:00","titolo_breve":"…","tema":"…","dato":"…","fonte_dato":"…",
  "colore":"…","emoji":"🐝","titolo":"Domanda<br>con <em>parte colorata</em>","etichetta":"Lo sapevi?","grande":"il fatto che pochi sanno","piccolo":"cosa farci in pratica"}
+```
+**Storia tecnica della sera (21:45)** — una cosa da professionisti che molti non sanno (fisiologia, nutrizione, clima in serra, fertirrigazione, difesa), diversa dalla curiosità delle 18:00 e dai post del giorno. Niente prodotti, niente dosi, niente prezzi. Colore e emoji diversi ogni sera.
+```
+{"id":"mar_2145","tipo":"sera","data":"…","ora":"21:45","titolo_breve":"…","tema":"…","dato":"…","fonte_dato":"…",
+ "colore":"…","emoji":"🌙","titolo":"Domanda<br>con <em>parte colorata</em>","etichetta":"Da professionisti","grande":"il fatto tecnico","piccolo":"cosa cambia in serra"}
 ```
 **Storia con adesivo delle 08:30**
 ```
