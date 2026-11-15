@@ -183,7 +183,7 @@
       ],
       "didascalia": "didascalie/mar_0700.txt",
       "approvato": true,
-      "attesa_foto": false,
+      "attesa_foto": true,
       "pubblicato": false,
       "tema": "qzyme-bio",
       "prodotti": [
@@ -202,7 +202,7 @@
       ],
       "approvato": true,
       "automatica": true,
-      "attesa_foto": false,
+      "attesa_foto": true,
       "pubblicato": false,
       "dopo_post": "mar_0700",
       "slittato_da": "2026-11-14 07:05 (2026-11-09/sab_0700_storia)"
