@@ -8,7 +8,7 @@ L'obiettivo di Valerio (bacheca `claude/00_STUDIO4_BACHECA.md`) ha quattro pilas
 ## Quando esce
 - **Giovedì e domenica alle 20:00** (carosello) + storia di richiamo alle **20:05** (direttiva: ogni post ha la sua storia 5 minuti dopo).
 - Nel calendario: id `<giorno>_2000` (es. `gio_2000`), storia `<giorno>_2000_storia`, `"rubrica": "newsletter"`.
-- La prepara il Redattore Newsletter lo stesso giorno, nel primo pomeriggio, con le notizie più fresche. Esce solo con l'ok di Valerio.
+- La prepara il Redattore Newsletter il giorno prima (mercoledì per il giovedì, sabato per la domenica, alle 14:23) e la manda a Valerio. Esce solo con il suo ok.
 
 ## Cosa ci va
 3–4 notizie dei giorni precedenti (dall'ultima newsletter), scelte per importanza per chi coltiva pomodoro, melanzana, peperone, cetriolo, zucchina in serra in Sicilia. Temi:
