@@ -30,3 +30,7 @@ Link pubblici: `base_url` + percorso del file (raw.githubusercontent.com).
 
 ## Storia tecnica delle 21:45 (Valerio, 12/11/2026)
 - Ogni giorno alle 21:45 una storia automatica con una cosa di agricoltura professionale che molti non sanno. La pubblica l'attività "storie Instagram 21:45" (create_story), solo se approvata.
+
+## Slittamento (15/11/2026)
+Se l'account resta bloccato e delle uscite non partono, NON si recuperano doppie: tutto il programma slitta in avanti dal primo contenuto mancante (decisione di Valerio, 15/11/2026). Si fa con `python3 kit/slitta.py <giorni> <dal giorno AAAA-MM-GG>`: sposta le uscite non pubblicate nella settimana giusta, rinomina id e file col nuovo giorno e conserva le approvazioni (campo `slittato_da` con data e id originali).
+Primo slittamento: +3 giorni dal 13/11 (account Instagram bloccato da un controllo di sicurezza dal 13 al 15/11).
