@@ -12,8 +12,8 @@ import s4kit as K
 
 GIORNI = ["lun", "mar", "mer", "gio", "ven", "sab", "dom"]
 ORE_POST = ["07:00", "13:00", "19:30"]
-ORE_NEWSLETTER = "20:00"          # "Notizie dal campo": solo domenica, lunedì e giovedì (Valerio, 15/11/2026)
-GIORNI_NEWSLETTER = (0, 3, 6)     # lunedì, giovedì, domenica
+ORE_NEWSLETTER = "20:00"          # "Notizie dal campo": solo giovedì e domenica (Valerio, 15/11/2026)
+GIORNI_NEWSLETTER = (3, 6)        # giovedì e domenica (Valerio, 15/11/2026)
 
 def piu5(h):
     H, M = map(int, h.split(":")); t = H * 60 + M + 5
@@ -53,7 +53,7 @@ def main():
         if u.get("data") not in giorni_ok: err.append(f"data {u.get('data')} fuori dalla settimana")
         if u["tipo"] == "carosello" and u.get("ora") not in ORE_POST + [ORE_NEWSLETTER]: err.append("i post escono alle 07:00, 13:00 o 19:30 (newsletter alle 20:00)")
         if u["tipo"] == "carosello" and u.get("ora") == ORE_NEWSLETTER and u.get("data") in giorni_ok and datetime.date.fromisoformat(u["data"]).weekday() not in GIORNI_NEWSLETTER:
-            err.append("la newsletter delle 20:00 esce solo domenica, lunedì e giovedì")
+            err.append("la newsletter delle 20:00 esce solo giovedì e domenica")
         if u["tipo"] == "curiosita" and u.get("ora") != "18:00": err.append("la curiosità esce alle 18:00")
         if u["tipo"] == "sondaggio" and u.get("ora") != "08:30": err.append("la storia con adesivo esce alle 08:30")
         if u["tipo"] == "sera" and u.get("ora") != "21:45": err.append("la storia tecnica della sera esce alle 21:45")

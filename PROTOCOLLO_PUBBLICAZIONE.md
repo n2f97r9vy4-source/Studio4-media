@@ -36,4 +36,4 @@ Se l'account resta bloccato e delle uscite non partono, NON si recuperano doppie
 Primo slittamento: +3 giorni dal 13/11 (account Instagram bloccato da un controllo di sicurezza dal 13 al 15/11).
 
 ## Newsletter "Notizie dal campo" (15/11/2026)
-Domenica, lunedì e giovedì alle 20:00 un carosello "Notizie dal campo" (rubrica newsletter) + storia di richiamo alle 20:05. Lo prepara il Redattore Newsletter (manuale NEWSLETTER.md), lo pubblica l'esecuzione delle 20:00 solo se approvato da Valerio. Il Direttore Creativo non tocca queste uscite.
+Giovedì e domenica alle 20:00 un carosello "Notizie dal campo" (rubrica newsletter) + storia di richiamo alle 20:05. Lo prepara il Redattore Newsletter (manuale NEWSLETTER.md), lo pubblica l'esecuzione delle 20:00 solo se approvato da Valerio. Il Direttore Creativo non tocca queste uscite.

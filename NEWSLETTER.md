@@ -6,8 +6,8 @@ Decisa da Valerio il 15/11/2026. Manuale del **Redattore Newsletter** (agente se
 L'obiettivo di Valerio (bacheca `claude/00_STUDIO4_BACHECA.md`) ha quattro pilastri: commerciale, consigli che gli agricoltori non sanno, **newsletter**, sponsorizzare sempre Studio 4. La newsletter tiene aggiornati gli agricoltori di serra su cosa succede nell'agricoltura in Italia, in Europa e nel mondo, e spiega **cosa cambia per loro a Vittoria**. Chi la legge deve pensare: "queste cose me le dice Studio 4 prima degli altri". (Il "forum" è stato escluso da Valerio il 15/11.)
 
 ## Quando esce
-- **Domenica, lunedì e giovedì alle 20:00** (carosello) + storia di richiamo alle **20:05** (direttiva: ogni post ha la sua storia 5 minuti dopo).
-- Nel calendario: id `<giorno>_2000` (es. `lun_2000`), storia `<giorno>_2000_storia`, `"rubrica": "newsletter"`.
+- **Giovedì e domenica alle 20:00** (carosello) + storia di richiamo alle **20:05** (direttiva: ogni post ha la sua storia 5 minuti dopo).
+- Nel calendario: id `<giorno>_2000` (es. `gio_2000`), storia `<giorno>_2000_storia`, `"rubrica": "newsletter"`.
 - La prepara il Redattore Newsletter lo stesso giorno, nel primo pomeriggio, con le notizie più fresche. Esce solo con l'ok di Valerio.
 
 ## Cosa ci va
@@ -26,13 +26,13 @@ Ministero dell'Agricoltura (masaf.gov.it), Ministero della Salute (banca dati fi
 - Mai copiare testi: solo parole tue; nessuna citazione lunga.
 
 ## Struttura del carosello (4–6 slide, kit `kit/s4kit.py`)
-1. **Copertina** che aggancia: "📰 Notizie dal campo" + la notizia più forte come titolo + data ("Lunedì 16 novembre").
+1. **Copertina** che aggancia: "📰 Notizie dal campo" + la notizia più forte come titolo + data ("Giovedì 19 novembre").
 2. **Una slide per notizia** (tipo `schede` o `grande`): cosa è successo in 2 righe + riquadro **"Cosa cambia per te"** (concreto, per chi lavora in serra a Vittoria).
 3. **"Lo sapevi?"** legato a una delle notizie (dato tecnico o di contesto).
 4. **Chiusura Studio 4**: "Hai dubbi su cosa cambia per la tua azienda? Passa al banco: ne parliamo." (+ orari/WhatsApp se utile). Qui si sponsorizza il magazzino e la rivendita, senza prezzi né promozioni.
 
 ## Didascalia
-Riga-gancio con 📰 · le notizie in punti brevi ("• Titolo — cosa cambia per te") · "💡 Lo sapevi?" · chiusura "Ti aggiorniamo ogni domenica, lunedì e giovedì alle 20. Hai dubbi? Passa al banco." · hashtag (6–8: #notiziedalcampo #agricoltura #serra #vittoria #studio4srl …). Il kit aggiunge da solo la frase obbligatoria.
+Riga-gancio con 📰 · le notizie in punti brevi ("• Titolo — cosa cambia per te") · "💡 Lo sapevi?" · chiusura "Ti aggiorniamo ogni Giovedì e domenica alle 20. Hai dubbi? Passa al banco." · hashtag (6–8: #notiziedalcampo #agricoltura #serra #vittoria #studio4srl …). Il kit aggiunge da solo la frase obbligatoria.
 
 ## Regole fisse (valgono tutte quelle di DIREZIONE_CREATIVA.md §3)
 Mai nomi dei produttori; niente prezzi, sconti o promozioni di Studio 4 (i prezzi di mercato all'origine sono notizie e si possono dare, con la data); niente parole assolute; niente dosi (la newsletter non dà dosi); logo e stile del kit senza modifiche.
