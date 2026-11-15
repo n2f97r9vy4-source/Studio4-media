@@ -34,3 +34,6 @@ Link pubblici: `base_url` + percorso del file (raw.githubusercontent.com).
 ## Slittamento (15/11/2026)
 Se l'account resta bloccato e delle uscite non partono, NON si recuperano doppie: tutto il programma slitta in avanti dal primo contenuto mancante (decisione di Valerio, 15/11/2026). Si fa con `python3 kit/slitta.py <giorni> <dal giorno AAAA-MM-GG>`: sposta le uscite non pubblicate nella settimana giusta, rinomina id e file col nuovo giorno e conserva le approvazioni (campo `slittato_da` con data e id originali).
 Primo slittamento: +3 giorni dal 13/11 (account Instagram bloccato da un controllo di sicurezza dal 13 al 15/11).
+
+## Newsletter "Notizie dal campo" (15/11/2026)
+Domenica, lunedì e giovedì alle 20:00 un carosello "Notizie dal campo" (rubrica newsletter) + storia di richiamo alle 20:05. Lo prepara il Redattore Newsletter (manuale NEWSLETTER.md), lo pubblica l'esecuzione delle 20:00 solo se approvato da Valerio. Il Direttore Creativo non tocca queste uscite.
