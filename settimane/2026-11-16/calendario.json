@@ -142,6 +142,21 @@
       "pubblicato": false
     },
     {
+      "id": "lun_2145",
+      "tipo": "storia",
+      "ora": "21:45",
+      "titolo": "Sera: Dal fiore al frutto rosso: contano i gradi",
+      "tema": "maturazione-pomodoro-gradi-non-giorni",
+      "files": [
+        "img/lun_2145.jpg"
+      ],
+      "automatica": true,
+      "data": "2026-11-16",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
       "id": "mar_0700",
       "tipo": "carosello",
       "ora": "07:00",
@@ -275,6 +290,21 @@
       ],
       "automatica": true,
       "dopo_post": "mar_1930",
+      "data": "2026-11-17",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "mar_2145",
+      "tipo": "storia",
+      "ora": "21:45",
+      "titolo": "Sera: Serra chiusa: finisce l'anidride carbonica",
+      "tema": "anidride-carbonica-serra-chiusa",
+      "files": [
+        "img/mar_2145.jpg"
+      ],
+      "automatica": true,
       "data": "2026-11-17",
       "approvato": false,
       "attesa_foto": false,
@@ -424,6 +454,21 @@
       "pubblicato": false
     },
     {
+      "id": "mer_2145",
+      "tipo": "storia",
+      "ora": "21:45",
+      "titolo": "Sera: Il pH attorno alla radice lo decide l'azoto",
+      "tema": "forma-azoto-ph-attorno-radice",
+      "files": [
+        "img/mer_2145.jpg"
+      ],
+      "automatica": true,
+      "data": "2026-11-18",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
       "id": "gio_0700",
       "tipo": "carosello",
       "ora": "07:00",
@@ -563,6 +608,21 @@
       "pubblicato": false
     },
     {
+      "id": "gio_2145",
+      "tipo": "storia",
+      "ora": "21:45",
+      "titolo": "Sera: Acqua: comandano i bicarbonati, non il pH",
+      "tema": "acqua-bicarbonati-non-ph",
+      "files": [
+        "img/gio_2145.jpg"
+      ],
+      "automatica": true,
+      "data": "2026-11-19",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
       "id": "ven_0700",
       "tipo": "carosello",
       "ora": "07:00",
@@ -696,6 +756,21 @@
       ],
       "automatica": true,
       "dopo_post": "ven_1930",
+      "data": "2026-11-20",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "ven_2145",
+      "tipo": "storia",
+      "ora": "21:45",
+      "titolo": "Sera: Afide e virus: bastano pochi secondi",
+      "tema": "afidi-virus-pochi-secondi",
+      "files": [
+        "img/ven_2145.jpg"
+      ],
+      "automatica": true,
       "data": "2026-11-20",
       "approvato": false,
       "attesa_foto": false,
@@ -842,6 +917,21 @@
       "pubblicato": false
     },
     {
+      "id": "sab_2145",
+      "tipo": "storia",
+      "ora": "21:45",
+      "titolo": "Sera: Grappolo doppio: deciso settimane prima",
+      "tema": "grappolo-pomodoro-fiori-decisi-prima",
+      "files": [
+        "img/sab_2145.jpg"
+      ],
+      "automatica": true,
+      "data": "2026-11-21",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
       "id": "dom_0700",
       "tipo": "carosello",
       "ora": "07:00",
@@ -976,6 +1066,21 @@
       ],
       "automatica": true,
       "dopo_post": "dom_1930",
+      "data": "2026-11-22",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false
+    },
+    {
+      "id": "dom_2145",
+      "tipo": "storia",
+      "ora": "21:45",
+      "titolo": "Sera: Umidità 80%: a 28 °C non è come a 15 °C",
+      "tema": "umidita-relativa-deficit-di-vapore",
+      "files": [
+        "img/dom_2145.jpg"
+      ],
+      "automatica": true,
       "data": "2026-11-22",
       "approvato": false,
       "attesa_foto": false,
