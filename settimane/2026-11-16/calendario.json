@@ -43,9 +43,11 @@
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false,
+      "pubblicato": true,
       "dopo_post": "lun_0700",
-      "slittato_da": "2026-11-13 07:05 (2026-11-09/ven_0700_storia)"
+      "slittato_da": "2026-11-13 07:05 (2026-11-09/ven_0700_storia)",
+      "media_id": "17959669128279232",
+      "ora_pubblicazione": "2026-11-17 14:13"
     },
     {
       "id": "mar_0830",
