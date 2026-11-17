@@ -161,9 +161,11 @@
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false,
+      "pubblicato": true,
       "dopo_post": "mar_1930",
-      "slittato_da": "2026-11-13 19:35 (2026-11-09/ven_1930_storia)"
+      "slittato_da": "2026-11-13 19:35 (2026-11-09/ven_1930_storia)",
+      "media_id": "18074550398785280",
+      "ora_pubblicazione": "2026-11-17 19:47"
     },
     {
       "id": "mar_2145",
