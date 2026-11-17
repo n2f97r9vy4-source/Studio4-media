@@ -118,9 +118,11 @@
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false,
+      "pubblicato": true,
       "tema": "tuta-absoluta-quante-uova-fa-una-femmina",
-      "slittato_da": "2026-11-13 18:00 (2026-11-09/ven_curiosita_1800)"
+      "slittato_da": "2026-11-13 18:00 (2026-11-09/ven_curiosita_1800)",
+      "media_id": "18649603867035276",
+      "ora_pubblicazione": "2026-11-17 18:01"
     },
     {
       "id": "mar_1930",
