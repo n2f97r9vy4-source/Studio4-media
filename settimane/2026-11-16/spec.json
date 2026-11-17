@@ -2,9 +2,9 @@
   "settimana": "2026-11-16",
   "uscite": [
     {
-      "id": "mer_1930",
+      "id": "gio_1930",
       "tipo": "carosello",
-      "data": "2026-11-18",
+      "data": "2026-11-19",
       "ora": "19:30",
       "titolo": "Pomodoro in serra: prima la pianta, poi i fiori",
       "tema": "pomodoro-serra-rigor-instant-trip",
@@ -104,9 +104,9 @@
       }
     },
     {
-      "id": "gio_0830",
+      "id": "ven_0830",
       "tipo": "sondaggio",
-      "data": "2026-11-19",
+      "data": "2026-11-20",
       "ora": "08:30",
       "titolo_breve": "Misuri il pH dell'acqua?",
       "tema": "sondaggio-ph-acqua",
@@ -125,9 +125,9 @@
       ]
     },
     {
-      "id": "gio_1300",
+      "id": "ven_1300",
       "tipo": "carosello",
-      "data": "2026-11-19",
+      "data": "2026-11-20",
       "ora": "13:00",
       "titolo": "Mosca bianca: perché torna sempre",
       "tema": "mosca-bianca-ciclo",
@@ -209,9 +209,9 @@
       }
     },
     {
-      "id": "gio_1930",
+      "id": "ven_1930",
       "tipo": "carosello",
-      "data": "2026-11-19",
+      "data": "2026-11-20",
       "ora": "19:30",
       "titolo": "Serra d'inverno: la condensa",
       "tema": "condensa-serra-inverno",
@@ -293,9 +293,9 @@
       }
     },
     {
-      "id": "gio_2145",
+      "id": "ven_2145",
       "tipo": "sera",
-      "data": "2026-11-19",
+      "data": "2026-11-20",
       "ora": "21:45",
       "titolo_breve": "Dal fiore al frutto rosso: contano i gradi",
       "tema": "maturazione-pomodoro-gradi-non-giorni",
@@ -309,9 +309,9 @@
       "piccolo": "Quattro gradi valgono un mese. E conta la media delle 24 ore: il calore che tieni di notte è raccolta che arriva prima."
     },
     {
-      "id": "ven_0700",
+      "id": "sab_0700",
       "tipo": "carosello",
-      "data": "2026-11-20",
+      "data": "2026-11-21",
       "ora": "07:00",
       "titolo": "Cetrioli storti o a punta: la forma dice la causa",
       "tema": "cetriolo-frutti-deformi",
@@ -393,9 +393,9 @@
       }
     },
     {
-      "id": "ven_0830",
+      "id": "sab_0830",
       "tipo": "sondaggio",
-      "data": "2026-11-20",
+      "data": "2026-11-21",
       "ora": "08:30",
       "titolo_breve": "Hai una lente in tasca?",
       "tema": "sondaggio-lente-in-serra",
@@ -414,9 +414,9 @@
       ]
     },
     {
-      "id": "ven_1930",
+      "id": "sab_1930",
       "tipo": "carosello",
-      "data": "2026-11-20",
+      "data": "2026-11-21",
       "ora": "19:30",
       "titolo": "Carenza e rientro: due tempi diversi",
       "tema": "carenza-e-tempo-di-rientro",
@@ -513,9 +513,9 @@
       }
     },
     {
-      "id": "ven_2145",
+      "id": "sab_2145",
       "tipo": "sera",
-      "data": "2026-11-20",
+      "data": "2026-11-21",
       "ora": "21:45",
       "titolo_breve": "Serra chiusa: finisce l'anidride carbonica",
       "tema": "anidride-carbonica-serra-chiusa",
@@ -529,9 +529,9 @@
       "piccolo": "Le piante la consumano, e senza rallentano anche in piena luce. Aprire al mattino non toglie solo umidità: la fa rientrare."
     },
     {
-      "id": "sab_0700",
+      "id": "dom_0700",
       "tipo": "carosello",
-      "data": "2026-11-21",
+      "data": "2026-11-22",
       "ora": "07:00",
       "titolo": "Fusto color bronzo: l'eriofide del pomodoro",
       "tema": "eriofide-rugginoso-pomodoro",
@@ -632,9 +632,9 @@
       }
     },
     {
-      "id": "sab_0830",
+      "id": "dom_0830",
       "tipo": "sondaggio",
-      "data": "2026-11-21",
+      "data": "2026-11-22",
       "ora": "08:30",
       "titolo_breve": "Quanti litri usi per 1.000 m²?",
       "tema": "sondaggio-litri-per-mille-metri",
@@ -653,9 +653,9 @@
       ]
     },
     {
-      "id": "sab_1930",
+      "id": "dom_1930",
       "tipo": "carosello",
-      "data": "2026-11-21",
+      "data": "2026-11-22",
       "ora": "19:30",
       "titolo": "Dose a ettaro, serra a metri: il conto già fatto",
       "tema": "dose-ettaro-mille-metri",
@@ -750,9 +750,9 @@
       }
     },
     {
-      "id": "sab_2145",
+      "id": "dom_2145",
       "tipo": "sera",
-      "data": "2026-11-21",
+      "data": "2026-11-22",
       "ora": "21:45",
       "titolo_breve": "Il pH attorno alla radice lo decide l'azoto",
       "tema": "forma-azoto-ph-attorno-radice",
@@ -764,211 +764,6 @@
       "etichetta": "Da professionisti",
       "grande": "L'azoto. Se la radice assorbe nitrato alza il pH intorno a sé; se assorbe ammonio lo abbassa.",
       "piccolo": "Sui terreni calcarei è lì, a un millimetro dalla radice, che il ferro si sblocca o resta fermo. Conta che azoto dai, non solo quanto."
-    },
-    {
-      "id": "dom_0700",
-      "tipo": "carosello",
-      "data": "2026-11-22",
-      "ora": "07:00",
-      "titolo": "Peperone: l'oidio che vive dentro la foglia",
-      "tema": "oidio-peperone-dentro-la-foglia",
-      "prodotti": [],
-      "colore": "giallo",
-      "argomento": "Oidio · Peperone",
-      "dato": "l'oidio del peperone cresce dentro la foglia e non in superficie: macchie gialle sopra, feltro bianco sotto; i sintomi compaiono settimane dopo l'infezione; la caduta delle foglie espone i frutti alle scottature",
-      "fonte_dato": "nozione generale di patologia vegetale",
-      "slide": [
-        {
-          "tipo": "copertina",
-          "titolo": "Peperone:<br><em>macchie<br>gialle</em><br>sulle foglie?",
-          "sotto": "Gira la foglia. <span>Se sotto è bianca, è un oidio diverso dagli altri.</span>",
-          "emoji": "🫑",
-          "box": "Vive dentro la foglia: per questo arrivi tardi. Scorri."
-        },
-        {
-          "tipo": "schede",
-          "tag": "Come lo riconosci",
-          "titolo": "Giallo sopra,<br><em>bianco sotto.</em>",
-          "voci": [
-            [
-              "🟡",
-              "Sopra: macchie gialle",
-              "Sfumate, senza bordo netto, sulle foglie più vecchie."
-            ],
-            [
-              "⚪",
-              "Sotto: feltro bianco",
-              "Una polverina chiara proprio dietro la macchia."
-            ],
-            [
-              "🍂",
-              "Poi la foglia cade",
-              "La pianta si spoglia dal basso verso l'alto."
-            ],
-            [
-              "☀️",
-              "E il frutto si scotta",
-              "Senza foglie i peperoni restano al sole diretto."
-            ]
-          ],
-          "fonte": "Nozioni generali.",
-          "chiusa": "Sopra la foglia sembra pulita: il bianco è solo sotto."
-        },
-        {
-          "tipo": "sapevi",
-          "titolo": "Cresce dentro, non sopra.",
-          "grande": "Gli altri oidi stanno in superficie. Questo vive dentro la foglia.",
-          "piccolo": "Esce solo per fare le spore: quando vedi il bianco, è lì da settimane.",
-          "punti": [
-            "Un prodotto che resta in superficie lo raggiunge poco",
-            "Non gli serve la foglia bagnata: gli basta l'aria umida della sera"
-          ],
-          "chiusa": "Per questo si gioca d'anticipo.",
-          "fonte": "Nozioni generali."
-        },
-        {
-          "tipo": "elenco",
-          "tag": "In pratica",
-          "titolo": "Cosa fare<br><em>adesso.</em>",
-          "punti": [
-            "Gira 20 foglie basse a settimana, in punti diversi della serra",
-            "Guarda le foglie più vecchie: comincia da lì",
-            "Alle prime macchie chiedi al banco un prodotto che entri nella foglia",
-            "Alterna i meccanismi d'azione: gli oidi diventano resistenti in fretta"
-          ],
-          "chiusa": "Le foglie rimaste fanno ombra ai frutti: difendile.",
-          "fonte": "Nozioni generali."
-        }
-      ],
-      "didascalia": "Peperone: macchie gialle sulle foglie? 🫑\n\nGira la foglia. Se sotto la macchia c'è un feltro bianco è l'oidio del peperone, ed è diverso dagli altri oidi: non cresce sopra la foglia, ma dentro. Per questo, quando lo vedi, è lì da settimane.\n\n🔎 Come lo riconosci\n• Sopra: macchie gialle sfumate, sulle foglie più vecchie\n• Sotto: polverina bianca dietro la macchia\n• Poi la foglia cade, dal basso verso l'alto\n• I frutti restano al sole e si scottano\n\n🛠️ Cosa fare\n• Gira 20 foglie basse a settimana, in punti diversi\n• Alle prime macchie serve un prodotto che entri nella foglia\n• Alterna i meccanismi d'azione\n\n💡 Lo sapevi? A questo fungo non serve la foglia bagnata: gli basta l'aria umida della sera. E un prodotto che resta in superficie lo raggiunge poco.\n\nHai un dubbio? Porta una foglia al banco.\n\n#peperone #oidio #serra #difesa #orticole #vittoria #studio4srl",
-      "storia": {
-        "titolo": "Peperone:<br><em>gira<br>la foglia.</em>",
-        "emoji": "🫑",
-        "etichetta": "Lo sapevi?",
-        "grande": "Questo oidio vive dentro la foglia.",
-        "piccolo": "Giallo sopra, bianco sotto: quando lo vedi è lì da settimane."
-      }
-    },
-    {
-      "id": "dom_0830",
-      "tipo": "sondaggio",
-      "data": "2026-11-22",
-      "ora": "08:30",
-      "titolo_breve": "Chiudi la serra prima o dopo il tramonto?",
-      "tema": "sondaggio-chiusura-serra",
-      "dato": "chiudere la serra con il sole ancora alto conserva più calore per la notte",
-      "fonte_dato": "nozione generale di climatizzazione delle serre",
-      "colore": "magenta",
-      "emoji": "🌅",
-      "titolo": "La serra la chiudi<br><em>prima o dopo</em><br>il tramonto?",
-      "etichetta": "Lo sapevi?",
-      "grande": "Il calore per la notte si mette da parte di giorno.",
-      "piccolo": "Chiudendo con il sole ancora alto ne resta di più dentro.",
-      "adesivo": "sondaggio",
-      "risposte": [
-        "Prima",
-        "Dopo"
-      ]
-    },
-    {
-      "id": "dom_1930",
-      "tipo": "carosello",
-      "data": "2026-11-22",
-      "ora": "19:30",
-      "titolo": "Notte fredda in arrivo: la serra si prepara di giorno",
-      "tema": "notte-fredda-preparare-la-serra",
-      "prodotti": [],
-      "colore": "blu",
-      "argomento": "Freddo in serra",
-      "dato": "il terreno umido accumula più calore di quello asciutto e lo rilascia di notte; le notti più fredde sono quelle serene e senza vento; la temperatura minima arriva poco prima dell'alba",
-      "fonte_dato": "nozione generale di climatizzazione delle serre",
-      "slide": [
-        {
-          "tipo": "copertina",
-          "titolo": "Stanotte<br>fa <em>freddo.</em><br>Cosa fai<br>oggi?",
-          "sotto": "Il caldo della notte <span>si mette da parte di giorno.</span>",
-          "emoji": "🥶",
-          "box": "Quattro mosse, con l'orario. Scorri."
-        },
-        {
-          "tipo": "passi",
-          "tag": "Passo per passo",
-          "titolo": "La giornata<br><em>prima del freddo.</em>",
-          "passi": [
-            [
-              "Mattina",
-              "Irriga presto",
-              "Il terreno umido prende più calore dal sole e lo ridà di notte."
-            ],
-            [
-              "Primo pomeriggio",
-              "Chiudi prima",
-              "Con il sole ancora alto: il calore resta dentro."
-            ],
-            [
-              "Sera",
-              "Doppio telo o tessuto",
-              "L'aria ferma sopra le piante trattiene il calore che sale dal terreno."
-            ],
-            [
-              "Alba",
-              "Apri piano",
-              "Il minimo arriva poco prima dell'alba. Poi arieggia poco per volta."
-            ]
-          ],
-          "fonte": "Nozioni generali.",
-          "box": "Non serve comprare niente: cambia solo l'orario."
-        },
-        {
-          "tipo": "elenco",
-          "tag": "Da evitare",
-          "titolo": "Quattro errori<br><em>che costano gradi.</em>",
-          "punti": [
-            "Irrigare la sera: terreno e radici entrano nella notte bagnati e freddi",
-            "Chiudere al tramonto: il calore del giorno è già uscito",
-            "Fidarsi del termometro in testata: il freddo si misura in mezzo alla serra, all'altezza delle cime",
-            "Spalancare appena esce il sole: apri poco per volta, senza sbalzi"
-          ],
-          "chiusa": "Un termometro a minima e massima ti dice cosa è successo mentre dormivi.",
-          "fonte": "Nozioni generali."
-        },
-        {
-          "tipo": "sapevi",
-          "titolo": "Guarda il cielo al tramonto.",
-          "grande": "Le notti più fredde sono quelle serene e senza vento.",
-          "piccolo": "Senza nuvole il calore del terreno scappa verso il cielo. Le nuvole fanno da coperta.",
-          "punti": [
-            "Cielo limpido e aria ferma al tramonto: preparati al minimo",
-            "Un telo termico trattiene meglio il calore che il terreno rimanda di notte",
-            "Il momento più freddo è poco prima dell'alba, non a mezzanotte"
-          ],
-          "fonte": "Nozioni generali."
-        }
-      ],
-      "didascalia": "Stanotte fa freddo. Cosa fai oggi? 🥶\n\nIl caldo della notte si mette da parte di giorno. Una serra fredda non produce calore: può solo tenere quello che il sole ha lasciato nel terreno. Per questo le mosse giuste si fanno prima, non quando il termometro è già sceso.\n\n🕐 La giornata prima del freddo\n• Mattina: irriga presto. Il terreno umido accumula più calore di quello asciutto\n• Primo pomeriggio: chiudi con il sole ancora alto\n• Sera: doppio telo o tessuto sopra le piante\n• Alba: apri piano, il minimo arriva poco prima del sole\n\n❌ Da evitare: irrigare la sera, chiudere al tramonto, leggere il termometro solo in testata.\n\n💡 Lo sapevi? Le notti più fredde sono quelle serene e senza vento: senza nuvole il calore scappa verso il cielo. Guarda il cielo al tramonto e saprai cosa aspettarti.\n\nTeli e tessuti li trovi al banco.\n\n#serra #freddo #inverno #pomodoro #orticole #vittoria #studio4srl",
-      "storia": {
-        "titolo": "Stanotte<br>fa <em>freddo?</em>",
-        "emoji": "🥶",
-        "etichetta": "Il consiglio",
-        "grande": "Irriga al mattino, chiudi nel primo pomeriggio.",
-        "piccolo": "Il terreno umido mette da parte calore per la notte."
-      }
-    },
-    {
-      "id": "dom_2145",
-      "tipo": "sera",
-      "data": "2026-11-22",
-      "ora": "21:45",
-      "titolo_breve": "Acqua: comandano i bicarbonati, non il pH",
-      "tema": "acqua-bicarbonati-non-ph",
-      "dato": "la quantità di acido necessaria per correggere un'acqua dipende dall'alcalinità (bicarbonati), non dal pH: il pH da solo non indica l'alcalinità, e un'acqua a pH alto con pochi bicarbonati raramente va acidificata",
-      "fonte_dato": "nozione generale di fertirrigazione, riscontrata sulla scheda «Water Quality: pH and Alkalinity» della University of Massachusetts Extension, consultata il 15/11/2026",
-      "colore": "indaco",
-      "emoji": "🚰",
-      "titolo": "Due acque<br>a pH 7,5:<br><em>stesso acido?</em>",
-      "etichetta": "Da professionisti",
-      "grande": "No. Quanto acido serve lo decidono i bicarbonati, non il pH.",
-      "piccolo": "Un'acqua a pH alto ma povera di bicarbonati si corregge con poco. Sull'analisi, leggi quella riga prima del pH."
     }
   ]
 }

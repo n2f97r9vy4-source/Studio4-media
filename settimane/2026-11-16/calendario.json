@@ -20,14 +20,16 @@
       "didascalia": "didascalie/lun_0700.txt",
       "approvato": true,
       "attesa_foto": false,
-      "pubblicato": false,
+      "pubblicato": true,
       "tema": "laser-120-sc",
       "prodotti": [
         "laser",
         "kristal",
         "phcontrol"
       ],
-      "slittato_da": "2026-11-13 07:00 (2026-11-09/ven_0700)"
+      "slittato_da": "2026-11-13 07:00 (2026-11-09/ven_0700)",
+      "media_id": "18160667800498718",
+      "ora_pubblicazione": "2026-11-17 14:08"
     },
     {
       "id": "lun_0700_storia",
@@ -46,13 +48,13 @@
       "slittato_da": "2026-11-13 07:05 (2026-11-09/ven_0700_storia)"
     },
     {
-      "id": "lun_0830",
+      "id": "mar_0830",
       "tipo": "storia",
-      "data": "2026-11-16",
+      "data": "2026-11-17",
       "ora": "08:30",
       "titolo": "MKP o MAP (adesivo sondaggio)",
       "files": [
-        "img/lun_0830.jpg"
+        "img/mar_0830.jpg"
       ],
       "automatica": false,
       "approvato": true,
@@ -61,18 +63,18 @@
       "slittato_da": "2026-11-13 08:30 (2026-11-09/ven_storia_5_VEN_storia)"
     },
     {
-      "id": "lun_1300",
+      "id": "mar_1300",
       "tipo": "carosello",
-      "data": "2026-11-16",
+      "data": "2026-11-17",
       "ora": "13:00",
       "titolo": "Basfoliar Kelp",
       "files": [
-        "img/lun_1300_1.jpg",
-        "img/lun_1300_2.jpg",
-        "img/lun_1300_3.jpg",
-        "img/lun_1300_4.jpg"
+        "img/mar_1300_1.jpg",
+        "img/mar_1300_2.jpg",
+        "img/mar_1300_3.jpg",
+        "img/mar_1300_4.jpg"
       ],
-      "didascalia": "didascalie/lun_1300.txt",
+      "didascalia": "didascalie/mar_1300.txt",
       "approvato": true,
       "attesa_foto": false,
       "pubblicato": false,
@@ -83,29 +85,29 @@
       "slittato_da": "2026-11-13 13:00 (2026-11-09/ven_1300)"
     },
     {
-      "id": "lun_1300_storia",
+      "id": "mar_1300_storia",
       "tipo": "storia",
-      "data": "2026-11-16",
+      "data": "2026-11-17",
       "ora": "13:05",
       "titolo": "Richiamo: Basfoliar Kelp",
       "files": [
-        "img/lun_1300_storia.jpg"
+        "img/mar_1300_storia.jpg"
       ],
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
       "pubblicato": false,
-      "dopo_post": "lun_1300",
+      "dopo_post": "mar_1300",
       "slittato_da": "2026-11-13 13:05 (2026-11-09/ven_1300_storia)"
     },
     {
-      "id": "lun_curiosita_1800",
+      "id": "mar_curiosita_1800",
       "tipo": "storia",
-      "data": "2026-11-16",
+      "data": "2026-11-17",
       "ora": "18:00",
       "titolo": "Curiosità: Tuta absoluta: quante uova fa una femmina?",
       "files": [
-        "img/lun_curiosita_1800.jpg"
+        "img/mar_curiosita_1800.jpg"
       ],
       "approvato": true,
       "automatica": true,
@@ -115,18 +117,18 @@
       "slittato_da": "2026-11-13 18:00 (2026-11-09/ven_curiosita_1800)"
     },
     {
-      "id": "lun_1930",
+      "id": "mar_1930",
       "tipo": "carosello",
-      "data": "2026-11-16",
+      "data": "2026-11-17",
       "ora": "19:30",
       "titolo": "MKP o MAP",
       "files": [
-        "img/lun_1930_1.jpg",
-        "img/lun_1930_2.jpg",
-        "img/lun_1930_3.jpg",
-        "img/lun_1930_4.jpg"
+        "img/mar_1930_1.jpg",
+        "img/mar_1930_2.jpg",
+        "img/mar_1930_3.jpg",
+        "img/mar_1930_4.jpg"
       ],
-      "didascalia": "didascalie/lun_1930.txt",
+      "didascalia": "didascalie/mar_1930.txt",
       "approvato": true,
       "attesa_foto": false,
       "pubblicato": false,
@@ -138,29 +140,29 @@
       "slittato_da": "2026-11-13 19:30 (2026-11-09/ven_1930)"
     },
     {
-      "id": "lun_1930_storia",
+      "id": "mar_1930_storia",
       "tipo": "storia",
-      "data": "2026-11-16",
+      "data": "2026-11-17",
       "ora": "19:35",
       "titolo": "Richiamo: MKP o MAP",
       "files": [
-        "img/lun_1930_storia.jpg"
+        "img/mar_1930_storia.jpg"
       ],
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
       "pubblicato": false,
-      "dopo_post": "lun_1930",
+      "dopo_post": "mar_1930",
       "slittato_da": "2026-11-13 19:35 (2026-11-09/ven_1930_storia)"
     },
     {
-      "id": "lun_2145",
+      "id": "mar_2145",
       "tipo": "storia",
-      "data": "2026-11-16",
+      "data": "2026-11-17",
       "ora": "21:45",
       "titolo": "Sera: Cerca questa insegna",
       "files": [
-        "img/lun_2145.jpg"
+        "img/mar_2145.jpg"
       ],
       "approvato": true,
       "automatica": true,
@@ -170,18 +172,18 @@
       "slittato_da": "2026-11-13 21:45 (2026-11-09/ven_2145)"
     },
     {
-      "id": "mar_0700",
+      "id": "mer_0700",
       "tipo": "carosello",
-      "data": "2026-11-17",
+      "data": "2026-11-18",
       "ora": "07:00",
       "titolo": "QZyme Bio",
       "files": [
-        "img/mar_0700_1.jpg",
-        "img/mar_0700_2.jpg",
-        "img/mar_0700_3.jpg",
-        "img/mar_0700_4.jpg"
+        "img/mer_0700_1.jpg",
+        "img/mer_0700_2.jpg",
+        "img/mer_0700_3.jpg",
+        "img/mer_0700_4.jpg"
       ],
-      "didascalia": "didascalie/mar_0700.txt",
+      "didascalia": "didascalie/mer_0700.txt",
       "approvato": true,
       "attesa_foto": true,
       "pubblicato": false,
@@ -192,29 +194,29 @@
       "slittato_da": "2026-11-14 07:00 (2026-11-09/sab_0700)"
     },
     {
-      "id": "mar_0700_storia",
+      "id": "mer_0700_storia",
       "tipo": "storia",
-      "data": "2026-11-17",
+      "data": "2026-11-18",
       "ora": "07:05",
       "titolo": "Richiamo: QZyme Bio",
       "files": [
-        "img/mar_0700_storia.jpg"
+        "img/mer_0700_storia.jpg"
       ],
       "approvato": true,
       "automatica": true,
       "attesa_foto": true,
       "pubblicato": false,
-      "dopo_post": "mar_0700",
+      "dopo_post": "mer_0700",
       "slittato_da": "2026-11-14 07:05 (2026-11-09/sab_0700_storia)"
     },
     {
-      "id": "mar_0830",
+      "id": "mer_0830",
       "tipo": "storia",
-      "data": "2026-11-17",
+      "data": "2026-11-18",
       "ora": "08:30",
       "titolo": "Nematodi (adesivo sondaggio)",
       "files": [
-        "img/mar_0830.jpg"
+        "img/mer_0830.jpg"
       ],
       "automatica": false,
       "approvato": true,
@@ -223,20 +225,20 @@
       "slittato_da": "2026-11-14 08:30 (2026-11-09/sab_storia_6_SAB_storia)"
     },
     {
-      "id": "mar_1300",
+      "id": "mer_1300",
       "tipo": "carosello",
-      "data": "2026-11-17",
+      "data": "2026-11-18",
       "ora": "13:00",
       "titolo": "Distillato di legno",
       "files": [
-        "img/mar_1300_1.jpg",
-        "img/mar_1300_2.jpg",
-        "img/mar_1300_3.jpg",
-        "img/mar_1300_4.jpg",
-        "img/mar_1300_5.jpg",
-        "img/mar_1300_6.jpg"
+        "img/mer_1300_1.jpg",
+        "img/mer_1300_2.jpg",
+        "img/mer_1300_3.jpg",
+        "img/mer_1300_4.jpg",
+        "img/mer_1300_5.jpg",
+        "img/mer_1300_6.jpg"
       ],
-      "didascalia": "didascalie/mar_1300.txt",
+      "didascalia": "didascalie/mer_1300.txt",
       "approvato": true,
       "attesa_foto": false,
       "pubblicato": false,
@@ -247,29 +249,29 @@
       "slittato_da": "2026-11-14 13:00 (2026-11-09/sab_1300)"
     },
     {
-      "id": "mar_1300_storia",
+      "id": "mer_1300_storia",
       "tipo": "storia",
-      "data": "2026-11-17",
+      "data": "2026-11-18",
       "ora": "13:05",
       "titolo": "Richiamo: Distillato di legno",
       "files": [
-        "img/mar_1300_storia.jpg"
+        "img/mer_1300_storia.jpg"
       ],
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
       "pubblicato": false,
-      "dopo_post": "mar_1300",
+      "dopo_post": "mer_1300",
       "slittato_da": "2026-11-14 13:05 (2026-11-09/sab_1300_storia)"
     },
     {
-      "id": "mar_curiosita_1800",
+      "id": "mer_curiosita_1800",
       "tipo": "storia",
-      "data": "2026-11-17",
+      "data": "2026-11-18",
       "ora": "18:00",
       "titolo": "Curiosità: Marciume apicale: manca calcio?",
       "files": [
-        "img/mar_curiosita_1800.jpg"
+        "img/mer_curiosita_1800.jpg"
       ],
       "approvato": true,
       "automatica": true,
@@ -279,18 +281,18 @@
       "slittato_da": "2026-11-14 18:00 (2026-11-09/sab_curiosita_1800)"
     },
     {
-      "id": "mar_1930",
+      "id": "mer_1930",
       "tipo": "carosello",
-      "data": "2026-11-17",
+      "data": "2026-11-18",
       "ora": "19:30",
       "titolo": "Nematodi: Velum + Bioact",
       "files": [
-        "img/mar_1930_1.jpg",
-        "img/mar_1930_2.jpg",
-        "img/mar_1930_3.jpg",
-        "img/mar_1930_4.jpg"
+        "img/mer_1930_1.jpg",
+        "img/mer_1930_2.jpg",
+        "img/mer_1930_3.jpg",
+        "img/mer_1930_4.jpg"
       ],
-      "didascalia": "didascalie/mar_1930.txt",
+      "didascalia": "didascalie/mer_1930.txt",
       "approvato": true,
       "attesa_foto": false,
       "pubblicato": false,
@@ -302,29 +304,29 @@
       "slittato_da": "2026-11-14 19:30 (2026-11-09/sab_1930)"
     },
     {
-      "id": "mar_1930_storia",
+      "id": "mer_1930_storia",
       "tipo": "storia",
-      "data": "2026-11-17",
+      "data": "2026-11-18",
       "ora": "19:35",
       "titolo": "Richiamo: Nematodi: Velum + Bioact",
       "files": [
-        "img/mar_1930_storia.jpg"
+        "img/mer_1930_storia.jpg"
       ],
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
       "pubblicato": false,
-      "dopo_post": "mar_1930",
+      "dopo_post": "mer_1930",
       "slittato_da": "2026-11-14 19:35 (2026-11-09/sab_1930_storia)"
     },
     {
-      "id": "mar_2145",
+      "id": "mer_2145",
       "tipo": "storia",
-      "data": "2026-11-17",
+      "data": "2026-11-18",
       "ora": "21:45",
       "titolo": "Sera: Due sacchi che non devono mai incontrarsi",
       "files": [
-        "img/mar_2145.jpg"
+        "img/mer_2145.jpg"
       ],
       "approvato": true,
       "automatica": true,
@@ -334,19 +336,19 @@
       "slittato_da": "2026-11-14 21:45 (2026-11-09/sab_2145)"
     },
     {
-      "id": "mer_0700",
+      "id": "gio_0700",
       "tipo": "carosello",
-      "data": "2026-11-18",
+      "data": "2026-11-19",
       "ora": "07:00",
       "titolo": "Razormin",
       "files": [
-        "img/mer_0700_1.jpg",
-        "img/mer_0700_2.jpg",
-        "img/mer_0700_3.jpg",
-        "img/mer_0700_4.jpg",
-        "img/mer_0700_5.jpg"
+        "img/gio_0700_1.jpg",
+        "img/gio_0700_2.jpg",
+        "img/gio_0700_3.jpg",
+        "img/gio_0700_4.jpg",
+        "img/gio_0700_5.jpg"
       ],
-      "didascalia": "didascalie/mer_0700.txt",
+      "didascalia": "didascalie/gio_0700.txt",
       "approvato": true,
       "attesa_foto": false,
       "pubblicato": false,
@@ -358,29 +360,29 @@
       "slittato_da": "2026-11-15 07:00 (2026-11-09/dom_0700)"
     },
     {
-      "id": "mer_0700_storia",
+      "id": "gio_0700_storia",
       "tipo": "storia",
-      "data": "2026-11-18",
+      "data": "2026-11-19",
       "ora": "07:05",
       "titolo": "Richiamo: Razormin",
       "files": [
-        "img/mer_0700_storia.jpg"
+        "img/gio_0700_storia.jpg"
       ],
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
       "pubblicato": false,
-      "dopo_post": "mer_0700",
+      "dopo_post": "gio_0700",
       "slittato_da": "2026-11-15 07:05 (2026-11-09/dom_0700_storia)"
     },
     {
-      "id": "mer_0830",
+      "id": "gio_0830",
       "tipo": "storia",
-      "data": "2026-11-18",
+      "data": "2026-11-19",
       "ora": "08:30",
       "titolo": "Hai già trapiantato? (adesivo sondaggio)",
       "files": [
-        "img/mer_0830.jpg"
+        "img/gio_0830.jpg"
       ],
       "automatica": false,
       "approvato": true,
@@ -389,18 +391,18 @@
       "slittato_da": "2026-11-15 08:30 (2026-11-09/dom_storia_7_DOM_storia)"
     },
     {
-      "id": "mer_1300",
+      "id": "gio_1300",
       "tipo": "carosello",
-      "data": "2026-11-18",
+      "data": "2026-11-19",
       "ora": "13:00",
       "titolo": "Turbo Root",
       "files": [
-        "img/mer_1300_1.jpg",
-        "img/mer_1300_2.jpg",
-        "img/mer_1300_3.jpg",
-        "img/mer_1300_4.jpg"
+        "img/gio_1300_1.jpg",
+        "img/gio_1300_2.jpg",
+        "img/gio_1300_3.jpg",
+        "img/gio_1300_4.jpg"
       ],
-      "didascalia": "didascalie/mer_1300.txt",
+      "didascalia": "didascalie/gio_1300.txt",
       "approvato": true,
       "attesa_foto": false,
       "pubblicato": false,
@@ -411,29 +413,29 @@
       "slittato_da": "2026-11-15 13:00 (2026-11-09/dom_1300)"
     },
     {
-      "id": "mer_1300_storia",
+      "id": "gio_1300_storia",
       "tipo": "storia",
-      "data": "2026-11-18",
+      "data": "2026-11-19",
       "ora": "13:05",
       "titolo": "Richiamo: Turbo Root",
       "files": [
-        "img/mer_1300_storia.jpg"
+        "img/gio_1300_storia.jpg"
       ],
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
       "pubblicato": false,
-      "dopo_post": "mer_1300",
+      "dopo_post": "gio_1300",
       "slittato_da": "2026-11-15 13:05 (2026-11-09/dom_1300_storia)"
     },
     {
-      "id": "mer_curiosita_1800",
+      "id": "gio_curiosita_1800",
       "tipo": "storia",
-      "data": "2026-11-18",
+      "data": "2026-11-19",
       "ora": "18:00",
       "titolo": "Curiosità: Dove stanno davvero le radici?",
       "files": [
-        "img/mer_curiosita_1800.jpg"
+        "img/gio_curiosita_1800.jpg"
       ],
       "approvato": true,
       "automatica": true,
@@ -443,7 +445,7 @@
       "slittato_da": "2026-11-15 18:00 (2026-11-09/dom_curiosita_1800)"
     },
     {
-      "id": "mer_1930",
+      "id": "gio_1930",
       "tipo": "carosello",
       "ora": "19:30",
       "titolo": "Pomodoro in serra: prima la pianta, poi i fiori",
@@ -452,166 +454,6 @@
         "rigor",
         "instanttrip"
       ],
-      "files": [
-        "img/mer_1930_1.jpg",
-        "img/mer_1930_2.jpg",
-        "img/mer_1930_3.jpg",
-        "img/mer_1930_4.jpg"
-      ],
-      "didascalia": "didascalie/mer_1930.txt",
-      "data": "2026-11-18",
-      "approvato": false,
-      "attesa_foto": false,
-      "pubblicato": false,
-      "slittato_da": "2026-11-15 19:30 (2026-11-09/dom_1930)"
-    },
-    {
-      "id": "mer_1930_storia",
-      "tipo": "storia",
-      "ora": "19:35",
-      "titolo": "Richiamo: Pomodoro in serra: prima la pianta, poi i fiori",
-      "files": [
-        "img/mer_1930_storia.jpg"
-      ],
-      "automatica": true,
-      "dopo_post": "mer_1930",
-      "data": "2026-11-18",
-      "approvato": false,
-      "attesa_foto": false,
-      "pubblicato": false,
-      "slittato_da": "2026-11-15 19:35 (2026-11-09/dom_1930_storia)"
-    },
-    {
-      "id": "mer_2145",
-      "tipo": "storia",
-      "data": "2026-11-18",
-      "ora": "21:45",
-      "titolo": "Sera: Tre volte al giorno, un consiglio",
-      "files": [
-        "img/mer_2145.jpg"
-      ],
-      "approvato": true,
-      "automatica": true,
-      "attesa_foto": false,
-      "pubblicato": false,
-      "tema": "tre-consigli-al-giorno",
-      "slittato_da": "2026-11-15 21:45 (2026-11-09/dom_2145)"
-    },
-    {
-      "id": "gio_0700",
-      "tipo": "carosello",
-      "data": "2026-11-19",
-      "ora": "07:00",
-      "titolo": "In botte: l'ordine giusto",
-      "files": [
-        "img/gio_0700_1.jpg",
-        "img/gio_0700_2.jpg",
-        "img/gio_0700_3.jpg"
-      ],
-      "didascalia": "didascalie/gio_0700.txt",
-      "approvato": true,
-      "attesa_foto": false,
-      "pubblicato": false,
-      "tema": "in-botte-l-ordine-giusto",
-      "prodotti": [],
-      "slittato_da": "2026-11-16 07:00 (2026-11-16/lun_0700)"
-    },
-    {
-      "id": "gio_0700_storia",
-      "tipo": "storia",
-      "data": "2026-11-19",
-      "ora": "07:05",
-      "titolo": "Richiamo: In botte: l'ordine giusto",
-      "files": [
-        "img/gio_0700_storia.jpg"
-      ],
-      "approvato": true,
-      "automatica": true,
-      "attesa_foto": false,
-      "pubblicato": false,
-      "dopo_post": "gio_0700",
-      "slittato_da": "2026-11-16 07:05 (2026-11-16/lun_0700_storia)"
-    },
-    {
-      "id": "gio_0830",
-      "tipo": "storia",
-      "ora": "08:30",
-      "titolo": "Misuri il pH dell'acqua? (adesivo sondaggio)",
-      "tema": "sondaggio-ph-acqua",
-      "files": [
-        "img/gio_0830.jpg"
-      ],
-      "automatica": false,
-      "adesivo": "sondaggio",
-      "risposte": [
-        "Sempre",
-        "Mai misurato"
-      ],
-      "data": "2026-11-19",
-      "approvato": false,
-      "attesa_foto": false,
-      "pubblicato": false,
-      "slittato_da": "2026-11-16 08:30 (2026-11-16/lun_0830)"
-    },
-    {
-      "id": "gio_1300",
-      "tipo": "carosello",
-      "ora": "13:00",
-      "titolo": "Mosca bianca: perché torna sempre",
-      "tema": "mosca-bianca-ciclo",
-      "prodotti": [],
-      "files": [
-        "img/gio_1300_1.jpg",
-        "img/gio_1300_2.jpg",
-        "img/gio_1300_3.jpg",
-        "img/gio_1300_4.jpg"
-      ],
-      "didascalia": "didascalie/gio_1300.txt",
-      "data": "2026-11-19",
-      "approvato": false,
-      "attesa_foto": false,
-      "pubblicato": false,
-      "slittato_da": "2026-11-16 13:00 (2026-11-16/lun_1300)"
-    },
-    {
-      "id": "gio_1300_storia",
-      "tipo": "storia",
-      "ora": "13:05",
-      "titolo": "Richiamo: Mosca bianca: perché torna sempre",
-      "files": [
-        "img/gio_1300_storia.jpg"
-      ],
-      "automatica": true,
-      "dopo_post": "gio_1300",
-      "data": "2026-11-19",
-      "approvato": false,
-      "attesa_foto": false,
-      "pubblicato": false,
-      "slittato_da": "2026-11-16 13:05 (2026-11-16/lun_1300_storia)"
-    },
-    {
-      "id": "gio_curiosita_1800",
-      "tipo": "storia",
-      "data": "2026-11-19",
-      "ora": "18:00",
-      "titolo": "Curiosità: Afidi: perché esplodono così?",
-      "files": [
-        "img/gio_curiosita_1800.jpg"
-      ],
-      "approvato": false,
-      "automatica": true,
-      "attesa_foto": false,
-      "pubblicato": false,
-      "tema": "afidi-perche-esplodono-cosi",
-      "slittato_da": "2026-11-16 18:00 (2026-11-16/lun_curiosita_1800)"
-    },
-    {
-      "id": "gio_1930",
-      "tipo": "carosello",
-      "ora": "19:30",
-      "titolo": "Serra d'inverno: la condensa",
-      "tema": "condensa-serra-inverno",
-      "prodotti": [],
       "files": [
         "img/gio_1930_1.jpg",
         "img/gio_1930_2.jpg",
@@ -623,13 +465,13 @@
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-16 19:30 (2026-11-16/lun_1930)"
+      "slittato_da": "2026-11-15 19:30 (2026-11-09/dom_1930)"
     },
     {
       "id": "gio_1930_storia",
       "tipo": "storia",
       "ora": "19:35",
-      "titolo": "Richiamo: Serra d'inverno: la condensa",
+      "titolo": "Richiamo: Pomodoro in serra: prima la pianta, poi i fiori",
       "files": [
         "img/gio_1930_storia.jpg"
       ],
@@ -639,66 +481,65 @@
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-16 19:35 (2026-11-16/lun_1930_storia)"
+      "slittato_da": "2026-11-15 19:35 (2026-11-09/dom_1930_storia)"
     },
     {
       "id": "gio_2145",
       "tipo": "storia",
+      "data": "2026-11-19",
       "ora": "21:45",
-      "titolo": "Sera: Dal fiore al frutto rosso: contano i gradi",
-      "tema": "maturazione-pomodoro-gradi-non-giorni",
+      "titolo": "Sera: Tre volte al giorno, un consiglio",
       "files": [
         "img/gio_2145.jpg"
       ],
+      "approvato": true,
       "automatica": true,
-      "data": "2026-11-19",
-      "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-16 21:45 (2026-11-16/lun_2145)"
+      "tema": "tre-consigli-al-giorno",
+      "slittato_da": "2026-11-15 21:45 (2026-11-09/dom_2145)"
     },
     {
       "id": "ven_0700",
       "tipo": "carosello",
+      "data": "2026-11-20",
       "ora": "07:00",
-      "titolo": "Cetrioli storti o a punta: la forma dice la causa",
-      "tema": "cetriolo-frutti-deformi",
-      "prodotti": [],
+      "titolo": "In botte: l'ordine giusto",
       "files": [
         "img/ven_0700_1.jpg",
         "img/ven_0700_2.jpg",
-        "img/ven_0700_3.jpg",
-        "img/ven_0700_4.jpg"
+        "img/ven_0700_3.jpg"
       ],
       "didascalia": "didascalie/ven_0700.txt",
-      "data": "2026-11-20",
-      "approvato": false,
+      "approvato": true,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-17 07:00 (2026-11-16/mar_0700)"
+      "tema": "in-botte-l-ordine-giusto",
+      "prodotti": [],
+      "slittato_da": "2026-11-16 07:00 (2026-11-16/lun_0700)"
     },
     {
       "id": "ven_0700_storia",
       "tipo": "storia",
+      "data": "2026-11-20",
       "ora": "07:05",
-      "titolo": "Richiamo: Cetrioli storti o a punta: la forma dice la causa",
+      "titolo": "Richiamo: In botte: l'ordine giusto",
       "files": [
         "img/ven_0700_storia.jpg"
       ],
+      "approvato": true,
       "automatica": true,
-      "dopo_post": "ven_0700",
-      "data": "2026-11-20",
-      "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-17 07:05 (2026-11-16/mar_0700_storia)"
+      "dopo_post": "ven_0700",
+      "slittato_da": "2026-11-16 07:05 (2026-11-16/lun_0700_storia)"
     },
     {
       "id": "ven_0830",
       "tipo": "storia",
       "ora": "08:30",
-      "titolo": "Hai una lente in tasca? (adesivo sondaggio)",
-      "tema": "sondaggio-lente-in-serra",
+      "titolo": "Misuri il pH dell'acqua? (adesivo sondaggio)",
+      "tema": "sondaggio-ph-acqua",
       "files": [
         "img/ven_0830.jpg"
       ],
@@ -706,20 +547,21 @@
       "adesivo": "sondaggio",
       "risposte": [
         "Sempre",
-        "Mai usata"
+        "Mai misurato"
       ],
       "data": "2026-11-20",
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-17 08:30 (2026-11-16/mar_0830)"
+      "slittato_da": "2026-11-16 08:30 (2026-11-16/lun_0830)"
     },
     {
       "id": "ven_1300",
       "tipo": "carosello",
-      "data": "2026-11-20",
       "ora": "13:00",
-      "titolo": "pH Control",
+      "titolo": "Mosca bianca: perché torna sempre",
+      "tema": "mosca-bianca-ciclo",
+      "prodotti": [],
       "files": [
         "img/ven_1300_1.jpg",
         "img/ven_1300_2.jpg",
@@ -727,37 +569,34 @@
         "img/ven_1300_4.jpg"
       ],
       "didascalia": "didascalie/ven_1300.txt",
+      "data": "2026-11-20",
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "tema": "ph-control",
-      "prodotti": [
-        "phcontrol"
-      ],
-      "slittato_da": "2026-11-17 13:00 (2026-11-16/mar_1300)"
+      "slittato_da": "2026-11-16 13:00 (2026-11-16/lun_1300)"
     },
     {
       "id": "ven_1300_storia",
       "tipo": "storia",
-      "data": "2026-11-20",
       "ora": "13:05",
-      "titolo": "Richiamo: pH Control",
+      "titolo": "Richiamo: Mosca bianca: perché torna sempre",
       "files": [
         "img/ven_1300_storia.jpg"
       ],
-      "approvato": false,
       "automatica": true,
+      "dopo_post": "ven_1300",
+      "data": "2026-11-20",
+      "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "dopo_post": "ven_1300",
-      "slittato_da": "2026-11-17 13:05 (2026-11-16/mar_1300_storia)"
+      "slittato_da": "2026-11-16 13:05 (2026-11-16/lun_1300_storia)"
     },
     {
       "id": "ven_curiosita_1800",
       "tipo": "storia",
       "data": "2026-11-20",
       "ora": "18:00",
-      "titolo": "Curiosità: Trappole: gialle o blu?",
+      "titolo": "Curiosità: Afidi: perché esplodono così?",
       "files": [
         "img/ven_curiosita_1800.jpg"
       ],
@@ -765,15 +604,15 @@
       "automatica": true,
       "attesa_foto": false,
       "pubblicato": false,
-      "tema": "trappole-gialle-o-blu",
-      "slittato_da": "2026-11-17 18:00 (2026-11-16/mar_curiosita_1800)"
+      "tema": "afidi-perche-esplodono-cosi",
+      "slittato_da": "2026-11-16 18:00 (2026-11-16/lun_curiosita_1800)"
     },
     {
       "id": "ven_1930",
       "tipo": "carosello",
       "ora": "19:30",
-      "titolo": "Carenza e rientro: due tempi diversi",
-      "tema": "carenza-e-tempo-di-rientro",
+      "titolo": "Serra d'inverno: la condensa",
+      "tema": "condensa-serra-inverno",
       "prodotti": [],
       "files": [
         "img/ven_1930_1.jpg",
@@ -786,13 +625,13 @@
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-17 19:30 (2026-11-16/mar_1930)"
+      "slittato_da": "2026-11-16 19:30 (2026-11-16/lun_1930)"
     },
     {
       "id": "ven_1930_storia",
       "tipo": "storia",
       "ora": "19:35",
-      "titolo": "Richiamo: Carenza e rientro: due tempi diversi",
+      "titolo": "Richiamo: Serra d'inverno: la condensa",
       "files": [
         "img/ven_1930_storia.jpg"
       ],
@@ -802,14 +641,14 @@
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-17 19:35 (2026-11-16/mar_1930_storia)"
+      "slittato_da": "2026-11-16 19:35 (2026-11-16/lun_1930_storia)"
     },
     {
       "id": "ven_2145",
       "tipo": "storia",
       "ora": "21:45",
-      "titolo": "Sera: Serra chiusa: finisce l'anidride carbonica",
-      "tema": "anidride-carbonica-serra-chiusa",
+      "titolo": "Sera: Dal fiore al frutto rosso: contano i gradi",
+      "tema": "maturazione-pomodoro-gradi-non-giorni",
       "files": [
         "img/ven_2145.jpg"
       ],
@@ -818,36 +657,33 @@
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-17 21:45 (2026-11-16/mar_2145)"
+      "slittato_da": "2026-11-16 21:45 (2026-11-16/lun_2145)"
     },
     {
       "id": "sab_0700",
       "tipo": "carosello",
       "ora": "07:00",
-      "titolo": "Fusto color bronzo: l'eriofide del pomodoro",
-      "tema": "eriofide-rugginoso-pomodoro",
-      "prodotti": [
-        "helio"
-      ],
+      "titolo": "Cetrioli storti o a punta: la forma dice la causa",
+      "tema": "cetriolo-frutti-deformi",
+      "prodotti": [],
       "files": [
         "img/sab_0700_1.jpg",
         "img/sab_0700_2.jpg",
         "img/sab_0700_3.jpg",
-        "img/sab_0700_4.jpg",
-        "img/sab_0700_5.jpg"
+        "img/sab_0700_4.jpg"
       ],
       "didascalia": "didascalie/sab_0700.txt",
       "data": "2026-11-21",
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-18 07:00 (2026-11-16/mer_0700)"
+      "slittato_da": "2026-11-17 07:00 (2026-11-16/mar_0700)"
     },
     {
       "id": "sab_0700_storia",
       "tipo": "storia",
       "ora": "07:05",
-      "titolo": "Richiamo: Fusto color bronzo: l'eriofide del pomodoro",
+      "titolo": "Richiamo: Cetrioli storti o a punta: la forma dice la causa",
       "files": [
         "img/sab_0700_storia.jpg"
       ],
@@ -857,35 +693,35 @@
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-18 07:05 (2026-11-16/mer_0700_storia)"
+      "slittato_da": "2026-11-17 07:05 (2026-11-16/mar_0700_storia)"
     },
     {
       "id": "sab_0830",
       "tipo": "storia",
       "ora": "08:30",
-      "titolo": "Quanti litri usi per 1.000 m²? (adesivo sondaggio)",
-      "tema": "sondaggio-litri-per-mille-metri",
+      "titolo": "Hai una lente in tasca? (adesivo sondaggio)",
+      "tema": "sondaggio-lente-in-serra",
       "files": [
         "img/sab_0830.jpg"
       ],
       "automatica": false,
       "adesivo": "sondaggio",
       "risposte": [
-        "Lo so preciso",
-        "Vado a occhio"
+        "Sempre",
+        "Mai usata"
       ],
       "data": "2026-11-21",
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-18 08:30 (2026-11-16/mer_0830)"
+      "slittato_da": "2026-11-17 08:30 (2026-11-16/mar_0830)"
     },
     {
       "id": "sab_1300",
       "tipo": "carosello",
       "data": "2026-11-21",
       "ora": "13:00",
-      "titolo": "Amicos SEC",
+      "titolo": "pH Control",
       "files": [
         "img/sab_1300_1.jpg",
         "img/sab_1300_2.jpg",
@@ -896,18 +732,18 @@
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "tema": "amicos-sec",
+      "tema": "ph-control",
       "prodotti": [
-        "amicos"
+        "phcontrol"
       ],
-      "slittato_da": "2026-11-18 13:00 (2026-11-16/mer_1300)"
+      "slittato_da": "2026-11-17 13:00 (2026-11-16/mar_1300)"
     },
     {
       "id": "sab_1300_storia",
       "tipo": "storia",
       "data": "2026-11-21",
       "ora": "13:05",
-      "titolo": "Richiamo: Amicos SEC",
+      "titolo": "Richiamo: pH Control",
       "files": [
         "img/sab_1300_storia.jpg"
       ],
@@ -916,14 +752,14 @@
       "attesa_foto": false,
       "pubblicato": false,
       "dopo_post": "sab_1300",
-      "slittato_da": "2026-11-18 13:05 (2026-11-16/mer_1300_storia)"
+      "slittato_da": "2026-11-17 13:05 (2026-11-16/mar_1300_storia)"
     },
     {
       "id": "sab_curiosita_1800",
       "tipo": "storia",
       "data": "2026-11-21",
       "ora": "18:00",
-      "titolo": "Curiosità: Nematodi: quante uova in una radice?",
+      "titolo": "Curiosità: Trappole: gialle o blu?",
       "files": [
         "img/sab_curiosita_1800.jpg"
       ],
@@ -931,35 +767,34 @@
       "automatica": true,
       "attesa_foto": false,
       "pubblicato": false,
-      "tema": "nematodi-quante-uova-in-una-radice",
-      "slittato_da": "2026-11-18 18:00 (2026-11-16/mer_curiosita_1800)"
+      "tema": "trappole-gialle-o-blu",
+      "slittato_da": "2026-11-17 18:00 (2026-11-16/mar_curiosita_1800)"
     },
     {
       "id": "sab_1930",
       "tipo": "carosello",
       "ora": "19:30",
-      "titolo": "Dose a ettaro, serra a metri: il conto già fatto",
-      "tema": "dose-ettaro-mille-metri",
+      "titolo": "Carenza e rientro: due tempi diversi",
+      "tema": "carenza-e-tempo-di-rientro",
       "prodotti": [],
       "files": [
         "img/sab_1930_1.jpg",
         "img/sab_1930_2.jpg",
         "img/sab_1930_3.jpg",
-        "img/sab_1930_4.jpg",
-        "img/sab_1930_5.jpg"
+        "img/sab_1930_4.jpg"
       ],
       "didascalia": "didascalie/sab_1930.txt",
       "data": "2026-11-21",
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-18 19:30 (2026-11-16/mer_1930)"
+      "slittato_da": "2026-11-17 19:30 (2026-11-16/mar_1930)"
     },
     {
       "id": "sab_1930_storia",
       "tipo": "storia",
       "ora": "19:35",
-      "titolo": "Richiamo: Dose a ettaro, serra a metri: il conto già fatto",
+      "titolo": "Richiamo: Carenza e rientro: due tempi diversi",
       "files": [
         "img/sab_1930_storia.jpg"
       ],
@@ -969,14 +804,14 @@
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-18 19:35 (2026-11-16/mer_1930_storia)"
+      "slittato_da": "2026-11-17 19:35 (2026-11-16/mar_1930_storia)"
     },
     {
       "id": "sab_2145",
       "tipo": "storia",
       "ora": "21:45",
-      "titolo": "Sera: Il pH attorno alla radice lo decide l'azoto",
-      "tema": "forma-azoto-ph-attorno-radice",
+      "titolo": "Sera: Serra chiusa: finisce l'anidride carbonica",
+      "tema": "anidride-carbonica-serra-chiusa",
       "files": [
         "img/sab_2145.jpg"
       ],
@@ -985,33 +820,36 @@
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-18 21:45 (2026-11-16/mer_2145)"
+      "slittato_da": "2026-11-17 21:45 (2026-11-16/mar_2145)"
     },
     {
       "id": "dom_0700",
       "tipo": "carosello",
       "ora": "07:00",
-      "titolo": "Peperone: l'oidio che vive dentro la foglia",
-      "tema": "oidio-peperone-dentro-la-foglia",
-      "prodotti": [],
+      "titolo": "Fusto color bronzo: l'eriofide del pomodoro",
+      "tema": "eriofide-rugginoso-pomodoro",
+      "prodotti": [
+        "helio"
+      ],
       "files": [
         "img/dom_0700_1.jpg",
         "img/dom_0700_2.jpg",
         "img/dom_0700_3.jpg",
-        "img/dom_0700_4.jpg"
+        "img/dom_0700_4.jpg",
+        "img/dom_0700_5.jpg"
       ],
       "didascalia": "didascalie/dom_0700.txt",
       "data": "2026-11-22",
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-19 07:00 (2026-11-16/gio_0700)"
+      "slittato_da": "2026-11-18 07:00 (2026-11-16/mer_0700)"
     },
     {
       "id": "dom_0700_storia",
       "tipo": "storia",
       "ora": "07:05",
-      "titolo": "Richiamo: Peperone: l'oidio che vive dentro la foglia",
+      "titolo": "Richiamo: Fusto color bronzo: l'eriofide del pomodoro",
       "files": [
         "img/dom_0700_storia.jpg"
       ],
@@ -1021,35 +859,35 @@
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-19 07:05 (2026-11-16/gio_0700_storia)"
+      "slittato_da": "2026-11-18 07:05 (2026-11-16/mer_0700_storia)"
     },
     {
       "id": "dom_0830",
       "tipo": "storia",
       "ora": "08:30",
-      "titolo": "Chiudi la serra prima o dopo il tramonto? (adesivo sondaggio)",
-      "tema": "sondaggio-chiusura-serra",
+      "titolo": "Quanti litri usi per 1.000 m²? (adesivo sondaggio)",
+      "tema": "sondaggio-litri-per-mille-metri",
       "files": [
         "img/dom_0830.jpg"
       ],
       "automatica": false,
       "adesivo": "sondaggio",
       "risposte": [
-        "Prima",
-        "Dopo"
+        "Lo so preciso",
+        "Vado a occhio"
       ],
       "data": "2026-11-22",
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-19 08:30 (2026-11-16/gio_0830)"
+      "slittato_da": "2026-11-18 08:30 (2026-11-16/mer_0830)"
     },
     {
       "id": "dom_1300",
       "tipo": "carosello",
       "data": "2026-11-22",
       "ora": "13:00",
-      "titolo": "BioDea Bio",
+      "titolo": "Amicos SEC",
       "files": [
         "img/dom_1300_1.jpg",
         "img/dom_1300_2.jpg",
@@ -1060,18 +898,18 @@
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "tema": "biodea-bio",
+      "tema": "amicos-sec",
       "prodotti": [
-        "biodeabio"
+        "amicos"
       ],
-      "slittato_da": "2026-11-19 13:00 (2026-11-16/gio_1300)"
+      "slittato_da": "2026-11-18 13:00 (2026-11-16/mer_1300)"
     },
     {
       "id": "dom_1300_storia",
       "tipo": "storia",
       "data": "2026-11-22",
       "ora": "13:05",
-      "titolo": "Richiamo: BioDea Bio",
+      "titolo": "Richiamo: Amicos SEC",
       "files": [
         "img/dom_1300_storia.jpg"
       ],
@@ -1080,14 +918,14 @@
       "attesa_foto": false,
       "pubblicato": false,
       "dopo_post": "dom_1300",
-      "slittato_da": "2026-11-19 13:05 (2026-11-16/gio_1300_storia)"
+      "slittato_da": "2026-11-18 13:05 (2026-11-16/mer_1300_storia)"
     },
     {
       "id": "dom_curiosita_1800",
       "tipo": "storia",
       "data": "2026-11-22",
       "ora": "18:00",
-      "titolo": "Curiosità: Muffa grigia: da dove riparte?",
+      "titolo": "Curiosità: Nematodi: quante uova in una radice?",
       "files": [
         "img/dom_curiosita_1800.jpg"
       ],
@@ -1095,34 +933,35 @@
       "automatica": true,
       "attesa_foto": false,
       "pubblicato": false,
-      "tema": "muffa-grigia-da-dove-riparte",
-      "slittato_da": "2026-11-19 18:00 (2026-11-16/gio_curiosita_1800)"
+      "tema": "nematodi-quante-uova-in-una-radice",
+      "slittato_da": "2026-11-18 18:00 (2026-11-16/mer_curiosita_1800)"
     },
     {
       "id": "dom_1930",
       "tipo": "carosello",
       "ora": "19:30",
-      "titolo": "Notte fredda in arrivo: la serra si prepara di giorno",
-      "tema": "notte-fredda-preparare-la-serra",
+      "titolo": "Dose a ettaro, serra a metri: il conto già fatto",
+      "tema": "dose-ettaro-mille-metri",
       "prodotti": [],
       "files": [
         "img/dom_1930_1.jpg",
         "img/dom_1930_2.jpg",
         "img/dom_1930_3.jpg",
-        "img/dom_1930_4.jpg"
+        "img/dom_1930_4.jpg",
+        "img/dom_1930_5.jpg"
       ],
       "didascalia": "didascalie/dom_1930.txt",
       "data": "2026-11-22",
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-19 19:30 (2026-11-16/gio_1930)"
+      "slittato_da": "2026-11-18 19:30 (2026-11-16/mer_1930)"
     },
     {
       "id": "dom_1930_storia",
       "tipo": "storia",
       "ora": "19:35",
-      "titolo": "Richiamo: Notte fredda in arrivo: la serra si prepara di giorno",
+      "titolo": "Richiamo: Dose a ettaro, serra a metri: il conto già fatto",
       "files": [
         "img/dom_1930_storia.jpg"
       ],
@@ -1132,14 +971,14 @@
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-19 19:35 (2026-11-16/gio_1930_storia)"
+      "slittato_da": "2026-11-18 19:35 (2026-11-16/mer_1930_storia)"
     },
     {
       "id": "dom_2145",
       "tipo": "storia",
       "ora": "21:45",
-      "titolo": "Sera: Acqua: comandano i bicarbonati, non il pH",
-      "tema": "acqua-bicarbonati-non-ph",
+      "titolo": "Sera: Il pH attorno alla radice lo decide l'azoto",
+      "tema": "forma-azoto-ph-attorno-radice",
       "files": [
         "img/dom_2145.jpg"
       ],
@@ -1148,7 +987,7 @@
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "slittato_da": "2026-11-19 21:45 (2026-11-16/gio_2145)"
+      "slittato_da": "2026-11-18 21:45 (2026-11-16/mer_2145)"
     }
   ],
   "regola_storie": "Ogni post ha una storia di richiamo 5 minuti dopo (campo dopo_post): la pubblica la stessa esecuzione del post, solo se il post è uscito."
