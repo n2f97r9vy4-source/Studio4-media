@@ -25,6 +25,19 @@ Ministero dell'Agricoltura (masaf.gov.it), Ministero della Salute (banca dati fi
 - Se una notizia non si riesce a verificare, non esce. Meglio 3 notizie vere che 4 con un dubbio.
 - Mai copiare testi: solo parole tue; nessuna citazione lunga.
 
+## Fonti Instagram con Apify (decisione di Valerio, 17/11/2026)
+Valerio vuole che la ricerca parta anche dalle pagine Instagram italiane che parlano di agronomia, agricoltura digitale e mercati, a livello nazionale, con un occhio all'Università di Catania (Di3A), che fa spesso prove e studi utili per le serre del Ragusano.
+- Strumento: connettore Apify, Actor `apify/instagram-scraper`, input: `directUrls` = profili qui sotto, `resultsType: "posts"`, `resultsLimit: 5`, `onlyPostsNewerThan: "4 days"`, `addParentData: true`; `callOptions.maxTotalChargeUsd: 1`. Leggere con get-dataset-items solo i campi `ownerUsername,url,timestamp,likesCount,caption`. Costo: pochi centesimi a giro.
+- Profili verificati il 17/11/2026:
+  - Stampa agricola: `agronotizie` (AgroNotizie, ~30.000 follower, norme e aiuti).
+  - Istituzioni: `masafsocial` (Ministero dell'Agricoltura), `ismeaofficial` (ISMEA, mercati e rapporti), `crearicerca` (CREA, ricerca e agricoltura digitale), `regionesiciliana`.
+  - Università e professione: `di3aunict` (Di3A Università di Catania: studi, prove, giornate tecniche), `odaf_catania` (Ordine Agronomi Catania).
+  - Organizzazioni agricole: `coldiretti`, `coldiretti_sicilia`, `confagricoltura`, `cia_agricoltori`.
+  - Estero (in inglese): `freshplaza` (pubblica poco su Instagram).
+  - Non trovati su Instagram (si cercano sul web): Informatore Agrario, Terra e Vita / Edagricole, Italiafruit News, FreshPlaza Italia, EFSA.
+- Il post Instagram è solo il SEGNALE: la notizia si verifica sempre sulla fonte ufficiale o sull'articolo completo (link in bio / sito) prima di usarla. Scartare eventi, auguri, campagne d'immagine e politica: tenere norme, aiuti, mercati, emergenze fitosanitarie, ricerca applicabile in serra.
+- Salva il raccolto del giro in `newsletter/raccolta_<AAAA-MM-GG>.md` (archivio interno, con link).
+
 ## Struttura del carosello (4–6 slide, kit `kit/s4kit.py`)
 1. **Copertina** che aggancia: "📰 Notizie dal campo" + la notizia più forte come titolo + data ("Giovedì 19 novembre").
 2. **Una slide per notizia** (tipo `schede` o `grande`): cosa è successo in 2 righe + riquadro **"Cosa cambia per te"** (concreto, per chi lavora in serra a Vittoria).
@@ -39,7 +52,7 @@ Mai nomi dei produttori; niente prezzi, sconti o promozioni di Studio 4 (i prezz
 
 ## Procedura (Redattore Newsletter)
 1. Leggi la bacheca, questo manuale, `DIREZIONE_CREATIVA.md` §3–5 e §7 (formato spec), le ultime 3 newsletter nei calendari (per non ripetere).
-2. Cerca le notizie (ricerca web, fonti sopra), verifica, scegli 3–4.
+2. Lancia il giro Apify sui profili Instagram (sezione "Fonti Instagram con Apify") e leggi `newsletter/raccolta_*.md` degli ultimi giorni; poi ricerca web sulle fonti ufficiali. Verifica, scegli 3–4 notizie.
 3. Aggiungi l'uscita `<giorno>_2000` in `settimane/<lunedì>/spec.json` (tipo carosello, ora "20:00", `rubrica: "newsletter"`, storia di richiamo, `tema` = "newsletter-AAAA-MM-GG"), poi `python3 kit/costruisci.py <lunedì> --solo <giorno>_2000`. Non toccare le altre uscite.
 4. Guarda le immagini, correggi testi fitti o tagliati. Commit e push.
 5. Manda a Valerio l'anteprima (le slide) e le notizie con le fonti; aspetta il suo ok. Con l'ok: `approvato: true` sul post e sulla storia, commit e push. Senza ok entro le 20:00 non esce.
