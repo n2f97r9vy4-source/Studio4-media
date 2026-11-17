@@ -186,9 +186,12 @@
     {
       "id": "mer_0700",
       "tipo": "carosello",
-      "data": "2026-11-18",
       "ora": "07:00",
       "titolo": "QZyme Bio",
+      "tema": "qzyme-bio",
+      "prodotti": [
+        "qzyme"
+      ],
       "files": [
         "img/mer_0700_1.jpg",
         "img/mer_0700_2.jpg",
@@ -196,29 +199,26 @@
         "img/mer_0700_4.jpg"
       ],
       "didascalia": "didascalie/mer_0700.txt",
+      "data": "2026-11-18",
       "approvato": true,
-      "attesa_foto": true,
+      "attesa_foto": false,
       "pubblicato": false,
-      "tema": "qzyme-bio",
-      "prodotti": [
-        "qzyme"
-      ],
       "slittato_da": "2026-11-14 07:00 (2026-11-09/sab_0700)"
     },
     {
       "id": "mer_0700_storia",
       "tipo": "storia",
-      "data": "2026-11-18",
       "ora": "07:05",
       "titolo": "Richiamo: QZyme Bio",
       "files": [
         "img/mer_0700_storia.jpg"
       ],
-      "approvato": true,
       "automatica": true,
-      "attesa_foto": true,
-      "pubblicato": false,
       "dopo_post": "mer_0700",
+      "data": "2026-11-18",
+      "approvato": true,
+      "attesa_foto": false,
+      "pubblicato": false,
       "slittato_da": "2026-11-14 07:05 (2026-11-09/sab_0700_storia)"
     },
     {
