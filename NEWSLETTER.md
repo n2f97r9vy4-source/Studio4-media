@@ -37,6 +37,7 @@ Valerio vuole che la ricerca parta anche dalle pagine Instagram italiane che par
   - Non trovati su Instagram (si cercano sul web): Informatore Agrario, Terra e Vita / Edagricole, Italiafruit News, FreshPlaza Italia, EFSA.
 - Il post Instagram è solo il SEGNALE: la notizia si verifica sempre sulla fonte ufficiale o sull'articolo completo (link in bio / sito) prima di usarla. Scartare eventi, auguri, campagne d'immagine e politica: tenere norme, aiuti, mercati, emergenze fitosanitarie, ricerca applicabile in serra.
 - Salva il raccolto del giro in `newsletter/raccolta_<AAAA-MM-GG>.md` (archivio interno, con link).
+- **Articoli completi (Valerio, 17/11/2026):** oltre ai post, cerca online gli articoli completi (AgroNotizie, FreshPlaza Italia, Informatore Agrario, Terra e Vita/Edagricole, Italiafruit News, Agrisole, ANSA Terra&Gusto, siti di MASAF, ISMEA, CREA, Di3A UniCT, Regione Siciliana) e riassumili con parole tue: cosa è successo, numeri chiave, scadenze, cosa cambia per chi coltiva in serra a Vittoria. Si leggono con la ricerca web o con Claude in Chrome (anche le pagine che la ricerca normale non apre). Niente copia di frasi, niente citazioni lunghe; le fonti restano nel campo `fonte_dato` e nella raccolta, mai nei post.
 
 ## Struttura del carosello (4–6 slide, kit `kit/s4kit.py`)
 1. **Copertina** che aggancia: "📰 Notizie dal campo" + la notizia più forte come titolo + data ("Giovedì 19 novembre").
