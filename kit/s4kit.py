@@ -96,7 +96,7 @@ h1 em{font-style:normal;color:var(--hl)}
 .lab{font-size:26px;font-weight:700;color:var(--ac);letter-spacing:2px;text-transform:uppercase}
 .big{font-size:50px;font-weight:800;line-height:1.14;margin-top:8px}
 .sm{font-size:34px;font-weight:600;margin-top:14px;line-height:1.3}
-.st{height:250px;border:4px dashed rgba(255,255,255,.75);border-radius:34px;display:flex;align-items:center;justify-content:center;font-size:30px;font-weight:700;letter-spacing:2px;opacity:.9;text-transform:uppercase}
+.st{height:360px;border:0;background:none}
 .foot{text-align:center;font-size:36px;font-weight:700}
 """
 
@@ -238,7 +238,7 @@ def html_storia(st, tipo):
         media = f'<span class="emo">{st.get("emoji", "🌱")}</span>'
     box = (f'<div class="box"><div class="lab">{st["etichetta"]}</div><div class="big">{st["grande"]}</div>'
            + (f'<div class="sm">{st["piccolo"]}</div>' if st.get("piccolo") else "") + "</div>")
-    stick = f'<div class="st">Spazio per l\'adesivo {st.get("adesivo", "sondaggio")}</div>' if tipo == "sondaggio" else ""
+    stick = '<div class="st"></div>' if tipo == "sondaggio" else ""
     piede = st.get("piede", PIEDE[tipo])
     return (f"<!DOCTYPE html><html><head><meta charset='utf-8'><style>{CSS_STORIA}</style></head>"
             f'<body style="background:linear-gradient(170deg,{a},{d});--ac:{a};--dk:{d};--hl:{hl}">'
