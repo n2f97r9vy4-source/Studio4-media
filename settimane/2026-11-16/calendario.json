@@ -298,9 +298,11 @@
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false,
+      "pubblicato": true,
       "tema": "marciume-apicale-manca-calcio",
-      "slittato_da": "2026-11-14 18:00 (2026-11-09/sab_curiosita_1800)"
+      "slittato_da": "2026-11-14 18:00 (2026-11-09/sab_curiosita_1800)",
+      "media_id": "18091114277704641",
+      "ora_pubblicazione": "2026-11-18 18:01"
     },
     {
       "id": "mer_1930",
