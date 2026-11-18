@@ -455,7 +455,7 @@
       "tipo": "storia",
       "data": "2026-11-19",
       "ora": "18:00",
-      "titolo": "Curiosità: Dove stanno davvero le radici?",
+      "titolo": "Curiosità: L'acqua la decide il sole, non l'orologio",
       "files": [
         "img/gio_curiosita_1800.jpg"
       ],
@@ -463,8 +463,9 @@
       "automatica": true,
       "attesa_foto": false,
       "pubblicato": false,
-      "tema": "dove-stanno-davvero-le-radici",
-      "slittato_da": "2026-11-15 18:00 (2026-11-09/dom_curiosita_1800)"
+      "tema": "acqua-irrigazione-segue-la-luce",
+      "slittato_da": "2026-11-15 18:00 (2026-11-09/dom_curiosita_1800)",
+      "sostituisce": "Dove stanno davvero le radici? (scartata da Valerio 18/11)"
     },
     {
       "id": "gio_1930",
