@@ -280,9 +280,11 @@
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false,
+      "pubblicato": true,
       "dopo_post": "mer_1300",
-      "slittato_da": "2026-11-14 13:05 (2026-11-09/sab_1300_storia)"
+      "slittato_da": "2026-11-14 13:05 (2026-11-09/sab_1300_storia)",
+      "media_id": "17942817465390685",
+      "ora_pubblicazione": "2026-11-18 13:07"
     },
     {
       "id": "mer_curiosita_1800",
