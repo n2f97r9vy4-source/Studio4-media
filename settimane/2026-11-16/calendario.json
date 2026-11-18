@@ -236,9 +236,11 @@
       ],
       "automatica": false,
       "approvato": true,
-      "pubblicato": false,
+      "pubblicato": true,
       "tema": "nematodi",
-      "slittato_da": "2026-11-14 08:30 (2026-11-09/sab_storia_6_SAB_storia)"
+      "slittato_da": "2026-11-14 08:30 (2026-11-09/sab_storia_6_SAB_storia)",
+      "ora_pubblicazione": "2026-11-18 08:50",
+      "nota": "pubblicata a mano da Valerio dall'app"
     },
     {
       "id": "mer_1300",
