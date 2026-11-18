@@ -837,6 +837,152 @@
         "grande": "Ferro e manganese chelati EDTA",
         "piccolo": "Fogliare 600–700 g/ha, meglio di sera."
       }
+    },
+    {
+      "id": "gio_2000",
+      "tipo": "carosello",
+      "data": "2026-11-19",
+      "ora": "20:00",
+      "rubrica": "newsletter",
+      "titolo": "Notizie dal campo · 19 novembre",
+      "tema": "newsletter-2026-11-19",
+      "prodotti": [],
+      "colore": "blu",
+      "argomento": "Notizie dal campo",
+      "dato": "richiamo di un lotto di datterino per Salmonella e controlli regionali; contributo regionale caro carburante (domande 9–30/11/2026); registro elettronico dei trattamenti per gli usi dal 1/1/2027 (Reg. UE 2023/564 mod. da Reg. UE 2025/2203); prezzi all'origine ISMEA Vittoria del 13/11/2026",
+      "fonte_dato": "1) Richiamo datterino lotto 4406 (Salmonella spp.), stabilimento a Vittoria: avviso Ministero della Salute del 12/11/2026 https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pomodoro-datterino/ (pagina protetta, non leggibile in automatico; dati riscontrati su FreshPlaza 17/11/2026 https://www.freshplaza.it/article/9893401/pomodoro-datterino-richiamo-per-presenza-di-salmonella/ e Adnkronos 16/11/2026 https://www.adnkronos.com/cronaca/pomodoro-datterino-richiamo-salmonella_6Dbc7Bhl2j97YBbXzAeZfy); nota dell'assessorato regionale Agricoltura (tavolo urgente, controlli dalla raccolta al confezionamento, autocontrolli più stringenti) riportata da ANSA 17/11/2026 https://www.ansa.it/canale_terraegusto/notizie/in_breve/2026/11/17/distretto-sicilia-imprese-a-rischio-con-allarme-generalizzato-salmonella-nei-pomodori_cf9f954a-7340-4bc5-8999-f28090f3eb84.html, RagusaOggi 17/11/2026 https://www.ragusaoggi.it/lotto-di-datterino-prodotto-a-vittoria-richiamato-la-regione-convoca-le-imprese/ e BlogSicilia 18/11/2026 https://www.blogsicilia.it/palermo/allarme-salmonella-pomodorini-regione-rassicura-richiamato-un-solo-lotto-doses-insorge-basta-generalizzazioni/1326389/ | 2) Caro carburante: L.R. 13/2026 art. 16, D.D.G. n. 7080 del 04/11/2026, domande solo su UMA Sicilia (anche tramite CAA) dal 9 al 30/11/2026: Regione Siciliana, Agroservizi, pagina del 09/11/2026 https://quadrifoglio.regione.sicilia.it/aiuti-alle-imprese-per-il-contrasto-al-caro-carburante-avviata-la-procedura-per-la-presentazione-delle-istanze/ ; carburante 1/3–31/10/2026 e dotazione 33 milioni: Free Press Online 05/11/2026 https://www.freepressonline.it/2026/11/05/caro-carburante-33-milioni-per-le-aziende-agricole-siciliane/ e RagusaH24 05/11/2026 https://www.ragusah24.it/2026/11/05/caro-carburante-e-agricoltura-ecco-come-chiedere-il-contributo/ | 3) Registro elettronico dei trattamenti: Reg. di esecuzione (UE) 2025/2203 (GUUE 03/11/2025) che modifica il Reg. (UE) 2023/564: deroga facoltativa solo per gli usi anteriori al 01/01/2027, poi trasferimento in formato elettronico entro 30 giorni dall'uso https://www.boe.es/doue/2025/2203/L00001-00002.pdf ; contenuto del registro (sostanza/prodotto, data, dose, superficie e luogo, coltura): ItaliaOggi 08/10/2025 https://www.italiaoggi.it/settori/agroalimentare/agricoltura-lobbligo-di-schedare-online-i-trattamenti-slitta-al-2027-k09ns47g | 4) Prezzi all'origine Vittoria, pomodori serra, 13/11/2026: ciliegini I qualità 3,10 €/kg (-20,5% sulla settimana), tondi lisci a grappolo I qualità 1,85 €/kg (-31,5%), franco mercato produzione: ISMEA Mercati https://www.ismeamercati.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/1335 | Lo sapevi: nozione generale di igiene degli alimenti (buone pratiche agricole: la Salmonella arriva da acqua, suolo, animali, mani e contenitori)",
+      "slide": [
+        {
+          "tipo": "copertina",
+          "tag": "📰 Notizie dal campo",
+          "titolo": "Datterino richiamato:<br><em>la Regione stringe<br>i controlli.</em>",
+          "sotto": "E poi: aiuto sul gasolio, registro dei trattamenti digitale, <span>pomodoro in calo.</span>",
+          "emoji": "📰",
+          "box": "Giovedì 19 novembre · 4 notizie per chi lavora in serra. Scorri."
+        },
+        {
+          "tipo": "schede",
+          "tag": "Notizia 1 · Filiera",
+          "titolo": "Salmonella su un lotto:<br><em>più controlli in filiera.</em>",
+          "voci": [
+            [
+              "📌",
+              "Cosa è successo",
+              "Il Ministero della Salute ha richiamato un solo lotto di datterino confezionato a Vittoria. La Regione ha convocato imprese e associazioni."
+            ],
+            [
+              "🔎",
+              "Cosa arriva",
+              "Controlli più frequenti dalla raccolta al confezionamento e autocontrolli più severi."
+            ],
+            [
+              "👉",
+              "Cosa cambia per te",
+              "La sicurezza parte dalla raccolta: acqua pulita, cassette lavate e mai a terra, mani e attrezzi puliti."
+            ]
+          ]
+        },
+        {
+          "tipo": "schede",
+          "tag": "Notizia 2 · Aiuti",
+          "titolo": "Caro gasolio:<br><em>domande entro il 30 novembre.</em>",
+          "voci": [
+            [
+              "📌",
+              "Cosa è successo",
+              "La Regione Siciliana dà un contributo sul carburante agricolo comprato da marzo a ottobre 2026. In tutto 33 milioni."
+            ],
+            [
+              "🖥️",
+              "Come si chiede",
+              "Solo online sul portale UMA Sicilia, anche tramite il tuo CAA. Domande dal 9 al 30 novembre."
+            ],
+            [
+              "👉",
+              "Cosa cambia per te",
+              "Se prendi gasolio agricolo con l'UMA, chiama il tuo CAA questa settimana: la finestra chiude il 30."
+            ]
+          ]
+        },
+        {
+          "tipo": "schede",
+          "tag": "Notizia 3 · Norme",
+          "titolo": "Registro dei trattamenti:<br><em>dal 2027 è digitale.</em>",
+          "voci": [
+            [
+              "📌",
+              "Cosa cambia",
+              "Per i trattamenti dal 1° gennaio 2027 la regola europea chiede il registro in formato elettronico. Chi scrive a mano dovrà riportare tutto in digitale entro 30 giorni."
+            ],
+            [
+              "📝",
+              "Cosa si segna",
+              "Prodotto, data, dose, superficie trattata e coltura. Come oggi, ma su file."
+            ],
+            [
+              "👉",
+              "Cosa cambia per te",
+              "Usa dicembre per scegliere come tenerlo: un'app, il tuo tecnico o il CAA. Provalo prima di gennaio."
+            ]
+          ]
+        },
+        {
+          "tipo": "grande",
+          "tag": "Notizia 4 · Prezzi",
+          "titolo": "Pomodoro a Vittoria:<br><em>prezzi in discesa.</em>",
+          "etichetta": "Ciliegino all'origine · 13 novembre",
+          "valore": "3,10 al kg",
+          "nota": "–20% in una settimana. Tondo a grappolo: 1,85 al kg (–31%).",
+          "punti": [
+            "Dopo i prezzi alti di inizio autunno, un calo deciso in sette giorni",
+            "Cosa cambia per te: con più prodotto in giro conta la prima scelta, cioè calibro, colore e tenuta del grappolo"
+          ]
+        },
+        {
+          "tipo": "sapevi",
+          "titolo": "La salmonella non nasce nella pianta.",
+          "grande": "Arriva da fuori: acqua sporca, terra, animali, mani e cassette.",
+          "piccolo": "Per questo i controlli guardano tutta la strada, dalla serra alla cassetta.",
+          "punti": [
+            "Acqua pulita per trattamenti e lavaggi: vasche e serbatoi coperti",
+            "Niente animali in serra e in magazzino: cani, gatti, topi, uccelli",
+            "Cassette lavate e mai appoggiate sulla terra"
+          ],
+          "chiusa": "Il frutto pulito si fa prima della raccolta.",
+          "fonte": "Nozioni generali."
+        },
+        {
+          "tipo": "schede",
+          "tag": "Studio 4",
+          "titolo": "Hai dubbi su<br>cosa cambia<br><em>per la tua azienda?</em>",
+          "voci": [
+            [
+              "🏪",
+              "Passa al banco",
+              "Ne parliamo di persona. Via Antonio Pacinotti 1, Vittoria."
+            ],
+            [
+              "💬",
+              "Scrivici su WhatsApp",
+              "393 666 4394"
+            ],
+            [
+              "📰",
+              "Notizie dal campo",
+              "Ogni giovedì e domenica alle 20, solo quello che conta per chi lavora in serra."
+            ]
+          ],
+          "chiusa": "Studio 4: il banco tecnico di Vittoria."
+        }
+      ],
+      "didascalia": "📰 Notizie dal campo · giovedì 19 novembre\n\nQuattro notizie della settimana che toccano chi lavora in serra a Vittoria.\n\n• Salmonella su un lotto di datterino — Il Ministero della Salute ha richiamato un solo lotto confezionato a Vittoria e la Regione stringe i controlli dalla raccolta al confezionamento. Per te: acqua pulita, cassette lavate, mani e attrezzi puliti.\n• Caro gasolio — Contributo regionale sul carburante agricolo comprato da marzo a ottobre 2026. Domande solo online su UMA Sicilia, anche tramite CAA, entro il 30 novembre. Per te: chiama il CAA questa settimana.\n• Registro dei trattamenti digitale — Per i trattamenti dal 1° gennaio 2027 serve il formato elettronico: chi scrive a mano dovrà riportare tutto entro 30 giorni. Per te: usa dicembre per scegliere come tenerlo.\n• Pomodoro in calo — All'origine a Vittoria, al 13 novembre, ciliegino a 3,10 al kg (–20% in una settimana) e tondo a grappolo a 1,85 (–31%). Per te: con più prodotto in giro conta la prima scelta.\n\n💡 Lo sapevi? La salmonella non nasce nella pianta: arriva da fuori, con acqua sporca, terra, animali, mani e cassette. Il frutto pulito si fa prima della raccolta.\n\nTi aggiorniamo ogni giovedì e domenica alle 20. Hai dubbi su cosa cambia per la tua azienda? Passa al banco: ne parliamo.\n\n#notiziedalcampo #agricoltura #serra #pomodoro #sicilia #vittoria #studio4srl",
+      "storia": {
+        "titolo": "Notizie<br><em>dal campo</em>",
+        "emoji": "📰",
+        "etichetta": "Giovedì 19 novembre",
+        "grande": "Caro gasolio: domande entro il 30 novembre.",
+        "piccolo": "E poi controlli in filiera, registro digitale e prezzi del pomodoro."
+      }
     }
   ]
 }

@@ -502,6 +502,45 @@
       "slittato_da": "2026-11-15 19:35 (2026-11-09/dom_1930_storia)"
     },
     {
+      "id": "gio_2000",
+      "tipo": "carosello",
+      "ora": "20:00",
+      "titolo": "Notizie dal campo · 19 novembre",
+      "tema": "newsletter-2026-11-19",
+      "prodotti": [],
+      "files": [
+        "img/gio_2000_1.jpg",
+        "img/gio_2000_2.jpg",
+        "img/gio_2000_3.jpg",
+        "img/gio_2000_4.jpg",
+        "img/gio_2000_5.jpg",
+        "img/gio_2000_6.jpg",
+        "img/gio_2000_7.jpg"
+      ],
+      "didascalia": "didascalie/gio_2000.txt",
+      "data": "2026-11-19",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false,
+      "rubrica": "newsletter"
+    },
+    {
+      "id": "gio_2000_storia",
+      "tipo": "storia",
+      "ora": "20:05",
+      "titolo": "Richiamo: Notizie dal campo · 19 novembre",
+      "files": [
+        "img/gio_2000_storia.jpg"
+      ],
+      "automatica": true,
+      "dopo_post": "gio_2000",
+      "data": "2026-11-19",
+      "approvato": false,
+      "attesa_foto": false,
+      "pubblicato": false,
+      "rubrica": "newsletter"
+    },
+    {
       "id": "gio_2145",
       "tipo": "storia",
       "data": "2026-11-19",
