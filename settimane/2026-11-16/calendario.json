@@ -220,8 +220,10 @@
       "data": "2026-11-18",
       "approvato": true,
       "attesa_foto": false,
-      "pubblicato": false,
-      "slittato_da": "2026-11-14 07:05 (2026-11-09/sab_0700_storia)"
+      "pubblicato": true,
+      "slittato_da": "2026-11-14 07:05 (2026-11-09/sab_0700_storia)",
+      "media_id": "17871850824663185",
+      "ora_pubblicazione": "2026-11-18 07:07"
     },
     {
       "id": "mer_0830",
