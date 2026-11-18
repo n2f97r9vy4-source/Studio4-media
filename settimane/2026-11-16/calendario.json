@@ -202,8 +202,10 @@
       "data": "2026-11-18",
       "approvato": true,
       "attesa_foto": false,
-      "pubblicato": false,
-      "slittato_da": "2026-11-14 07:00 (2026-11-09/sab_0700)"
+      "pubblicato": true,
+      "slittato_da": "2026-11-14 07:00 (2026-11-09/sab_0700)",
+      "media_id": "17898281163614305",
+      "ora_pubblicazione": "2026-11-18 07:01"
     },
     {
       "id": "mer_0700_storia",
