@@ -2,15 +2,15 @@
   "descrizione": "Calendario dei reel 'La dose giusta' (verticali 1080x1920). Un reel va su Instagram e su TikTok; li pubblica Valerio a mano con la musica. Aggiornare 'tiktok' e 'instagram' a ogni pubblicazione e tenere allineata la tabella Supabase contenuti_social (colonna piattaforma).",
   "reel": [
     {"codice":"R1","file":"reel/reel_R1_pomodoro.mp4","titolo":"Muffa grigia: gioca d'anticipo","coltura":"pomodoro",
-     "tiktok":{"stato":"pubblicato","data":"2026-11-18","ora":"~10:00"},"instagram":{"stato":"da registrare"}},
+     "tiktok":{"stato":"pubblicato","data":"2026-11-18","ora":"~10:00"},"instagram":{"stato":"da programmare"}},
     {"codice":"R3","file":"reel/reel_R3_cetriolo.mp4","titolo":"Cetriolo","coltura":"cetriolo","nota":"DA CORREGGERE: Agrykelp 2-4 kg/ha in etichetta, nel video 5-10",
      "tiktok":{"stato":"da correggere"},"instagram":{"stato":"da correggere"}},
     {"codice":"R4","file":"reel/reel_R4_melanzana.mp4","titolo":"Melanzana: afidi, tienili lontani","coltura":"melanzana",
-     "tiktok":{"stato":"pubblicato","data":"2026-11-18","ora":"~10:15"},"instagram":{"stato":"da registrare"}},
+     "tiktok":{"stato":"pubblicato","data":"2026-11-18","ora":"~10:15"},"instagram":{"stato":"da programmare"}},
     {"codice":"R5","file":"reel/reel_R5_pomodoro.mp4","titolo":"Pomodoro","coltura":"pomodoro","nota":"dosi da confermare",
      "tiktok":{"stato":"da programmare"},"instagram":{"stato":"da programmare"}},
     {"codice":"R6","file":"reel/reel_R6_peperone.mp4","titolo":"Peperone: il cambio di colore","coltura":"peperone",
-     "tiktok":{"stato":"pubblicato","data":"2026-11-18","ora":"~10:10"},"instagram":{"stato":"da registrare"}},
+     "tiktok":{"stato":"pubblicato","data":"2026-11-18","ora":"~10:10"},"instagram":{"stato":"da programmare"}},
     {"codice":"R7","file":"reel/reel_R7_melanzana.mp4","titolo":"Melanzana","coltura":"melanzana","nota":"dosi da confermare",
      "tiktok":{"stato":"da programmare"},"instagram":{"stato":"da programmare"}}
   ]
