@@ -399,9 +399,11 @@
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false,
+      "pubblicato": true,
       "tema": "due-sacchi-vasca-calcio-solfati",
-      "slittato_da": "2026-11-14 21:45 (2026-11-09/sab_2145)"
+      "slittato_da": "2026-11-14 21:45 (2026-11-09/sab_2145)",
+      "media_id": "18108349109344179",
+      "ora_pubblicazione": "2026-11-19T21:46"
     },
     {
       "id": "ven_0700",
