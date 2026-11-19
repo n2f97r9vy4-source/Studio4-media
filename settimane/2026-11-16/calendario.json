@@ -341,9 +341,11 @@
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false,
+      "pubblicato": true,
       "dopo_post": "gio_1930",
-      "slittato_da": "2026-11-14 19:35 (2026-11-09/sab_1930_storia)"
+      "slittato_da": "2026-11-14 19:35 (2026-11-09/sab_1930_storia)",
+      "media_id": "17928559893202830",
+      "ora_pubblicazione": "2026-11-19T19:35"
     },
     {
       "id": "gio_2000",
