@@ -360,11 +360,12 @@
         "img/gio_2000_7.jpg"
       ],
       "didascalia": "didascalie/gio_2000.txt",
-      "data": "2026-11-19",
+      "data": "2026-11-20",
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
-      "rubrica": "newsletter"
+      "rubrica": "newsletter",
+      "slittato_da": "spostata a ven 20/11 20:00 su richiesta di Valerio (19/11)"
     },
     {
       "id": "gio_2000_storia",
@@ -376,7 +377,7 @@
       ],
       "automatica": true,
       "dopo_post": "gio_2000",
-      "data": "2026-11-19",
+      "data": "2026-11-20",
       "approvato": false,
       "attesa_foto": false,
       "pubblicato": false,
