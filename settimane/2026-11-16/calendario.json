@@ -414,13 +414,16 @@
       "didascalia": "didascalie/ven_0700.txt",
       "approvato": true,
       "attesa_foto": false,
-      "pubblicato": false,
+      "pubblicato": true,
       "tema": "razormin",
       "prodotti": [
         "razormin",
         "micosat"
       ],
-      "slittato_da": "2026-11-15 07:00 (2026-11-09/dom_0700)"
+      "slittato_da": "2026-11-15 07:00 (2026-11-09/dom_0700)",
+      "media_id": "17972283929965106",
+      "ora_pubblicazione": "2026-11-19 08:21",
+      "nota": "pubblicato il 19/11 invece del 20/11 su richiesta di Valerio (il turno delle 07:00 del 19/11 era rimasto vuoto per lo slittamento)"
     },
     {
       "id": "ven_0700_storia",
@@ -434,9 +437,12 @@
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false,
+      "pubblicato": true,
       "dopo_post": "ven_0700",
-      "slittato_da": "2026-11-15 07:05 (2026-11-09/dom_0700_storia)"
+      "slittato_da": "2026-11-15 07:05 (2026-11-09/dom_0700_storia)",
+      "media_id": "18643985770003711",
+      "ora_pubblicazione": "2026-11-19 08:27",
+      "nota": "pubblicato il 19/11 invece del 20/11 su richiesta di Valerio (il turno delle 07:00 del 19/11 era rimasto vuoto per lo slittamento)"
     },
     {
       "id": "ven_0830",
