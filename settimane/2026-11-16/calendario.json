@@ -572,7 +572,7 @@
     {
       "id": "sab_0700",
       "tipo": "carosello",
-      "data": "2026-11-21",
+      "data": "2026-11-20",
       "ora": "07:00",
       "titolo": "In botte: l'ordine giusto",
       "files": [
@@ -586,12 +586,12 @@
       "pubblicato": false,
       "tema": "in-botte-l-ordine-giusto",
       "prodotti": [],
-      "slittato_da": "2026-11-16 07:00 (2026-11-16/lun_0700)"
+      "slittato_da": "2026-11-16 07:00 (2026-11-16/lun_0700) | spostato a ven 20/11 su richiesta di Valerio (19/11)"
     },
     {
       "id": "sab_0700_storia",
       "tipo": "storia",
-      "data": "2026-11-21",
+      "data": "2026-11-20",
       "ora": "07:05",
       "titolo": "Richiamo: In botte: l'ordine giusto",
       "files": [
@@ -602,7 +602,7 @@
       "attesa_foto": false,
       "pubblicato": false,
       "dopo_post": "sab_0700",
-      "slittato_da": "2026-11-16 07:05 (2026-11-16/lun_0700_storia)"
+      "slittato_da": "2026-11-16 07:05 (2026-11-16/lun_0700_storia) | spostato a ven 20/11 su richiesta di Valerio (19/11)"
     },
     {
       "id": "sab_0830",
