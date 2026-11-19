@@ -2,770 +2,6 @@
   "settimana": "2026-11-16",
   "uscite": [
     {
-      "id": "gio_1930",
-      "tipo": "carosello",
-      "data": "2026-11-19",
-      "ora": "19:30",
-      "titolo": "Pomodoro in serra: prima la pianta, poi i fiori",
-      "tema": "pomodoro-serra-rigor-instant-trip",
-      "prodotti": [
-        "rigor",
-        "instanttrip"
-      ],
-      "colore": "rosso",
-      "argomento": "Pomodoro in serra",
-      "dato": "Rigor N 18% in fertirrigazione 250–300 ml/1.000 m² ogni 15–20 giorni dal 15° giorno; Instant Trip 350–400 g/hl a inizio fioritura di ogni palco; il triptofano è il precursore dell'auxina",
-      "fonte_dato": "scheda tecnica Rigor; scheda del produttore Instant Trip; nozione generale di fisiologia vegetale",
-      "slide": [
-        {
-          "tipo": "copertina",
-          "titolo": "Pomodoro:<br><em>prima la pianta,<br>poi i fiori.</em>",
-          "sotto": "Due fasi, due prodotti diversi. <span>Sbagli il momento e sprechi tutti e due.</span>",
-          "emoji": "🍅",
-          "box": "Quando dare l'azoto e quando la spinta ai fiori. Scorri."
-        },
-        {
-          "tipo": "passi",
-          "tag": "Il calendario",
-          "titolo": "Due fasi,<br><em>due prodotti.</em>",
-          "passi": [
-            [
-              "Trapianto",
-              "Le radici attaccano",
-              "Nei primi 15 giorni solo acqua e radicanti."
-            ],
-            [
-              "Dal 15° giorno",
-              "Rigor in fertirrigazione",
-              "250–300 ml ogni 1.000 m², ogni 15–20 giorni: costruisce foglie e rami."
-            ],
-            [
-              "Inizio fioritura",
-              "Instant Trip per foglia",
-              "350–400 g/hl a inizio fioritura di ogni palco."
-            ],
-            [
-              "Fino a fine fioritura",
-              "Si ripete palco dopo palco",
-              "Ogni nuovo palco che apre, un passaggio."
-            ]
-          ],
-          "box": "Rigor fa la pianta, Instant Trip aiuta i fiori a legare.",
-          "fonte": "Dosi da scheda tecnica."
-        },
-        {
-          "tipo": "confronto",
-          "tag": "Cosa c'è dentro",
-          "titolo": "Cosa c'è<br><em>dentro.</em>",
-          "colonne": [
-            {
-              "nome": "Rigor",
-              "righe": [
-                "Azoto 18%: 16 ureico, 2 organico",
-                "Carbonio organico 7%",
-                "Idrolizzati proteici: aiutano la ripresa dopo uno stress",
-                "Anche fogliare: 100–150 ml/hl"
-              ]
-            },
-            {
-              "nome": "Instant Trip",
-              "righe": [
-                "Triptofano e altri aminoacidi",
-                "Alghe brune e lieviti",
-                "Vitamine del gruppo B",
-                "Non con zolfo, rame e oli minerali"
-              ]
-            }
-          ],
-          "chiusa": "Uno lavora sulla crescita, l'altro sulla fioritura.",
-          "fonte": "Dati da scheda tecnica."
-        },
-        {
-          "tipo": "sapevi",
-          "titolo": "Il triptofano diventa ormone.",
-          "grande": "Con il triptofano la pianta fabbrica l'auxina.",
-          "piccolo": "È l'ormone che serve al fiore per allegare e al frutto per ingrossare.",
-          "punti": [
-            "Per questo il triptofano si dà quando apre il palco",
-            "Troppo azoto in fioritura fa foglie, non frutti",
-            "Prima costruisci la pianta, poi passa ai fiori"
-          ],
-          "chiusa": "Il momento giusto conta quanto la dose.",
-          "fonte": "Nozioni generali di fisiologia vegetale."
-        }
-      ],
-      "didascalia": "Pomodoro in serra: prima la pianta, poi i fiori 🍅\n\nNei primi giorni dopo il trapianto la pianta deve fare radici, foglie e rami. Quando aprono i palchi, il lavoro cambia: deve legare i fiori. Sono due fasi diverse e vanno nutrite in modo diverso.\n\n📅 Il calendario\n• Dal 15° giorno dopo il trapianto: Rigor in fertirrigazione, 250–300 ml ogni 1.000 m², ogni 15–20 giorni\n• A inizio fioritura di ogni palco: Instant Trip per foglia, 350–400 g/hl, fino a fine fioritura\n• Instant Trip non va con zolfo, rame e oli minerali\n\n💡 Lo sapevi? Il triptofano è la materia prima con cui la pianta fabbrica l'auxina, l'ormone che aiuta il fiore ad allegare e il frutto a ingrossare. Per questo si dà quando apre il palco. E troppo azoto in fioritura fa foglie, non frutti.\n\nDosi da scheda tecnica. Li trovi al banco.\n\n#pomodoro #serra #fioritura #allegagione #fertirrigazione #vittoria #studio4srl",
-      "storia": {
-        "titolo": "Pomodoro:<br><em>prima la pianta,<br>poi i fiori.</em>",
-        "emoji": "🍅",
-        "etichetta": "Il calendario",
-        "grande": "Dal 15° giorno Rigor, a fioritura Instant Trip.",
-        "piccolo": "Instant Trip 350–400 g/hl a inizio fioritura di ogni palco."
-      }
-    },
-    {
-      "id": "ven_0830",
-      "tipo": "sondaggio",
-      "data": "2026-11-20",
-      "ora": "08:30",
-      "titolo_breve": "Misuri il pH dell'acqua?",
-      "tema": "sondaggio-ph-acqua",
-      "dato": "pH ideale dell'acqua in botte intorno a 6",
-      "fonte_dato": "scheda tecnica pH Control",
-      "colore": "magenta",
-      "emoji": "🧪",
-      "titolo": "Misuri mai<br>il <em>pH</em> dell'acqua<br>in botte?",
-      "etichetta": "Lo sapevi?",
-      "grande": "L'acqua di pozzo qui è spesso sopra pH 7,5.",
-      "piccolo": "Per molti prodotti il punto giusto è intorno a pH 6.",
-      "adesivo": "sondaggio",
-      "risposte": [
-        "Sempre",
-        "Mai misurato"
-      ]
-    },
-    {
-      "id": "ven_1300",
-      "tipo": "carosello",
-      "data": "2026-11-20",
-      "ora": "13:00",
-      "titolo": "Mosca bianca: perché torna sempre",
-      "tema": "mosca-bianca-ciclo",
-      "prodotti": [],
-      "colore": "giallo",
-      "argomento": "Mosca bianca",
-      "dato": "uova e neanidi stanno sulla pagina inferiore; il giallo attira gli adulti; trasmette il virus TYLCV",
-      "fonte_dato": "nozioni generali di entomologia agraria",
-      "slide": [
-        {
-          "tipo": "copertina",
-          "titolo": "Mosca bianca:<br><em>perché<br>torna<br>sempre?</em>",
-          "sotto": "Tratti, sparisce, e dopo due settimane <span>è di nuovo lì.</span>",
-          "emoji": "🪰",
-          "box": "Il motivo è sotto la foglia. Scorri."
-        },
-        {
-          "tipo": "schede",
-          "tag": "Il ciclo",
-          "titolo": "Quattro stadi,<br><em>uno solo vola.</em>",
-          "voci": [
-            [
-              "🥚",
-              "Uova",
-              "Deposte sotto le foglie giovani, in alto."
-            ],
-            [
-              "🐛",
-              "Neanidi",
-              "Ferme sotto la foglia, succhiano linfa. Sono loro la maggioranza."
-            ],
-            [
-              "🦋",
-              "Adulti",
-              "Volano via appena tocchi la pianta: sono quelli che vedi."
-            ],
-            [
-              "🔁",
-              "Di continuo",
-              "In serra calda le generazioni si accavallano: trovi tutti gli stadi insieme."
-            ]
-          ],
-          "fonte": "Nozioni generali."
-        },
-        {
-          "tipo": "elenco",
-          "tag": "In pratica",
-          "titolo": "Cosa fare<br><em>in serra.</em>",
-          "punti": [
-            "Gira le foglie: il controllo si fa sulla pagina inferiore",
-            "Trappole gialle all'altezza delle cime, vicino alle aperture",
-            "Reti alle aperture e doppia porta: l'ingresso conta più del trattamento",
-            "Via le erbe infestanti dentro e intorno: sono il suo rifugio",
-            "Bagna bene sotto la foglia: lì arriva poco prodotto"
-          ],
-          "fonte": "Nozioni generali."
-        },
-        {
-          "tipo": "sapevi",
-          "titolo": "Il danno vero è il virus.",
-          "grande": "La mosca bianca porta il virus dell'accartocciamento fogliare giallo del pomodoro.",
-          "piccolo": "Bastano pochi adulti infetti per passarlo da una pianta all'altra.",
-          "punti": [
-            "Per questo contano i primi 40 giorni dopo il trapianto",
-            "Una pianta malata non guarisce: va tolta e portata fuori",
-            "Le varietà tolleranti aiutano, ma non fermano la mosca"
-          ],
-          "chiusa": "Meno mosche entrano all'inizio, meno virus trovi dopo.",
-          "fonte": "Nozioni generali."
-        }
-      ],
-      "didascalia": "Mosca bianca: perché torna sempre? 🪰\n\nTratti, sparisce, e dopo due settimane è di nuovo lì. Il motivo è sotto la foglia: gli adulti che vedi volare sono solo una parte. Uova e forme giovani restano ferme sulla pagina inferiore, e in serra calda le generazioni si accavallano.\n\n🔎 Cosa fare\n• Gira le foglie: il controllo si fa sotto\n• Trappole gialle all'altezza delle cime, vicino alle aperture\n• Reti alle aperture e doppia porta\n• Via le erbe infestanti dentro e intorno alla serra\n• Quando tratti, bagna bene la pagina inferiore\n\n💡 Lo sapevi? Il danno vero è il virus dell'accartocciamento fogliare giallo, che la mosca porta da una pianta all'altra. Per questo contano soprattutto i primi 40 giorni dopo il trapianto.\n\nReti, trappole e consigli li trovi al banco.\n\n#moscabianca #pomodoro #serra #difesa #trappole #vittoria #studio4srl",
-      "storia": {
-        "titolo": "Mosca bianca:<br><em>guarda sotto<br>la foglia.</em>",
-        "emoji": "🪰",
-        "etichetta": "Il punto",
-        "grande": "Gli adulti che volano sono solo una parte.",
-        "piccolo": "Uova e forme giovani stanno ferme sulla pagina inferiore."
-      }
-    },
-    {
-      "id": "ven_1930",
-      "tipo": "carosello",
-      "data": "2026-11-20",
-      "ora": "19:30",
-      "titolo": "Serra d'inverno: la condensa",
-      "tema": "condensa-serra-inverno",
-      "prodotti": [],
-      "colore": "azzurro",
-      "argomento": "Clima in serra",
-      "dato": "la condensa si forma quando l'aria umida tocca una superficie più fredda del punto di rugiada; la foglia bagnata per ore favorisce botrite e peronospora",
-      "fonte_dato": "nozioni generali di climatizzazione delle serre",
-      "slide": [
-        {
-          "tipo": "copertina",
-          "titolo": "La serra<br><em>gocciola</em><br>al mattino?",
-          "sotto": "Quelle gocce sono <span>la porta d'ingresso</span> delle malattie.",
-          "emoji": "💦",
-          "box": "Da dove viene la condensa e come si riduce. Scorri."
-        },
-        {
-          "tipo": "schede",
-          "tag": "Perché succede",
-          "titolo": "Aria calda,<br><em>telo freddo.</em>",
-          "voci": [
-            [
-              "🌡️",
-              "Di notte il telo si raffredda",
-              "Diventa la superficie più fredda della serra."
-            ],
-            [
-              "💧",
-              "L'aria umida lo tocca",
-              "Il vapore torna acqua e si formano le gocce."
-            ],
-            [
-              "🍃",
-              "Le gocce cadono sulle piante",
-              "Foglie e fiori restano bagnati per ore."
-            ],
-            [
-              "🦠",
-              "Il fungo ha bisogno di acqua",
-              "Botrite e peronospora partono dalla foglia bagnata."
-            ]
-          ],
-          "fonte": "Nozioni generali."
-        },
-        {
-          "tipo": "elenco",
-          "tag": "In pratica",
-          "titolo": "Come si<br><em>riduce.</em>",
-          "punti": [
-            "Apri presto al mattino, anche poco: fai uscire l'aria umida prima che scaldi",
-            "Irriga al mattino, mai la sera: la notte la pianta deve essere asciutta",
-            "Pacciamatura: meno acqua che evapora dal terreno",
-            "Sfoglia in basso e tieni le file ariose",
-            "Telo anti-goccia: l'acqua scorre lungo il telo invece di cadere"
-          ],
-          "fonte": "Nozioni generali."
-        },
-        {
-          "tipo": "sapevi",
-          "titolo": "Il momento peggiore è l'alba.",
-          "grande": "Quando sorge il sole l'aria si scalda prima delle piante.",
-          "piccolo": "Frutti e fusti restano freddi e l'umidità condensa proprio su di loro.",
-          "punti": [
-            "Per questo la botrite parte spesso dal fusto e dai frutti",
-            "Arieggiare all'alba conta più che a mezzogiorno",
-            "Una serra chiusa fino a tardi lavora contro di te"
-          ],
-          "chiusa": "Guarda la serra alle 7, non alle 11.",
-          "fonte": "Nozioni generali."
-        }
-      ],
-      "didascalia": "La serra gocciola al mattino? 💦\n\nQuelle gocce sono la porta d'ingresso delle malattie. Di notte il telo diventa la superficie più fredda della serra: l'aria umida lo tocca, il vapore torna acqua e cade sulle piante. Foglie e fiori restano bagnati per ore, ed è lì che partono botrite e peronospora.\n\n🌬️ Come si riduce\n• Apri presto al mattino, anche poco\n• Irriga al mattino, mai la sera\n• Pacciamatura, per far evaporare meno acqua dal terreno\n• Sfoglia in basso e tieni le file ariose\n• Telo anti-goccia: l'acqua scorre invece di cadere\n\n💡 Lo sapevi? Il momento peggiore è l'alba: l'aria si scalda prima delle piante, e l'umidità condensa su frutti e fusti ancora freddi. Per questo la muffa grigia parte spesso da lì.\n\nTeli e pacciamatura li trovi al banco.\n\n#serra #condensa #botrite #pomodoro #inverno #vittoria #studio4srl",
-      "storia": {
-        "titolo": "Serra che<br><em>gocciola?</em>",
-        "emoji": "💦",
-        "etichetta": "Il consiglio",
-        "grande": "Apri presto al mattino, anche poco.",
-        "piccolo": "Fai uscire l'aria umida prima che il sole la scaldi."
-      }
-    },
-    {
-      "id": "ven_2145",
-      "tipo": "sera",
-      "data": "2026-11-20",
-      "ora": "21:45",
-      "titolo_breve": "Dal fiore al frutto rosso: contano i gradi",
-      "tema": "maturazione-pomodoro-gradi-non-giorni",
-      "dato": "in prove in ambiente controllato il pomodoro è maturato 95, 65, 46 e 42 giorni dopo l'apertura del fiore a 14, 18, 22 e 26 °C di temperatura media; lo sviluppo del frutto segue la temperatura media delle 24 ore",
-      "fonte_dato": "Adams, Cockshull e Cave, Annals of Botany 88 (2001), ente di ricerca inglese Horticulture Research International: riassunto dell'articolo letto il 15/11/2026 (archivio AGRIS-FAO) + nozione generale di fisiologia del pomodoro",
-      "colore": "rosso",
-      "emoji": "🍅",
-      "titolo": "Dal fiore al<br>frutto rosso:<br><em>quanti giorni?</em>",
-      "etichetta": "Da professionisti",
-      "grande": "Nelle prove: 95 giorni a 14 °C di media, 65 giorni a 18 °C.",
-      "piccolo": "Quattro gradi valgono un mese. E conta la media delle 24 ore: il calore che tieni di notte è raccolta che arriva prima."
-    },
-    {
-      "id": "sab_0700",
-      "tipo": "carosello",
-      "data": "2026-11-21",
-      "ora": "07:00",
-      "titolo": "Cetrioli storti o a punta: la forma dice la causa",
-      "tema": "cetriolo-frutti-deformi",
-      "prodotti": [],
-      "colore": "verde",
-      "argomento": "Cetriolo",
-      "dato": "la forma del frutto indica la causa: strozzatura = sbalzo d'acqua o conducibilità alta; punta sottile e chiara = poco azoto; collo stretto e punta gonfia = poco potassio; frutto curvo = freddo, poca luce o carico eccessivo",
-      "fonte_dato": "scheda tema del 9/11/2026 n. 3 (notiziario ATO2 Sardegna: stress idrico e conducibilità) + nozione generale",
-      "slide": [
-        {
-          "tipo": "copertina",
-          "titolo": "Cetrioli<br><em>storti,<br>strozzati</em><br>o a punta?",
-          "sotto": "Non è la varietà. <span>La forma ti dice cosa è mancato.</span>",
-          "emoji": "🥒",
-          "box": "Leggi il frutto: 4 forme, 4 cause. Scorri."
-        },
-        {
-          "tipo": "schede",
-          "tag": "Leggi il frutto",
-          "titolo": "Ogni forma<br><em>ha la sua causa.</em>",
-          "voci": [
-            [
-              "↩️",
-              "Curvo",
-              "Freddo, poca luce o troppi frutti insieme: la pianta non li riempie tutti."
-            ],
-            [
-              "⏳",
-              "Strozzato a metà",
-              "Uno sbalzo d'acqua mentre ingrossava: prima sete, poi tutto insieme."
-            ],
-            [
-              "🔻",
-              "Punta sottile e chiara",
-              "Di solito è poco azoto: la spinta finisce prima della punta."
-            ],
-            [
-              "🍐",
-              "Collo stretto, punta gonfia",
-              "Di solito è poco potassio, o la radice non riesce a prenderlo."
-            ]
-          ],
-          "fonte": "Nozioni generali."
-        },
-        {
-          "tipo": "elenco",
-          "tag": "In pratica",
-          "titolo": "Cosa cambi<br><em>da domani.</em>",
-          "punti": [
-            "Acqua poca e spesso: turni brevi e regolari, mai sete e poi pieno",
-            "Tieni d'occhio la conducibilità: se sale troppo la pianta beve meno e il frutto si strozza",
-            "Togli presto i frutti storti: non si raddrizzano e rubano forza agli altri",
-            "Con poco sole alleggerisci il carico: meno frutti, ma dritti"
-          ],
-          "chiusa": "Il frutto che raccogli oggi racconta gli ultimi dieci giorni.",
-          "fonte": "Nozioni generali."
-        },
-        {
-          "tipo": "sapevi",
-          "titolo": "Non gli servono le api.",
-          "grande": "Le varietà da serra fanno il frutto senza impollinazione.",
-          "piccolo": "Per questo un cetriolo storto non è «legato male»: è acqua, nutrimento o freddo.",
-          "punti": [
-            "Il frutto è quasi tutto acqua: ogni sbalzo si vede nella forma",
-            "Cresce in pochi giorni: basta una settimana storta per segnare tutti i frutti di quel momento",
-            "Se sono storti solo in una zona della serra, guarda prima gocciolatori e correnti fredde"
-          ],
-          "fonte": "Nozioni generali.",
-          "chiusa": "Guarda la forma prima di cambiare concime."
-        }
-      ],
-      "didascalia": "Cetrioli storti o a punta? 🥒\n\nNon è la varietà. Il cetriolo è quasi tutto acqua e cresce in pochi giorni: ogni sbalzo di acqua, nutrimento o temperatura resta scritto nella forma del frutto. Basta saperla leggere.\n\n🔎 Leggi il frutto\n• Curvo: freddo, poca luce o troppi frutti insieme\n• Strozzato a metà: uno sbalzo d'acqua mentre ingrossava\n• Punta sottile e chiara: di solito poco azoto\n• Collo stretto e punta gonfia: di solito poco potassio\n\n🛠️ Cosa cambi\n• Turni brevi e regolari, mai sete e poi pieno\n• Conducibilità sotto controllo: se sale troppo il frutto si strozza\n• Via subito i frutti storti: non si raddrizzano\n\n💡 Lo sapevi? Le varietà da serra fanno il frutto senza impollinazione. Un cetriolo storto non è «legato male»: guarda acqua e nutrizione degli ultimi dieci giorni.\n\nHai un dubbio? Chiedici al banco.\n\n#cetriolo #serra #fertirrigazione #orticole #agricoltura #vittoria #studio4srl",
-      "storia": {
-        "titolo": "Cetrioli<br><em>storti?</em>",
-        "emoji": "🥒",
-        "etichetta": "Il punto",
-        "grande": "La forma ti dice cosa è mancato.",
-        "piccolo": "Strozzato: sbalzo d'acqua. Punta sottile: poco azoto."
-      }
-    },
-    {
-      "id": "sab_0830",
-      "tipo": "sondaggio",
-      "data": "2026-11-21",
-      "ora": "08:30",
-      "titolo_breve": "Hai una lente in tasca?",
-      "tema": "sondaggio-lente-in-serra",
-      "dato": "l'eriofide rugginoso del pomodoro è lungo meno di 0,2 mm",
-      "fonte_dato": "nozione generale; scheda tema del 9/11/2026 n. 1",
-      "colore": "arancio",
-      "emoji": "🔍",
-      "titolo": "Hai una <em>lente</em><br>in tasca quando<br>entri in serra?",
-      "etichetta": "Lo sapevi?",
-      "grande": "L'eriofide del pomodoro è lungo meno di 0,2 mm.",
-      "piccolo": "A occhio nudo non lo vedi: vedi solo il danno.",
-      "adesivo": "sondaggio",
-      "risposte": [
-        "Sempre",
-        "Mai usata"
-      ]
-    },
-    {
-      "id": "sab_1930",
-      "tipo": "carosello",
-      "data": "2026-11-21",
-      "ora": "19:30",
-      "titolo": "Carenza e rientro: due tempi diversi",
-      "tema": "carenza-e-tempo-di-rientro",
-      "prodotti": [],
-      "colore": "indaco",
-      "argomento": "Dopo il trattamento",
-      "dato": "carenza (intervallo di sicurezza) = giorni tra ultimo trattamento e raccolta, il giorno del trattamento non si conta; tempo di rientro = quando si può tornare tra le piante senza protezioni: se l'etichetta non lo indica, almeno 24 ore, e in serra si arieggia prima",
-      "fonte_dato": "nozione generale (materiale formativo per il patentino, Regione Emilia-Romagna, letto il 12/11/2026)",
-      "slide": [
-        {
-          "tipo": "copertina",
-          "titolo": "Carenza<br>3 giorni.<br><em>E per<br>rientrare?</em>",
-          "sotto": "Sono due tempi diversi. <span>Uno protegge chi mangia, l'altro chi lavora.</span>",
-          "emoji": "⏱️",
-          "box": "Come si contano, senza sbagliare. Scorri."
-        },
-        {
-          "tipo": "confronto",
-          "tag": "A confronto",
-          "titolo": "Due tempi,<br><em>due motivi.</em>",
-          "colonne": [
-            {
-              "nome": "Carenza",
-              "righe": [
-                "Giorni tra l'ultimo trattamento e la raccolta",
-                "Protegge chi mangia il frutto",
-                "Cambia da coltura a coltura, anche con lo stesso prodotto",
-                "In miscela vale la più lunga",
-                "È scritta in etichetta, coltura per coltura"
-              ]
-            },
-            {
-              "nome": "Rientro",
-              "righe": [
-                "Quando puoi tornare tra le piante senza protezioni",
-                "Protegge te e chi lavora con te",
-                "Se l'etichetta non lo indica: almeno 24 ore",
-                "In serra: prima arieggia bene",
-                "Devi entrare prima? Solo con le protezioni"
-              ]
-            }
-          ],
-          "chiusa": "Sull'etichetta la carenza si chiama «intervallo di sicurezza».",
-          "fonte": "Nozioni generali."
-        },
-        {
-          "tipo": "passi",
-          "tag": "Come si conta",
-          "titolo": "Carenza 3 giorni:<br><em>il conto.</em>",
-          "passi": [
-            [
-              "Lunedì",
-              "Tratti: giorno zero",
-              "Il giorno del trattamento non si conta."
-            ],
-            [
-              "Martedì e mercoledì",
-              "Giorni 1 e 2",
-              "Non si raccoglie, nemmeno il frutto già maturo."
-            ],
-            [
-              "Giovedì",
-              "Giorno 3: raccogli",
-              "Sono passati tre giorni interi."
-            ],
-            [
-              "Hai ritrattato mercoledì?",
-              "Il conto riparte",
-              "Mercoledì diventa il giorno zero: raccogli sabato."
-            ]
-          ],
-          "box": "Zucchina e cetriolo si raccolgono ogni 1–2 giorni: lì la carenza decide quale prodotto puoi usare.",
-          "fonte": "Nozioni generali."
-        },
-        {
-          "tipo": "sapevi",
-          "titolo": "In miscela comanda il più lungo.",
-          "grande": "Due prodotti in botte? Vale la carenza più lunga dei due.",
-          "piccolo": "E a ogni nuovo trattamento il conto riparte da zero.",
-          "punti": [
-            "Guarda quando hai la prossima raccolta prima di preparare la botte, non dopo",
-            "Un cartello sulla porta con giorno e ora del trattamento: lo vede anche chi entra dopo di te"
-          ],
-          "fonte": "Nozioni generali."
-        }
-      ],
-      "didascalia": "Carenza 3 giorni. E per rientrare? ⏱️\n\nSono due tempi diversi e si confondono spesso. La carenza protegge chi mangia il frutto. Il tempo di rientro protegge te e chi lavora con te tra le piante.\n\n📅 Come si contano\n• Carenza: i giorni tra l'ultimo trattamento e la raccolta. Il giorno del trattamento è il giorno zero\n• Carenza 3 giorni: tratti lunedì, raccogli giovedì\n• In miscela vale la carenza più lunga\n• Rientro: se l'etichetta non lo indica, aspetta almeno 24 ore\n• In serra arieggia bene prima di entrare\n\n💡 Lo sapevi? Se ripeti il trattamento il conto riparte da zero. Su zucchina e cetriolo, che si raccolgono ogni 1–2 giorni, è la carenza a decidere quale prodotto puoi usare.\n\nHai un dubbio su un'etichetta? Chiedici al banco.\n\n#carenza #trattamenti #patentino #serra #orticole #vittoria #studio4srl",
-      "storia": {
-        "titolo": "Carenza e<br><em>rientro</em><br>non sono la<br>stessa cosa.",
-        "emoji": "⏱️",
-        "etichetta": "Il dato",
-        "grande": "Rientro: se l'etichetta non lo indica, almeno 24 ore.",
-        "piccolo": "In serra arieggia bene prima di entrare."
-      }
-    },
-    {
-      "id": "sab_2145",
-      "tipo": "sera",
-      "data": "2026-11-21",
-      "ora": "21:45",
-      "titolo_breve": "Serra chiusa: finisce l'anidride carbonica",
-      "tema": "anidride-carbonica-serra-chiusa",
-      "dato": "in una serra chiusa con coltura in piena attività l'anidride carbonica può scendere di giorno a 150–200 parti per milione, contro le circa 400 dell'aria esterna, e la fotosintesi rallenta; il ricambio d'aria la riporta verso il livello esterno",
-      "fonte_dato": "nozione generale di climatizzazione delle serre, riscontrata sulla scheda «Greenhouse Carbon Dioxide Supplementation» dell'Oklahoma State University Extension, consultata il 15/11/2026",
-      "colore": "petrolio",
-      "emoji": "💨",
-      "titolo": "Serra chiusa<br>e sole: cosa<br><em>finisce prima?</em>",
-      "etichetta": "Da professionisti",
-      "grande": "L'anidride carbonica. In serra chiusa può scendere a meno della metà di quella che c'è fuori.",
-      "piccolo": "Le piante la consumano, e senza rallentano anche in piena luce. Aprire al mattino non toglie solo umidità: la fa rientrare."
-    },
-    {
-      "id": "dom_0700",
-      "tipo": "carosello",
-      "data": "2026-11-22",
-      "ora": "07:00",
-      "titolo": "Fusto color bronzo: l'eriofide del pomodoro",
-      "tema": "eriofide-rugginoso-pomodoro",
-      "prodotti": [
-        "helio"
-      ],
-      "colore": "terracotta",
-      "argomento": "Eriofide",
-      "dato": "eriofide rugginoso: acaro lungo meno di 0,2 mm, parte dal basso e sale, si confonde con un fungo; Heliosoufre S 1,5–7 l/ha, 2–6 trattamenti ogni 7 giorni, carenza 3 giorni, non in fioritura, non sopra i 30 °C",
-      "fonte_dato": "scheda tema del 9/11/2026 n. 1 (bollettini Veneto n. 20–21/2026 e ATO2 Sardegna dic. 2025) + etichetta reg. n. 11102 + nozione generale",
-      "slide": [
-        {
-          "tipo": "copertina",
-          "titolo": "Fusto<br>color<br><em>bronzo?</em>",
-          "sotto": "Foglie basse che seccano, e sembra un fungo. <span>Spesso è un acaro che non vedi.</span>",
-          "emoji": "🔍",
-          "box": "Come riconoscerlo prima di sbagliare prodotto. Scorri."
-        },
-        {
-          "tipo": "schede",
-          "tag": "Come lo riconosci",
-          "titolo": "Sembra un fungo,<br><em>ma non lo è.</em>",
-          "voci": [
-            [
-              "⬆️",
-              "Parte dal basso e sale",
-              "Prima il piede del fusto, poi foglie e palchi verso l'alto."
-            ],
-            [
-              "🟤",
-              "Bronzo, non macchie",
-              "Fusto e piccioli diventano lisci e color ruggine, senza muffa."
-            ],
-            [
-              "🍂",
-              "Foglie che seccano",
-              "Ingialliscono, si accartocciano e restano attaccate."
-            ],
-            [
-              "🍅",
-              "Frutti ruvidi",
-              "Buccia opaca, color ruggine, con piccole screpolature."
-            ]
-          ],
-          "chiusa": "Niente muffa sopra? Sospetta l'acaro.",
-          "fonte": "Nozioni generali."
-        },
-        {
-          "tipo": "elenco",
-          "tag": "In pratica",
-          "titolo": "Ai primi<br><em>focolai.</em>",
-          "punti": [
-            "Lente da 20 ingrandimenti sul confine tra verde e bronzo: sono lì, allungati e color crema",
-            "Segna le piante colpite: parte a chiazze, dai punti più caldi e asciutti",
-            "Lavora quelle file per ultime: lo porti in giro con mani, vestiti e attrezzi",
-            "Intervieni solo dopo averlo visto: contro un acaro il fungicida non lavora"
-          ],
-          "fonte": "Nozioni generali.",
-          "chiusa": "Preso a chiazze si ferma. Preso tardi è in tutta la serra."
-        },
-        {
-          "tipo": "dose",
-          "tag": "La dose giusta",
-          "titolo": "Heliosoufre S:<br><em>zolfo liquido.</em>",
-          "foto": "helio",
-          "etichetta": "Eriofide rugginoso",
-          "valore": "1,5–7 l/ha",
-          "nota": "2–6 trattamenti, ogni 7 giorni",
-          "punti": [
-            "Carenza 3 giorni",
-            "Non in fioritura",
-            "Non sopra i 30 °C",
-            "L'acaro sta su fusto e foglie basse: bagna lì"
-          ],
-          "fonte": "Dosi da etichetta."
-        },
-        {
-          "tipo": "sapevi",
-          "titolo": "Quando lo vedi, è tardi.",
-          "grande": "L'eriofide è lungo meno di 0,2 mm: a occhio nudo non si vede.",
-          "piccolo": "Il bronzo è il danno di migliaia di acari, già fatto.",
-          "punti": [
-            "Ama caldo e aria asciutta: in serra parte dai punti più caldi",
-            "Cammina poco: lo spostano il vento e chi lavora",
-            "Si scambia per malattia o carenza: la lente toglie il dubbio in un minuto"
-          ],
-          "chiusa": "Una lente in tasca vale più di un trattamento alla cieca.",
-          "fonte": "Nozioni generali."
-        }
-      ],
-      "didascalia": "Fusto color bronzo? 🔍\n\nFoglie basse che seccano, fusto che diventa color ruggine: sembra un fungo, ma spesso è l'eriofide rugginoso, un acaro così piccolo che a occhio nudo non si vede. Chi lo scambia per una malattia sbaglia prodotto e perde giorni.\n\n🔎 Come lo riconosci\n• Parte dal piede del fusto e sale\n• Fusto e piccioli lisci, color bronzo, senza muffa\n• Foglie che seccano e restano attaccate\n• Frutti ruvidi e opachi\n\n🛠️ Cosa fare\n• Lente da 20 ingrandimenti sul confine tra verde e bronzo\n• Lavora le file colpite per ultime: lo sposti con mani e vestiti\n• Heliosoufre S: 1,5–7 l/ha, 2–6 trattamenti ogni 7 giorni, carenza 3 giorni. Non in fioritura, non sopra i 30 °C\n\n💡 Lo sapevi? L'eriofide è lungo meno di 0,2 mm. Quando vedi il bronzo, il danno è già di migliaia di acari: per questo conta guardare prima, con la lente.\n\nLo trovi al banco. Etichetta: Heliosoufre S reg. n. 11102. Segui sempre l'etichetta in vigore.\n\n#pomodoro #eriofide #acari #zolfo #serra #vittoria #studio4srl",
-      "storia": {
-        "titolo": "Fusto color<br><em>bronzo?</em>",
-        "foto": "helio",
-        "etichetta": "Eriofide rugginoso",
-        "grande": "Heliosoufre S: 1,5–7 l/ha",
-        "piccolo": "2–6 trattamenti ogni 7 giorni. Prima guardalo con la lente."
-      }
-    },
-    {
-      "id": "dom_0830",
-      "tipo": "sondaggio",
-      "data": "2026-11-22",
-      "ora": "08:30",
-      "titolo_breve": "Quanti litri usi per 1.000 m²?",
-      "tema": "sondaggio-litri-per-mille-metri",
-      "dato": "con una dose per ettolitro, il prodotto distribuito cresce con il volume d'acqua",
-      "fonte_dato": "nozione generale (aritmetica delle dosi)",
-      "colore": "viola",
-      "emoji": "💧",
-      "titolo": "Sai quanti<br><em>litri d'acqua</em><br>usi per 1.000 m²?",
-      "etichetta": "Lo sapevi?",
-      "grande": "A dose per ettolitro, più acqua usi e più prodotto dai.",
-      "piccolo": "Senza quel numero, la dose a ettaro resta un'ipotesi.",
-      "adesivo": "sondaggio",
-      "risposte": [
-        "Lo so preciso",
-        "Vado a occhio"
-      ]
-    },
-    {
-      "id": "dom_1930",
-      "tipo": "carosello",
-      "data": "2026-11-22",
-      "ora": "19:30",
-      "titolo": "Dose a ettaro, serra a metri: il conto già fatto",
-      "tema": "dose-ettaro-mille-metri",
-      "prodotti": [],
-      "colore": "petrolio",
-      "argomento": "Il conto già fatto",
-      "dato": "1.000 m² sono un decimo di ettaro: la dose a ettaro si divide per 10; con una dose per ettolitro il prodotto distribuito cresce con l'acqua usata",
-      "fonte_dato": "nozione generale (aritmetica delle dosi)",
-      "slide": [
-        {
-          "tipo": "copertina",
-          "titolo": "L'etichetta<br>dice <em>ettaro.</em><br>Tu hai<br>mille metri.",
-          "sotto": "E la botte va a ettolitri. <span>Tre conti che si sbagliano spesso.</span>",
-          "emoji": "🧮",
-          "box": "Il conto già fatto, da salvare. Scorri."
-        },
-        {
-          "tipo": "grande",
-          "tag": "Da salvare",
-          "titolo": "Da ettaro<br>a <em>mille metri.</em>",
-          "etichetta": "La regola",
-          "valore": "Dividi per 10",
-          "nota": "1.000 m² sono un decimo di ettaro",
-          "punti": [
-            "1 litro a ettaro = 100 ml ogni 1.000 m²",
-            "1 kg a ettaro = 100 g ogni 1.000 m²",
-            "500 ml a ettaro = 50 ml ogni 1.000 m²",
-            "Serra da 2.500 m²? Dividi per 4"
-          ],
-          "fonte": "Solo aritmetica: la dose è quella della tua etichetta."
-        },
-        {
-          "tipo": "schede",
-          "tag": "In botte",
-          "titolo": "A ettolitro:<br><em>conta l'acqua.</em>",
-          "voci": [
-            [
-              "💧",
-              "Un ettolitro = 100 litri",
-              "Una botte da 500 litri sono 5 ettolitri."
-            ],
-            [
-              "✖️",
-              "Dose × ettolitri",
-              "100 ml per ettolitro in 500 litri fanno 500 ml di prodotto."
-            ],
-            [
-              "⚠️",
-              "Più acqua, più prodotto",
-              "Se raddoppi l'acqua con la stessa dose per ettolitro, raddoppi il prodotto."
-            ],
-            [
-              "📏",
-              "Guarda anche il massimo a ettaro",
-              "Molte etichette danno tutti e due i numeri: quello a ettaro è il tetto."
-            ]
-          ],
-          "fonte": "Solo aritmetica: la dose è quella della tua etichetta."
-        },
-        {
-          "tipo": "elenco",
-          "tag": "La prova",
-          "titolo": "Quanta acqua<br><em>usi davvero?</em>",
-          "punti": [
-            "Riempi la botte e segna il livello",
-            "Bagna una serra come fai sempre",
-            "Guarda quanti litri mancano: è il tuo volume per quella superficie",
-            "Rifai la prova quando la pianta è alta: l'acqua che serve cresce molto"
-          ],
-          "chiusa": "Scrivi quel numero sulla botte: ti serve a ogni trattamento.",
-          "fonte": "Nozioni generali."
-        },
-        {
-          "tipo": "sapevi",
-          "titolo": "Stessa dose, due risultati.",
-          "grande": "A dose per ettolitro, chi bagna con più acqua dà più prodotto.",
-          "piccolo": "Due vicini con la stessa etichetta possono distribuire quantità molto diverse.",
-          "punti": [
-            "Con poca acqua rischi di restare sotto dose",
-            "Con tanta acqua puoi passare il massimo a ettaro senza accorgertene"
-          ],
-          "fonte": "Nozioni generali."
-        }
-      ],
-      "didascalia": "L'etichetta dice ettaro. Tu hai mille metri. 🧮\n\nLa dose è scritta a ettaro o a ettolitro, ma la serra si misura a migliaia di metri e la botte a litri. È lì che nascono gli errori: sotto dose, o sopra il massimo senza accorgersene.\n\n📌 Il conto già fatto\n• 1.000 m² sono un decimo di ettaro: dividi per 10\n• 1 litro a ettaro = 100 ml ogni 1.000 m²\n• 1 kg a ettaro = 100 g ogni 1.000 m²\n• Un ettolitro = 100 litri: botte da 500 litri = 5 ettolitri\n• Dose per ettolitro × ettolitri = prodotto in botte\n\n🧪 La prova: riempi la botte, bagna una serra come sempre e guarda quanti litri mancano. Quello è il tuo volume. Rifalla quando la pianta è alta.\n\n💡 Lo sapevi? A dose per ettolitro, chi usa più acqua dà più prodotto. Per questo molte etichette indicano anche il massimo a ettaro: è quello il tetto.\n\nSalva il post. Per il conto sulla tua serra, chiedici al banco.\n\n#dosi #trattamenti #botte #serra #agricoltura #vittoria #studio4srl",
-      "storia": {
-        "titolo": "Dose a ettaro,<br>serra da<br><em>mille metri?</em>",
-        "emoji": "🧮",
-        "etichetta": "Il conto",
-        "grande": "Dividi per 10.",
-        "piccolo": "1 litro a ettaro = 100 ml ogni 1.000 m²."
-      }
-    },
-    {
-      "id": "dom_2145",
-      "tipo": "sera",
-      "data": "2026-11-22",
-      "ora": "21:45",
-      "titolo_breve": "Il pH attorno alla radice lo decide l'azoto",
-      "tema": "forma-azoto-ph-attorno-radice",
-      "dato": "quando assorbe nitrato la radice alza il pH del terreno a contatto con sé, quando assorbe ammonio lo abbassa (bilancio delle cariche); nei terreni calcarei questo cambia la disponibilità del ferro vicino alla radice",
-      "fonte_dato": "nozione generale di nutrizione delle piante (manuali di fisiologia vegetale)",
-      "colore": "marrone",
-      "emoji": "🌱",
-      "titolo": "Chi decide<br>il pH attorno<br><em>alla radice?</em>",
-      "etichetta": "Da professionisti",
-      "grande": "L'azoto. Se la radice assorbe nitrato alza il pH intorno a sé; se assorbe ammonio lo abbassa.",
-      "piccolo": "Sui terreni calcarei è lì, a un millimetro dalla radice, che il ferro si sblocca o resta fermo. Conta che azoto dai, non solo quanto."
-    },
-    {
       "id": "mer_0700",
       "tipo": "carosello",
       "data": "2026-11-18",
@@ -983,6 +219,533 @@
         "grande": "Caro gasolio: domande entro il 30 novembre.",
         "piccolo": "E poi controlli in filiera, registro digitale e prezzi del pomodoro."
       }
+    },
+    {
+      "id": "ven_1930",
+      "tipo": "carosello",
+      "data": "2026-11-20",
+      "ora": "19:30",
+      "titolo": "Pomodoro in serra: prima la pianta, poi i fiori",
+      "tema": "pomodoro-serra-rigor-instant-trip",
+      "prodotti": [
+        "rigor",
+        "instanttrip"
+      ],
+      "colore": "rosso",
+      "argomento": "Pomodoro in serra",
+      "dato": "Rigor N 18% in fertirrigazione 250–300 ml/1.000 m² ogni 15–20 giorni dal 15° giorno; Instant Trip 350–400 g/hl a inizio fioritura di ogni palco; il triptofano è il precursore dell'auxina",
+      "fonte_dato": "scheda tecnica Rigor; scheda del produttore Instant Trip; nozione generale di fisiologia vegetale",
+      "slide": [
+        {
+          "tipo": "copertina",
+          "titolo": "Pomodoro:<br><em>prima la pianta,<br>poi i fiori.</em>",
+          "sotto": "Due fasi, due prodotti diversi. <span>Sbagli il momento e sprechi tutti e due.</span>",
+          "emoji": "🍅",
+          "box": "Quando dare l'azoto e quando la spinta ai fiori. Scorri."
+        },
+        {
+          "tipo": "passi",
+          "tag": "Il calendario",
+          "titolo": "Due fasi,<br><em>due prodotti.</em>",
+          "passi": [
+            [
+              "Trapianto",
+              "Le radici attaccano",
+              "Nei primi 15 giorni solo acqua e radicanti."
+            ],
+            [
+              "Dal 15° giorno",
+              "Rigor in fertirrigazione",
+              "250–300 ml ogni 1.000 m², ogni 15–20 giorni: costruisce foglie e rami."
+            ],
+            [
+              "Inizio fioritura",
+              "Instant Trip per foglia",
+              "350–400 g/hl a inizio fioritura di ogni palco."
+            ],
+            [
+              "Fino a fine fioritura",
+              "Si ripete palco dopo palco",
+              "Ogni nuovo palco che apre, un passaggio."
+            ]
+          ],
+          "box": "Rigor fa la pianta, Instant Trip aiuta i fiori a legare.",
+          "fonte": "Dosi da scheda tecnica."
+        },
+        {
+          "tipo": "confronto",
+          "tag": "Cosa c'è dentro",
+          "titolo": "Cosa c'è<br><em>dentro.</em>",
+          "colonne": [
+            {
+              "nome": "Rigor",
+              "righe": [
+                "Azoto 18%: 16 ureico, 2 organico",
+                "Carbonio organico 7%",
+                "Idrolizzati proteici: aiutano la ripresa dopo uno stress",
+                "Anche fogliare: 100–150 ml/hl"
+              ]
+            },
+            {
+              "nome": "Instant Trip",
+              "righe": [
+                "Triptofano e altri aminoacidi",
+                "Alghe brune e lieviti",
+                "Vitamine del gruppo B",
+                "Non con zolfo, rame e oli minerali"
+              ]
+            }
+          ],
+          "chiusa": "Uno lavora sulla crescita, l'altro sulla fioritura.",
+          "fonte": "Dati da scheda tecnica."
+        },
+        {
+          "tipo": "sapevi",
+          "titolo": "Il triptofano diventa ormone.",
+          "grande": "Con il triptofano la pianta fabbrica l'auxina.",
+          "piccolo": "È l'ormone che serve al fiore per allegare e al frutto per ingrossare.",
+          "punti": [
+            "Per questo il triptofano si dà quando apre il palco",
+            "Troppo azoto in fioritura fa foglie, non frutti",
+            "Prima costruisci la pianta, poi passa ai fiori"
+          ],
+          "chiusa": "Il momento giusto conta quanto la dose.",
+          "fonte": "Nozioni generali di fisiologia vegetale."
+        }
+      ],
+      "didascalia": "Pomodoro in serra: prima la pianta, poi i fiori 🍅\n\nNei primi giorni dopo il trapianto la pianta deve fare radici, foglie e rami. Quando aprono i palchi, il lavoro cambia: deve legare i fiori. Sono due fasi diverse e vanno nutrite in modo diverso.\n\n📅 Il calendario\n• Dal 15° giorno dopo il trapianto: Rigor in fertirrigazione, 250–300 ml ogni 1.000 m², ogni 15–20 giorni\n• A inizio fioritura di ogni palco: Instant Trip per foglia, 350–400 g/hl, fino a fine fioritura\n• Instant Trip non va con zolfo, rame e oli minerali\n\n💡 Lo sapevi? Il triptofano è la materia prima con cui la pianta fabbrica l'auxina, l'ormone che aiuta il fiore ad allegare e il frutto a ingrossare. Per questo si dà quando apre il palco. E troppo azoto in fioritura fa foglie, non frutti.\n\nDosi da scheda tecnica. Li trovi al banco.\n\n#pomodoro #serra #fioritura #allegagione #fertirrigazione #vittoria #studio4srl",
+      "storia": {
+        "titolo": "Pomodoro:<br><em>prima la pianta,<br>poi i fiori.</em>",
+        "emoji": "🍅",
+        "etichetta": "Il calendario",
+        "grande": "Dal 15° giorno Rigor, a fioritura Instant Trip.",
+        "piccolo": "Instant Trip 350–400 g/hl a inizio fioritura di ogni palco."
+      }
+    },
+    {
+      "id": "sab_0830",
+      "tipo": "sondaggio",
+      "data": "2026-11-21",
+      "ora": "08:30",
+      "titolo_breve": "Misuri il pH dell'acqua?",
+      "tema": "sondaggio-ph-acqua",
+      "dato": "pH ideale dell'acqua in botte intorno a 6",
+      "fonte_dato": "scheda tecnica pH Control",
+      "colore": "magenta",
+      "emoji": "🧪",
+      "titolo": "Misuri mai<br>il <em>pH</em> dell'acqua<br>in botte?",
+      "etichetta": "Lo sapevi?",
+      "grande": "L'acqua di pozzo qui è spesso sopra pH 7,5.",
+      "piccolo": "Per molti prodotti il punto giusto è intorno a pH 6.",
+      "adesivo": "sondaggio",
+      "risposte": [
+        "Sempre",
+        "Mai misurato"
+      ]
+    },
+    {
+      "id": "sab_1300",
+      "tipo": "carosello",
+      "data": "2026-11-21",
+      "ora": "13:00",
+      "titolo": "Mosca bianca: perché torna sempre",
+      "tema": "mosca-bianca-ciclo",
+      "prodotti": [],
+      "colore": "giallo",
+      "argomento": "Mosca bianca",
+      "dato": "uova e neanidi stanno sulla pagina inferiore; il giallo attira gli adulti; trasmette il virus TYLCV",
+      "fonte_dato": "nozioni generali di entomologia agraria",
+      "slide": [
+        {
+          "tipo": "copertina",
+          "titolo": "Mosca bianca:<br><em>perché<br>torna<br>sempre?</em>",
+          "sotto": "Tratti, sparisce, e dopo due settimane <span>è di nuovo lì.</span>",
+          "emoji": "🪰",
+          "box": "Il motivo è sotto la foglia. Scorri."
+        },
+        {
+          "tipo": "schede",
+          "tag": "Il ciclo",
+          "titolo": "Quattro stadi,<br><em>uno solo vola.</em>",
+          "voci": [
+            [
+              "🥚",
+              "Uova",
+              "Deposte sotto le foglie giovani, in alto."
+            ],
+            [
+              "🐛",
+              "Neanidi",
+              "Ferme sotto la foglia, succhiano linfa. Sono loro la maggioranza."
+            ],
+            [
+              "🦋",
+              "Adulti",
+              "Volano via appena tocchi la pianta: sono quelli che vedi."
+            ],
+            [
+              "🔁",
+              "Di continuo",
+              "In serra calda le generazioni si accavallano: trovi tutti gli stadi insieme."
+            ]
+          ],
+          "fonte": "Nozioni generali."
+        },
+        {
+          "tipo": "elenco",
+          "tag": "In pratica",
+          "titolo": "Cosa fare<br><em>in serra.</em>",
+          "punti": [
+            "Gira le foglie: il controllo si fa sulla pagina inferiore",
+            "Trappole gialle all'altezza delle cime, vicino alle aperture",
+            "Reti alle aperture e doppia porta: l'ingresso conta più del trattamento",
+            "Via le erbe infestanti dentro e intorno: sono il suo rifugio",
+            "Bagna bene sotto la foglia: lì arriva poco prodotto"
+          ],
+          "fonte": "Nozioni generali."
+        },
+        {
+          "tipo": "sapevi",
+          "titolo": "Il danno vero è il virus.",
+          "grande": "La mosca bianca porta il virus dell'accartocciamento fogliare giallo del pomodoro.",
+          "piccolo": "Bastano pochi adulti infetti per passarlo da una pianta all'altra.",
+          "punti": [
+            "Per questo contano i primi 40 giorni dopo il trapianto",
+            "Una pianta malata non guarisce: va tolta e portata fuori",
+            "Le varietà tolleranti aiutano, ma non fermano la mosca"
+          ],
+          "chiusa": "Meno mosche entrano all'inizio, meno virus trovi dopo.",
+          "fonte": "Nozioni generali."
+        }
+      ],
+      "didascalia": "Mosca bianca: perché torna sempre? 🪰\n\nTratti, sparisce, e dopo due settimane è di nuovo lì. Il motivo è sotto la foglia: gli adulti che vedi volare sono solo una parte. Uova e forme giovani restano ferme sulla pagina inferiore, e in serra calda le generazioni si accavallano.\n\n🔎 Cosa fare\n• Gira le foglie: il controllo si fa sotto\n• Trappole gialle all'altezza delle cime, vicino alle aperture\n• Reti alle aperture e doppia porta\n• Via le erbe infestanti dentro e intorno alla serra\n• Quando tratti, bagna bene la pagina inferiore\n\n💡 Lo sapevi? Il danno vero è il virus dell'accartocciamento fogliare giallo, che la mosca porta da una pianta all'altra. Per questo contano soprattutto i primi 40 giorni dopo il trapianto.\n\nReti, trappole e consigli li trovi al banco.\n\n#moscabianca #pomodoro #serra #difesa #trappole #vittoria #studio4srl",
+      "storia": {
+        "titolo": "Mosca bianca:<br><em>guarda sotto<br>la foglia.</em>",
+        "emoji": "🪰",
+        "etichetta": "Il punto",
+        "grande": "Gli adulti che volano sono solo una parte.",
+        "piccolo": "Uova e forme giovani stanno ferme sulla pagina inferiore."
+      }
+    },
+    {
+      "id": "sab_1930",
+      "tipo": "carosello",
+      "data": "2026-11-21",
+      "ora": "19:30",
+      "titolo": "Serra d'inverno: la condensa",
+      "tema": "condensa-serra-inverno",
+      "prodotti": [],
+      "colore": "azzurro",
+      "argomento": "Clima in serra",
+      "dato": "la condensa si forma quando l'aria umida tocca una superficie più fredda del punto di rugiada; la foglia bagnata per ore favorisce botrite e peronospora",
+      "fonte_dato": "nozioni generali di climatizzazione delle serre",
+      "slide": [
+        {
+          "tipo": "copertina",
+          "titolo": "La serra<br><em>gocciola</em><br>al mattino?",
+          "sotto": "Quelle gocce sono <span>la porta d'ingresso</span> delle malattie.",
+          "emoji": "💦",
+          "box": "Da dove viene la condensa e come si riduce. Scorri."
+        },
+        {
+          "tipo": "schede",
+          "tag": "Perché succede",
+          "titolo": "Aria calda,<br><em>telo freddo.</em>",
+          "voci": [
+            [
+              "🌡️",
+              "Di notte il telo si raffredda",
+              "Diventa la superficie più fredda della serra."
+            ],
+            [
+              "💧",
+              "L'aria umida lo tocca",
+              "Il vapore torna acqua e si formano le gocce."
+            ],
+            [
+              "🍃",
+              "Le gocce cadono sulle piante",
+              "Foglie e fiori restano bagnati per ore."
+            ],
+            [
+              "🦠",
+              "Il fungo ha bisogno di acqua",
+              "Botrite e peronospora partono dalla foglia bagnata."
+            ]
+          ],
+          "fonte": "Nozioni generali."
+        },
+        {
+          "tipo": "elenco",
+          "tag": "In pratica",
+          "titolo": "Come si<br><em>riduce.</em>",
+          "punti": [
+            "Apri presto al mattino, anche poco: fai uscire l'aria umida prima che scaldi",
+            "Irriga al mattino, mai la sera: la notte la pianta deve essere asciutta",
+            "Pacciamatura: meno acqua che evapora dal terreno",
+            "Sfoglia in basso e tieni le file ariose",
+            "Telo anti-goccia: l'acqua scorre lungo il telo invece di cadere"
+          ],
+          "fonte": "Nozioni generali."
+        },
+        {
+          "tipo": "sapevi",
+          "titolo": "Il momento peggiore è l'alba.",
+          "grande": "Quando sorge il sole l'aria si scalda prima delle piante.",
+          "piccolo": "Frutti e fusti restano freddi e l'umidità condensa proprio su di loro.",
+          "punti": [
+            "Per questo la botrite parte spesso dal fusto e dai frutti",
+            "Arieggiare all'alba conta più che a mezzogiorno",
+            "Una serra chiusa fino a tardi lavora contro di te"
+          ],
+          "chiusa": "Guarda la serra alle 7, non alle 11.",
+          "fonte": "Nozioni generali."
+        }
+      ],
+      "didascalia": "La serra gocciola al mattino? 💦\n\nQuelle gocce sono la porta d'ingresso delle malattie. Di notte il telo diventa la superficie più fredda della serra: l'aria umida lo tocca, il vapore torna acqua e cade sulle piante. Foglie e fiori restano bagnati per ore, ed è lì che partono botrite e peronospora.\n\n🌬️ Come si riduce\n• Apri presto al mattino, anche poco\n• Irriga al mattino, mai la sera\n• Pacciamatura, per far evaporare meno acqua dal terreno\n• Sfoglia in basso e tieni le file ariose\n• Telo anti-goccia: l'acqua scorre invece di cadere\n\n💡 Lo sapevi? Il momento peggiore è l'alba: l'aria si scalda prima delle piante, e l'umidità condensa su frutti e fusti ancora freddi. Per questo la muffa grigia parte spesso da lì.\n\nTeli e pacciamatura li trovi al banco.\n\n#serra #condensa #botrite #pomodoro #inverno #vittoria #studio4srl",
+      "storia": {
+        "titolo": "Serra che<br><em>gocciola?</em>",
+        "emoji": "💦",
+        "etichetta": "Il consiglio",
+        "grande": "Apri presto al mattino, anche poco.",
+        "piccolo": "Fai uscire l'aria umida prima che il sole la scaldi."
+      }
+    },
+    {
+      "id": "sab_2145",
+      "tipo": "sera",
+      "data": "2026-11-21",
+      "ora": "21:45",
+      "titolo_breve": "Dal fiore al frutto rosso: contano i gradi",
+      "tema": "maturazione-pomodoro-gradi-non-giorni",
+      "dato": "in prove in ambiente controllato il pomodoro è maturato 95, 65, 46 e 42 giorni dopo l'apertura del fiore a 14, 18, 22 e 26 °C di temperatura media; lo sviluppo del frutto segue la temperatura media delle 24 ore",
+      "fonte_dato": "Adams, Cockshull e Cave, Annals of Botany 88 (2001), ente di ricerca inglese Horticulture Research International: riassunto dell'articolo letto il 15/11/2026 (archivio AGRIS-FAO) + nozione generale di fisiologia del pomodoro",
+      "colore": "rosso",
+      "emoji": "🍅",
+      "titolo": "Dal fiore al<br>frutto rosso:<br><em>quanti giorni?</em>",
+      "etichetta": "Da professionisti",
+      "grande": "Nelle prove: 95 giorni a 14 °C di media, 65 giorni a 18 °C.",
+      "piccolo": "Quattro gradi valgono un mese. E conta la media delle 24 ore: il calore che tieni di notte è raccolta che arriva prima."
+    },
+    {
+      "id": "dom_0700",
+      "tipo": "carosello",
+      "data": "2026-11-22",
+      "ora": "07:00",
+      "titolo": "Cetrioli storti o a punta: la forma dice la causa",
+      "tema": "cetriolo-frutti-deformi",
+      "prodotti": [],
+      "colore": "verde",
+      "argomento": "Cetriolo",
+      "dato": "la forma del frutto indica la causa: strozzatura = sbalzo d'acqua o conducibilità alta; punta sottile e chiara = poco azoto; collo stretto e punta gonfia = poco potassio; frutto curvo = freddo, poca luce o carico eccessivo",
+      "fonte_dato": "scheda tema del 9/11/2026 n. 3 (notiziario ATO2 Sardegna: stress idrico e conducibilità) + nozione generale",
+      "slide": [
+        {
+          "tipo": "copertina",
+          "titolo": "Cetrioli<br><em>storti,<br>strozzati</em><br>o a punta?",
+          "sotto": "Non è la varietà. <span>La forma ti dice cosa è mancato.</span>",
+          "emoji": "🥒",
+          "box": "Leggi il frutto: 4 forme, 4 cause. Scorri."
+        },
+        {
+          "tipo": "schede",
+          "tag": "Leggi il frutto",
+          "titolo": "Ogni forma<br><em>ha la sua causa.</em>",
+          "voci": [
+            [
+              "↩️",
+              "Curvo",
+              "Freddo, poca luce o troppi frutti insieme: la pianta non li riempie tutti."
+            ],
+            [
+              "⏳",
+              "Strozzato a metà",
+              "Uno sbalzo d'acqua mentre ingrossava: prima sete, poi tutto insieme."
+            ],
+            [
+              "🔻",
+              "Punta sottile e chiara",
+              "Di solito è poco azoto: la spinta finisce prima della punta."
+            ],
+            [
+              "🍐",
+              "Collo stretto, punta gonfia",
+              "Di solito è poco potassio, o la radice non riesce a prenderlo."
+            ]
+          ],
+          "fonte": "Nozioni generali."
+        },
+        {
+          "tipo": "elenco",
+          "tag": "In pratica",
+          "titolo": "Cosa cambi<br><em>da domani.</em>",
+          "punti": [
+            "Acqua poca e spesso: turni brevi e regolari, mai sete e poi pieno",
+            "Tieni d'occhio la conducibilità: se sale troppo la pianta beve meno e il frutto si strozza",
+            "Togli presto i frutti storti: non si raddrizzano e rubano forza agli altri",
+            "Con poco sole alleggerisci il carico: meno frutti, ma dritti"
+          ],
+          "chiusa": "Il frutto che raccogli oggi racconta gli ultimi dieci giorni.",
+          "fonte": "Nozioni generali."
+        },
+        {
+          "tipo": "sapevi",
+          "titolo": "Non gli servono le api.",
+          "grande": "Le varietà da serra fanno il frutto senza impollinazione.",
+          "piccolo": "Per questo un cetriolo storto non è «legato male»: è acqua, nutrimento o freddo.",
+          "punti": [
+            "Il frutto è quasi tutto acqua: ogni sbalzo si vede nella forma",
+            "Cresce in pochi giorni: basta una settimana storta per segnare tutti i frutti di quel momento",
+            "Se sono storti solo in una zona della serra, guarda prima gocciolatori e correnti fredde"
+          ],
+          "fonte": "Nozioni generali.",
+          "chiusa": "Guarda la forma prima di cambiare concime."
+        }
+      ],
+      "didascalia": "Cetrioli storti o a punta? 🥒\n\nNon è la varietà. Il cetriolo è quasi tutto acqua e cresce in pochi giorni: ogni sbalzo di acqua, nutrimento o temperatura resta scritto nella forma del frutto. Basta saperla leggere.\n\n🔎 Leggi il frutto\n• Curvo: freddo, poca luce o troppi frutti insieme\n• Strozzato a metà: uno sbalzo d'acqua mentre ingrossava\n• Punta sottile e chiara: di solito poco azoto\n• Collo stretto e punta gonfia: di solito poco potassio\n\n🛠️ Cosa cambi\n• Turni brevi e regolari, mai sete e poi pieno\n• Conducibilità sotto controllo: se sale troppo il frutto si strozza\n• Via subito i frutti storti: non si raddrizzano\n\n💡 Lo sapevi? Le varietà da serra fanno il frutto senza impollinazione. Un cetriolo storto non è «legato male»: guarda acqua e nutrizione degli ultimi dieci giorni.\n\nHai un dubbio? Chiedici al banco.\n\n#cetriolo #serra #fertirrigazione #orticole #agricoltura #vittoria #studio4srl",
+      "storia": {
+        "titolo": "Cetrioli<br><em>storti?</em>",
+        "emoji": "🥒",
+        "etichetta": "Il punto",
+        "grande": "La forma ti dice cosa è mancato.",
+        "piccolo": "Strozzato: sbalzo d'acqua. Punta sottile: poco azoto."
+      }
+    },
+    {
+      "id": "dom_0830",
+      "tipo": "sondaggio",
+      "data": "2026-11-22",
+      "ora": "08:30",
+      "titolo_breve": "Hai una lente in tasca?",
+      "tema": "sondaggio-lente-in-serra",
+      "dato": "l'eriofide rugginoso del pomodoro è lungo meno di 0,2 mm",
+      "fonte_dato": "nozione generale; scheda tema del 9/11/2026 n. 1",
+      "colore": "arancio",
+      "emoji": "🔍",
+      "titolo": "Hai una <em>lente</em><br>in tasca quando<br>entri in serra?",
+      "etichetta": "Lo sapevi?",
+      "grande": "L'eriofide del pomodoro è lungo meno di 0,2 mm.",
+      "piccolo": "A occhio nudo non lo vedi: vedi solo il danno.",
+      "adesivo": "sondaggio",
+      "risposte": [
+        "Sempre",
+        "Mai usata"
+      ]
+    },
+    {
+      "id": "dom_1930",
+      "tipo": "carosello",
+      "data": "2026-11-22",
+      "ora": "19:30",
+      "titolo": "Carenza e rientro: due tempi diversi",
+      "tema": "carenza-e-tempo-di-rientro",
+      "prodotti": [],
+      "colore": "indaco",
+      "argomento": "Dopo il trattamento",
+      "dato": "carenza (intervallo di sicurezza) = giorni tra ultimo trattamento e raccolta, il giorno del trattamento non si conta; tempo di rientro = quando si può tornare tra le piante senza protezioni: se l'etichetta non lo indica, almeno 24 ore, e in serra si arieggia prima",
+      "fonte_dato": "nozione generale (materiale formativo per il patentino, Regione Emilia-Romagna, letto il 12/11/2026)",
+      "slide": [
+        {
+          "tipo": "copertina",
+          "titolo": "Carenza<br>3 giorni.<br><em>E per<br>rientrare?</em>",
+          "sotto": "Sono due tempi diversi. <span>Uno protegge chi mangia, l'altro chi lavora.</span>",
+          "emoji": "⏱️",
+          "box": "Come si contano, senza sbagliare. Scorri."
+        },
+        {
+          "tipo": "confronto",
+          "tag": "A confronto",
+          "titolo": "Due tempi,<br><em>due motivi.</em>",
+          "colonne": [
+            {
+              "nome": "Carenza",
+              "righe": [
+                "Giorni tra l'ultimo trattamento e la raccolta",
+                "Protegge chi mangia il frutto",
+                "Cambia da coltura a coltura, anche con lo stesso prodotto",
+                "In miscela vale la più lunga",
+                "È scritta in etichetta, coltura per coltura"
+              ]
+            },
+            {
+              "nome": "Rientro",
+              "righe": [
+                "Quando puoi tornare tra le piante senza protezioni",
+                "Protegge te e chi lavora con te",
+                "Se l'etichetta non lo indica: almeno 24 ore",
+                "In serra: prima arieggia bene",
+                "Devi entrare prima? Solo con le protezioni"
+              ]
+            }
+          ],
+          "chiusa": "Sull'etichetta la carenza si chiama «intervallo di sicurezza».",
+          "fonte": "Nozioni generali."
+        },
+        {
+          "tipo": "passi",
+          "tag": "Come si conta",
+          "titolo": "Carenza 3 giorni:<br><em>il conto.</em>",
+          "passi": [
+            [
+              "Lunedì",
+              "Tratti: giorno zero",
+              "Il giorno del trattamento non si conta."
+            ],
+            [
+              "Martedì e mercoledì",
+              "Giorni 1 e 2",
+              "Non si raccoglie, nemmeno il frutto già maturo."
+            ],
+            [
+              "Giovedì",
+              "Giorno 3: raccogli",
+              "Sono passati tre giorni interi."
+            ],
+            [
+              "Hai ritrattato mercoledì?",
+              "Il conto riparte",
+              "Mercoledì diventa il giorno zero: raccogli sabato."
+            ]
+          ],
+          "box": "Zucchina e cetriolo si raccolgono ogni 1–2 giorni: lì la carenza decide quale prodotto puoi usare.",
+          "fonte": "Nozioni generali."
+        },
+        {
+          "tipo": "sapevi",
+          "titolo": "In miscela comanda il più lungo.",
+          "grande": "Due prodotti in botte? Vale la carenza più lunga dei due.",
+          "piccolo": "E a ogni nuovo trattamento il conto riparte da zero.",
+          "punti": [
+            "Guarda quando hai la prossima raccolta prima di preparare la botte, non dopo",
+            "Un cartello sulla porta con giorno e ora del trattamento: lo vede anche chi entra dopo di te"
+          ],
+          "fonte": "Nozioni generali."
+        }
+      ],
+      "didascalia": "Carenza 3 giorni. E per rientrare? ⏱️\n\nSono due tempi diversi e si confondono spesso. La carenza protegge chi mangia il frutto. Il tempo di rientro protegge te e chi lavora con te tra le piante.\n\n📅 Come si contano\n• Carenza: i giorni tra l'ultimo trattamento e la raccolta. Il giorno del trattamento è il giorno zero\n• Carenza 3 giorni: tratti lunedì, raccogli giovedì\n• In miscela vale la carenza più lunga\n• Rientro: se l'etichetta non lo indica, aspetta almeno 24 ore\n• In serra arieggia bene prima di entrare\n\n💡 Lo sapevi? Se ripeti il trattamento il conto riparte da zero. Su zucchina e cetriolo, che si raccolgono ogni 1–2 giorni, è la carenza a decidere quale prodotto puoi usare.\n\nHai un dubbio su un'etichetta? Chiedici al banco.\n\n#carenza #trattamenti #patentino #serra #orticole #vittoria #studio4srl",
+      "storia": {
+        "titolo": "Carenza e<br><em>rientro</em><br>non sono la<br>stessa cosa.",
+        "emoji": "⏱️",
+        "etichetta": "Il dato",
+        "grande": "Rientro: se l'etichetta non lo indica, almeno 24 ore.",
+        "piccolo": "In serra arieggia bene prima di entrare."
+      }
+    },
+    {
+      "id": "dom_2145",
+      "tipo": "sera",
+      "data": "2026-11-22",
+      "ora": "21:45",
+      "titolo_breve": "Serra chiusa: finisce l'anidride carbonica",
+      "tema": "anidride-carbonica-serra-chiusa",
+      "dato": "in una serra chiusa con coltura in piena attività l'anidride carbonica può scendere di giorno a 150–200 parti per milione, contro le circa 400 dell'aria esterna, e la fotosintesi rallenta; il ricambio d'aria la riporta verso il livello esterno",
+      "fonte_dato": "nozione generale di climatizzazione delle serre, riscontrata sulla scheda «Greenhouse Carbon Dioxide Supplementation» dell'Oklahoma State University Extension, consultata il 15/11/2026",
+      "colore": "petrolio",
+      "emoji": "💨",
+      "titolo": "Serra chiusa<br>e sole: cosa<br><em>finisce prima?</em>",
+      "etichetta": "Da professionisti",
+      "grande": "L'anidride carbonica. In serra chiusa può scendere a meno della metà di quella che c'è fuori.",
+      "piccolo": "Le piante la consumano, e senza rallentano anche in piena luce. Aprire al mattino non toglie solo umidità: la fa rientrare."
     }
   ]
 }
