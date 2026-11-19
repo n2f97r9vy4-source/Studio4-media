@@ -319,13 +319,15 @@
       "didascalia": "didascalie/gio_1930.txt",
       "approvato": true,
       "attesa_foto": false,
-      "pubblicato": false,
+      "pubblicato": true,
       "tema": "nematodi-velum-bioact",
       "prodotti": [
         "velum",
         "bioact"
       ],
-      "slittato_da": "2026-11-14 19:30 (2026-11-09/sab_1930)"
+      "slittato_da": "2026-11-14 19:30 (2026-11-09/sab_1930)",
+      "media_id": "17866490661694749",
+      "ora_pubblicazione": "2026-11-19T19:30"
     },
     {
       "id": "gio_1930_storia",
