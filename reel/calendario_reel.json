@@ -3,6 +3,8 @@
   "reel": [
     {"codice":"R1","file":"reel/reel_R1_pomodoro.mp4","titolo":"Muffa grigia: gioca d'anticipo","coltura":"pomodoro",
      "tiktok":{"stato":"pubblicato","data":"2026-11-18","ora":"~10:00"},"instagram":{"stato":"da programmare"}},
+    {"codice":"RZ","file":"reel_tiktok/razormin_tiktok.mp4","titolo":"Razormin: radici pigre dopo il trapianto","coltura":"orticole","nota":"video dal carosello ven_0700 (5 slide); dosi da scheda tecnica",
+     "tiktok":{"stato":"pubblicato","data":"2026-11-19","ora":"~08:30"},"instagram":{"stato":"carosello ven 20/11 07:00"}},
     {"codice":"R3","file":"reel/reel_R3_cetriolo.mp4","titolo":"Cetriolo","coltura":"cetriolo","nota":"DA CORREGGERE: Agrykelp 2-4 kg/ha in etichetta, nel video 5-10",
      "tiktok":{"stato":"da correggere"},"instagram":{"stato":"da correggere"}},
     {"codice":"R4","file":"reel/reel_R4_melanzana.mp4","titolo":"Melanzana: afidi, tienili lontani","coltura":"melanzana",
