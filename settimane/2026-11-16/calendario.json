@@ -590,10 +590,12 @@
       "didascalia": "didascalie/sab_0700.txt",
       "approvato": true,
       "attesa_foto": false,
-      "pubblicato": false,
+      "pubblicato": true,
       "tema": "in-botte-l-ordine-giusto",
       "prodotti": [],
-      "slittato_da": "2026-11-16 07:00 (2026-11-16/lun_0700) | spostato a ven 20/11 su richiesta di Valerio (19/11)"
+      "slittato_da": "2026-11-16 07:00 (2026-11-16/lun_0700) | spostato a ven 20/11 su richiesta di Valerio (19/11)",
+      "media_id": "18129789337911090",
+      "ora_pubblicazione": "2026-11-20T07:00"
     },
     {
       "id": "sab_0700_storia",
