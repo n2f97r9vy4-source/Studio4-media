@@ -516,10 +516,12 @@
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false,
+      "pubblicato": true,
       "tema": "acqua-irrigazione-segue-la-luce",
       "slittato_da": "2026-11-15 18:00 (2026-11-09/dom_curiosita_1800)",
-      "sostituisce": "Dove stanno davvero le radici? (scartata da Valerio 18/11)"
+      "sostituisce": "Dove stanno davvero le radici? (scartata da Valerio 18/11)",
+      "media_id": "18198582697395785",
+      "ora_pubblicazione": "2026-11-20T18:02"
     },
     {
       "id": "ven_1930",
