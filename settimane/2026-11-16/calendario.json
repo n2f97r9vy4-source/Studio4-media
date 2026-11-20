@@ -539,7 +539,7 @@
       ],
       "didascalia": "didascalie/ven_1930.txt",
       "data": "2026-11-20",
-      "approvato": false,
+      "approvato": true,
       "attesa_foto": false,
       "pubblicato": false,
       "slittato_da": "2026-11-15 19:30 (2026-11-09/dom_1930)"
@@ -555,7 +555,7 @@
       "automatica": true,
       "dopo_post": "ven_1930",
       "data": "2026-11-20",
-      "approvato": false,
+      "approvato": true,
       "attesa_foto": false,
       "pubblicato": false,
       "slittato_da": "2026-11-15 19:35 (2026-11-09/dom_1930_storia)"
