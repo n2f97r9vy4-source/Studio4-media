@@ -578,9 +578,11 @@
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false,
+      "pubblicato": true,
       "tema": "tre-consigli-al-giorno",
-      "slittato_da": "2026-11-15 21:45 (2026-11-09/dom_2145)"
+      "slittato_da": "2026-11-15 21:45 (2026-11-09/dom_2145)",
+      "media_id": "18115755533130107",
+      "ora_pubblicazione": "2026-11-20T21:46"
     },
     {
       "id": "sab_0700",
