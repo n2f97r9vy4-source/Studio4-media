@@ -609,9 +609,11 @@
       "approvato": true,
       "automatica": true,
       "attesa_foto": false,
-      "pubblicato": false,
+      "pubblicato": true,
       "dopo_post": "sab_0700",
-      "slittato_da": "2026-11-16 07:05 (2026-11-16/lun_0700_storia) | spostato a ven 20/11 su richiesta di Valerio (19/11)"
+      "slittato_da": "2026-11-16 07:05 (2026-11-16/lun_0700_storia) | spostato a ven 20/11 su richiesta di Valerio (19/11)",
+      "media_id": "18122180252032254",
+      "ora_pubblicazione": "2026-11-20T07:05"
     },
     {
       "id": "sab_0830",
