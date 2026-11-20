@@ -561,8 +561,10 @@
       "data": "2026-11-20",
       "approvato": true,
       "attesa_foto": false,
-      "pubblicato": false,
-      "slittato_da": "2026-11-15 19:35 (2026-11-09/dom_1930_storia)"
+      "pubblicato": true,
+      "slittato_da": "2026-11-15 19:35 (2026-11-09/dom_1930_storia)",
+      "media_id": "18362444518267465",
+      "ora_pubblicazione": "2026-11-20T19:36"
     },
     {
       "id": "ven_2145",
