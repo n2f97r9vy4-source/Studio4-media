@@ -1,0 +1,66 @@
+[
+{"id": "topas", "colore": "studio4", "argomento": "Oidio",
+ "slide": [
+  {"tipo": "copertina", "tag": "Oidio · fungicidi", "titolo": "Quella <em>polvere bianca</em> non è polvere.", "sotto": "È <span>oidio</span>, il mal bianco. E ogni giorno che aspetti si allarga.", "foto": "topas", "box": "Come si riconosce e come si frena. Scorri."},
+  {"tipo": "schede", "tag": "Come lo riconosci", "titolo": "Oidio: <em>4 segnali.</em>", "voci": [
+    ["⚪", "Macchie bianche farinose", "Prima piccole e tonde, poi coprono la foglia. Con il dito la polvere viene via."],
+    ["☀️", "Non gli serve la pioggia", "A differenza della peronospora, gli bastano giornate asciutte e notti umide."],
+    ["🍂", "Foglie che ingialliscono", "La foglia lavora meno e secca prima."],
+    ["🌡️", "In serra trova casa", "Caldo e aria ferma lo aiutano: le file fitte sono le prime."]], "fonte": "Nozioni generali."},
+  {"tipo": "dose", "tag": "La scheda", "titolo": "Topas 10 EC", "foto": "topas", "etichetta": "Sostanza attiva", "valore": "Penconazolo", "nota": "Gruppo FRAC 3 · concentrato emulsionabile", "punti": [
+    "Sistemico", "Preventivo, curativo e bloccante", "Contro l'oidio", "Vite, melo, pero, pesco, fragola, piccoli frutti, orticole, ornamentali, tabacco"], "fonte": "Da etichetta."},
+  {"tipo": "sapevi", "titolo": "Preventivo, curativo e bloccante non sono la stessa cosa.", "grande": "Sono tre momenti diversi della malattia.", "piccolo": "Topas in etichetta li copre tutti e tre.", "punti": [
+    "Preventivo: protegge la foglia prima che il fungo entri",
+    "Curativo: lavora nei primi giorni dopo l'infezione, quando ancora non vedi niente",
+    "Bloccante: sulle macchie già visibili frena la formazione di nuove spore"],
+    "chiusa": "Prima intervieni, meno spore girano in serra.", "fonte": "Termini da etichetta."},
+  {"tipo": "elenco", "tag": "Il consiglio", "titolo": "Stesso gruppo FRAC, <em>stessa arma.</em>", "punti": [
+    "Guarda il numero FRAC sulla confezione: Topas è FRAC 3",
+    "Nomi diversi con lo stesso numero colpiscono il fungo nello stesso punto",
+    "Non farli di fila: alterna con un gruppo diverso",
+    "Quanti trattamenti per stagione e giorni di carenza: li dice l'etichetta"],
+    "chiusa": "Hai visto il bianco in serra? Passa al banco di Studio 4: scegliamo insieme la strategia."}
+ ]},
+{"id": "oikos", "colore": "terracotta", "argomento": "Nematodi",
+ "slide": [
+  {"tipo": "copertina", "tag": "Nematodi · insetti", "titolo": "Nematodi <em>sotto.</em> Insetti <em>sopra.</em>", "sotto": "Un insetticida che puoi dare anche con <span>l'acqua dell'impianto.</span>", "foto": "oikos", "box": "Come lavora e come farlo rendere. Scorri."},
+  {"tipo": "dose", "tag": "La scheda", "titolo": "Oikos", "foto": "oikos", "etichetta": "Sostanza attiva", "valore": "Azadiractina", "nota": "Dai semi di neem · gruppo IRAC UN", "punti": [
+    "Sistemico", "In fertirrigazione e fogliare", "Contro nematodi e insetti della parte aerea", "Concentrato emulsionabile"], "fonte": "Da etichetta."},
+  {"tipo": "sapevi", "titolo": "Non abbatte: blocca la muta.", "grande": "L'insetto non cade subito: non riesce più a cambiare pelle e mangia meno.", "piccolo": "Agisce per contatto e per ingestione.", "punti": [
+    "Le forme giovani non diventano adulte",
+    "La pianta trattata viene respinta",
+    "L'effetto si vede nei giorni successivi, non il giorno dopo"], "fonte": "Da etichetta."},
+  {"tipo": "schede", "tag": "In etichetta", "titolo": "Cosa c'è <em>in etichetta.</em>", "voci": [
+    ["🪱", "Nematodi", "In fertirrigazione, con l'acqua dell'impianto."],
+    ["🪰", "Mosca bianca e afidi", "Pomodoro, melanzana, peperone, cetriolo, zucchina."],
+    ["🐛", "Tuta absoluta, nottue, minatori", "Le larve che scavano foglie e frutti."],
+    ["🔍", "Tripidi", "Sulle orticole da frutto in serra."]], "fonte": "Da etichetta."},
+  {"tipo": "elenco", "tag": "Come usarlo", "titolo": "4 regole <em>dall'etichetta.</em>", "punti": [
+    "Parti presto: prima dei parassiti o alla prima comparsa",
+    "Tratta nelle ore fresche e con poca luce",
+    "Bagna in modo uniforme, senza arrivare al gocciolamento",
+    "In etichetta è selettivo sugli insetti utili: conta se in serra li lanci"],
+    "chiusa": "Nematodi, mosca bianca o Tuta? Passa al banco di Studio 4: costruiamo insieme la difesa.", "fonte": "Da etichetta."}
+ ]},
+{"id": "pergado", "colore": "petrolio", "argomento": "Peronospora",
+ "slide": [
+  {"tipo": "copertina", "tag": "Peronospora · fungicidi", "titolo": "Ha piovuto <em>dopo</em> il trattamento?", "sotto": "Non sempre è <span>tutto da rifare.</span>", "foto": "pergado", "box": "La risposta è nelle cere della foglia. Scorri."},
+  {"tipo": "schede", "tag": "Il nemico", "titolo": "Peronospora: <em>vive d'acqua.</em>", "voci": [
+    ["💧", "Le sue spore nuotano", "Per entrare nella foglia serve un velo d'acqua: pioggia, rugiada, condensa."],
+    ["🟡", "Macchie chiare sopra", "Sulla pagina superiore compaiono zone giallastre o scure."],
+    ["🌫️", "Muffa biancastra sotto", "Dopo le notti umide si vede sotto la foglia."],
+    ["⏱️", "Quando la vedi, è già dentro", "I sintomi arrivano giorni dopo l'infezione."]], "fonte": "Nozioni generali."},
+  {"tipo": "dose", "tag": "La scheda", "titolo": "Pergado SC", "foto": "pergado", "etichetta": "Sostanza attiva", "valore": "Mandipropamid", "nota": "Gruppo FRAC 40 · sospensione concentrata", "punti": [
+    "Contro la peronospora", "Vite, patata e colture orticole", "Quali orticole e come: in etichetta"], "fonte": "Da etichetta."},
+  {"tipo": "sapevi", "titolo": "Si aggrappa alle cere della foglia.", "grande": "Il mandipropamid si lega allo strato ceroso che ricopre la foglia.", "piccolo": "Una parte entra nei tessuti e passa dall'altra parte (translaminare).", "punti": [
+    "Una volta asciutto, resiste meglio al dilavamento",
+    "Lavora sulle spore prima che entrino",
+    "Tratta con la foglia asciutta e lascialo asciugare"], "fonte": "Da scheda tecnica."},
+  {"tipo": "elenco", "tag": "Il consiglio", "titolo": "Con la peronospora <em>si gioca d'anticipo.</em>", "punti": [
+    "Guarda il meteo, non la foglia: piogge e notti umide in arrivo sono il momento di proteggere",
+    "Copri la vegetazione nuova: le foglie giovani sono le più esposte",
+    "Pergado è FRAC 40: non farlo di fila con lo stesso gruppo",
+    "Numero di trattamenti e giorni di carenza: li dice l'etichetta"],
+    "chiusa": "Passa al banco di Studio 4: scegliamo insieme come proteggere la tua coltura."}
+ ]}
+]
