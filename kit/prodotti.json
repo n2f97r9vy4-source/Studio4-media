@@ -453,5 +453,44 @@
    "dà vigoria alla parte aerea: nuovi rami, foglie e fiori"
   ],
   "foto": "rigor"
+ },
+ "fengib": {
+  "nome": "Fengib",
+  "tipo": "fitoregolatore (gibberellina + fenotiol)",
+  "reg": "14582",
+  "fonte": "etichetta",
+  "dosi": [
+   "30–40 ml/hl"
+  ],
+  "fatti": [
+   "pomodoro: solo sui grappoli fiorali a inizio fioritura; carenza 20 giorni; etichetta D.D. 25/05/2026"
+  ],
+  "foto": "fengib"
+ },
+ "hisense": {
+  "nome": "HiSense TRP",
+  "tipo": "biostimolante (inoculo di funghi micorrizici)",
+  "reg": null,
+  "fonte": "etichetta",
+  "dosi": [
+   "1–2 kg/ha"
+  ],
+  "fatti": [
+   "al terreno prima del trapianto o in fertirrigazione; fogliare 1 kg/ha; consentito in biologico; foto etichetta del banco 07/11/2026"
+  ],
+  "foto": "hisense"
+ },
+ "spraydunger": {
+  "nome": "Spray Dünger Global HD",
+  "tipo": "fitoregolatore (NAA + gibberellina)",
+  "reg": "10439",
+  "fonte": "etichetta",
+  "dosi": [
+   "0,75–1 l/ha"
+  ],
+  "fatti": [
+   "pomodoro e melanzana solo in serra, in manichetta 2–3 applicazioni; fogliare 75–100 ml/hl una sola applicazione; carenza 14 giorni in serra; si applica da solo; etichetta valida dal 28/06/2026"
+  ],
+  "foto": "spraydunger"
  }
 }
