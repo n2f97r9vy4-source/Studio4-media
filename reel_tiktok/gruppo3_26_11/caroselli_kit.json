@@ -1,0 +1,402 @@
+[
+ {
+  "id": "sprintene",
+  "video": true,
+  "fito": false,
+  "colore": "giallo",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Orticole · stress",
+    "titolo": "Piante ferme dopo <em>trapianto o freddo?</em>",
+    "sotto": "Sprintene: biostimolante che aiuta la pianta a <span>ripartire dopo lo stress.</span>",
+    "foto": "sprintene",
+    "box": "Cosa blocca la pianta e come farla ripartire. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Il problema",
+    "titolo": "Quando la pianta <em>si ferma.</em>",
+    "voci": [
+     ["🌱", "Trapianto", "Le radici rovinate assorbono poco: per giorni la pianta vive di riserve."],
+     ["❄️", "Notti fredde", "Con il terreno freddo le radici rallentano e la crescita si blocca."],
+     ["🧪", "Trattamenti pesanti", "Un trattamento che stressa le foglie rallenta tutta la pianta."]
+    ]
+   },
+   {
+    "tipo": "schede",
+    "tag": "Cosa contiene",
+    "titolo": "Niente ormoni: <em>sostegno al metabolismo.</em>",
+    "voci": [
+     ["🌿", "Sostanze di origine vegetale", "Glucosidi flavonici, ossicumarine e antocianine."],
+     ["💊", "Vitamine del gruppo B e acido nicotinico", "Servono agli enzimi che fanno girare il metabolismo della pianta."],
+     ["⚙️", "Microelementi chelati", "Ferro, zinco, manganese, cobalto e boro."]
+    ]
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Sprintene",
+    "foto": "sprintene",
+    "etichetta": "Dose · orticole da frutto",
+    "valore": "100 ml/hl",
+    "nota": "fogliare, ogni settimana fino alla prima fioritura",
+    "punti": [
+     "Orticole da foglia: 50 ml/hl",
+     "In fertirrigazione: 2–3 l/ha"
+    ],
+    "fonte": "Da scheda tecnica."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Il cobalto frena l'ormone dello stress.",
+    "grande": "Il cobalto blocca l'ultimo passaggio con cui la pianta produce etilene, l'ormone che fa cadere fiori e ingiallire foglie.",
+    "piccolo": "È tra i microelementi meno conosciuti, ma in fisiologia vegetale è stato uno dei primi bloccanti dell'etilene scoperti.",
+    "punti": [
+     "Lo zinco serve a costruire il triptofano, da cui la pianta fa l'auxina: con poco zinco internodi corti e foglie piccole",
+     "Sugli ortaggi da frutto la scheda prevede il fogliare ogni settimana, ma solo fino alla prima fioritura"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti aiutiamo a far ripartire la coltura.",
+    "fonte": "Scheda tecnica e fisiologia vegetale."
+   }
+  ]
+ },
+ {
+  "id": "gibaifar",
+  "video": true,
+  "fito": true,
+  "colore": "verde",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Orticole, fragola, vite, agrumi",
+    "titolo": "Fiori che non <em>diventano frutti?</em>",
+    "sotto": "Gibaifar: fitoregolatore a base di gibberellina per <span>allegagione e pezzatura.</span>",
+    "foto": "gibaifar",
+    "box": "Dove si usa, quanto darne e il limite che pochi guardano. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Cosa fa",
+    "titolo": "Un ormone, <em>tanti usi in etichetta.</em>",
+    "voci": [
+     ["🍅", "Pomodoro e melanzana", "Più fiori e più frutti, di pezzatura maggiore."],
+     ["🍓", "Fragola", "Più frutti e più grossi."],
+     ["🍇", "Uva da tavola", "Acini più grossi e distanziati, grappolo più lungo."],
+     ["🍋", "Agrumi", "Aiuta l'allegagione; poco prima della colorazione, buccia liscia."]
+    ]
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Gibaifar",
+    "foto": "gibaifar",
+    "etichetta": "Dose · pomodoro e melanzana",
+    "valore": "25–100 ml/hl",
+    "nota": "da inizio fioritura a inizio maturazione · max 3 trattamenti l'anno, ogni 7 giorni",
+    "punti": [
+     "400–800 litri d'acqua a ettaro",
+     "In pieno campo e in serra"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "4 regole <em>dall'etichetta.</em>",
+    "punti": [
+     "Da solo: l'etichetta sconsiglia di miscelarlo con altri prodotti",
+     "Spinge la crescita: la coltura deve essere ben concimata",
+     "Prima prova su poche piante: varietà e zone rispondono in modo diverso",
+     "Peperone, zucchina e cetriolo non sono in etichetta: lì non si usa"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Il tetto è a ettaro, non a ettolitro.",
+    "grande": "Su pomodoro e melanzana l'etichetta fissa anche il massimo di gibberellina pura: 4–8 grammi a ettaro.",
+    "piccolo": "Con 800 litri d'acqua e la dose alta di 100 ml/hl si va ben oltre gli 8 grammi. Con tanta acqua, si sta bassi con la dose.",
+    "punti": [
+     "Basta pochissimo: a 50 ml/hl ogni litro di miscela contiene circa 10 mg di gibberellina",
+     "Sull'uva l'etichetta chiede di bagnare soprattutto i grappoli: sui tralci la gibberellina può influire sulle gemme dell'anno dopo"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti aiutiamo a impostare l'allegagione.",
+    "fonte": "Da etichetta."
+   }
+  ]
+ },
+ {
+  "id": "cytokin",
+  "video": true,
+  "fito": false,
+  "colore": "arancio",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Orticole · radici e germogli",
+    "titolo": "Pianta che <em>non parte?</em>",
+    "sotto": "Cytokin: estratti vegetali che spingono la pianta a <span>produrre citochinine, per radici e germogli.</span>",
+    "foto": "cytokin",
+    "box": "Cosa sono le citochinine e quando darle. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Come lavora",
+    "titolo": "Il segnale <em>che fa crescere.</em>",
+    "voci": [
+     ["🌱", "Più divisione cellulare", "Le citochinine fanno moltiplicare le cellule di radici e gemme."],
+     ["🍃", "Foglie verdi più a lungo", "Rallentano l'invecchiamento di foglie e frutti."],
+     ["🌿", "Germogli laterali", "Frenano la dominanza della cima: la pianta si apre."]
+    ]
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Cytokin",
+    "foto": "cytokin",
+    "etichetta": "Dose · fertirrigazione",
+    "valore": "1 l/ha",
+    "nota": "pomodoro: dopo il trapianto, all'attecchimento",
+    "punti": [
+     "Melanzana e peperone: 1 l/ha dalla 3ª alla 5ª foglia, poi in fioritura ogni 14–21 giorni",
+     "Cucurbitacee: 0,4–0,6 l/ha per foglia, circa 2 settimane dopo il trapianto"
+    ],
+    "fonte": "Da scheda tecnica."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Le foglie restano verdi se le radici stanno bene.",
+    "grande": "Le citochinine nascono soprattutto nelle punte delle radici e salgono con la linfa fino alle foglie.",
+    "piccolo": "Quando le radici soffrono, per terreno freddo o ristagno, ne arrivano meno: è uno dei motivi per cui le foglie basse invecchiano prima.",
+    "punti": [
+     "Decide l'equilibrio con l'auxina: più auxina fa radici, più citochinine fanno germogli",
+     "Le citochinine richiamano zuccheri e nutrienti verso i tessuti dove si trovano: così tengono vive foglie e frutti"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti aiutiamo a far partire bene il trapianto.",
+    "fonte": "Scheda tecnica e fisiologia vegetale."
+   }
+  ]
+ },
+ {
+  "id": "magnitron",
+  "video": true,
+  "fito": false,
+  "colore": "rosso",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Orticole · magnesio",
+    "titolo": "Foglie basse gialle <em>tra le nervature?</em>",
+    "sotto": "Magnitron: nitrato di magnesio solubile, <span>magnesio e azoto pronti.</span>",
+    "foto": "magnitron",
+    "box": "Perché manca il magnesio e come rimediare. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Il problema",
+    "titolo": "Da dove nasce <em>la carenza.</em>",
+    "voci": [
+     ["🍂", "Parte dal basso", "Il magnesio si sposta: la pianta lo toglie alle foglie vecchie per darlo a quelle nuove e ai frutti."],
+     ["🧂", "Troppo potassio", "Potassio, calcio e ammonio competono con il magnesio quando la radice assorbe."],
+     ["🍅", "Carica di frutti", "Quando i frutti ingrossano, le foglie vicino ai grappoli ingialliscono per prime."]
+    ]
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Magnitron",
+    "foto": "magnitron",
+    "etichetta": "Dose · fertirrigazione",
+    "valore": "15–25 kg/ha",
+    "nota": "per foglia: 3–5 kg/ha",
+    "punti": [
+     "Azoto 11%, tutto nitrico",
+     "Magnesio (MgO) 15%, solubile in acqua"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Il giallo arriva per ultimo.",
+    "grande": "Senza magnesio la foglia non riesce a caricare gli zuccheri nella linfa: restano fermi lì e alle radici ne arrivano meno.",
+    "piccolo": "Lo zucchero si accumula nella foglia prima che compaia il giallo: quando vedi la clorosi, le radici sono già rimaste a corto.",
+    "punti": [
+     "Solo una parte del magnesio sta nella clorofilla: il resto serve agli enzimi e a far funzionare l'energia della pianta (ATP)",
+     "L'azoto nitrico aiuta la radice a prendere il magnesio, l'ammonio invece lo frena"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti aiutiamo a impostare la fertirrigazione.",
+    "fonte": "Etichetta e fisiologia vegetale."
+   }
+  ]
+ },
+ {
+  "id": "solugro",
+  "video": true,
+  "fito": false,
+  "colore": "smeraldo",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Orticole · trapianto e allegagione",
+    "titolo": "Trapianto lento, <em>fiori che non legano?</em>",
+    "sotto": "Sol-U-Gro 12-48-8: fosforo per foglia <span>quando la radice non ce la fa.</span>",
+    "foto": "solugro",
+    "box": "Perché d'inverno il fosforo non arriva e come darlo. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Il problema",
+    "titolo": "Il fosforo c'è, <em>ma non arriva.</em>",
+    "voci": [
+     ["❄️", "Terreno freddo", "Con il terreno freddo la radice assorbe poco fosforo, anche se nel terreno c'è."],
+     ["🌱", "Radici giovani", "Dopo il trapianto le radici sono poche: il fosforo si muove poco e non le raggiunge."],
+     ["🟣", "Foglie violacee", "Il segnale classico: pagina sotto della foglia viola e pianta ferma."]
+    ]
+   },
+   {
+    "tipo": "schede",
+    "tag": "Cosa contiene",
+    "titolo": "Quasi metà <em>è fosforo.</em>",
+    "voci": [
+     ["🔥", "Fosforo 48%", "Per superare la crisi di trapianto e favorire l'allegagione."],
+     ["🧪", "Azoto 12% senza urea", "Ammoniacale e nitrico."],
+     ["⚙️", "Microelementi", "Boro e molibdeno; ferro, manganese, zinco e rame chelati."]
+    ]
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Sol-U-Gro 12-48-8",
+    "foto": "solugro",
+    "etichetta": "Dose · orticole, per foglia",
+    "valore": "2,3–4,6 kg/ha",
+    "nota": "ogni 7–14 giorni · in serra le dosi più basse",
+    "punti": [
+     "Un sacchetto da 2,27 kg è un trattamento a ettaro alla dose bassa",
+     "Floricole: 200–400 g/hl"
+    ],
+    "fonte": "Da scheda tecnica."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Il fosforo si muove di pochi millimetri.",
+    "grande": "Nel terreno il fosforo arriva alla radice quasi solo per diffusione: la radice prende quello che ha a 1–2 millimetri.",
+    "piccolo": "Per questo con radici poche o ferme, al trapianto o col freddo, la pianta va in carenza anche in un terreno ricco.",
+    "punti": [
+     "Le foglie viola sono antociani: la pianta li accumula quando gli zuccheri restano fermi nella foglia",
+     "La foglia assorbe il fosforo più lentamente di azoto e potassio: meglio più passaggi a dose bassa che uno forte"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti aiutiamo a superare la crisi di trapianto.",
+    "fonte": "Scheda tecnica e fisiologia vegetale."
+   }
+  ]
+ },
+ {
+  "id": "clip",
+  "video": true,
+  "fito": false,
+  "disc": "Disponibili al banco di Studio 4, Vittoria.",
+  "colore": "azzurro",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Serre · film plastico",
+    "titolo": "Film che vola <em>o si strappa?</em>",
+    "sotto": "Clip per film serra Ø 32 mm: <span>blocchi il film sul tubo senza bucarlo.</span>",
+    "foto": "clip",
+    "box": "Dove cede il film e perché. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Il problema",
+    "titolo": "Il film non cede <em>a caso.</em>",
+    "voci": [
+     ["🕳️", "Ogni buco è un punto debole", "Chiodi e punti concentrano lo sforzo: lo strappo parte quasi sempre da lì."],
+     ["🚩", "Film lento", "Se sbatte col vento, si consuma proprio dove è fissato."],
+     ["🌡️", "Caldo e freddo", "Il film si allunga di giorno e si ritira di notte: i fissaggi lavorano sempre."]
+    ]
+   },
+   {
+    "tipo": "dose",
+    "tag": "La scheda",
+    "titolo": "Clip film serra",
+    "foto": "clip",
+    "etichetta": "Misura",
+    "valore": "Ø 32 mm",
+    "nota": "clip bianca per fissare il film plastico al tubo",
+    "punti": [
+     "Per tubi da 32 mm",
+     "Tiene il film senza forarlo",
+     "Dove la serra prende più vento, mettine di più"
+    ],
+    "fonte": ""
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Vento doppio, forza quattro volte.",
+    "grande": "Con vento a 60 km/h ogni metro quadrato di film riceve una spinta di circa 17 kg. A 90 km/h quasi 40 kg.",
+    "piccolo": "La forza del vento cresce con il quadrato della velocità: per questo una raffica fa più danni di ore di vento costante.",
+    "punti": [
+     "Il polietilene si allunga col caldo: su 30 metri di film, tra notte fredda e giorno caldo, la differenza può superare i 10 cm",
+     "Un film teso bene e fissato senza buchi distribuisce lo sforzo su tutta la lunghezza"
+    ],
+    "chiusa": "Passa al banco di Studio 4: trovi clip, film e accessori per la serra.",
+    "fonte": ""
+   }
+  ]
+ },
+ {
+  "id": "spago",
+  "video": true,
+  "fito": false,
+  "disc": "Disponibile al banco di Studio 4, Vittoria.",
+  "colore": "blu",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Serre · tutoraggio",
+    "titolo": "Piante che cadono <em>sotto il peso?</em>",
+    "sotto": "Spago agricolo in polipropilene Tit. 1500: <span>per legare e tutorare in serra.</span>",
+    "foto": "spago",
+    "box": "Cosa vuol dire Tit. 1500 e quanto te ne serve. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Il problema",
+    "titolo": "Perché <em>la pianta cede.</em>",
+    "voci": [
+     ["🍅", "Il peso cresce col ciclo", "Ogni grappolo che si carica aggiunge peso allo stelo e allo spago."],
+     ["🌞", "Sole e caldo", "I raggi UV invecchiano la plastica: lo spago lasciato al sole perde resistenza."],
+     ["🪢", "Nodi stretti", "Un nodo stretto sullo stelo lo strozza quando la pianta ingrossa."]
+    ]
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quanto ne serve",
+    "titolo": "Spago Tit. 1500",
+    "foto": "spago",
+    "etichetta": "Titolo",
+    "valore": "1.500 m al kg",
+    "nota": "100% polipropilene",
+    "punti": [
+     "Esempio: 1.000 m² di pomodoro, circa 2.500 piante, 4 m a pianta = 10.000 m, cioè circa 7 kg",
+     "Tieni le rocche al chiuso, lontano dal sole"
+    ],
+    "fonte": ""
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Più alto il titolo, più sottile lo spago.",
+    "grande": "Il titolo è la lunghezza in un chilo: Tit. 1500 vuol dire 1.500 metri di spago per ogni kg.",
+    "piccolo": "Un Tit. 500 pesa tre volte tanto a metro: è più grosso e regge di più. Si sceglie in base al peso da reggere.",
+    "punti": [
+     "Il polipropilene è più leggero dell'acqua: galleggia",
+     "A fine ciclo togli lo spago prima di trinciare i residui: così non lasci plastica nel terreno"
+    ],
+    "chiusa": "Passa al banco di Studio 4: trovi spago, clip e tutto per il tutoraggio.",
+    "fonte": ""
+   }
+  ]
+ }
+]

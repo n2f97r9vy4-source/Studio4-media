@@ -469,5 +469,65 @@
    "melanzana e peperone: 30–50 ml/hl, 1° a inizio fioritura, 2° dopo 10 giorni, 5–10 hl/ha, carenza 20 giorni (scheda tecnica produttore e schede distributori; da confermare sul PDF del Ministero)"
   ],
   "foto": "fengib"
+ },
+ "gibaifar": {
+  "nome": "Gibaifar",
+  "tipo": "fitoregolatore (acido gibberellico 2%)",
+  "reg": "5282",
+  "fonte": "etichetta",
+  "dosi": [
+   "25–100 ml/hl"
+  ],
+  "fatti": [
+   "pomodoro e melanzana, pieno campo e serra: 25–100 ml/hl (4–8 g s.a./ha) con 400–800 l/ha, da inizio fioritura a inizio maturazione, max 3 trattamenti/anno ogni 7 gg; etichetta valida dal 15/09/2026, autorizzato fino al 31/12/2041",
+   "si sconsiglia la miscela con altri preparati; peperone non in etichetta"
+  ],
+  "foto": "gibaifar"
+ },
+ "cytokin": {
+  "nome": "Cytokin",
+  "tipo": "biostimolante",
+  "reg": null,
+  "fonte": "scheda tecnica (catalogo 2026)",
+  "dosi": [
+   "1 l/ha",
+   "0,4–0,6 l/ha"
+  ],
+  "fatti": [
+   "pomodoro 1 l/ha fertirrigazione all'attecchimento",
+   "melanzana e peperone 1 l/ha fertirrigazione dalla III alla V foglia, poi in fioritura ogni 14–21 gg",
+   "cucurbitacee 0,4–0,6 l/ha fogliare circa 2 settimane dopo il trapianto"
+  ],
+  "foto": "cytokin"
+ },
+ "magnitron": {
+  "nome": "Magnitron",
+  "tipo": "concime (nitrato di magnesio N 11, MgO 15)",
+  "reg": null,
+  "fonte": "etichetta (foto banco 07/11)",
+  "dosi": [
+   "15–25 kg/ha",
+   "3–5 kg/ha"
+  ],
+  "fatti": [
+   "fertirrigazione 15–25 kg/ha",
+   "fogliare 3–5 kg/ha"
+  ],
+  "foto": "magnitron"
+ },
+ "solugro": {
+  "nome": "Sol-U-Gro 12-48-8",
+  "tipo": "concime idrosolubile fogliare",
+  "reg": null,
+  "fonte": "scheda tecnica (catalogo 2026)",
+  "dosi": [
+   "2,3–4,6 kg/ha",
+   "200–400 g/hl"
+  ],
+  "fatti": [
+   "orticole 2,3–4,6 kg/ha fogliare ogni 7–14 gg, in serra dosi inferiori",
+   "floricole 200–400 g/hl"
+  ],
+  "foto": "solugro"
  }
 }
