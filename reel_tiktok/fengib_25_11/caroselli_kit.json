@@ -8,11 +8,21 @@
   "slide": [
    {
     "tipo": "copertina",
-    "tag": "Allegagione · fioritura",
-    "titolo": "Fiori che cadono <em>senza legare?</em>",
+    "tag": "Peperone · allegagione",
+    "titolo": "Peperoni che perdono <em>i fiori?</em>",
     "sotto": "Fengib: gibberellina + auxina per <span>allegagione e frutti uniformi.</span>",
     "foto": "fengib",
-    "box": "Come lavora e il numero che quasi nessuno conosce. Scorri."
+    "box": "Perché il peperone non lega e cosa fare. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Il problema",
+    "titolo": "Perché il fiore <em>cade senza legare.</em>",
+    "voci": [
+     ["🌙", "Notti fredde", "Sotto i 12–15 °C il polline del peperone germina male: il fiore non viene fecondato."],
+     ["🔥", "Caldo forte", "Oltre i 32 °C di giorno la pianta lascia cadere fiori e frutticini."],
+     ["🫑", "Troppi frutti in carica", "I primi peperoni tirano gli zuccheri: i fiori nuovi cascano e la pianta lega a ondate."]
+    ]
    },
    {
     "tipo": "schede",
@@ -20,7 +30,7 @@
     "titolo": "Due ormoni, <em>due segnali diversi.</em>",
     "voci": [
      ["🌸", "Gibberellina (GA3)", "Stimola l'induzione fiorale: è il segnale che spinge la pianta a fiorire."],
-     ["🍅", "Auxina (MCPA)", "Dà al fiore il segnale di allegare e partire come frutto."],
+     ["🫑", "Auxina (MCPA)", "Dà al fiore il segnale di allegare e partire come frutto."],
      ["📏", "Il risultato in etichetta", "Frutti di dimensione maggiore e di pezzatura più uniforme."]
     ]
    },
@@ -29,15 +39,14 @@
     "tag": "Quando e quanto",
     "titolo": "Fengib",
     "foto": "fengib",
-    "etichetta": "Dose da etichetta · pomodoro",
-    "valore": "30–40 ml/hl",
-    "nota": "Solo sui grappoli fiorali, a inizio fioritura · carenza 20 giorni",
+    "etichetta": "Dose · peperone e melanzana",
+    "valore": "30–50 ml/hl",
+    "nota": "1° intervento a inizio fioritura · 2° dopo 10 giorni · carenza 20 giorni",
     "punti": [
-     "Bagnare il grappolo, non la pianta intera",
      "5–10 ettolitri d'acqua a ettaro",
-     "In etichetta anche melanzana e peperone: chiedi al banco la dose"
+     "Bagnare i fiori, non la pianta intera"
     ],
-    "fonte": "Da etichetta."
+    "fonte": "Da etichetta e scheda tecnica."
    },
    {
     "tipo": "elenco",
@@ -53,11 +62,11 @@
    },
    {
     "tipo": "sapevi",
-    "titolo": "Nella botte lavorano pochi milligrammi.",
-    "grande": "A 35 ml per ettolitro, in ogni litro di miscela ci sono circa 1,7 mg di gibberellina e 3,5 mg di MCPA.",
-    "piccolo": "L'MCPA è la stessa famiglia di molecole di alcuni diserbanti per foglie larghe: qui lavora a dosi centinaia di volte più basse, come ormone dell'allegagione.",
+    "titolo": "Il peperone cresce quanto i suoi semi.",
+    "grande": "Sono i semi a produrre gli ormoni che fanno ingrossare la bacca: pochi semi, peperone piccolo e storto.",
+    "piccolo": "Con le notti fredde il polline lavora male e si legano frutti con pochi semi. Un allegante porta dall'esterno lo stesso tipo di segnali: gibberelline e auxine.",
     "punti": [
-     "Per questo si tratta solo il grappolo: sulle foglie giovani un'auxina in eccesso le fa arricciare e restringere",
+     "A 40 ml per ettolitro, in ogni litro di miscela ci sono 2 mg di gibberellina e 4 mg di MCPA: per questo si bagnano solo i fiori",
      "La gibberellina si degrada in acqua alcalina: con pH alto perde forza mentre aspetta in botte. Ecco perché l'etichetta dice di usarla subito"
     ],
     "chiusa": "Passa al banco di Studio 4: ti aiutiamo a impostare l'allegagione.",
