@@ -58,7 +58,9 @@
     "grande": "Una sola mutazione della botrite (G143A) la rende resistente a tutto il gruppo FRAC 11.",
     "piccolo": "Azoxystrobin, trifloxystrobin, piraclostrobin: nomi diversi, stesso bersaglio nel fungo. Per alternare conta il gruppo FRAC, non il nome.",
     "punti": [
-     "Anche contro il boscalid la botrite ha mutazioni note (H272R, H272Y): il limite di 3 trattamenti l'anno vale per tutta la famiglia"
+     "Anche contro il boscalid la botrite ha mutazioni note (H272R, H272Y)",
+     "Esistono ceppi con le due mutazioni insieme: resistenti a strobilurine e boscalid nello stesso momento",
+     "Per questo i 3 trattamenti l'anno contano tutti i prodotti con boscalid o strobilurine, non solo Signum"
     ],
     "chiusa": "Passa al banco di Studio 4: ti aiutiamo a costruire la rotazione.",
     "fonte": "Etichetta e classificazione FRAC."
@@ -124,7 +126,9 @@
     "grande": "Affirm entra nella foglia ma non viaggia nella pianta: la vegetazione cresciuta dopo il trattamento resta scoperta.",
     "piccolo": "E la luce UV degrada la parte rimasta in superficie: a proteggere è la riserva entrata nei tessuti.",
     "punti": [
-     "Con la serra in piena crescita, prima di ripetere controlla le cime nuove: è lì che il bruco trova foglia non trattata"
+     "Serra in piena crescita? Prima di ripetere controlla le cime nuove: lì il bruco trova foglia non trattata",
+     "Nasce dall'abamectina ed è nello stesso gruppo IRAC 6: alternalo con gruppi diversi, non con l'abamectina",
+     "In etichetta vince la dose a ettaro, qualunque sia l'acqua in botte: con tanta acqua non salire oltre la dose a ettaro"
     ],
     "chiusa": "Passa al banco di Studio 4: scegliamo insieme il momento giusto.",
     "fonte": "Etichetta e dati sulla sostanza attiva."
