@@ -453,5 +453,19 @@
    "dà vigoria alla parte aerea: nuovi rami, foglie e fiori"
   ],
   "foto": "rigor"
+ },
+ "fengib": {
+  "nome": "Fengib",
+  "tipo": "fitoregolatore (acido gibberellico GA3 0,5% + MCPA estere tioetilico 1%)",
+  "reg": "14582",
+  "fonte": "etichetta",
+  "dosi": [
+   "30–40 ml/hl"
+  ],
+  "fatti": [
+   "pomodoro: solo sui grappoli fiorali a inizio fioritura; carenza 20 giorni; etichetta D.D. 25/05/2026",
+   "acqua 5–10 hl/ha (scheda tecnica)"
+  ],
+  "foto": "fengib"
  }
 }
