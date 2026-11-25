@@ -1,0 +1,242 @@
+[
+ {
+  "id": "teldor",
+  "video": true, "fito": true, "colore": "oliva", "argomento": "",
+  "slide": [
+   {"tipo": "copertina", "tag": "Muffa grigia · orticole",
+    "titolo": "Muffa grigia <em>su fiori e frutti?</em>",
+    "sotto": "Teldor Plus: fungicida specifico contro la botrite <span>su pomodoro, melanzana, peperone, cetriolo e zucchino.</span>",
+    "foto": "teldor",
+    "box": "Come lavora, quando entrare e perché a volte sembra non funzionare. Scorri."},
+   {"tipo": "schede", "tag": "Come lavora",
+    "titolo": "Un colpo mirato <em>alla botrite.</em>",
+    "voci": [
+     ["🎯", "Specifico per la muffa grigia", "Fenexamide, gruppo FRAC 17: blocca la produzione degli steroli che servono alla membrana del fungo."],
+     ["🌸", "Si parte dalla fioritura", "In etichetta: da inizio fioritura fino alla pre-raccolta, ogni 10–14 giorni."],
+     ["🔁", "Va gestito contro le resistenze", "Massimo 3 trattamenti l'anno: alterna o miscela con fungicidi di gruppo FRAC diverso."]
+    ]},
+   {"tipo": "dose", "tag": "Quando e quanto", "titolo": "Teldor Plus", "foto": "teldor",
+    "etichetta": "Dose · orticole",
+    "valore": "100–150 ml/hl",
+    "nota": "1–1,5 l/ha · ogni 10–14 giorni · max 3 l'anno · carenza 3 giorni",
+    "punti": ["Pomodoro, melanzana, cetriolo, zucchino: campo e serra", "Peperone: solo in serra"],
+    "fonte": "Da etichetta."},
+   {"tipo": "sapevi",
+    "titolo": "Non tutta la muffa grigia è la stessa.",
+    "grande": "Esiste una “sorella” della botrite, Botrytis pseudocinerea: a occhio identica, ma per natura poco sensibile alla fenexamide.",
+    "piccolo": "La distingue solo il laboratorio. Se un trattamento ben fatto non tiene, il problema può essere il fungo, non il prodotto.",
+    "punti": [
+     "Nella botrite vera, la resistenza alla fenexamide nasce da mutazioni del gene erg27, proprio il bersaglio del prodotto (per esempio F412S)",
+     "La fenexamide frena il tubetto germinativo e il micelio più che la germinazione della spora: rende al massimo prima che la muffa entri nei tessuti"
+    ],
+    "chiusa": "Passa al banco di Studio 4: impostiamo insieme la difesa dalla botrite.",
+    "fonte": "Etichetta e letteratura scientifica."}
+  ]
+ },
+ {
+  "id": "altacor",
+  "video": true, "fito": true, "colore": "marrone", "argomento": "",
+  "slide": [
+   {"tipo": "copertina", "tag": "Tuta e nottue · orticole",
+    "titolo": "Tuta e nottue <em>dentro foglie e frutti?</em>",
+    "sotto": "Altacor: insetticida specifico contro i bruchi <span>di pomodoro, peperone, melanzana e cucurbitacee.</span>",
+    "foto": "altacor",
+    "box": "Come usarlo senza bruciarlo in una sola stagione. Scorri."},
+   {"tipo": "schede", "tag": "Come lavora",
+    "titolo": "Ferma il bruco <em>dai muscoli.</em>",
+    "voci": [
+     ["🐛", "Paralizza la larva", "Clorantraniliprolo (IRAC 28) svuota le riserve di calcio dei muscoli: la larva si blocca e smette di mangiare."],
+     ["🥚", "Si parte presto", "In etichetta: dalla deposizione delle uova o alla nascita delle prime larve."],
+     ["🎯", "Selettivo", "In etichetta è un insetticida selettivo, con meccanismo d'azione non neurotossico."]
+    ]},
+   {"tipo": "dose", "tag": "Quando e quanto", "titolo": "Altacor", "foto": "altacor",
+    "etichetta": "Dose · serra (pomodoro, peperone, melanzana)",
+    "valore": "10–12 g/hl",
+    "nota": "max 180 g/ha · ogni 7–10 giorni · max 2 l'anno · carenza 3 giorni",
+    "punti": ["Cucurbitacee in serra allevate in verticale: 8–12 g/hl", "Pieno campo: 80–120 g/ha"],
+    "fonte": "Da etichetta."},
+   {"tipo": "sapevi",
+    "titolo": "La Tuta ha già imparato a resistere.",
+    "grande": "In Italia e in Grecia sono state trovate Tute con mutazioni del bersaglio (G4903E, I4746M) che le rendono poco sensibili a tutti i diamidi.",
+    "piccolo": "Lo dice anche l'etichetta: non usare Altacor dove la Tuta non risponde più ai diamidi.",
+    "punti": [
+     "La regola è la “finestra”: mai due generazioni di fila con il gruppo 28, poi si cambia gruppo IRAC",
+     "Per le colture con ciclo sotto i 50 giorni la finestra è tutto il ciclo della coltura (etichetta)"
+    ],
+    "chiusa": "Passa al banco di Studio 4: costruiamo insieme la rotazione contro la Tuta.",
+    "fonte": "Etichetta e letteratura scientifica."}
+  ]
+ },
+ {
+  "id": "sivanto",
+  "video": true, "fito": true, "colore": "blu", "argomento": "",
+  "slide": [
+   {"tipo": "copertina", "tag": "Afidi e mosca bianca",
+    "titolo": "Afidi e mosca bianca <em>che tornano sempre?</em>",
+    "sotto": "Sivanto Prime: insetticida sistemico <span>contro afidi e aleurodidi su orticole, frutta e vite.</span>",
+    "foto": "sivanto",
+    "box": "Perché non è un neonicotinoide, e cosa non mettere in botte con lui. Scorri."},
+   {"tipo": "schede", "tag": "Come lavora",
+    "titolo": "Una famiglia <em>diversa.</em>",
+    "voci": [
+     ["🌿", "Sistemico", "Agisce per contatto e ingestione e si muove dentro la pianta."],
+     ["🧪", "Butenolidi, IRAC 4D", "Flupyradifurone: una classe chimica diversa dai neonicotinoidi."],
+     ["🏠", "In serra solo se chiusa", "In etichetta: in serra solo in strutture permanenti, completamente chiuse durante il trattamento."]
+    ]},
+   {"tipo": "dose", "tag": "Quando e quanto", "titolo": "Sivanto Prime", "foto": "sivanto",
+    "etichetta": "Dose · afidi su orticole",
+    "valore": "60–75 ml/hl",
+    "nota": "mosca bianca 75 ml/hl · in serra ripetere dopo 10 giorni, max 2 l'anno · carenza 3 giorni",
+    "punti": ["Pieno campo: 1 solo trattamento l'anno", "Cetriolo: alcune varietà sono sensibili, fai prima un saggio"],
+    "fonte": "Da etichetta."},
+   {"tipo": "sapevi",
+    "titolo": "Il rischio vero è la miscela.",
+    "grande": "In fioritura l'etichetta vieta la miscela con i fungicidi FRAC 3, i triazoli (penconazolo, tebuconazolo, difenoconazolo).",
+    "piccolo": "I triazoli bloccano gli enzimi con cui l'ape smaltisce l'insetticida: nelle prove la miscela è risultata molto più dannosa dei due prodotti da soli.",
+    "punti": [
+     "Nelle prove non viene degradato dall'enzima CYP6CM1, quello che rende tante mosche bianche resistenti all'imidacloprid",
+     "Resta però gruppo 4 come i neonicotinoidi: per l'IRAC passare da un sottogruppo 4 all'altro va fatto solo se non ci sono alternative"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti aiutiamo a impostare la rotazione.",
+    "fonte": "Etichetta e letteratura scientifica."}
+  ]
+ },
+ {
+  "id": "kanemite",
+  "video": true, "fito": true, "colore": "terracotta", "argomento": "",
+  "slide": [
+   {"tipo": "copertina", "tag": "Ragnetto rosso · orticole",
+    "titolo": "Ragnetto rosso <em>che ritorna?</em>",
+    "sotto": "Kanemite: acaricida contro le forme mobili <span>di ragnetto rosso ed eriofidi.</span>",
+    "foto": "kanemite",
+    "box": "Il punto debole che decide se funziona o no. Scorri."},
+   {"tipo": "schede", "tag": "Come lavora",
+    "titolo": "Spegne la centrale <em>della cellula.</em>",
+    "voci": [
+     ["🔋", "Blocca la respirazione", "Acequinocil, IRAC 20B: ferma il complesso III dei mitocondri dell'acaro."],
+     ["🕷️", "Sulle forme mobili", "Agisce soprattutto per contatto su larve, ninfe e adulti, con effetto rapido e lunga persistenza (etichetta)."],
+     ["💧", "Bagnatura piena", "A inizio infestazione, con una bagnatura uniforme e abbondante della vegetazione."]
+    ]},
+   {"tipo": "dose", "tag": "Quando e quanto", "titolo": "Kanemite", "foto": "kanemite",
+    "etichetta": "Dose · orticole",
+    "valore": "100–120 ml/hl",
+    "nota": "1–1,2 l/ha · a inizio infestazione · carenza 3 giorni",
+    "punti": ["Pomodoro e melanzana: max 2 l'anno, a 10 giorni", "Cetriolo e zucchino: solo serra, max 2", "Peperone: solo serra, 1 trattamento l'anno"],
+    "fonte": "Da etichetta."},
+   {"tipo": "sapevi",
+    "titolo": "La resistenza passa solo dalla madre.",
+    "grande": "Il bersaglio di Kanemite, il citocromo b, è scritto nel DNA dei mitocondri, che l'acaro eredita solo dalla madre.",
+    "piccolo": "Le mutazioni che danno resistenza (come G126S e S141F) si trasmettono quindi in modo diverso dalle altre resistenze.",
+    "punti": [
+     "Le stesse mutazioni danno resistenza incrociata con il bifenazate (IRAC 20D): stesso bersaglio, quindi alternarli non serve",
+     "L'acequinocil diventa attivo solo dentro l'acaro, che lo trasforma nella forma che colpisce",
+     "Sulle uova lavora poco: con popolazioni forti l'etichetta consiglia di aggiungere un ovo-larvicida"
+    ],
+    "chiusa": "Passa al banco di Studio 4 per la strategia contro il ragnetto.",
+    "fonte": "Etichetta e letteratura scientifica."}
+  ]
+ },
+ {
+  "id": "nemathorin",
+  "video": true, "fito": true, "colore": "giallo", "argomento": "",
+  "slide": [
+   {"tipo": "copertina", "tag": "Nematodi · pomodoro e melanzana",
+    "titolo": "Nematodi <em>nelle radici?</em>",
+    "sotto": "Nemathorin 150 EC: nematocida in manichetta <span>da dare prima del trapianto, in serra.</span>",
+    "foto": "nemathorin",
+    "box": "Quando darlo e perché l'acqua conta quanto la dose. Scorri."},
+   {"tipo": "schede", "tag": "Come lavora",
+    "titolo": "Tutto si gioca <em>prima del trapianto.</em>",
+    "voci": [
+     ["🪱", "Per contatto", "Fostiazate agisce per contatto sui nematodi delle radici (Meloidogyne), con azione rapida e persistente (etichetta)."],
+     ["📅", "3–6 giorni prima", "Su terreno ben lavorato, affinato e irrigato. Mai durante la coltura."],
+     ["💧", "L'acqua lo porta giù", "50–200 hl/ha d'acqua per farlo arrivare a 10–15 cm, attorno ai fori di trapianto. Più in profondità perde efficacia."]
+    ]},
+   {"tipo": "dose", "tag": "Quando e quanto", "titolo": "Nemathorin 150 EC", "foto": "nemathorin",
+    "etichetta": "Dose · pomodoro e melanzana",
+    "valore": "10 l/ha",
+    "nota": "solo serra · goccia o manichetta · 3–6 giorni prima del trapianto",
+    "punti": ["Si usa da solo, senza miscele", "Non applicarlo durante il ciclo della coltura"],
+    "fonte": "Da etichetta."},
+   {"tipo": "sapevi",
+    "titolo": "Non li uccide tutti: li paralizza.",
+    "grande": "Alle dosi di campo i nematocidi fosforganici come il fostiazate sono soprattutto “nematostatici”: bloccano un enzima nervoso e il nematode resta fermo.",
+    "piccolo": "Paralizzato, non trova la radice nei primi giorni dopo il trapianto, quando la piantina è più esposta. Conta il momento, non solo la dose.",
+    "punti": [
+     "Le larve infettive (J2) entrano nella radice vicino alla punta: per questo il prodotto deve stare nei primi 10–15 cm, dove la radice cresce"
+    ],
+    "chiusa": "Passa al banco di Studio 4 prima di preparare il terreno.",
+    "fonte": "Etichetta e letteratura scientifica."}
+  ]
+ },
+ {
+  "id": "xtreem",
+  "video": true, "fito": true, "colore": "azzurro", "argomento": "",
+  "slide": [
+   {"tipo": "copertina", "tag": "Bruchi · orticole in serra",
+    "titolo": "Bruchi su foglie <em>e frutti?</em>",
+    "sotto": "xTreem Prime: Bacillus thuringiensis aizawai <span>contro le larve di lepidotteri, Tuta compresa.</span>",
+    "foto": "xtreem",
+    "box": "Perché non è il solito Bacillus, e quando darlo. Scorri."},
+   {"tipo": "schede", "tag": "Come lavora",
+    "titolo": "Funziona solo <em>se lo mangiano.</em>",
+    "voci": [
+     ["🦠", "Per ingestione", "La larva mangia il prodotto e l'intestino si lesiona: smette di nutrirsi e muore in 24–72 ore (etichetta)."],
+     ["🐛", "Sulle larve giovani", "Alla comparsa delle prime larve, ripetendo fino alla fine della schiusura delle uova."],
+     ["🌙", "Verso sera", "Su vegetazione asciutta, nelle ore più fresche; non se è prevista pioggia entro 6 ore."]
+    ]},
+   {"tipo": "dose", "tag": "Quando e quanto", "titolo": "xTreem Prime", "foto": "xtreem",
+    "etichetta": "Dose · orticole in serra",
+    "valore": "50–100 g/hl",
+    "nota": "500–1000 g/ha · 1–3 per generazione, ogni 7 giorni · 2 giorni prima della raccolta",
+    "punti": ["Pomodoro, peperone, melanzana, cetriolo: anche contro la Tuta", "Non con prodotti alcalini (calce, poltiglia bordolese)"],
+    "fonte": "Da etichetta."},
+   {"tipo": "sapevi",
+    "titolo": "Non tutti i Bacillus sono uguali.",
+    "grande": "La varietà aizawai produce anche la tossina Cry1C, attiva sulle Spodoptera (nottua piccola e mediterranea), che reggono meglio il Bacillus kurstaki.",
+    "piccolo": "Con le Spodoptera in serra, la scelta del ceppo fa la differenza.",
+    "punti": [
+     "I cristalli si sciolgono solo nell'intestino alcalino della larva: per questo agisce solo se viene mangiato",
+     "La luce del sole (UV) degrada spore e cristalli: trattare verso sera allunga la vita del prodotto sulla foglia"
+    ],
+    "chiusa": "Passa al banco di Studio 4: scegliamo insieme il Bacillus giusto.",
+    "fonte": "Etichetta e letteratura scientifica."}
+  ]
+ },
+ {
+  "id": "magnumfe",
+  "video": true, "fito": false, "colore": "rosso", "argomento": "",
+  "slide": [
+   {"tipo": "copertina", "tag": "Radicazione · fertirrigazione",
+    "titolo": "Pianta ferma <em>che non mette radici?</em>",
+    "sotto": "Magnum Fe: concime organico azotato fluido <span>che nutre e stimola la radicazione.</span>",
+    "foto": "magnumfe",
+    "box": "Cosa c'è dentro e perché fa la differenza. Scorri."},
+   {"tipo": "schede", "tag": "Cosa contiene",
+    "titolo": "Azoto organico <em>pronto da usare.</em>",
+    "voci": [
+     ["🩸", "Azoto organico 5,5%", "Da sangue fluido, con aminoacidi levogiri (10%) e carbonio organico (20%)."],
+     ["🌊", "Alghe brune e betaine", "Con estratto di alghe brune, aminoacidi vegetali, betaine e vitamine."],
+     ["🧲", "Ferro organico", "Naturalmente ricco di ferro di origine organica, legato alle proteine."]
+    ]},
+   {"tipo": "elenco", "tag": "Come si usa",
+    "titolo": "In fertirrigazione <em>o per via fogliare.</em>",
+    "punti": [
+     "In fertirrigazione, per sostenere radici e ripartenza",
+     "Per via fogliare, quando la pianta ha bisogno di una spinta",
+     "La dose è in etichetta: chiedila al banco per la tua coltura"
+    ],
+    "fonte": "Da scheda del prodotto."},
+   {"tipo": "sapevi",
+    "titolo": "Non tutti gli aminoacidi sono uguali.",
+    "grande": "Le piante usano gli aminoacidi in forma L, levogira. La forma D, che si forma quando le proteine si scompongono con acidi o calore forte, non serve e in alcune prove frena la crescita.",
+    "piccolo": "Per questo su un concime organico la parola “levogiri” conta.",
+    "punti": [
+     "Le radici possono assorbire direttamente gli aminoacidi, senza aspettare che il terreno li trasformi in nitrato",
+     "La betaina è la stessa sostanza che molte piante accumulano da sole per difendersi da sale, freddo e siccità"
+    ],
+    "chiusa": "Passa al banco di Studio 4, a Vittoria.",
+    "fonte": "Scheda del prodotto e fisiologia vegetale."}
+  ]
+ }
+]

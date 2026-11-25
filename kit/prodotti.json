@@ -344,7 +344,8 @@
    "1–1,2 l/ha"
   ],
   "fatti": [
-   "pomodoro: massimo 2 trattamenti a 10 giorni, carenza 3 giorni"
+   "pomodoro: massimo 2 trattamenti a 10 giorni, carenza 3 giorni",
+   "melanzana: max 2 a 10 giorni; cetriolo e zucchino solo serra; peperone solo serra, 1/anno"
   ],
   "foto": "kanemite"
  },
@@ -469,5 +470,85 @@
    "melanzana e peperone: 30–50 ml/hl, 1° a inizio fioritura, 2° dopo 10 giorni, 5–10 hl/ha, carenza 20 giorni (scheda tecnica produttore e schede distributori; da confermare sul PDF del Ministero)"
   ],
   "foto": "fengib"
+ },
+ "teldor": {
+  "nome": "Teldor Plus",
+  "tipo": "fungicida",
+  "reg": "13084",
+  "fonte": "etichetta",
+  "dosi": [
+   "100–150 ml/hl",
+   "1–1,5 l/ha"
+  ],
+  "fatti": [
+   "orticole: da inizio fioritura, ogni 10–14 giorni, max 3/anno, carenza 3 giorni; peperone solo serra"
+  ],
+  "foto": "teldor"
+ },
+ "altacor": {
+  "nome": "Altacor",
+  "tipo": "insetticida",
+  "reg": "14137",
+  "fonte": "etichetta",
+  "dosi": [
+   "10–12 g/hl (serra, max 180 g/ha)",
+   "80–120 g/ha (campo)"
+  ],
+  "fatti": [
+   "max 2/anno, ogni 7–10 giorni, carenza 3 giorni"
+  ],
+  "foto": "altacor"
+ },
+ "sivanto": {
+  "nome": "Sivanto Prime",
+  "tipo": "insetticida",
+  "reg": "16273",
+  "fonte": "etichetta",
+  "dosi": [
+   "60–75 ml/hl afidi",
+   "75 ml/hl mosca bianca"
+  ],
+  "fatti": [
+   "serra solo chiusa: ripetere dopo 10 gg, max 2/anno; campo 1/anno; carenza 3 giorni"
+  ],
+  "foto": "sivanto"
+ },
+ "nemathorin": {
+  "nome": "Nemathorin 150 EC",
+  "tipo": "nematocida",
+  "reg": "14336",
+  "fonte": "etichetta",
+  "dosi": [
+   "10 l/ha"
+  ],
+  "fatti": [
+   "pomodoro e melanzana in serra, goccia/manichetta, 3–6 giorni prima del trapianto, 50–200 hl/ha d'acqua"
+  ],
+  "foto": "nemathorin"
+ },
+ "xtreem": {
+  "nome": "xTreem Prime",
+  "tipo": "insetticida",
+  "reg": "12066",
+  "fonte": "etichetta",
+  "dosi": [
+   "50–100 g/hl",
+   "500–1000 g/ha"
+  ],
+  "fatti": [
+   "orticole in serra: 1–3 per generazione ogni 7 giorni; 2 giorni prima della raccolta"
+  ],
+  "foto": "xtreem"
+ },
+ "magnumfe": {
+  "nome": "Magnum Fe",
+  "tipo": "concime",
+  "reg": null,
+  "fonte": "scheda rivenditore (da confermare)",
+  "dosi": [],
+  "fatti": [
+   "concime organico azotato fluido, N organico 5,5%"
+  ],
+  "foto": "magnumfe"
  }
 }
