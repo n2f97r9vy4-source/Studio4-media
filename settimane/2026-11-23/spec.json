@@ -953,6 +953,157 @@
       }
     },
     {
+      "id": "gio_2000",
+      "tipo": "carosello",
+      "data": "2026-11-26",
+      "ora": "20:00",
+      "rubrica": "newsletter",
+      "titolo": "Notizie dal campo · 26 novembre",
+      "tema": "newsletter-2026-11-26",
+      "prodotti": [],
+      "colore": "petrolio",
+      "argomento": "Notizie dal campo",
+      "dato": "avviso IRCA AgriPesca (prestiti agevolati 5.000–30.000, linea A liquidità e linea B scorte, sportello dalle 11:00 del 30/11/2026); Thrips parvispinus: oltre 1.200 ha di peperone estirpati ad Almería e primo ritrovamento italiano a Vittoria (ott. 2025); ISMEA ottobre 2026: ciliegino serra 3,68 €/kg (+253,8% su ott. 2025), melanzana serra tonda 0,65 €/kg (−31,6%), costi ortaggi +9,3%, Vittoria 20/11 ciliegino 2,55 €/kg (−17,7%); previsioni di maltempo e calo termico in Sicilia 26–28/11",
+      "fonte_dato": "1) IRCA AgriPesca, avviso pubblico del 30/10/2026, pagina ufficiale letta il 25/11/2026 https://www.ircasicilia.it/altre-misure-agevolative/agripesca/ (importi 5.000–30.000 in multipli di 500, linea A 3,5 mln liquidità, linea B 1,5 mln scorte, sportello dalle 11:00 del 30/11/2026 su IRCA Agevola con SPID/CIE, firma digitale, fascicolo aziendale CAA, commissione istruttoria 150 €, linea B: fatture quietanzate di almeno 500 € pagate nei 12 mesi prima della domanda, asseverate da professionista della Long List) + Allegato 6 (scorte ammissibili per 'fiori ed erbacee in coltura protetta': fertilizzanti, fitofarmaci, erbicidi, presidi di monitoraggio e lotta biologica, insetti impollinatori, sementi e piantine, plastica per pacciamatura, carburanti, acqua ed energia, materiali per impianti irrigui) https://www.ircasicilia.it/wp-content/uploads/2026/11/ALLEGATO-6.pdf ; dettagli anche in QdS 02/11/2026 https://qds.it/agripesca-bando-irca-avviso-finanziamenti-agricoltura-pesca/ ; caro carburante: domande su UMA Sicilia dal 9 al 30/11/2026, Regione Siciliana Agroservizi https://quadrifoglio.regione.sicilia.it/aiuti-alle-imprese-per-il-contrasto-al-caro-carburante-avviata-la-procedura-per-la-presentazione-delle-istanze/ (circolare annullamento domande errate del 18/11/2026) | 2) Thrips parvispinus: oltre 1.200 ha di peperone estirpati ad Almería e diffusione sul cetriolo, dichiarazione COAG Almería riportata da HortiDaily/FreshPlaza (18–19/11/2026) https://www.hortidaily.com/article/9894237/over-1-200-hectares-of-pepper-crops-uprooted-in-almeria-due-to-thrips-parvispinus/ ; primo ritrovamento in Italia l'8/10/2025 in una serra di gerbere a Vittoria su piante importate dalla Spagna, poi su peperone in Sicilia: Cocuzza, Ben Hmad, Novara, EPPO Bulletin 2026 https://onlinelibrary.wiley.com/doi/10.1111/epp.70053 (riassunto FruitJournal 16/03/2026 https://www.fruitjournal.com/2026/03/16/sicilia-sul-peperone-arriva-un-nuovo-tripide/) ; sintomi (macchie argentate con puntini neri sul rovescio), prevenzione (reti, piantine da vivai autorizzati con passaporto, trappole blu, niente colture abbandonate) e calo invernale: RAIF Junta de Andalucía https://www.juntadeandalucia.es/agriculturapescaaguaydesarrollorural/raif/presencia-de-trips-del-tabaco-thrips-parvispinus-en-la-provincia-de-almeria-en-el-cultivo-de-pimiento/ | 3) ISMEA Mercati, prezzi medi mensili all'origine ottobre 2026 https://www.ismeamercati.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/509 (pomodori serra ciliegini 3,68 €/kg +253,8% su ott. 2025; melanzane serra tonde 0,65 €/kg −31,6%; zucchine serra scure 0,68 €/kg −27,7%; peperoni serra colorati 2,15 €/kg +59,3%); indice costi ortaggi ott. 2026 +9,3% su ott. 2025 https://www.ismeamercati.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/3039 ; Vittoria pomodori serra 20/11/2026: ciliegini I qualità 2,55 €/kg (−17,7% sulla settimana), tondi a grappolo 1,85 €/kg (0,0%) https://www.ismeamercati.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/1335 ; commento FruitJournal 24/11/2026 https://www.fruitjournal.com/2026/11/24/ortofrutta-tra-rialzi-e-incognite-sulla-redditivita/ | 4) Previsioni meteo Sicilia 25–28/11/2026: LiveSicilia 25/11/2026 (meteorologo iLMeteo.it: piogge, raffiche, calo delle temperature, 'primo assaggio d'inverno') https://livesicilia.it/meteo-sicilia-burrasca-vento-mareggiate-previsioni/ e StrettoWeb/MeteoWeb 24–25/11/2026 (temporali da giovedì a domenica mattina, crollo termico sabato) https://www.strettoweb.com/2026/11/allerta-meteo-calabria-e-sicilia-arriva-un-violento-ciclone-con-nubifragi-grandine-neve-e-un-crollo-termico-fino-a-11c/2183724/ (previsioni, non avviso ufficiale) | consigli in serra (condensa, irrigazione al mattino): nozione generale, coerenti con il post 'Serra d'inverno: la condensa'",
+      "slide": [
+        {
+          "tipo": "copertina",
+          "tag": "📰 Notizie dal campo",
+          "titolo": "Prestiti per le scorte:<br><em>si apre<br>lunedì 30.</em>",
+          "sotto": "E poi: il tripide che in Spagna fa estirpare il peperone, i conti di ottobre e <span>il primo freddo.</span>",
+          "emoji": "📰",
+          "box": "Giovedì 26 novembre · 4 notizie per chi lavora in serra. Scorri."
+        },
+        {
+          "tipo": "schede",
+          "tag": "Notizia 1 · Credito",
+          "titolo": "AgriPesca:<br><em>prestiti dal 30 novembre.</em>",
+          "voci": [
+            [
+              "📌",
+              "Cosa è",
+              "L'IRCA, l'istituto regionale del credito, presta da 5.000 a 30.000 a tasso agevolato, per la liquidità o per le scorte."
+            ],
+            [
+              "🗓️",
+              "Come si chiede",
+              "Online su IRCA Agevola con SPID, dalle 11 di lunedì 30. A sportello: conta l'ordine di arrivo."
+            ],
+            [
+              "👉",
+              "Cosa cambia per te",
+              "Per le scorte servono le fatture pagate negli ultimi 12 mesi: concimi, fitofarmaci, piantine, plastica. Ognuna da almeno 500, asseverata da un professionista."
+            ],
+            [
+              "⛽",
+              "Lo stesso giorno",
+              "Il 30 chiude la domanda per il caro gasolio su UMA Sicilia."
+            ]
+          ]
+        },
+        {
+          "tipo": "schede",
+          "tag": "Notizia 2 · Difesa",
+          "titolo": "Tripide del peperone:<br><em>in Spagna<br>1.200 ettari estirpati.</em>",
+          "voci": [
+            [
+              "📌",
+              "Cosa succede",
+              "Ad Almería Thrips parvispinus ha fatto estirpare oltre 1.200 ettari di peperone. Ora passa anche al cetriolo."
+            ],
+            [
+              "📍",
+              "E da noi",
+              "In Sicilia è già stato trovato, anche in serra su peperone."
+            ],
+            [
+              "👉",
+              "Cosa cambia per te",
+              "Guarda sotto le foglie giovani e dentro i fiori: macchie argentate con puntini neri. Reti integre, residui fuori dalla serra. Al dubbio, chiama il Servizio fitosanitario."
+            ]
+          ]
+        },
+        {
+          "tipo": "grande",
+          "tag": "Notizia 3 · Prezzi",
+          "titolo": "Ottobre in serra:<br><em>pomodoro su,<br>melanzana giù.</em>",
+          "etichetta": "Ciliegino in serra · media Italia, ottobre",
+          "valore": "3,68 al kg",
+          "nota": "Più del triplo di un anno fa. Melanzana tonda in serra: 0,65 al kg (–32%).",
+          "punti": [
+            "I costi di produzione degli ortaggi sono saliti del 9% in un anno",
+            "A Vittoria il ciliegino è sceso a 2,55 al kg il 20 novembre (–18% in una settimana)",
+            "Cosa cambia per te: i margini cambiano molto da coltura a coltura, tieni i conti serra per serra"
+          ]
+        },
+        {
+          "tipo": "schede",
+          "tag": "Notizia 4 · Clima",
+          "titolo": "Primo freddo:<br><em>pioggia e vento<br>fino al weekend.</em>",
+          "voci": [
+            [
+              "🌧️",
+              "Cosa arriva",
+              "Le previsioni danno piogge, raffiche forti e un calo delle temperature in Sicilia tra giovedì e il fine settimana."
+            ],
+            [
+              "🪢",
+              "Prima delle raffiche",
+              "Controlla teli, legature e aperture."
+            ],
+            [
+              "👉",
+              "Cosa cambia per te",
+              "Dopo la pioggia l'umidità resta alta: apri presto al mattino, anche poco, e irriga al mattino, non la sera. Meno ore di foglia bagnata, meno muffa grigia."
+            ]
+          ]
+        },
+        {
+          "tipo": "sapevi",
+          "titolo": "Il primo in Italia è stato trovato a Vittoria.",
+          "grande": "Il nuovo tripide è arrivato a ottobre 2025, su gerbere importate dalla Spagna.",
+          "piccolo": "Viaggia con le piante: una piantina infestata lo porta dentro la serra.",
+          "punti": [
+            "Piantine solo da vivai autorizzati, con passaporto delle piante",
+            "Trappole blu fin dal trapianto, per vederlo presto",
+            "Niente colture abbandonate a fine ciclo: diventano un serbatoio"
+          ],
+          "chiusa": "D'inverno cala, ma non sparisce: è il momento di pulire."
+        },
+        {
+          "tipo": "schede",
+          "tag": "Studio 4",
+          "titolo": "Hai dubbi su<br>cosa cambia<br><em>per la tua azienda?</em>",
+          "voci": [
+            [
+              "🏪",
+              "Passa al banco",
+              "Ne parliamo di persona. Via Antonio Pacinotti 1, Vittoria."
+            ],
+            [
+              "🧾",
+              "Prepari la domanda per le scorte?",
+              "Ti aiutiamo a ritrovare le fatture dei tuoi acquisti da noi."
+            ],
+            [
+              "💬",
+              "Scrivici su WhatsApp",
+              "393 666 4394"
+            ]
+          ],
+          "chiusa": "Notizie dal campo: ogni giovedì e domenica alle 20."
+        }
+      ],
+      "didascalia": "📰 Notizie dal campo · giovedì 26 novembre\n\nQuattro notizie della settimana che toccano chi lavora in serra a Vittoria.\n\n• Prestiti per le scorte — L'IRCA apre AgriPesca: prestiti da 5.000 a 30.000 a tasso agevolato, per la liquidità o per le scorte. Domande online con SPID dalle 11 di lunedì 30 novembre, a sportello. Per te: per le scorte servono le fatture pagate negli ultimi 12 mesi (concimi, fitofarmaci, piantine, plastica), ognuna da almeno 500 e asseverata da un professionista. Il 30 chiude anche la domanda per il caro gasolio su UMA Sicilia.\n• Tripide del peperone — Ad Almería Thrips parvispinus ha fatto estirpare oltre 1.200 ettari di peperone e ora passa al cetriolo. In Sicilia è già stato trovato. Per te: guarda sotto le foglie giovani e nei fiori, cerca macchie argentate con puntini neri; al dubbio chiama il Servizio fitosanitario.\n• I conti di ottobre — Ciliegino in serra a 3,68 al kg di media in Italia, più del triplo di un anno fa; melanzana tonda in serra a 0,65 (–32%). Costi degli ortaggi +9%. A Vittoria il 20 novembre il ciliegino era sceso a 2,55. Per te: tieni i conti serra per serra.\n• Primo freddo — Piogge, raffiche e temperature in calo fino al weekend. Per te: controlla teli e legature, apri presto al mattino e irriga al mattino, non la sera.\n\n💡 Lo sapevi? Il primo Thrips parvispinus d'Italia è stato trovato a Vittoria, nell'ottobre 2025, su gerbere arrivate dalla Spagna. Viaggia con le piante: piantine con passaporto e reti integre sono la prima difesa.\n\nTi aggiorniamo ogni giovedì e domenica alle 20. Hai dubbi su cosa cambia per la tua azienda? Passa al banco: ne parliamo.\n\n#notiziedalcampo #agricoltura #serra #peperone #pomodoro #sicilia #vittoria #studio4srl",
+      "storia": {
+        "titolo": "Notizie<br><em>dal campo</em>",
+        "emoji": "📰",
+        "etichetta": "Giovedì 26 novembre",
+        "grande": "Prestiti per le scorte: si apre lunedì 30.",
+        "piccolo": "E poi il tripide del peperone, i conti di ottobre e il primo freddo."
+      }
+    },
+    {
       "id": "gio_2145",
       "tipo": "sera",
       "data": "2026-11-26",
