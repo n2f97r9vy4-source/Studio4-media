@@ -2,7 +2,8 @@
 # Stile: foto del prodotto sfocata a tutto schermo + prodotto scontornato, logo ufficiale
 # direttamente sullo sfondo con numero slide in verde (come i video del 24/11).
 # Uso: python3 genera.py  -> scrive html/<prodotto>.html; poi node rendi.js
-import json, os, base64
+import json, os, base64, sys
+IG = 'ig' in sys.argv  # python3 genera.py ig -> carosello Instagram 1080x1350 in html/<prodotto>_ig.html
 QUI = os.path.dirname(os.path.abspath(__file__))
 KIT = os.path.join(QUI, '..', '..', 'kit')
 def b64(p):
@@ -55,6 +56,14 @@ def cards(lst, white=False):
     return '<div class="cards">' + ''.join(
         f'<div class="card{" w" if white else ""}"><div class="ic">{ic}</div><div><h3>{h}</h3><p>{t}</p></div></div>' for ic, h, t in lst) + '</div>'
 
+IGCSS = """
+.s{height:1350px}.top{top:48px;left:56px;right:56px}.tag{font-size:25px;padding:12px 26px}.lg img{width:170px}.lg span{font-size:32px}
+.c{top:150px;left:56px;right:56px;bottom:100px}h1{font-size:84px}.sub{font-size:39px;margin-top:24px}
+.btn{left:56px;bottom:96px;font-size:32px;padding:18px 34px}.cards{gap:20px;margin-top:34px}
+.card{padding:28px 32px;gap:24px;border-radius:26px}.ic{font-size:46px;min-width:52px}.card h3{font-size:38px}.card p{font-size:32px;margin-top:6px}
+.cta{margin-top:24px;padding:26px 32px;font-size:34px}.foot{left:56px;right:56px;bottom:36px;font-size:20px}
+.dose{margin-top:32px;padding:26px 34px}.dose .k{font-size:24px}.dose .v{font-size:66px}.dose .n{font-size:30px}
+"""
 LOGO = b64(os.path.join(KIT, 'assets', 'logo_s4.png'))
 dati = json.load(open(os.path.join(QUI, 'contenuti.json'), encoding='utf8'))
 os.makedirs(os.path.join(QUI, 'html'), exist_ok=True)
@@ -73,10 +82,14 @@ for key, p in dati.items():
         if s.get('cta'): h += f'<div class="cta">{s["cta"]}</div>'
         if s.get('foto'):
             f = s['foto']
-            foto = f'<img class="prod" src="{prod}" style="top:{f["top"]}px;height:{f["h"]}px">'
+            t, hh = (f['top'] * 0.72 - 10, f['h'] * 0.72) if IG else (f['top'], f['h'])
+            foto = f'<img class="prod" src="{prod}" style="top:{t}px;height:{hh}px">'
             if s.get('btn'): foto += f'<div class="btn">{s["btn"]}</div>'
         out.append(slide(p, i, n, {'tag': s['tag'], 'html': h}, foto))
-    css = CSS.replace("@@F@@", 'file://' + os.path.abspath(os.path.join(KIT, 'fonts')))
-    open(os.path.join(QUI, 'html', key + '.html'), 'w', encoding='utf8').write(
+    if IG: css_extra = IGCSS
+    else: css_extra = ''
+    css = css_extra and CSS + css_extra or CSS
+    css = css.replace("@@F@@", 'file://' + os.path.abspath(os.path.join(KIT, 'fonts')))
+    open(os.path.join(QUI, 'html', key + ('_ig' if IG else '') + '.html'), 'w', encoding='utf8').write(
         f'<!doctype html><html><head><meta charset="utf-8"><style>{css}</style></head><body>{"".join(out)}</body></html>')
     print(key, n, 'slide')
