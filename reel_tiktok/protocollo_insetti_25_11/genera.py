@@ -17,7 +17,7 @@ ACC, DARK, BG1, BG2, OR = "#1B9A4B", "#0E3B22", "#F2F8F3", "#D6EBDC", "#DF502E"
 def html(fmt):
     tt = fmt == "tiktok"
     H = 1920 if tt else 1440
-    s = 0.88 if tt else 0.72          # scala dei testi
+    s = 0.85 if tt else 0.66          # scala dei testi
     def px(v): return f"{v*s:.0f}px"
     return f"""<!doctype html><html><head><meta charset="utf-8"><style>{FONT}
 *{{box-sizing:border-box;margin:0;padding:0}}
@@ -32,9 +32,15 @@ h1{{font-size:{px(96)};line-height:.98;font-weight:700;letter-spacing:-3px}}
 h1 em{{font-style:normal;color:{OR}}}
 .sub{{font-size:{px(38)};font-weight:500;line-height:1.25;margin-top:{px(12)}}}
 .sub b{{color:{ACC}}}
-.bugs{{display:flex;gap:{px(14)};flex-wrap:wrap}}
-.bug{{background:{OR};color:#fff;border-radius:999px;padding:{px(12)} {px(26)};font-size:{px(32)};font-weight:700;display:flex;align-items:center;gap:10px;
- box-shadow:0 10px 24px rgba(223,80,46,.25)}}
+.hero{{position:relative;background:linear-gradient(135deg,#E8582F 0%,#C93A1C 100%);border-radius:40px;padding:{px(34)} {px(44)} {px(40)};color:#fff;
+ box-shadow:0 24px 50px rgba(201,58,28,.35);margin-top:{px(8)}}}
+.al{{display:inline-block;background:#fff;color:{OR};border-radius:999px;padding:{px(8)} {px(22)};font-size:{px(26)};font-weight:700;letter-spacing:2px;text-transform:uppercase}}
+.hero h1{{font-size:{px(92)};line-height:.95;letter-spacing:-2px;margin-top:{px(14)};position:relative;z-index:1}}
+.hero .big{{font-size:{px(196)};letter-spacing:-6px;line-height:.9;text-shadow:0 8px 0 rgba(0,0,0,.12)}}
+.htank{{position:absolute;right:{px(-20)};bottom:{px(30)};height:{px(370)};filter:drop-shadow(0 26px 26px rgba(0,0,0,.35));z-index:0}}
+.bugs{{display:grid;grid-template-columns:repeat(4,auto);gap:{px(12)};justify-content:space-between}}
+.bug{{background:{DARK};color:#fff;border-radius:999px;padding:{px(16)} {px(26)};font-size:{px(36)};font-weight:700;box-shadow:0 10px 24px rgba(0,0,0,.18)}}
+.go{{font-size:{px(36)};font-weight:700;color:{ACC};line-height:1.2}}
 .tl{{position:relative;display:flex;flex-direction:column;gap:{px(20)};padding-left:{px(92)}}}
 .tl:before{{content:"";position:absolute;left:{px(34)};top:{px(30)};bottom:{px(60)};width:8px;border-radius:4px;
  background:linear-gradient({ACC} 0 30%,{OR} 30% 72%,{ACC} 72%)}}
@@ -69,17 +75,18 @@ h1 em{{font-style:normal;color:{OR}}}
 <div class="tag"><span class="dot"></span>Orticole · difesa</div>
 <img class="logo" src="{LOGO}">
 <div class="w">
- <div>
-  <h1>Insetti sulla coltura?<br><em>Lo schema in 3 fasi.</em></h1>
-  <div class="sub">Prevenire, allontanare, ripartire: <b>dal trapianto alla raccolta</b>.</div>
+ <div class="hero">
+  <div class="al">⚠️ Problema in serra</div>
+  <h1><span class="big">INSETTI</span><br>sulla coltura?</h1>
+  <img class="htank" src="{FOTO}">
  </div>
  <div class="bugs"><div class="bug">Afidi</div><div class="bug">Acari</div><div class="bug">Cocciniglie</div><div class="bug">Lepidotteri</div></div>
+ <div class="go">Lo schema in 3 fasi, dal trapianto alla raccolta ↓</div>
  <div class="tl">
-  <div class="ph ph1"><div class="n">1</div>
+  <div class="ph"><div class="n">1</div>
    <div class="k">Prevenzione · sempre</div>
    <div class="p">Distillato di legno</div>
    <div class="d"><b>250 ml/hl</b> ogni <b>5–7 giorni</b>, dal trapianto alla raccolta: la coltura diventa meno gradita agli insetti.</div>
-   <img src="{FOTO}">
   </div>
   <div class="ph ph2"><div class="n">2</div>
    <div class="k">Allontanamento · insetto già presente</div>
@@ -98,11 +105,11 @@ h1 em{{font-style:normal;color:{OR}}}
   </div>
  </div>
  <div class="row">
-  <div class="box"><div class="k">Prima di tutto</div>Bagnetto radici al trapianto: distillato <b>300 ml/hl</b>. In fertirrigazione <b>5 L/ha ogni 14 giorni</b>.</div>
+  <div class="box"><div class="k">Prima di tutto</div>Bagnetto radici al trapianto: distillato <b>300 ml/hl</b>. Fertirrigazione <b>5 L/ha ogni 14 gg</b>.</div>
   <div class="box"><div class="k" style="color:{OR}">Attenzione</div>Sap-One K+ <b>non</b> con insetti ausiliari in serra. Interventi nelle ore più calde.</div>
  </div>
- <div class="lo"><b>Lo sapevi? Il sapone lavora solo finché è bagnato.</b>Il sapone di potassio agisce per contatto: quando la goccia asciuga ha finito. Con acqua dura, calcio e magnesio ne bloccano una parte. Bagna bene la pagina sotto della foglia, dove stanno afidi e acari.</div>
- <div class="cta">Per lo schema sulla tua coltura passa al banco di Studio 4, a Vittoria. <span>Corroboranti e sapone: allontanano, non sono insetticidi.</span></div>
+ <div class="lo"><b>Lo sapevi? Il sapone lavora solo finché è bagnato.</b>Agisce per contatto: quando la goccia asciuga ha finito, e con acqua dura (calcio e magnesio) ne resta attivo di meno. Bagna bene la pagina sotto della foglia.</div>
+ <div class="cta">Schema sulla tua coltura? Passa al banco di Studio 4, a Vittoria. <span>Corroboranti e sapone: allontanano, non sono insetticidi.</span></div>
  <div class="sp"></div>
  <div class="disc">Usare i prodotti fitosanitari con precauzione. Prima dell'uso leggere sempre l'etichetta e le informazioni sul prodotto. Vendita ai possessori di patentino.</div>
 </div></div></body></html>"""
