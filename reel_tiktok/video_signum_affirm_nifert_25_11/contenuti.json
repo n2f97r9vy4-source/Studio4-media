@@ -1,0 +1,227 @@
+{
+ "signum": {
+  "bg": "signum_2026-11-25_1.jpg",
+  "fito": true,
+  "slide": [
+   {
+    "tag": "Muffa grigia · Oidio",
+    "titolo": "Muffa grigia e oidio?<br><em>Giocali d'anticipo.</em>",
+    "sub": "Signum: due fungicidi in un granulo, per orticole, fragola e frutta.",
+    "foto": {
+     "top": 760,
+     "h": 900
+    },
+    "btn": "Come usarlo bene →"
+   },
+   {
+    "tag": "Come lavora",
+    "titolo": "Due blocchi diversi<br><em>nello stesso granulo.</em>",
+    "cards": [
+     [
+      "🍄",
+      "Boscalid · FRAC 7",
+      "Blocca la respirazione del fungo in un punto della sua centrale energetica."
+     ],
+     [
+      "⚡",
+      "Piraclostrobin · FRAC 11",
+      "La blocca in un secondo punto: il fungo resta senza energia."
+     ],
+     [
+      "🛡️",
+      "Si usa prima",
+      "Va dato in via preventiva, nei periodi a rischio, prima che la malattia parta."
+     ]
+    ]
+   },
+   {
+    "tag": "Quando e quanto",
+    "titolo": "Pomodoro, peperone,<br><em>melanzana in serra.</em>",
+    "dose": {
+     "k": "Dose di etichetta",
+     "v": "100–150 g/hl",
+     "n": "Ogni 7–10 giorni · massimo 3 trattamenti l'anno · carenza 3 giorni"
+    },
+    "cards": [
+     [
+      "🌧️",
+      "Alta pressione o crescita rapida",
+      "Dose alta e intervallo corto: lo prevede l'etichetta."
+     ],
+     [
+      "💧",
+      "Sotto 1.000 l/ha d'acqua",
+      "Ragiona a ettaro, non a ettolitro: 1–1,5 kg/ha."
+     ]
+    ]
+   },
+   {
+    "tag": "Lo sapevi?",
+    "titolo": "Su zucchina e cetriolo<br><em>non si usa.</em>",
+    "cards": [
+     [
+      "🥒",
+      "Cucurbitacee fuori dall'etichetta",
+      "Sì a pomodoro, peperone, melanzana, fragola, insalate ed erbe aromatiche. Zucchina, cetriolo e melone no."
+     ],
+     [
+      "🔄",
+      "Il conto è per famiglia",
+      "I 3 trattamenti l'anno valgono per tutti i prodotti con boscalid o strobilurine, non solo per Signum."
+     ]
+    ],
+    "cta": "Passa al banco di Studio 4: ti aiutiamo a costruire la rotazione."
+   }
+  ]
+ },
+ "affirm": {
+  "bg": "affirm_2026-11-25_1.jpg",
+  "fito": true,
+  "slide": [
+   {
+    "tag": "Bruchi · Lepidotteri",
+    "titolo": "Bruchi che mangiano<br><em>foglie e frutti?</em>",
+    "sub": "Affirm: il bruco <b>smette di nutrirsi</b>. Orticole, vite e frutta.",
+    "foto": {
+     "top": 760,
+     "h": 900
+    },
+    "btn": "Come agisce →"
+   },
+   {
+    "tag": "Come lavora",
+    "titolo": "Blocca i nervi<br><em>della larva.</em>",
+    "cards": [
+     [
+      "🐛",
+      "Contatto e ingestione",
+      "Apre il canale del cloro nei nervi: la larva smette di mangiare e va in paralisi."
+     ],
+     [
+      "🍃",
+      "Entra nella foglia",
+      "Penetrante e translaminare: forma una riserva attiva dentro i tessuti da proteggere."
+     ],
+     [
+      "🎯",
+      "Solo lepidotteri",
+      "Nottue, tuta, piralide, plusia. Acari, afidi e mosca bianca richiedono altro."
+     ]
+    ]
+   },
+   {
+    "tag": "Quando e quanto",
+    "titolo": "Il momento<br><em>conta più della dose.</em>",
+    "dose": {
+     "k": "Dose di etichetta · orticole",
+     "v": "150 g/hl",
+     "n": "1,5 kg/ha · massimo 3 trattamenti l'anno · carenza 3 giorni"
+    },
+    "cards": [
+     [
+      "🥚",
+      "Alla schiusura delle uova",
+      "O sulle larve giovani, poi ogni 7–14 giorni. Sulla tuta alle prime mine, ogni 7–10."
+     ],
+     [
+      "☀️",
+      "Non nelle ore calde",
+      "Niente foglie bagnate né pioggia in arrivo."
+     ]
+    ]
+   },
+   {
+    "tag": "Lo sapevi?",
+    "titolo": "È pericoloso<br><em>per api e bombi.</em>",
+    "cards": [
+     [
+      "🐝",
+      "Arnie via per 24 ore",
+      "Non trattare in fioritura: togli o copri le arnie durante il trattamento e per le 24 ore dopo."
+     ],
+     [
+      "🔄",
+      "Stesso gruppo dell'abamectina",
+      "Gruppo IRAC 6: alternalo con gruppi diversi, non con l'abamectina."
+     ]
+    ],
+    "cta": "Passa al banco di Studio 4: scegliamo insieme il momento giusto."
+   }
+  ]
+ },
+ "nifert": {
+  "bg": "nifert_2026-11-25_1.jpg",
+  "fito": false,
+  "slide": [
+   {
+    "tag": "Pianta ferma · Stress",
+    "titolo": "Pianta ferma dopo<br><em>freddo, grandine o diserbo?</em>",
+    "sub": "Nifert: azoto organico che la aiuta a ripartire. <b>Consentito in biologico.</b>",
+    "foto": {
+     "top": 800,
+     "h": 840
+    },
+    "btn": "Come si usa →"
+   },
+   {
+    "tag": "Come lavora",
+    "titolo": "Azoto da proteine,<br><em>pronto da usare.</em>",
+    "cards": [
+     [
+      "🍃",
+      "Per foglia",
+      "Entra veloce dalla cuticola e va agli organi più attivi: diventa proteine, enzimi e zuccheri."
+     ],
+     [
+      "🌱",
+      "In fertirrigazione",
+      "Risveglia microbi ed enzimi del terreno: la pianta assorbe meglio anche gli altri concimi."
+     ],
+     [
+      "🧪",
+      "Cosa contiene",
+      "Azoto organico 6,5%, tutto solubile, e carbonio organico 23,5%."
+     ]
+    ]
+   },
+   {
+    "tag": "Quando e quanto",
+    "titolo": "Orticole<br><em>in serra.</em>",
+    "dose": {
+     "k": "Dose di etichetta",
+     "v": "200–300 g/hl",
+     "n": "per foglia, oppure 6,5–9 kg/ha in fertirrigazione · ogni 10–15 giorni"
+    },
+    "cards": [
+     [
+      "📅",
+      "Nelle fasi che contano",
+      "Trapianto, fioritura, allegagione, ingrossamento dei frutti."
+     ],
+     [
+      "⏱️",
+      "Dopo uno stress",
+      "Dose alta entro 24–48 ore, poi ripeti dopo 8–10 giorni."
+     ]
+    ]
+   },
+   {
+    "tag": "Lo sapevi?",
+    "titolo": "Con lo zolfo<br><em>non va.</em>",
+    "cards": [
+     [
+      "⚠️",
+      "Né insieme né a pochi giorni",
+      "Tienilo lontano da zolfo, polisolfuri, fosetil alluminio, dodina, insetticidi oleosi e prodotti molto alcalini."
+     ],
+     [
+      "🌡️",
+      "Conservalo tra 10 e 30 °C",
+      "D'inverno non lasciarlo nel magazzino freddo; se resta fermo a lungo, agitalo."
+     ]
+    ],
+    "cta": "Passa al banco di Studio 4: ti diciamo come inserirlo nel tuo programma."
+   }
+  ]
+ }
+}
