@@ -1,0 +1,645 @@
+[
+ {
+  "id": "milbeknock",
+  "video": true,
+  "fito": true,
+  "colore": "rosso",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Acari · ragnetto rosso",
+    "titolo": "Ragnetto rosso <em>che riparte sempre?</em>",
+    "sotto": "Milbeknock colpisce <span>uova, larve e adulti</span> degli acari, anche d'inverno.",
+    "foto": "milbeknock",
+    "box": "Perché gli acari tornano e come chiudere il ciclo. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Il problema",
+    "titolo": "Gli acari tornano perché <em>restano le uova.</em>",
+    "voci": [
+     [
+      "🥚",
+      "Le uova non muoiono",
+      "Molti acaricidi lavorano solo sulle forme mobili: dalle uova riparte una nuova generazione."
+     ],
+     [
+      "🍂",
+      "Sotto la foglia",
+      "Ragnetto ed eriofide stanno sulla pagina inferiore: se non la bagni, non li prendi."
+     ],
+     [
+      "🌱",
+      "Su tante colture",
+      "In etichetta: pomodoro, melanzana, zucchino, cetriolo, fragola, agrumi, melo, piccoli frutti e ornamentali."
+     ]
+    ]
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Milbeknock",
+    "foto": "milbeknock",
+    "etichetta": "Dose · pomodoro, melanzana, cetriolo in serra",
+    "valore": "100–187 ml/hl",
+    "nota": "Massimo 1,875 l/ha · al massimo 2 interventi ogni 7–14 giorni · carenza 1 giorno",
+    "punti": [
+     "Zucchino (serra e campo): 125–250 ml/hl",
+     "Intervieni a inizio infestazione"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Come lavora",
+    "titolo": "Translaminare, <em>non sistemico.</em>",
+    "voci": [
+     [
+      "💧",
+      "Passa la foglia, non la pianta",
+      "Attraversa la foglia dove arriva, ma non viaggia verso le foglie nuove: serve una bagnatura completa e uniforme."
+     ],
+     [
+      "❄️",
+      "Lavora anche col freddo",
+      "L'etichetta dice che la sua azione non dipende dalla temperatura: si usa in tutte le stagioni."
+     ],
+     [
+      "🌅",
+      "Mattino presto o sera",
+      "Con umidità alta gli acari adulti si muovono meno e il prodotto li raggiunge meglio."
+     ]
+    ]
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Cambiare prodotto non sempre è alternare.",
+    "grande": "Milbeknock, Vertimec e Affirm sono tutti nel gruppo IRAC 6: alternarli fra loro è come usare sempre lo stesso prodotto.",
+    "piccolo": "Milbemectina, abamectina ed emamectina agiscono sullo stesso bersaglio nel sistema nervoso dell'acaro o dell'insetto. Gli individui che resistono a uno, resistono anche agli altri.",
+    "punti": [
+     "Per alternare davvero contro il ragnetto serve un gruppo IRAC diverso dal 6",
+     "L'eriofide rugginoso del pomodoro è lungo circa 0,2 mm: non lo vedi, vedi solo il fusto che diventa color bronzo. Quando lo noti, la popolazione è già alta"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti aiutiamo a impostare la rotazione degli acaricidi.",
+    "fonte": "Etichetta e classificazione IRAC."
+   }
+  ]
+ },
+ {
+  "id": "nealta",
+  "video": true,
+  "fito": true,
+  "colore": "blu",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Acari · ragnetto rosso",
+    "titolo": "Acari che non muoiono <em>più con niente?</em>",
+    "sotto": "Nealta: un meccanismo diverso, <span>gruppo IRAC 25A</span>, contro il ragnetto.",
+    "foto": "nealta",
+    "box": "Un solo trattamento, ma va usato bene. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Come lavora",
+    "titolo": "Toglie energia <em>all'acaro.</em>",
+    "voci": [
+     [
+      "⚡",
+      "Blocca la respirazione",
+      "Ferma il complesso II dei mitocondri: la cellula dell'acaro resta senza energia."
+     ],
+     [
+      "🕷️",
+      "Forme mobili",
+      "In etichetta agisce per contatto e ingestione, con grande efficacia sulle forme mobili."
+     ],
+     [
+      "🌧️",
+      "Tiene alla pioggia",
+      "Una volta asciutto, piogge e rugiade non ne riducono l'efficacia in modo significativo."
+     ]
+    ]
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Nealta",
+    "foto": "nealta",
+    "etichetta": "Dose · pomodoro e melanzana (serra e campo)",
+    "valore": "1 l/ha",
+    "nota": "1 trattamento ogni 2 anni · carenza 1 giorno",
+    "punti": [
+     "Stessa dose su agrumi, pomacee, drupacee e fragola",
+     "Acqua sufficiente a bagnare tutta la vegetazione"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "4 regole <em>per non bruciarlo.</em>",
+    "punti": [
+     "Intervieni a inizio infestazione, alla soglia di intervento",
+     "Non trattare se è prevista pioggia nell'ora successiva",
+     "In serra: ventila finché la vegetazione non è asciutta, poi rientra",
+     "Prima e dopo, usa acaricidi con un gruppo IRAC diverso"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Un trattamento ogni 2 anni. Non all'anno.",
+    "grande": "Su pomodoro e melanzana l'etichetta di Nealta permette 1 trattamento ogni 2 anni: è uno dei limiti più stretti tra gli acaricidi.",
+    "piccolo": "Il motivo è la resistenza: il ragnetto rosso fa una generazione in pochi giorni col caldo, e un meccanismo nuovo si brucia in fretta se lo si ripete.",
+    "punti": [
+     "Il cyflumetofen da solo è poco attivo: è l'acaro che, digerendolo, lo trasforma nella molecola che lo blocca (AB-1)",
+     "Per questo serve che l'acaro lo prenda: bagnatura completa, anche sotto le foglie"
+    ],
+    "chiusa": "Passa al banco di Studio 4: scegliamo insieme quando usarlo.",
+    "fonte": "Etichetta e studi sul cyflumetofen (Hayashi et al., 2013)."
+   }
+  ]
+ },
+ {
+  "id": "trebon",
+  "video": true,
+  "fito": true,
+  "colore": "arancio",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Insetti · frutta, orto, vite",
+    "titolo": "Cimici, nottue <em>e mosca della frutta?</em>",
+    "sotto": "Trebon UP: insetticida <span>per contatto e ingestione</span> a largo spettro.",
+    "foto": "trebon",
+    "box": "Dove si usa, dove no, e il limite che pochi conoscono. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Dove si usa",
+    "titolo": "Tante colture, <em>tanti insetti.</em>",
+    "voci": [
+     [
+      "🍑",
+      "Frutta",
+      "Agrumi, drupacee, melo e pero, kaki, actinidia, nocciolo: mosca, cicaline, tignole, cimice asiatica."
+     ],
+     [
+      "🥬",
+      "Orto in pieno campo",
+      "Lattughe, cavoli, cipolla, aglio, fagiolino, patata: nottue, miridi, tripidi, altiche."
+     ],
+     [
+      "🍇",
+      "Vite",
+      "Cicaline, tignole, metcalfa, tripidi e Popillia."
+     ]
+    ]
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Trebon UP",
+    "foto": "trebon",
+    "etichetta": "Dose · frutta e orticole",
+    "valore": "50 ml/hl",
+    "nota": "Orticole 500 ml/ha · frutta 500–750 ml/ha · non superare la dose a ettaro",
+    "punti": [
+     "Pomodoro: solo in pieno campo, 1 trattamento l'anno, carenza 3 giorni",
+     "Mai sulle colture in fioritura"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "3 cose <em>da sapere prima.</em>",
+    "punti": [
+     "Pomodoro in serra, peperone, melanzana e cucurbitacee non sono in etichetta",
+     "Non miscelarlo con prodotti a reazione alcalina",
+     "Pere a buccia liscia (Williams, Coscia, Santa Maria…): non trattare"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "La tuta può non sentire i piretroidi.",
+    "grande": "In molte popolazioni europee di Tuta absoluta sono state trovate mutazioni (kdr) che rendono i piretroidi molto meno efficaci.",
+    "piccolo": "L'etofenprox è nel gruppo IRAC 3A, come deltametrina e lambda-cialotrina: le mutazioni che proteggono la tuta da uno la proteggono anche dagli altri.",
+    "punti": [
+     "Passare da un piretroide all'altro non è alternare: per la tuta serve un gruppo IRAC diverso",
+     "L'etofenprox è un piretroide particolare (un etere, non un estere): ma il bersaglio nell'insetto è lo stesso"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti diciamo cosa usare su ogni insetto.",
+    "fonte": "Etichetta, IRAC e Haddi et al. (2012)."
+   }
+  ]
+ },
+ {
+  "id": "difecol",
+  "video": true,
+  "fito": true,
+  "colore": "azzurro",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Funghi · oidio e alternaria",
+    "titolo": "Oidio e alternaria <em>già partiti?</em>",
+    "sotto": "Difecol: fungicida sistemico <span>con azione curativa</span> e lunga persistenza.",
+    "foto": "difecol",
+    "box": "Dove si usa, la dose giusta e perché non va ridotta. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Dove si usa",
+    "titolo": "Orto, frutta <em>e vite.</em>",
+    "voci": [
+     [
+      "🍅",
+      "Pomodoro (serra e campo)",
+      "Oidio interno (Leveillula), alternaria, cladosporiosi, septoria."
+     ],
+     [
+      "🥒",
+      "Cetriolo (serra e campo)",
+      "Oidio e alternaria."
+     ],
+     [
+      "🍎",
+      "Frutta e vite",
+      "Ticchiolatura e oidio di melo e pero, bolla e monilia del pesco, oidio e black-rot della vite."
+     ]
+    ]
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Difecol",
+    "foto": "difecol",
+    "etichetta": "Dose · pomodoro (serra e campo)",
+    "valore": "40–50 ml/hl",
+    "nota": "0,4–0,5 l/ha · max 3 trattamenti ogni 7 giorni · carenza 3 gg in serra, 7 in campo",
+    "punti": [
+     "Cetriolo: 50 ml/hl, max 3 ogni 8 giorni da inizio fioritura, carenza 3 giorni",
+     "Peperone, melanzana e zucchino non sono in etichetta"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Il consiglio",
+    "titolo": "Come farlo <em>rendere.</em>",
+    "voci": [
+     [
+      "🔄",
+      "Alterna",
+      "È un triazolo, gruppo FRAC 3: alternalo con fungicidi di gruppi diversi."
+     ],
+     [
+      "📏",
+      "Conta l'ettaro",
+      "La dose a ettolitro è riferita a 1000 litri d'acqua: con meno acqua resta la dose a ettaro."
+     ],
+     [
+      "⛔",
+      "Massimo 3",
+      "Non superare il numero di trattamenti dell'etichetta."
+     ]
+    ]
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "L'oidio del pomodoro vive dentro la foglia.",
+    "grande": "La Leveillula cresce all'interno della foglia ed esce dagli stomi della pagina di sotto: un prodotto solo di contatto non la raggiunge.",
+    "piccolo": "Per questo servono un sistemico e una bagnatura che arrivi sotto la foglia. Le macchie gialle sopra sono il segno di un fungo che sta già sotto.",
+    "punti": [
+     "La resistenza ai triazoli non arriva di colpo: cresce un po' a ogni trattamento sottodosato. Ridurre la dose è il modo più veloce per perderli",
+     "Per questo la dose a ettaro va mantenuta anche quando si tratta con meno acqua"
+    ],
+    "chiusa": "Passa al banco di Studio 4: impostiamo insieme la difesa dall'oidio.",
+    "fonte": "Etichetta e FRAC."
+   }
+  ]
+ },
+ {
+  "id": "portento",
+  "video": true,
+  "fito": true,
+  "colore": "petrolio",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Funghi · biologico",
+    "titolo": "Oidio e botrite <em>che non mollano?</em>",
+    "sotto": "Portento SL: fungicida biologico <span>a base di Bacillus subtilis</span>, anche contro la peronospora.",
+    "foto": "portento",
+    "box": "Un batterio vivo che occupa il posto del fungo. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Come lavora",
+    "titolo": "Tre azioni <em>insieme.</em>",
+    "voci": [
+     [
+      "🦠",
+      "Occupa lo spazio",
+      "Il batterio colonizza la foglia e toglie al fungo spazio e nutrienti."
+     ],
+     [
+      "🧱",
+      "Rompe la membrana",
+      "Danneggia la membrana delle cellule del fungo."
+     ],
+     [
+      "🛡️",
+      "Sveglia la pianta",
+      "Attiva le difese della pianta (resistenza sistemica indotta)."
+     ]
+    ]
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Portento SL",
+    "foto": "portento",
+    "etichetta": "Dose · orticole, vite e frutta",
+    "valore": "1–3 l/ha",
+    "nota": "Ogni 5–7 giorni · in prevenzione · gruppo FRAC BM02",
+    "punti": [
+     "Botrite su pomodoro, melanzana, peperone; oidio su cetriolo e zucchino",
+     "Rientro in serra dopo 8 ore"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "4 dettagli <em>per farlo funzionare.</em>",
+    "punti": [
+     "Parti prima della malattia, quando il clima la favorisce",
+     "Porta l'acqua della botte a pH 5–7",
+     "Versalo con la botte già piena a metà, poi completa",
+     "In etichetta non è previsto un intervallo prima della raccolta"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "In ogni goccia ci sono batteri vivi.",
+    "grande": "A 2 litri per ettaro in 1.000 litri d'acqua, ogni millilitro di miscela porta circa 200.000 batteri vivi.",
+    "piccolo": "Il prodotto contiene almeno 100 milioni di UFC per ml. Non è una molecola che si consuma: è una popolazione che deve occupare la foglia prima del fungo.",
+    "punti": [
+     "I Bacillus subtilis producono lipopeptidi (iturine, fengicine) che bucano la membrana del fungo: è l'azione che l'etichetta descrive",
+     "Per questo lavora meglio in prevenzione: su una foglia già piena di muffa il batterio arriva tardi"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti aiutiamo a inserirlo nella difesa.",
+    "fonte": "Etichetta e letteratura sui Bacillus."
+   }
+  ]
+ },
+ {
+  "id": "sunred",
+  "video": true,
+  "fito": false,
+  "colore": "giallo",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Maturazione · colore",
+    "titolo": "Frutti che non prendono <em>colore?</em>",
+    "sotto": "Sunred: per <span>colorazione e maturazione uniforme</span> di orto e frutta.",
+    "foto": "sunred",
+    "box": "Perché d'inverno il frutto resta indietro. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Cosa fa",
+    "titolo": "Colore, zuccheri, <em>uniformità.</em>",
+    "voci": [
+     [
+      "🍅",
+      "Più colore",
+      "Aumenta la colorazione e uniforma la maturazione dei frutti."
+     ],
+     [
+      "🍬",
+      "Più grado zuccherino",
+      "Alza i °Brix senza togliere consistenza e conservabilità."
+     ],
+     [
+      "🌿",
+      "Cosa contiene",
+      "Concime organico NK (azoto 3%, potassio 7%) con estratti vegetali."
+     ]
+    ]
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Sunred",
+    "foto": "sunred",
+    "etichetta": "Dose · pomodoro e peperone",
+    "valore": "400–600 ml/hl",
+    "nota": "2 interventi: 12–10 e 6–5 giorni prima della raccolta",
+    "punti": [
+     "Con poca luce e freddo: fino a 800 ml/hl",
+     "Non con rame, oli minerali ed emulsioni"
+    ],
+    "fonte": "Da scheda tecnica del produttore."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Il consiglio",
+    "titolo": "Il colore <em>si costruisce prima.</em>",
+    "voci": [
+     [
+      "☀️",
+      "Luce",
+      "D'inverno le giornate corte rallentano la maturazione: è il momento della dose più alta."
+     ],
+     [
+      "🧂",
+      "Potassio",
+      "È l'elemento che il frutto accumula di più: se manca, la maturazione viene a chiazze."
+     ],
+     [
+      "🍇",
+      "Non solo orto",
+      "Si usa anche su uva, agrumi, frutta, olivo, fragola e fiori."
+     ]
+    ]
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Col troppo caldo il pomodoro resta arancione.",
+    "grande": "Sopra i 30–32 °C il pomodoro smette di fare licopene, il pigmento rosso: matura arancione anche se è pronto.",
+    "piccolo": "Il colore non è solo questione di luce: dipende da temperatura, potassio e da quanto zucchero arriva al frutto.",
+    "punti": [
+     "Il rosso del peperone viene da pigmenti (capsantina e capsorubina) che esistono solo nel genere Capsicum",
+     "Il potassio è il nutriente più abbondante nel frutto di pomodoro: carenze danno spalla gialla e maturazione a chiazze"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti aiutiamo a impostare la maturazione.",
+    "fonte": "Scheda tecnica e fisiologia vegetale."
+   }
+  ]
+ },
+ {
+  "id": "bioup",
+  "video": true,
+  "fito": false,
+  "colore": "viola",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Nutrizione · fioritura",
+    "titolo": "Piante che fioriscono <em>e non allegano?</em>",
+    "sotto": "Bioup TF: <span>boro e zinco</span> con estratti vegetali promotori della crescita.",
+    "foto": "bioup",
+    "box": "I due microelementi che la pianta chiede quando fiorisce. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Perché boro e zinco",
+    "titolo": "Due micro, <em>due lavori diversi.</em>",
+    "voci": [
+     [
+      "🌸",
+      "Boro (0,5%)",
+      "Serve al polline per far crescere il tubetto che porta alla fecondazione."
+     ],
+     [
+      "🧬",
+      "Zinco (1,6%)",
+      "La pianta lo usa per produrre l'auxina, l'ormone della crescita e dell'allegagione."
+     ],
+     [
+      "🌿",
+      "Estratti vegetali",
+      "Promotori della crescita: aiutano assorbimento, assimilazione e accumulo."
+     ]
+    ]
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Bioup TF",
+    "foto": "bioup",
+    "etichetta": "Dose · fertirrigazione",
+    "valore": "750 ml/ha",
+    "nota": "Massimo 2 trattamenti per ciclo, a circa 25 giorni",
+    "punti": [
+     "Fogliare su orticole: 600–700 g/ha",
+     "Consentito in agricoltura biologica"
+    ],
+    "fonte": "Da scheda tecnica (non dall'etichetta)."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "3 momenti <em>in cui serve.</em>",
+    "punti": [
+     "Prima della fioritura, per arrivarci con boro e zinco disponibili",
+     "Dopo freddo o terreno freddo, quando la radice assorbe poco",
+     "Su terreni calcarei, dove zinco e boro si bloccano"
+    ],
+    "fonte": "Da scheda tecnica."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Il boro sulla foglia non va al fiore nuovo.",
+    "grande": "In pomodoro, peperone e cetriolo il boro quasi non si muove nella linfa: quello dato sulla foglia resta lì e non raggiunge i fiori che nascono dopo.",
+    "piccolo": "Il fiore deve trovare boro quando si forma: per questo il boro va dato prima e con continuità, non a sintomo già visto.",
+    "punti": [
+     "Melo e pero sono un'eccezione: con il sorbitolo il boro viaggia nella linfa",
+     "Senza zinco la pianta produce meno triptofano, il mattone dell'auxina: internodi corti e foglie piccole sono il segnale"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti aiutiamo a impostare la nutrizione in fioritura.",
+    "fonte": "Scheda tecnica e fisiologia vegetale."
+   }
+  ]
+ },
+ {
+  "id": "kelp",
+  "video": true,
+  "fito": false,
+  "colore": "verde",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Radici · ripresa",
+    "titolo": "Pianta ferma dopo <em>trapianto o stress?</em>",
+    "sotto": "Basfoliar Kelp SL: estratto di alga <span>che spinge radici e ripresa.</span>",
+    "foto": "basfoliar_kelp",
+    "box": "Perché un'alga fa radicare. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Cosa fa",
+    "titolo": "Radici prima, <em>poi vegetazione.</em>",
+    "voci": [
+     [
+      "🌊",
+      "Alga Ecklonia maxima",
+      "Estratto puro, lavorato a freddo, con auxine e citochinine naturali."
+     ],
+     [
+      "🌱",
+      "Radici e vegetazione",
+      "Favorisce lo sviluppo delle radici e della parte aerea."
+     ],
+     [
+      "🔁",
+      "Dopo gli stress",
+      "Aiuta la pianta a ripartire dopo freddo, caldo, trapianto o grandine."
+     ]
+    ]
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Basfoliar Kelp SL",
+    "foto": "basfoliar_kelp",
+    "etichetta": "Dose · fertirrigazione, tutte le colture",
+    "valore": "7–10 l/ha",
+    "nota": "Fogliare: 0,2–1% · nelle ore più fresche",
+    "punti": [
+     "Subito dopo il trapianto, per far partire le radici",
+     "Non con zolfo, rame e solfato di calcio"
+    ],
+    "fonte": "Da etichetta e scheda tecnica."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "3 momenti <em>per usarlo.</em>",
+    "punti": [
+     "Al trapianto e nei giorni dopo, quando la pianta deve attecchire",
+     "Dopo un colpo di freddo o di caldo, per far ripartire la radice",
+     "In fogliare, nelle ore fresche, quando la radice lavora poco"
+    ],
+    "fonte": "Da etichetta e scheda tecnica."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "È il rapporto tra ormoni che fa le radici.",
+    "grande": "Nel Kelp ci sono 11 mg/l di auxine e 0,03 mg/l di citochinine: circa 370 parti di auxina per 1 di citochinina.",
+    "piccolo": "Quando l'auxina prevale sulla citochinina, la pianta fa radici; quando prevale la citochinina, fa germogli. È lo stesso principio usato in vivaio per radicare le talee.",
+    "punti": [
+     "Per questo l'alga si dà subito dopo il trapianto: in quel momento serve radice, non vegetazione",
+     "Le citochinine si formano soprattutto nelle radici e salgono alle foglie: finché la radice è ferma, anche la chioma riceve meno segnali di crescita"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti aiutiamo a impostare il dopo-trapianto.",
+    "fonte": "Etichetta e fisiologia vegetale."
+   }
+  ]
+ }
+]
