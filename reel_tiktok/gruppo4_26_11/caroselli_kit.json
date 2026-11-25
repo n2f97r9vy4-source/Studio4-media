@@ -1,0 +1,473 @@
+[
+ {
+  "id": "juvinal",
+  "video": true,
+  "fito": true,
+  "colore": "rosso",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Orticole e frutta · mosca bianca",
+    "titolo": "Mosca bianca <em>che torna sempre?</em>",
+    "sotto": "Juvinal Gold blocca <span>uova e neanidi: la nuova generazione non arriva.</span>",
+    "foto": "juvinal",
+    "box": "Perché colpire gli adulti non basta e come si usa. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Come lavora",
+    "titolo": "La ferma <em>prima che voli.</em>",
+    "voci": [
+     [
+      "🥚",
+      "Uova",
+      "Le uova deposte sulle foglie trattate in gran parte non si schiudono."
+     ],
+     [
+      "🐛",
+      "Neanidi",
+      "Non completano lo sviluppo: non diventano adulti e non fanno nuove uova."
+     ],
+     [
+      "🍃",
+      "Sotto la foglia",
+      "Penetra nella foglia e raggiunge le neanidi sulla pagina inferiore."
+     ]
+    ],
+    "chiusa": "In etichetta anche contro le cocciniglie di agrumi, olivo, pomacee, drupacee e kaki."
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Juvinal Gold",
+    "foto": "juvinal",
+    "etichetta": "Dose · orticole, mosche bianche",
+    "valore": "50–75 ml/hl",
+    "nota": "0,5–1,125 l/ha in 1.000–1.500 l d'acqua · carenza 3 giorni",
+    "punti": [
+     "1ª ai primi adulti, 2ª circa 2 settimane dopo: massimo 2 a stagione",
+     "Si usa da solo, senza miscele",
+     "Pomodoro e melanzana campo e serra; peperone, cetriolo e zucchino solo serra"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "3 cose <em>che fanno la differenza.</em>",
+    "punti": [
+     "Parti ai primi adulti, non quando le foglie sono già piene di neanidi",
+     "Bagna bene la pagina inferiore: è lì che stanno uova e neanidi",
+     "Per gli adulti già in volo serve un insetticida di un altro gruppo IRAC"
+    ]
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Vedi ancora adulti? Non ha fallito.",
+    "grande": "Non uccide gli adulti: li lascia volare, ma la loro discendenza non arriva a maturità.",
+    "piccolo": "È un regolatore di crescita (IRAC 7C): imita l'ormone giovanile, quello che tiene l'insetto allo stadio giovane. La neanide muore quando dovrebbe diventare adulta.",
+    "punti": [
+     "Le femmine che vengono a contatto con il prodotto depongono uova che in buona parte non si schiudono",
+     "In Spagna e Israele sono già state trovate mosche bianche resistenti al piriprossifen: il limite di 2 trattamenti a stagione serve anche a tenerlo efficace"
+    ],
+    "chiusa": "Passa al banco di Studio 4: impostiamo insieme la rotazione contro la mosca bianca.",
+    "fonte": "Etichetta e letteratura tecnica."
+   }
+  ]
+ },
+ {
+  "id": "vivando",
+  "video": true,
+  "fito": true,
+  "colore": "oliva",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Orticole e vite · oidio",
+    "titolo": "Oidio che <em>torna sempre?</em>",
+    "sotto": "Vivando: un meccanismo <span>diverso dai soliti.</span>",
+    "foto": "vivando",
+    "box": "Come lavora, la dose e cosa devi sapere sul gruppo FRAC 50. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Come lavora",
+    "titolo": "Blocca il fungo <em>dall'interno.</em>",
+    "voci": [
+     [
+      "🦠",
+      "Colpisce lo scheletro della cellula",
+      "Agisce sull'actina del fungo: le ife si deformano e si formano meno spore."
+     ],
+     [
+      "🌬️",
+      "Si ridistribuisce",
+      "Passa attraverso la foglia e si muove anche come vapore verso le zone vicine."
+     ],
+     [
+      "🛡️",
+      "Preventivo",
+      "L'etichetta lo indica in via preventiva, nei periodi critici per l'oidio."
+     ]
+    ]
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Vivando",
+    "foto": "vivando",
+    "etichetta": "Dose · pomodoro, peperone, melanzana",
+    "valore": "30 ml/hl",
+    "nota": "0,3 l/ha · ogni 7–10 giorni · massimo 2 all'anno · carenza 3 giorni",
+    "punti": [
+     "Zucchino, cetriolo, melone e cocomero: 20 ml/hl (0,2 l/ha)",
+     "Peperone e melanzana solo in serra",
+     "Consigliati 10 ettolitri d'acqua a ettaro"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "In botte",
+    "titolo": "3 regole <em>dall'etichetta.</em>",
+    "punti": [
+     "Non miscelarlo con alcuni prodotti a base di acido gibberellico: risulta incompatibile",
+     "Con zolfo, metiram, cimoxanil, fosetil-alluminio e folpet prepara la miscela con l'agitatore sempre acceso",
+     "Usalo in un programma che alterna meccanismi d'azione diversi"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Nel gruppo FRAC 50 ci sono due sostanze.",
+    "grande": "Metrafenone e pyriofenone lavorano allo stesso modo: passare dall'uno all'altro non è alternare.",
+    "piccolo": "Il rischio di resistenza del gruppo FRAC 50 è classificato medio.",
+    "punti": [
+     "In Nord Italia sono già stati trovati ceppi di oidio della vite resistenti al metrafenone (studio pubblicato nel 2016)",
+     "Non ha resistenza incrociata con triazoli (FRAC 3) e strobilurine (FRAC 11): per questo è prezioso in rotazione dove quei gruppi sono stati usati molto"
+    ],
+    "chiusa": "Passa al banco di Studio 4: impostiamo insieme la rotazione antioidio.",
+    "fonte": "Etichetta, FRAC e letteratura tecnica."
+   }
+  ]
+ },
+ {
+  "id": "nop",
+  "video": true,
+  "fito": false,
+  "colore": "verde",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Orticole · ingrossamento",
+    "titolo": "Frutti che non <em>ingrossano e non colorano?</em>",
+    "sotto": "Hortipray NOP 13-0-46: <span>potassio e azoto nitrico, subito pronti.</span>",
+    "foto": "nop",
+    "box": "Cosa fa il potassio nel frutto e quando serve davvero. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Cosa fa",
+    "titolo": "Due nutrienti, <em>tutti e due pronti.</em>",
+    "voci": [
+     [
+      "🍅",
+      "Potassio (46%)",
+      "Porta zuccheri e acqua verso il frutto: pezzatura, colore e sapore."
+     ],
+     [
+      "💧",
+      "Acqua nelle cellule",
+      "Regola gli stomi e il turgore: la pianta regge meglio caldo e sbalzi."
+     ],
+     [
+      "❄️",
+      "Azoto tutto nitrico (13%)",
+      "Non deve essere trasformato nel terreno: la radice lo prende subito, anche col terreno freddo."
+     ]
+    ]
+   },
+   {
+    "tipo": "grande",
+    "tag": "Cosa c'è nel sacco",
+    "titolo": "Hortipray NOP",
+    "etichetta": "Titolo",
+    "valore": "13 – 0 – 46",
+    "nota": "Azoto nitrico 13,7% · potassio (K₂O) 46,2% · polvere solubile",
+    "punti": [
+     "Per la fertirrigazione, da allegagione a maturazione",
+     "È comburente: tienilo lontano da gasolio, paglia e materiali che bruciano"
+    ],
+    "chiusa": "Il sacco non riporta dosi: la quantità la impostiamo al banco sul tuo piano di fertirrigazione.",
+    "fonte": "Da etichetta del sacco."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "Quando <em>serve davvero.</em>",
+    "punti": [
+     "Dall'allegagione alla raccolta, quando il frutto chiede più potassio",
+     "D'inverno, quando il terreno freddo rallenta l'azoto ammoniacale",
+     "Senza esagerare: troppo potassio frena l'assorbimento di calcio e magnesio"
+    ]
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Il frutto vuole più potassio che azoto.",
+    "grande": "Per ogni tonnellata di pomodori la pianta porta via circa 4–5 kg di potassio (K₂O), contro 2,5–3 kg di azoto.",
+    "piccolo": "E quasi tutto finisce nel frutto, nella fase di ingrossamento.",
+    "punti": [
+     "A parità di potassio, il cloruro di potassio sala la soluzione molto di più: indice salino 116 contro 74 del nitrato",
+     "Troppo potassio blocca calcio e magnesio: foglie basse gialle tra le nervature e marciume apicale anche con calcio nel terreno"
+    ],
+    "chiusa": "Passa al banco di Studio 4: calcoliamo insieme il potassio per la tua serra.",
+    "fonte": "Agronomia e letteratura tecnica."
+   }
+  ]
+ },
+ {
+  "id": "mkp",
+  "video": true,
+  "fito": false,
+  "colore": "blu",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Orticole · fioritura e allegagione",
+    "titolo": "Pianta che va <em>solo in foglia?</em>",
+    "sotto": "Hortipray MKP 0-52-34: <span>fosforo e potassio, zero azoto.</span>",
+    "foto": "mkp",
+    "box": "Come spingere fiori e frutti senza spingere la vegetazione. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Cosa fa",
+    "titolo": "Fiori e frutti, <em>non foglie.</em>",
+    "voci": [
+     [
+      "🌸",
+      "Fosforo (52%)",
+      "È l'energia della pianta: serve a radici, fioritura e allegagione."
+     ],
+     [
+      "🍅",
+      "Potassio (34%)",
+      "Accompagna ingrossamento e maturazione dei frutti."
+     ],
+     [
+      "🚫",
+      "Zero azoto",
+      "Nutre fiori e frutti senza far allungare la pianta."
+     ]
+    ]
+   },
+   {
+    "tipo": "grande",
+    "tag": "Cosa c'è nel sacco",
+    "titolo": "Hortipray MKP",
+    "etichetta": "Titolo",
+    "valore": "0 – 52 – 34",
+    "nota": "Fosfato monopotassico · fosforo (P₂O₅) 52% · potassio (K₂O) 34%",
+    "punti": [
+     "Fertirrigazione e fogliare: bassa salinità",
+     "Reazione leggermente acida (circa pH 4,5 all'1%)"
+    ],
+    "chiusa": "Il sacco non riporta dosi: la quantità la impostiamo al banco sul tuo piano di fertirrigazione.",
+    "fonte": "Da scheda tecnica del fosfato monopotassico."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "Quando <em>usarlo.</em>",
+    "punti": [
+     "In fioritura e allegagione, quando la pianta deve legare e non allungarsi",
+     "Con piante troppo vigorose: dà fosforo e potassio senza aggiungere azoto",
+     "Mai nella stessa vasca madre con nitrato di calcio o magnesio concentrato: si forma un fosfato che intasa i gocciolatori"
+    ]
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Foglie viola d'inverno? Il fosforo spesso c'è.",
+    "grande": "Con il terreno freddo la radice assorbe poco fosforo: la pianta va in carenza anche se nel terreno ce n'è.",
+    "piccolo": "Il viola viene dagli antociani che la foglia accumula quando il fosforo non le arriva.",
+    "punti": [
+     "Nel terreno il fosforo si sposta di pochi millimetri: la radice prende solo quello che ha vicino",
+     "Per questo in fertirrigazione conviene portarlo dove ci sono le radici attive, a piccole dosi frequenti"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti aiutiamo a impostare la fertirrigazione in fioritura.",
+    "fonte": "Fisiologia vegetale."
+   }
+  ]
+ },
+ {
+  "id": "pekacid",
+  "video": true,
+  "fito": false,
+  "colore": "indaco",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Fertirrigazione · acqua dura",
+    "titolo": "Gocciolatori intasati <em>e acqua dura?</em>",
+    "sotto": "Nova PeKacid 0-60-20: <span>fosforo e potassio che acidificano l'acqua.</span>",
+    "foto": "pekacid",
+    "box": "Come abbassare il pH con un concime solido. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Come lavora",
+    "titolo": "Concime e acido <em>nello stesso sacco.</em>",
+    "voci": [
+     [
+      "🧪",
+      "Acidifica",
+      "Neutralizza i bicarbonati dell'acqua e abbassa il pH della soluzione."
+     ],
+     [
+      "🚿",
+      "Pulisce l'impianto",
+      "Aiuta a tenere puliti tubi e gocciolatori."
+     ],
+     [
+      "🧱",
+      "È solido",
+      "Fa il lavoro dell'acido fosforico liquido, ma è un concime in polvere: fosforo 60%, potassio 20%."
+     ]
+    ]
+   },
+   {
+    "tipo": "grande",
+    "tag": "Quanto ne serve",
+    "titolo": "Nova PeKacid",
+    "etichetta": "Per neutralizzare 1 meq/l di bicarbonati",
+    "valore": "0,24 g/l",
+    "nota": "Es. acqua con 5,8 meq/l: circa 1,15 g/l nella soluzione finale (pH da 7 a 5,6)",
+    "punti": [
+     "Soluzione madre: 10–15 kg in 100 litri d'acqua",
+     "La dose si calcola sull'analisi dell'acqua"
+    ],
+    "fonte": "Da scheda tecnica."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "Come <em>usarlo bene.</em>",
+    "punti": [
+     "Prima fai analizzare l'acqua: la dose dipende dai bicarbonati",
+     "Lascia circa 1 meq/l di bicarbonati: fanno da tampone e il pH non crolla",
+     "Si può miscelare con calcio e magnesio senza precipitati: fosforo e calcio nella stessa vasca"
+    ],
+    "fonte": "Da scheda tecnica."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Il pH dell'acqua non dice quanto acido serve.",
+    "grande": "Due acque a pH 7,5 possono chiedere dosi molto diverse: conta quanti bicarbonati hanno.",
+    "piccolo": "Il pH misura quanto è alcalina l'acqua ora; i bicarbonati sono la riserva che si oppone all'acido.",
+    "punti": [
+     "Sull'analisi i bicarbonati sono spesso in mg/l: dividi per 61 e hai i meq/l",
+     "Di solito fosforo e calcio insieme precipitano: qui no, perché la soluzione resta acida e il fosfato di calcio non si forma"
+    ],
+    "chiusa": "Porta l'analisi dell'acqua al banco di Studio 4: calcoliamo insieme la dose.",
+    "fonte": "Scheda tecnica e chimica dell'acqua."
+   }
+  ]
+ },
+ {
+  "id": "phcontrol",
+  "video": true,
+  "fito": false,
+  "colore": "magenta",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "In botte · tutte le colture",
+    "titolo": "Trattamenti <em>che rendono poco?</em>",
+    "sotto": "Spesso il problema è l'acqua. pH Control <span>la porta al pH giusto e te lo fa vedere.</span>",
+    "foto": "phcontrol",
+    "box": "Il colore ti dice quando fermarti. Scorri."
+   },
+   {
+    "tipo": "scala",
+    "tag": "Leggi il colore",
+    "titolo": "Il pH <em>si vede.</em>",
+    "righe": [
+     [
+      "#7B1FA2",
+      "pH 4",
+      "viola"
+     ],
+     [
+      "#D81B60",
+      "pH 4,5",
+      "fucsia"
+     ],
+     [
+      "#F57C00",
+      "pH 5",
+      "arancio"
+     ],
+     [
+      "#C99A2E",
+      "pH 5,5",
+      "ocra"
+     ],
+     [
+      "#F2DC3A",
+      "pH 6",
+      "giallo limone: fermati qui"
+     ],
+     [
+      "#F6EFB0",
+      "pH 7",
+      "giallo chiaro"
+     ]
+    ],
+    "fonte": "Da scheda tecnica."
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "pH Control",
+    "foto": "phcontrol",
+    "etichetta": "Dose · tutte le colture",
+    "valore": "70–100 ml/hl",
+    "nota": "In genere, per arrivare a pH 6: dipende dalla durezza dell'acqua",
+    "punti": [
+     "Va in botte per primo, prima degli altri prodotti",
+     "Aggiungilo piano, agitando, fino al giallo limone"
+    ],
+    "fonte": "Da scheda tecnica."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Cosa fa",
+    "titolo": "Cosa fa <em>in botte.</em>",
+    "punti": [
+     "Acidifica la miscela: utile con agrofarmaci, acido gibberellico e concimi fogliari",
+     "Migliora bagnatura e adesione sulla foglia",
+     "Contiene azoto (4%) e fosforo (16%): è un concime NP"
+    ],
+    "fonte": "Da scheda tecnica."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Un punto di pH vale dieci volte.",
+    "grande": "Per le sostanze che si rompono in acqua alcalina, passare da pH 7 a pH 8 rende la rottura circa 10 volte più veloce.",
+    "piccolo": "La botte preparata e lasciata ferma, magari al sole, è il momento in cui si perde efficacia.",
+    "punti": [
+     "Il pH dice quanto è alcalina l'acqua, la durezza quanto acido serve per correggerla: per questo la dose cambia da pozzo a pozzo",
+     "Con i rameici non scendere più del necessario: più l'acqua è acida, più rame si scioglie e più cresce il rischio di bruciature"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti aiutiamo a leggere l'acqua del tuo pozzo.",
+    "fonte": "Scheda tecnica e chimica dell'acqua."
+   }
+  ]
+ }
+]
