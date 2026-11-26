@@ -8,11 +8,11 @@
   "slide": [
    {
     "tipo": "copertina",
-    "tag": "Orticole e frutta · mosca bianca",
-    "titolo": "Mosca bianca <em>che torna sempre?</em>",
+    "tag": "Pomodoro · mosca bianca",
+    "titolo": "Mosca bianca <em>sul pomodoro?</em>",
     "sotto": "Juvinal Gold blocca <span>uova e neanidi: la nuova generazione non arriva.</span>",
     "foto": "juvinal",
-    "box": "Perché colpire gli adulti non basta e come si usa. Scorri."
+    "box": "Sul pomodoro porta anche il virus dell'accartocciamento giallo. Come fermarla, scorri."
    },
    {
     "tipo": "schede",
@@ -42,13 +42,13 @@
     "tag": "Quando e quanto",
     "titolo": "Juvinal Gold",
     "foto": "juvinal",
-    "etichetta": "Dose · orticole, mosche bianche",
+    "etichetta": "Dose · pomodoro, mosche bianche",
     "valore": "50–75 ml/hl",
-    "nota": "0,5–1,125 l/ha in 1.000–1.500 l d'acqua · carenza 3 giorni",
+    "nota": "0,5–1,125 l/ha in 1.000–1.500 l d'acqua · campo e serra · carenza 3 giorni",
     "punti": [
      "1ª ai primi adulti, 2ª circa 2 settimane dopo: massimo 2 a stagione",
      "Si usa da solo, senza miscele",
-     "Pomodoro e melanzana campo e serra; peperone, cetriolo e zucchino solo serra"
+     "Stessa dose su melanzana; su peperone, cetriolo e zucchino solo in serra"
     ],
     "fonte": "Da etichetta."
    },
@@ -85,8 +85,8 @@
   "slide": [
    {
     "tipo": "copertina",
-    "tag": "Orticole e vite · oidio",
-    "titolo": "Oidio che <em>torna sempre?</em>",
+    "tag": "Zucchina · oidio",
+    "titolo": "Oidio <em>sulla zucchina?</em>",
     "sotto": "Vivando: un meccanismo <span>diverso dai soliti.</span>",
     "foto": "vivando",
     "box": "Come lavora, la dose e cosa devi sapere sul gruppo FRAC 50. Scorri."
@@ -118,12 +118,12 @@
     "tag": "Quando e quanto",
     "titolo": "Vivando",
     "foto": "vivando",
-    "etichetta": "Dose · pomodoro, peperone, melanzana",
-    "valore": "30 ml/hl",
-    "nota": "0,3 l/ha · ogni 7–10 giorni · massimo 2 all'anno · carenza 3 giorni",
+    "etichetta": "Dose · zucchina e cetriolo",
+    "valore": "20 ml/hl",
+    "nota": "0,2 l/ha · campo e serra · ogni 7–10 giorni · massimo 2 all'anno · carenza 3 giorni",
     "punti": [
-     "Zucchino, cetriolo, melone e cocomero: 20 ml/hl (0,2 l/ha)",
-     "Peperone e melanzana solo in serra",
+     "Melone e cocomero: stessa dose",
+     "Pomodoro 30 ml/hl; peperone e melanzana 30 ml/hl solo in serra",
      "Consigliati 10 ettolitri d'acqua a ettaro"
     ],
     "fonte": "Da etichetta."
@@ -162,8 +162,8 @@
   "slide": [
    {
     "tipo": "copertina",
-    "tag": "Orticole · ingrossamento",
-    "titolo": "Frutti che non <em>ingrossano e non colorano?</em>",
+    "tag": "Pomodoro · ingrossamento",
+    "titolo": "Pomodori piccoli <em>e poco colorati?</em>",
     "sotto": "Hortipray NOP 13-0-46: <span>potassio e azoto nitrico, subito pronti.</span>",
     "foto": "nop",
     "box": "Cosa fa il potassio nel frutto e quando serve davvero. Scorri."
@@ -191,18 +191,18 @@
     ]
    },
    {
-    "tipo": "grande",
-    "tag": "Cosa c'è nel sacco",
+    "tipo": "dose",
+    "tag": "Quanto e come",
     "titolo": "Hortipray NOP",
-    "etichetta": "Titolo",
-    "valore": "13 – 0 – 46",
-    "nota": "Azoto nitrico 13,7% · potassio (K₂O) 46,2% · polvere solubile",
+    "foto": "nop",
+    "etichetta": "Dose · orticole in fertirrigazione",
+    "valore": "300–400 kg/ha",
+    "nota": "In 3–4 applicazioni nel ciclo · azoto nitrico 13,7%, potassio (K₂O) 46,2%",
     "punti": [
-     "Per la fertirrigazione, da allegagione a maturazione",
+     "Da allegagione a maturazione",
      "È comburente: tienilo lontano da gasolio, paglia e materiali che bruciano"
     ],
-    "chiusa": "Il sacco non riporta dosi: la quantità la impostiamo al banco sul tuo piano di fertirrigazione.",
-    "fonte": "Da etichetta del sacco."
+    "fonte": "Da scheda tecnica (nitrato di potassio)."
    },
    {
     "tipo": "elenco",
@@ -237,8 +237,8 @@
   "slide": [
    {
     "tipo": "copertina",
-    "tag": "Orticole · fioritura e allegagione",
-    "titolo": "Pianta che va <em>solo in foglia?</em>",
+    "tag": "Peperone · fioritura e allegagione",
+    "titolo": "Peperone che va <em>solo in foglia?</em>",
     "sotto": "Hortipray MKP 0-52-34: <span>fosforo e potassio, zero azoto.</span>",
     "foto": "mkp",
     "box": "Come spingere fiori e frutti senza spingere la vegetazione. Scorri."
@@ -312,7 +312,7 @@
   "slide": [
    {
     "tipo": "copertina",
-    "tag": "Fertirrigazione · acqua dura",
+    "tag": "Orticole in serra · fertirrigazione",
     "titolo": "Gocciolatori intasati <em>e acqua dura?</em>",
     "sotto": "Nova PeKacid 0-60-20: <span>fosforo e potassio che acidificano l'acqua.</span>",
     "foto": "pekacid",
@@ -387,8 +387,8 @@
   "slide": [
    {
     "tipo": "copertina",
-    "tag": "In botte · tutte le colture",
-    "titolo": "Trattamenti <em>che rendono poco?</em>",
+    "tag": "Melanzana · in botte",
+    "titolo": "Trattamenti sulla melanzana <em>che rendono poco?</em>",
     "sotto": "Spesso il problema è l'acqua. pH Control <span>la porta al pH giusto e te lo fa vedere.</span>",
     "foto": "phcontrol",
     "box": "Il colore ti dice quando fermarti. Scorri."
