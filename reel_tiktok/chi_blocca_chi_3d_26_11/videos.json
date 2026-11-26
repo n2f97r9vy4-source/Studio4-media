@@ -1,0 +1,25 @@
+[
+{"id":"1_fosforo","pal":"viola","num":"1/6","h":"Zinco e ferro che mancano?<br><em>Forse è troppo fosforo</em>","bully":"P","v":["Zn","Fe"],"lines":[
+ ["P","Sono il fosforo. Hai esagerato con me!"],
+ ["Zn","Sono lo zinco. Il fosforo mi blocca, e la pianta resta bassa, con le foglie piccole."],
+ ["Fe","Sono il ferro. Il fosforo blocca anche me, e le foglie giovani diventano gialle."]]},
+{"id":"2_potassio","pal":"arancio","num":"2/6","h":"Calcio e magnesio che mancano?<br><em>Forse è troppo potassio</em>","bully":"K","v":["Ca","Mg"],"lines":[
+ ["K","Sono il potassio. Hai esagerato con me!"],
+ ["Ca","Sono il calcio. Il potassio mi blocca, e sui frutti arriva il marciume apicale."],
+ ["Mg","Sono il magnesio. Il potassio blocca anche me, e le foglie basse diventano gialle."]]},
+{"id":"3_ammonio","pal":"blu","num":"3/6","h":"Potassio e magnesio che mancano?<br><em>Forse è troppo ammonio</em>","bully":"N","v":["K","Mg"],"nh4":true,"lines":[
+ ["N","Sono l'azoto ammoniacale. Hai esagerato con me!"],
+ ["K","Sono il potassio. L'ammonio mi blocca, e i frutti colorano male."],
+ ["Mg","Sono il magnesio. L'ammonio blocca anche me, e le foglie basse diventano gialle."]]},
+{"id":"4_calcio","pal":"marrone","num":"4/6","h":"Foglie giovani gialle?<br><em>Forse è troppo calcio</em>","bully":"Ca","v":["Fe","Mn"],"lines":[
+ ["Ca","Sono il calcio. Nei terreni calcarei sono troppo!"],
+ ["Fe","Sono il ferro. Il calcio mi blocca, e le foglie giovani diventano gialle."],
+ ["Mn","Sono il manganese. Il calcio blocca anche me, e sulle foglie spuntano macchie gialle."]]},
+{"id":"5_magnesio","pal":"verde","num":"5/6","h":"Calcio e potassio che mancano?<br><em>Forse è troppo magnesio</em>","bully":"Mg","v":["Ca","K"],"lines":[
+ ["Mg","Sono il magnesio. Hai esagerato con me!"],
+ ["Ca","Sono il calcio. Il magnesio mi blocca, e le punte delle foglie nuove si bruciano."],
+ ["K","Sono il potassio. Il magnesio blocca anche me, e i bordi delle foglie vecchie si seccano."]]},
+{"id":"6_zolfo","pal":"giallo","num":"6/6","h":"Molibdeno che manca?<br><em>Forse è troppo zolfo</em>","bully":"S","v":["Mo"],"lines":[
+ ["S","Sono lo zolfo. Hai esagerato con me, e il terreno è diventato acido!"],
+ ["Mo","Sono il molibdeno. Lo zolfo mi blocca, e la pianta non riesce a usare i nitrati: le foglie restano pallide."]]}
+]
