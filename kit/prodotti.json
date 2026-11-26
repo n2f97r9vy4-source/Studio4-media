@@ -453,5 +453,63 @@
    "dà vigoria alla parte aerea: nuovi rami, foglie e fiori"
   ],
   "foto": "rigor"
+ },
+ "fengib": {
+  "nome": "Fengib",
+  "tipo": "fitoregolatore (acido gibberellico GA3 0,5% + MCPA estere tioetilico 1%)",
+  "reg": "14582",
+  "fonte": "etichetta",
+  "dosi": [
+   "30–40 ml/hl",
+   "30–50 ml/hl"
+  ],
+  "fatti": [
+   "pomodoro: solo sui grappoli fiorali a inizio fioritura; carenza 20 giorni; etichetta D.D. 25/05/2026",
+   "acqua 5–10 hl/ha (scheda tecnica)",
+   "melanzana e peperone: 30–50 ml/hl, 1° a inizio fioritura, 2° dopo 10 giorni, 5–10 hl/ha, carenza 20 giorni (scheda tecnica produttore e schede distributori; da confermare sul PDF del Ministero)"
+  ],
+  "foto": "fengib"
+ },
+ "fortezza": {
+  "nome": "Fortezza",
+  "tipo": "insetticida-acaricida (abamectina 18 g/l, concentrato emulsionabile, IRAC 6)",
+  "reg": "15119",
+  "fonte": "etichetta",
+  "dosi": [
+   "60 ml/hl",
+   "75 ml/hl",
+   "0,3–1,2 l/ha",
+   "0,75–1,2 l/ha"
+  ],
+  "fatti": [
+   "etichetta D.D. 07/03/2025, valida dal 07/10/2026; solo serre permanenti ed endoterapia",
+   "pomodoro, peperone, melanzana, cetriolo, melone: ragnetto rosso ed eriofide 60 ml/hl (0,3–1,2 l/ha); larve di tripide 75 ml/hl (0,75–1,2 l/ha); minatrici 60 ml/hl (0,3–1,2 l/ha) in 2 applicazioni ogni 7–10 giorni",
+   "carenza 3 giorni melone, cetriolo, peperone; 7 giorni pomodoro, melanzana, fragola",
+   "consigliati non più di 2 interventi per ciclo colturale; non più di 2 volte in successione",
+   "bombi: colonie chiuse e coperte durante il trattamento, serra chiusa 24 ore; non in fioritura né nei 10 giorni precedenti",
+   "non ha in etichetta zucchino, cocomero, zucca, lattughe; nessun limite novembre–febbraio"
+  ],
+  "foto": "fortezza"
+ },
+ "vertimec": {
+  "nome": "Vertimec EC",
+  "tipo": "insetticida-acaricida (abamectina 18 g/l, concentrato emulsionabile, IRAC 6)",
+  "reg": "8795",
+  "fonte": "etichetta",
+  "dosi": [
+   "60 ml/hl",
+   "75 ml/hl",
+   "0,3–1,2 l/ha",
+   "0,75–1,2 l/ha"
+  ],
+  "fatti": [
+   "etichetta D.D. 04/09/2023, valida dal 03/01/2024; solo serre permanenti ed endoterapia",
+   "pomodoro, peperone, melanzana, cetriolo, zucchino, melone, cocomero, zucca: ragnetto rosso ed eriofide 60 ml/hl (0,3–1,2 l/ha); larve di tripide 75 ml/hl (0,75–1,2 l/ha); minatrici 60 ml/hl (0,3–1,2 l/ha) in 2 applicazioni ogni 7–10 giorni",
+   "max 2 applicazioni l'anno su pomodoro, peperone, cetriolo, zucchino, fragola; max 3 su melanzana, melone, cocomero, zucca",
+   "non da novembre a febbraio su peperone, cetriolo, zucchino, melone, cocomero, zucca, fragola, lattughe e baby leaf",
+   "carenza 3 giorni melanzana, peperone, melone, cocomero, zucca, cetriolo, zucchino, fragola; 7 giorni pomodoro; 14 giorni lattughe e baby leaf",
+   "impollinatori: in serra 4 giorni prima del rientro; non al momento della fioritura"
+  ],
+  "foto": "vertimec"
  }
 }
