@@ -1,0 +1,183 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:P;src:url(Poppins-Medium.ttf);font-weight:500}
+@font-face{font-family:P;src:url(Poppins-Bold.ttf);font-weight:700}
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1920px;overflow:hidden;font-family:P,sans-serif}
+#bg{position:absolute;inset:0}
+.tag{position:absolute;top:120px;left:70px;font-size:26px;font-weight:700;letter-spacing:3px;text-transform:uppercase}
+.tag i{display:inline-block;width:14px;height:14px;border-radius:50%;margin-right:14px;vertical-align:2px}
+.logo{position:absolute;top:108px;right:150px;width:180px}
+.num{position:absolute;top:118px;right:70px;font-size:28px;font-weight:700;color:#1B9A4B;width:70px;text-align:right}
+#title{position:absolute;top:180px;left:70px;right:70px}
+h1{font-size:64px;line-height:1.06;font-weight:700;letter-spacing:-2px;color:var(--dk)}
+h1 em{font-style:normal;color:var(--ac)}
+#stage{position:absolute;left:50px;right:50px;top:370px;height:960px;border-radius:44px;overflow:hidden;box-shadow:0 18px 50px rgba(0,0,0,.18)}
+#sub{position:absolute;left:60px;right:60px;top:1360px;background:#fff;border-radius:32px;padding:26px 36px;box-shadow:0 14px 40px rgba(0,0,0,.10);min-height:190px}
+#sub .who{font-size:24px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:var(--ac)}
+#sub .tx{font-size:42px;font-weight:700;line-height:1.2;color:var(--dk);margin-top:6px}
+#end{position:absolute;left:50px;right:50px;top:400px;display:none}
+.card{background:#fff;border-radius:32px;padding:28px 36px;box-shadow:0 14px 40px rgba(0,0,0,.09);margin-bottom:22px;display:flex;gap:24px}
+.card b{font-size:46px;color:var(--ac);font-weight:700;line-height:1.1}
+.card span{font-size:38px;font-weight:700;line-height:1.28;color:var(--dk)}
+.lab{font-size:28px;font-weight:700;letter-spacing:3px;color:var(--ac);text-transform:uppercase;margin:0 0 18px 10px}
+.cta{background:var(--dk);color:#fff;border-radius:32px;padding:34px 38px;font-size:42px;font-weight:700;line-height:1.25}
+.cta em{font-style:normal;color:#9FE6B8}
+</style></head><body>
+<div id="bg"></div>
+<div class="tag" id="tag"><i id="dot"></i><span id="tagt"></span></div>
+<img class="logo" src="logo_s4.png"><div class="num" id="num"></div>
+<div id="title"><h1 id="h1"></h1></div>
+<div id="stage"><svg id="svg" width="980" height="960" viewBox="0 0 980 960"></svg></div>
+<div id="sub"><div class="who" id="who"></div><div class="tx" id="tx"></div></div>
+<div id="end">
+ <div class="lab">Lo sapevi?</div>
+ <div class="card" id="c1"><b>1</b><span>Una carenza non vuol dire che il nutriente manca: spesso c’è, ma è <em style="font-style:normal;color:var(--ac)">bloccato da un altro</em>.</span></div>
+ <div class="card" id="c2"><b>2</b><span>Il potassio in eccesso frena il magnesio più ancora del calcio: in fertirrigazione guarda il rapporto potassio/magnesio.</span></div>
+ <div class="card" id="c3"><b>3</b><span>Il ferro non si sposta dalle foglie vecchie: per questo il blocco si vede prima sulle foglie giovani.</span></div>
+ <div class="cta" id="cta">Passa al banco di <em>Studio 4</em>: guardiamo insieme le analisi del tuo terreno e dell’acqua.</div>
+</div>
+<script>
+const TL = __TL__;
+const NAMES={P:'Fosforo',K:'Potassio',N:'Azoto ammoniacale',Ca:'Calcio',Mg:'Magnesio',S:'Zolfo',Zn:'Zinco',Fe:'Ferro',Mn:'Manganese',Mo:'Molibdeno',nar:'Studio 4'};
+// colori personaggio: base, scuro, chiaro
+const COL={P:['#7B3FB0','#3E1A63','#B58BE0'],K:['#F08A1C','#9A4A05','#FFC266'],N:['#2F7FD8','#123E78','#8CC4FF'],
+ Ca:['#E9E2D3','#9C907A','#FFFFFF'],Mg:['#2FA866','#11552F','#8EE3B0'],S:['#F2CF2E','#9A7A05','#FFF08A'],
+ Zn:['#8FA3B5','#41566A','#D7E3EE'],Fe:['#B5442A','#5E1A0C','#E8836A'],Mn:['#6B5E78','#2E2538','#A99BB8'],Mo:['#5FA8B8','#215663','#B5E6EF']};
+// sfondo kit per scena (accento, scuro, bg1, bg2)
+const PAL={viola:['#6B3FA0','#2A1445','#F6F1FB','#E0D2F2'],arancio:['#E64A19','#4A160A','#FEF2EC','#F9D9CB'],
+ blu:['#2E7DB5','#0E2F47','#EFF5FB','#D0E3F2'],marrone:['#9A5A24','#3B2412','#FBF4EA','#EBD5B9'],
+ verde:['#2B8A3E','#123D1C','#F1F8F1','#D3EAD5'],giallo:['#D99A00','#5A3E00','#FFF9E8','#FBEBB8'],studio4:['#1B9A4B','#0E3B22','#F2F8F3','#D6EBDC']};
+const SC={
+ 0:{pal:'studio4',tag:'Nutrizione in serra',num:'',h:'Concimi, ma la pianta <em>ha fame lo stesso?</em>',bully:null,cover:true},
+ 1:{pal:'viola',tag:'Chi blocca chi',num:'1/6',h:'Troppo <em>fosforo</em><br>blocca zinco e ferro',bully:'P',v:['Zn','Fe']},
+ 2:{pal:'arancio',tag:'Chi blocca chi',num:'2/6',h:'Troppo <em>potassio</em><br>blocca calcio e magnesio',bully:'K',v:['Ca','Mg']},
+ 3:{pal:'blu',tag:'Chi blocca chi',num:'3/6',h:'Troppo <em>ammonio</em><br>blocca potassio e magnesio',bully:'N',v:['K','Mg'],nh4:true},
+ 4:{pal:'marrone',tag:'Chi blocca chi',num:'4/6',h:'Troppo <em>calcio</em><br>blocca ferro e manganese',bully:'Ca',v:['Fe','Mn']},
+ 5:{pal:'verde',tag:'Chi blocca chi',num:'5/6',h:'Troppo <em>magnesio</em><br>blocca calcio e potassio',bully:'Mg',v:['Ca','K']},
+ 6:{pal:'giallo',tag:'Chi blocca chi',num:'6/6',h:'Troppo <em>zolfo</em><br>blocca il molibdeno',bully:'S',v:['Mo']},
+ 7:{pal:'studio4',tag:'Prima di concimare',num:'',h:'Controlla <em>l’equilibrio</em>, non solo la quantità',end:true}};
+const $=id=>document.getElementById(id);
+function rnd(s){let x=Math.sin(s*999.7)*43758.5453;return x-Math.floor(x)}
+// ---------- scena del terreno (statica per scena)
+function soil(pal){
+ let s=`<defs><linearGradient id="sg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8A5A30"/><stop offset=".5" stop-color="#6A4120"/><stop offset="1" stop-color="#3F2612"/></linearGradient>
+ <linearGradient id="lf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9AD66B"/><stop offset="1" stop-color="#3E8E3A"/></linearGradient>
+ <radialGradient id="glow" cx=".5" cy=".55" r=".5"><stop offset="0" stop-color="#FFD98A" stop-opacity=".55"/><stop offset="1" stop-color="#FFD98A" stop-opacity="0"/></radialGradient></defs>
+ <rect width="980" height="960" fill="url(#sg)"/>`;
+ for(let i=0;i<140;i++){const x=rnd(i)*980,y=120+rnd(i+.3)*840,r=3+rnd(i+.7)*11;
+  s+=`<ellipse cx="${x}" cy="${y}" rx="${r}" ry="${r*.8}" fill="${rnd(i+.9)>.5?'#9C6B3F':'#4A2C14'}" opacity=".55"/>`}
+ s+=`<rect width="980" height="960" fill="url(#glow)"/>`;
+ // radici
+ const roots=[[490,95,0,10],[490,95,-0.5,7],[490,95,0.5,7],[480,95,-1.0,5],[500,95,1.0,5],[490,95,-0.2,5],[490,95,0.25,5]];
+ roots.forEach((r,k)=>{let [x,y,a,w]=r;for(let j=0;j<4;j++){let seg=`M${x},${y}`;
+   let ang=a+(rnd(k*7+j)-.5)*.6;for(let q=0;q<9;q++){x+=Math.sin(ang)*55;y+=Math.cos(ang)*48;ang+=(rnd(k*31+j*5+q)-.5)*.5;seg+=` L${x.toFixed(1)},${y.toFixed(1)}`;
+   if(rnd(k*13+q+j)>.6){const bx=x+(rnd(q+k)-.5)*120,by=y+60+rnd(q*2+k)*40;s+=`<path d="M${x.toFixed(1)},${y.toFixed(1)} Q${(x+bx)/2},${y+10} ${bx.toFixed(1)},${by.toFixed(1)}" stroke="#C99A62" stroke-width="${Math.max(1.5,w*.35)}" fill="none" stroke-linecap="round" opacity=".8"/>`}}
+   s+=`<path d="${seg}" stroke="#D9AE76" stroke-width="${w}" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>`;
+   [x,y]=[r[0],r[1]];w=Math.max(2,w*.7)}});
+ // fascia verde in alto con foglie
+ s+=`<rect width="980" height="100" fill="url(#lf)"/>`;
+ for(let i=0;i<26;i++){const x=i*40+rnd(i)*20;s+=`<path d="M${x},100 Q${x+10},${40-rnd(i)*40} ${x+22+rnd(i+1)*10},${-5}" stroke="#2E7D32" stroke-width="9" fill="none" stroke-linecap="round"/>`}
+ s+=`<path d="M0,100 Q245,88 490,104 T980,98 L980,112 L0,112Z" fill="#6A4120"/>`;
+ s+=`<rect x="478" y="0" width="24" height="108" rx="10" fill="#3E8E3A"/>`;
+ return s}
+function sparkles(t){let s='';for(let i=0;i<26;i++){const x=rnd(i+50)*980,sp=20+rnd(i+60)*30,y=960-((t*sp+rnd(i+70)*840)%840),o=.3+.5*Math.abs(Math.sin(t*2+i));
+ s+=`<circle cx="${x}" cy="${y}" r="${2+rnd(i+80)*3}" fill="#FFE7A3" opacity="${o.toFixed(2)}"/>`}return s}
+// ---------- personaggi
+let gid=0;
+function face(x,y,sc,mood,mouth,look,blink){ // mood: angry|sad|worried|happy
+ const ex=34*sc,ey=y,rx=26*sc,ry=31*sc;let s='';
+ [-1,1].forEach(d=>{const cx=x+d*ex;
+  s+= blink?`<path d="M${cx-rx},${ey} Q${cx},${ey+8*sc} ${cx+rx},${ey}" stroke="#1E1410" stroke-width="${6*sc}" fill="none" stroke-linecap="round"/>`
+   :`<ellipse cx="${cx}" cy="${ey}" rx="${rx}" ry="${ry}" fill="#fff" stroke="#1E1410" stroke-width="${3*sc}"/><circle cx="${cx+look*9*sc}" cy="${ey+5*sc}" r="${13*sc}" fill="#2A1A10"/><circle cx="${cx+look*9*sc-4*sc}" cy="${ey}" r="${4.5*sc}" fill="#fff"/>`;
+  // sopracciglia
+  const by=ey-ry-10*sc, inner=cx-d*rx*.9, outer=cx+d*rx*1.05;
+  let yi,yo; if(mood=='angry'){yi=by+20*sc;yo=by-6*sc}else if(mood=='sad'||mood=='worried'){yi=by-10*sc;yo=by+10*sc}else{yi=by;yo=by};
+  s+=`<path d="M${inner},${yi} L${outer},${yo}" stroke="#1E1410" stroke-width="${11*sc}" stroke-linecap="round"/>`;
+  if(mood=='sad'&&!blink) s+=`<path d="M${cx-rx},${ey-ry*.25} Q${cx},${ey-ry*.75} ${cx+rx},${ey-ry*.25} L${cx+rx},${ey-ry} L${cx-rx},${ey-ry}Z" fill="#C9B9A8" opacity=".9"/>`;
+ });
+ const my=y+62*sc,mw=(mood=='angry'?46:30)*sc,mh=(6+mouth*34)*sc;
+ if(mood=='angry'){s+=`<path d="M${x-mw},${my} Q${x},${my-12*sc} ${x+mw},${my} Q${x+mw*.6},${my+mh} ${x},${my+mh} Q${x-mw*.6},${my+mh} ${x-mw},${my}Z" fill="#5A0F14" stroke="#1E1410" stroke-width="${3*sc}"/>
+  <path d="M${x-mw*.8},${my-2*sc} Q${x},${my-11*sc} ${x+mw*.8},${my-2*sc} L${x+mw*.7},${my+6*sc} L${x-mw*.7},${my+6*sc}Z" fill="#fff"/>`}
+ else{const smile=mood=='happy'?1:-1;
+  s+= mouth>.12?`<ellipse cx="${x}" cy="${my}" rx="${mw*.7}" ry="${mh*.6}" fill="#5A0F14" stroke="#1E1410" stroke-width="${3*sc}"/>`
+   :`<path d="M${x-mw*.7},${my+ (smile<0?6:-4)*sc} Q${x},${my-(smile<0?10:-16)*sc} ${x+mw*.7},${my+(smile<0?6:-4)*sc}" stroke="#1E1410" stroke-width="${6*sc}" fill="none" stroke-linecap="round"/>`}
+ return s}
+function sack(cx,base,sc,k,mouth,t,look,arm){
+ const [c,d,l]=COL[k];const w=300*sc,h=360*sc,id='g'+(gid++);
+ let s=`<defs><linearGradient id="${id}" x1="0" x2="1"><stop offset="0" stop-color="${d}"/><stop offset=".25" stop-color="${c}"/><stop offset=".48" stop-color="${l}"/><stop offset=".72" stop-color="${c}"/><stop offset="1" stop-color="${d}"/></linearGradient></defs>`;
+ s+=`<ellipse cx="${cx}" cy="${base+6*sc}" rx="${w*.55}" ry="${22*sc}" fill="#000" opacity=".3"/>`;
+ // gambe
+ s+=`<rect x="${cx-w*.28}" y="${base-24*sc}" width="${50*sc}" height="${34*sc}" rx="${12*sc}" fill="#2B2B2B"/><rect x="${cx+w*.28-50*sc}" y="${base-24*sc}" width="${50*sc}" height="${34*sc}" rx="${12*sc}" fill="#2B2B2B"/>`;
+ // braccia muscolose (pugni)
+ const ay=base-h*.55, sw=Math.sin(t*5)*8*sc;
+ [-1,1].forEach(dd=>{const sx=cx+dd*w*.46, ex=cx+dd*(w*.72+arm*30*sc), ey=ay-60*sc-sw*dd-arm*20*sc;
+  s+=`<path d="M${sx},${ay} Q${sx+dd*70*sc},${ay+30*sc} ${ex},${ey}" stroke="#F2F2F2" stroke-width="${44*sc}" fill="none" stroke-linecap="round"/>
+  <path d="M${sx},${ay} Q${sx+dd*70*sc},${ay+30*sc} ${ex},${ey}" stroke="#BDBDBD" stroke-width="${44*sc}" fill="none" stroke-linecap="round" opacity=".25" transform="translate(${dd*3*sc},${4*sc})"/>
+  <circle cx="${ex}" cy="${ey}" r="${32*sc}" fill="#FAFAFA" stroke="#9E9E9E" stroke-width="${3*sc}"/>`});
+ // corpo
+ const T=base-h;
+ s+=`<path d="M${cx-w*.42},${T} L${cx+w*.42},${T} Q${cx+w*.52},${T+h*.45} ${cx+w*.5},${base-h*.1} Q${cx+w*.5},${base} ${cx+w*.38},${base} L${cx-w*.38},${base} Q${cx-w*.5},${base} ${cx-w*.5},${base-h*.1} Q${cx-w*.52},${T+h*.45} ${cx-w*.42},${T}Z" fill="url(#${id})" stroke="${d}" stroke-width="${4*sc}"/>`;
+ // pieghe
+ s+=`<path d="M${cx-w*.3},${T+h*.08} Q${cx-w*.26},${T+h*.5} ${cx-w*.34},${base-h*.12}" stroke="${d}" stroke-width="${4*sc}" fill="none" opacity=".35"/><path d="M${cx+w*.32},${T+h*.1} Q${cx+w*.27},${T+h*.5} ${cx+w*.35},${base-h*.15}" stroke="${d}" stroke-width="${4*sc}" fill="none" opacity=".35"/>`;
+ // granuli + bordo
+ for(let i=0;i<22;i++){const gx=cx-w*.36+rnd(i+k.length)*w*.72,gy=T-8*sc-rnd(i+3)*30*sc;s+=`<circle cx="${gx}" cy="${gy}" r="${11*sc}" fill="${l}" stroke="${d}" stroke-width="${2*sc}"/>`}
+ s+=`<path d="M${cx-w*.46},${T-6*sc} Q${cx},${T-26*sc} ${cx+w*.46},${T-6*sc} L${cx+w*.44},${T+26*sc} Q${cx},${T+12*sc} ${cx-w*.44},${T+26*sc}Z" fill="#F5F1E8" stroke="#BDB3A0" stroke-width="${3*sc}"/>`;
+ // etichetta
+ const lw=150*sc,lh=104*sc,ly=base-h*.36;
+ s+=`<rect x="${cx-lw/2}" y="${ly}" width="${lw}" height="${lh}" rx="${18*sc}" fill="#fff" opacity=".95"/><text x="${cx}" y="${ly+lh*.8}" text-anchor="middle" font-family="P" font-weight="700" font-size="${(k.length>1?78:96)*sc}" fill="${d}">${k}</text>`;
+ s+=face(cx,T+h*.27,sc*1.05,'angry',mouth,look,false);
+ return s}
+function ball(cx,cy,r,k,mood,mouth,t,look,shake,fade){
+ const [c,d,l]=COL[k],id='b'+(gid++),sc=r/90;
+ const dx=shake*Math.sin(t*55)*4;cx+=dx;
+ let s=`<g opacity="${fade}"><defs><radialGradient id="${id}" cx=".35" cy=".3" r=".75"><stop offset="0" stop-color="${l}"/><stop offset=".55" stop-color="${c}"/><stop offset="1" stop-color="${d}"/></radialGradient></defs>`;
+ s+=`<ellipse cx="${cx}" cy="${cy+r*.95}" rx="${r*.8}" ry="${r*.16}" fill="#000" opacity=".3"/>`;
+ // braccini
+ [-1,1].forEach(dd=>s+=`<path d="M${cx+dd*r*.9},${cy+r*.1} q${dd*30*sc},${-10*sc-Math.sin(t*6+dd)*8*sc} ${dd*44*sc},${-34*sc}" stroke="${d}" stroke-width="${11*sc}" fill="none" stroke-linecap="round"/>`);
+ s+=`<circle cx="${cx}" cy="${cy}" r="${r}" fill="url(#${id})" stroke="${d}" stroke-width="${3*sc}"/>`;
+ s+=face(cx,cy-r*.28,sc*.8,mood,mouth,look,false);
+ s+=`<text x="${cx}" y="${cy+r*.78}" text-anchor="middle" font-family="P" font-weight="700" font-size="${(k.length>1?46:54)*sc}" fill="#fff" stroke="${d}" stroke-width="${2.5*sc}" paint-order="stroke">${k}</text></g>`;
+ return s}
+function chain(x1,y1,x2,y2,col,t,prog){
+ const n=Math.max(3,Math.floor(Math.hypot(x2-x1,y2-y1)/30*prog));let s='';const a=Math.atan2(y2-y1,x2-x1)*180/Math.PI;
+ for(let i=0;i<n;i++){const f=i/Math.max(1,Math.floor(Math.hypot(x2-x1,y2-y1)/30)),x=x1+(x2-x1)*f,y=y1+(y2-y1)*f+Math.sin(f*Math.PI)*14;
+  s+=`<ellipse cx="${x}" cy="${y}" rx="${i%2?16:18}" ry="${i%2?6:11}" transform="rotate(${a},${x},${y})" fill="none" stroke="${col}" stroke-width="6"/>`}
+ return s}
+function nh4(t){let s='';for(let i=0;i<8;i++){const x=150+rnd(i+200)*680,y=500+rnd(i+210)*260+Math.sin(t*2+i)*10;
+ s+=`<g transform="translate(${x},${y})"><rect x="-38" y="-22" width="76" height="44" rx="10" fill="#2F7FD8" stroke="#123E78" stroke-width="3"/><text x="0" y="10" text-anchor="middle" font-family="P" font-weight="700" font-size="26" fill="#fff">NH₄⁺</text></g>`}return s}
+// ---------- rendering
+let cacheSoil='',lastScene=-1;
+function speaking(t){for(const l of TL.lines){if(t>=l.start&&t<l.start+l.dur){const f=Math.floor((t-l.start)*30);return [l,l.env[Math.min(f,l.env.length-1)]||0]}}return [null,0]}
+function lastLine(t,scene){let r=null;for(const l of TL.lines){if(l.scene==scene&&t>=l.start-0.05)r=l}return r}
+function ease(x){x=Math.max(0,Math.min(1,x));return 1-Math.pow(1-x,3)}
+window.render=function(t){
+ const S=TL.scenes.find(s=>t>=s.start&&t<s.end)||TL.scenes[TL.scenes.length-1];const n=S.scene,cfg=SC[n],P=PAL[cfg.pal],lt=t-S.start;
+ const R=document.documentElement.style;R.setProperty('--ac',P[0]);R.setProperty('--dk',P[1]);
+ $('bg').style.background=`linear-gradient(170deg,${P[2]} 0%,${P[3]} 100%)`;
+ $('dot').style.background=P[0];$('tagt').textContent=cfg.tag;$('tag').style.color=P[0];$('num').textContent=cfg.num;
+ if(n!=lastScene){$('h1').innerHTML=cfg.h;cacheSoil=soil(P);lastScene=n}
+ const ap=ease(lt/0.45);$('title').style.transform=`translateY(${(1-ap)*-30}px)`;$('title').style.opacity=ap;
+ const [sp,env]=speaking(t);const ll=lastLine(t,n);
+ if(ll){$('who').textContent=NAMES[ll.who];$('tx').textContent=ll.text;$('sub').style.opacity=1}else{$('sub').style.opacity=0}
+ if(cfg.end){$('stage').style.display='none';$('sub').style.display='none';$('end').style.display='block';
+  ['c1','c2','c3','cta'].forEach((id,i)=>{const e=ease((lt-0.3-i*0.9)/0.5);$(id).style.opacity=e;$(id).style.transform=`translateY(${(1-e)*40}px)`});return}
+ $('stage').style.display='block';$('sub').style.display='block';$('end').style.display='none';
+ gid=0;let s=cacheSoil+sparkles(t)+'<g transform="translate(0,70)">';
+ const pop=ease(lt/0.5), mo=k=>(sp&&sp.who==k&&sp.scene==n)?env:0;
+ if(cfg.cover){
+  const ks=[['P',200],['K',490],['N',780]];
+  ks.forEach(([k,x],i)=>{const e=ease((lt-i*0.15)/0.5);s+=`<g transform="translate(0,${(1-e)*200})" opacity="${e}">`+sack(x,560+Math.sin(t*3+i)*5,0.62,k,i==1?env*0.6:0,t+i,0,0.3)+`</g>`});
+  [['Fe',140],['Ca',380],['Mg',610],['Zn',850]].forEach(([k,x],i)=>{s+=ball(x,720,60,k,'worried',0,t,0,1,ease((lt-0.6-i*0.12)/0.4))});
+ } else {
+  const b=cfg.bully, bx=490, base=560+Math.sin(t*3)*6, bs=(mo(b)>0?1.03:1)*0.95;
+  const vs=cfg.v.length==1?[[490,730]]:[[175,690],[805,690]];
+  // catene
+  cfg.v.forEach((v,i)=>{const [x,y]=vs[i];const hx=cfg.v.length==1?490:(i==0?bx-200:bx+200);s+=chain(hx,base-260,x,y-40,'#F0B429',t,ease((lt-0.6)/0.8))});
+  s+=`<g transform="translate(${bx},${base}) scale(${pop*bs}) translate(${-bx},${-base})">`+sack(bx,base,0.95,b,mo(b),t,0,mo(b))+`</g>`;
+  if(cfg.nh4)s+=`<g opacity="${ease((lt-1)/0.6)}">`+nh4(t)+`</g>`;
+  cfg.v.forEach((v,i)=>{const [x,y]=vs[i];const m=mo(v);const bully=mo(b)>0;
+   s+=ball(x,y-(m>0?Math.abs(Math.sin(t*8))*8:0),cfg.v.length==1?100:92,v,m>0?'sad':'worried',m,t,i==0?1:-1,bully?1:0.3,ease((lt-0.3-i*0.15)/0.4))});
+ }
+ $('svg').innerHTML=s+'</g>';
+}
+</script></body></html>

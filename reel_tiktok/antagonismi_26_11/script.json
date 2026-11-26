@@ -1,0 +1,20 @@
+[
+ {"scene":0,"who":"nar","text":"Concimi, ma la pianta ha fame lo stesso? Forse un nutriente ne sta bloccando un altro."},
+ {"scene":1,"who":"P","text":"Sono il fosforo. Se esageri con me, blocco lo zinco e il ferro."},
+ {"scene":1,"who":"Zn","text":"Sono lo zinco. Il fosforo non mi fa entrare."},
+ {"scene":1,"who":"Fe","text":"Sono il ferro. Il fosforo mi blocca."},
+ {"scene":2,"who":"K","text":"Sono il potassio. Se me ne dai troppo, blocco il calcio, e soprattutto il magnesio."},
+ {"scene":2,"who":"Ca","text":"Sono il calcio. Sono nel terreno, ma non riesco a entrare nella radice."},
+ {"scene":2,"who":"Mg","text":"Sono il magnesio. Ci sono, ma il potassio mi chiude la porta."},
+ {"scene":3,"who":"N","text":"Sono l'azoto ammoniacale. Se sono troppo, blocco il potassio e il magnesio."},
+ {"scene":3,"who":"K","text":"Sono il potassio. L'ammonio non mi fa entrare."},
+ {"scene":3,"who":"Mg","text":"Sono il magnesio. Blocca anche me."},
+ {"scene":4,"who":"Ca","text":"Sono il calcio. Nei terreni calcarei, in eccesso, blocco il ferro e il manganese."},
+ {"scene":4,"who":"Fe","text":"Sono il ferro. Resto fermo, e le foglie giovani ingialliscono."},
+ {"scene":4,"who":"Mn","text":"Sono il manganese. Non rispondo."},
+ {"scene":5,"who":"Mg","text":"Sono il magnesio. Se esageri con me, blocco il calcio e il potassio."},
+ {"scene":5,"who":"Ca","text":"Sono il calcio. Il magnesio mi blocca, e la radice non mi assorbe."},
+ {"scene":6,"who":"S","text":"Sono lo zolfo. In eccesso acidifico il terreno, e blocco il molibdeno."},
+ {"scene":6,"who":"Mo","text":"Sono il molibdeno. Lo zolfo mi blocca, e la radice non mi assorbe."},
+ {"scene":7,"who":"nar","text":"Prima di aggiungere concime, controlla l'equilibrio. Passa al banco di Studio 4: guardiamo insieme le tue analisi."}
+]
