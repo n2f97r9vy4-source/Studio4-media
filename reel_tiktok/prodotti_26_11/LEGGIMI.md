@@ -16,7 +16,7 @@ Scontorni nuovi in `kit/assets/foto/` (altacor, kanemite, magnumfe, nemathorin, 
 
 ## Dosi (tutte da etichetta, tranne Magnum Fe)
 Teldor Plus et. 08/09/2026; Altacor et. valida dal 08/07/2026; Sivanto Prime et. 08/09/2026; Kanemite et. 12/06/2026; Nemathorin et. 17/07/2021; xTreem Prime et. 18/09/2026 (Supabase id 33).
-Magnum Fe: nessuna dose (non è nel Prontuario; dalla foto si vede solo il fronte). Composizione (N organico 5,5%, C organico 20%, aminoacidi levogiri 10%, sangue fluido + alghe brune, betaine, vitamine, ferro organico) e uso in fertirrigazione/fogliare presi dalla scheda di un rivenditore online: DA CONFERMARE con il retro della tanica. Non scritto "biologico".
+Magnum Fe (26/11, retro della tanica `foto_originali/magnum-fe_2026-11-26_retro.jpg`): orticole in serra 3 kg/1000 m² a settimana, ogni 7 gg da sviluppo vegetativo ad accrescimento frutto; pieno campo fogliare 2–3 kg/ha, fertirrigazione 25–50 kg/ha; non miscibile con rame, zolfo, oli minerali; N 5,5% organico, C org. 20%, aminoacidi levogiri 10%, sangue bovino fluido + estratto di lievito con alghe brune; "consentito in agricoltura biologica"; peso specifico 1,2 kg/l. Betaine, vitamine e ferro NON sono in etichetta: tolti.
 
 ## Fonti dei "Lo sapevi?" (archivio interno, non nei post)
 - Teldor: Walker et al. 2011 Phytopathology (B. pseudocinerea, poco sensibile alla fenexamide); Fillinger et al. 2008 AEM (mutazioni erg27, es. F412S); Debieu et al. 2001 (fenexamide su tubetto germinativo/micelio).
@@ -26,3 +26,6 @@ Magnum Fe: nessuna dose (non è nel Prontuario; dalla foto si vede solo il front
 - Nemathorin: azione nematostatica dei fosforganici alle dosi di campo (Opperman & Chang 1990; Wright 1981); ingresso J2 vicino all'apice radicale.
 - xTreem: Cry1C del ceppo aizawai attiva su Spodoptera; solubilizzazione dei cristalli a pH alcalino; degradazione UV.
 - Magnum Fe: aminoacidi D tossici (Erikson et al. 2004 Nat Biotechnol); assorbimento diretto degli aminoacidi (Näsholm et al. 2009 New Phytol); glicina betaina osmoprotettore.
+
+## Colture (Valerio 26/11 00:04)
+2 principalmente pomodoro (Teldor Plus, Altacor), 1 zucchina (Sivanto Prime), 1 melanzana (Kanemite), 1 peperone (xTreem Prime), misti Nemathorin (pomodoro e melanzana) e Magnum Fe (orticole in serra). Kanemite (e Affirm) si pubblicano quando c'è la proroga.

@@ -544,10 +544,16 @@
   "nome": "Magnum Fe",
   "tipo": "concime",
   "reg": null,
-  "fonte": "scheda rivenditore (da confermare)",
-  "dosi": [],
+  "fonte": "etichetta (retro tanica 26/11)",
+  "dosi": [
+   "3 kg/1000 m² a settimana (orticole in serra)",
+   "fogliare 2–3 kg/ha",
+   "fertirrigazione 25–50 kg/ha"
+  ],
   "fatti": [
-   "concime organico azotato fluido, N organico 5,5%"
+   "non miscibile con rame, zolfo, oli minerali",
+   "consentito in agricoltura biologica",
+   "peso specifico 1,2 kg/l"
   ],
   "foto": "magnumfe"
  }
