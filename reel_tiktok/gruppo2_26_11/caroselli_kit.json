@@ -41,11 +41,11 @@
     "tag": "Quando e quanto",
     "titolo": "Milbeknock",
     "foto": "milbeknock",
-    "etichetta": "Dose · pomodoro, melanzana, cetriolo in serra",
-    "valore": "100–187 ml/hl",
-    "nota": "Massimo 1,875 l/ha · al massimo 2 interventi ogni 7–14 giorni · carenza 1 giorno",
+    "etichetta": "Dose · zucchino (serra e campo)",
+    "valore": "125–250 ml/hl",
+    "nota": "Massimo 1,25 l/ha · al massimo 2 interventi ogni 7–14 giorni · carenza 1 giorno",
     "punti": [
-     "Zucchino (serra e campo): 125–250 ml/hl",
+     "Pomodoro, melanzana e cetriolo in serra: 100–187 ml/hl",
      "Intervieni a inizio infestazione"
     ],
     "fonte": "Da etichetta."
@@ -128,11 +128,11 @@
     "tag": "Quando e quanto",
     "titolo": "Nealta",
     "foto": "nealta",
-    "etichetta": "Dose · pomodoro e melanzana (serra e campo)",
+    "etichetta": "Dose · melanzana (serra e campo)",
     "valore": "1 l/ha",
     "nota": "1 trattamento ogni 2 anni · carenza 1 giorno",
     "punti": [
-     "Stessa dose su agrumi, pomacee, drupacee e fragola",
+     "Stessa dose su pomodoro, agrumi, frutta e fragola",
      "Acqua sufficiente a bagnare tutta la vegetazione"
     ],
     "fonte": "Da etichetta."
@@ -368,11 +368,11 @@
     "tag": "Quando e quanto",
     "titolo": "Portento SL",
     "foto": "portento",
-    "etichetta": "Dose · orticole, vite e frutta",
+    "etichetta": "Dose · pomodoro, botrite (serra e campo)",
     "valore": "1–3 l/ha",
-    "nota": "Ogni 5–7 giorni · in prevenzione · gruppo FRAC BM02",
+    "nota": "Ogni 5–7 giorni · in prevenzione · 500–1000 litri d'acqua a ettaro",
     "punti": [
-     "Botrite su pomodoro, melanzana, peperone; oidio su cetriolo e zucchino",
+     "Anche su melanzana, peperone, oidio delle cucurbitacee, vite e frutta",
      "Rientro in serra dopo 8 ore"
     ],
     "fonte": "Da etichetta."
@@ -445,7 +445,7 @@
     "tag": "Quando e quanto",
     "titolo": "Sunred",
     "foto": "sunred",
-    "etichetta": "Dose · pomodoro e peperone",
+    "etichetta": "Dose · peperone e pomodoro",
     "valore": "400–600 ml/hl",
     "nota": "2 interventi: 12–10 e 6–5 giorni prima della raccolta",
     "punti": [
@@ -532,7 +532,7 @@
     "tag": "Quando e quanto",
     "titolo": "Bioup TF",
     "foto": "bioup",
-    "etichetta": "Dose · fertirrigazione",
+    "etichetta": "Dose · orticole, fertirrigazione",
     "valore": "750 ml/ha",
     "nota": "Massimo 2 trattamenti per ciclo, a circa 25 giorni",
     "punti": [
@@ -608,7 +608,7 @@
     "tag": "Quando e quanto",
     "titolo": "Basfoliar Kelp SL",
     "foto": "basfoliar_kelp",
-    "etichetta": "Dose · fertirrigazione, tutte le colture",
+    "etichetta": "Dose · tutte le colture, fertirrigazione",
     "valore": "7–10 l/ha",
     "nota": "Fogliare: 0,2–1% · nelle ore più fresche",
     "punti": [
