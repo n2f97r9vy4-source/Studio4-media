@@ -5,8 +5,10 @@ Uso: NODE_PATH=$(npm root -g) python3 genera.py
 Tutti i dati vengono dalle due etichette ministeriali (Fortezza reg. 15119, valida dal 07/10/2026;
 Vertimec EC reg. 8795, valida dal 03/01/2024), lette nel Prontuario del banco il 26/11/2026.
 
-Regole seguite: nessun nome di produttore, nessuna cifra di prezzo (si dice solo che il prezzo è diverso,
-come chiesto), nessun giudizio su quale funzioni meglio: solo dati d'etichetta.
+Regole seguite: nessun nome di produttore, nessun giudizio su quale funzioni meglio: solo dati d'etichetta.
+Decisioni di Valerio del 26/11: si dice "molto simili" (non "quasi uguali" e nemmeno "uguali": le percentuali
+differiscono di qualche centesimo); sul prezzo si dice solo quale costa meno, senza cifre ("meno della metà":
+a listino nel Prontuario, export del gestionale del 23/10/2026, vale sia per 1 litro sia per 5 litri).
 Fonti del "Lo sapevi?" (archivio interno, non vanno nei post):
 - IRAC, MoA Classification, ed. 11.5 (febbraio 2026): gruppo 6 = avermectine e milbemicine (abamectina,
   emamectina benzoato, milbemectina); la rotazione si basa solo sul numero di gruppo.
@@ -30,13 +32,13 @@ F, V = "Fortezza", "Vertimec EC"
 # ---------------------------------------------------------------- contenuti
 COPERTINA = {
     "tag": "Abamectina a confronto",
-    "titolo": "Quasi uguali.<br><em>Prezzo diverso.</em>",
-    "sotto": "Fortezza e<br>Vertimec&nbsp;EC:<br><span>stessa abamectina</span><br>contro ragnetto rosso, tripidi e minatrici in&nbsp;serra.",
-    "box": "Stessa dose, ma le etichette non dicono le stesse cose. Scorri.",
+    "titolo": "Molto simili.<br><em>Prezzo diverso.</em>",
+    "sotto": "Fortezza e<br>Vertimec&nbsp;EC:<br><span>abamectina 18&nbsp;g/l</span><br>contro ragnetto rosso, tripidi e minatrici in&nbsp;serra.",
+    "box": "Stessa sostanza attiva, stessa dose. E uno costa meno della metà. Scorri.",
 }
 
 UGUALI = {
-    "tag": "Cosa hanno uguale",
+    "tag": "Cosa hanno in comune",
     "titolo": "Stessa sostanza,<br><em>stessa dose.</em>",
     "voci": [("Sostanza attiva", "Abamectina"), ("Concentrazione", "18 g/l"),
              ("Formulazione (EC)", "Emulsionabile"), ("Gruppo IRAC", "6 · avermectine")],
@@ -52,7 +54,7 @@ NO = '<span class="no">no nov–feb</span>'
 X = '<span class="xx">✕ non in etichetta</span>'
 TABELLA = {
     "tag": "Dove cambiano",
-    "titolo": "Coltura per coltura<br><em>non sono uguali.</em>",
+    "titolo": "Cambia l'etichetta,<br><em>coltura per coltura.</em>",
     "intesta": "Giorni di carenza",
     "righe": [
         ("Pomodoro", "<b>7 giorni</b>", "<b>7 giorni</b>"),
@@ -68,17 +70,17 @@ TABELLA = {
 }
 
 PRATICA = {
-    "tipo": "schede", "tag": "In pratica",
+    "tag": "In pratica",
     "titolo": "Tre cose da sapere<br><em>prima di scegliere.</em>",
     "voci": [
         ["🐝", "Bombi in serra",
          f"<b>{F}:</b> colonie chiuse e coperte durante il trattamento, serra chiusa 24 ore.<br><b>{V}:</b> 4 giorni prima di farli rientrare."],
         ["🔁", "Quanti trattamenti",
          f"<b>{F}:</b> consigliati non più di 2 per ciclo.<br><b>{V}:</b> al massimo 2 l'anno su pomodoro, peperone, cetriolo e zucchino; 3 su melanzana, melone, cocomero e zucca."],
-        ["🏷️", "Prezzo",
-         "Diverso. Dove dose e carenza coincidono, come sul pomodoro, è quello a fare la differenza."],
     ],
-    "chiusa": "Stessa sostanza, ma vale l'etichetta della confezione che usi.",
+    "prezzo": ["🏷️", f"{F} costa meno della metà",
+               "Al nostro banco, a parità di confezione. Dove dose e carenza coincidono, come sul pomodoro, è il prezzo a fare la differenza."],
+    "chiusa": "Stessa sostanza: vale l'etichetta della confezione che usi.",
     "fonte": "Da etichetta.",
 }
 
@@ -96,14 +98,14 @@ SAPEVI = {
     "fonte": "Etichette e letteratura scientifica.",
 }
 
-DIDASCALIA = f"""{F} e {V}: quasi uguali, prezzo diverso 🕷️
+DIDASCALIA = f"""{F} e {V}: molto simili, prezzo diverso 🕷️
 Tutti e due sono abamectina a 18 g/l (IRAC 6), concentrato emulsionabile, solo per serre permanenti. Su pomodoro, peperone, melanzana, cetriolo e melone la dose è la stessa: 60 ml/hl contro ragnetto rosso ed eriofide, 75 ml/hl sulle larve di tripide, 60 ml/hl sulle minatrici in 2 applicazioni ogni 7–10 giorni.
 
-⚠️ Ma le etichette non dicono le stesse cose. Zucchino, cocomero, zucca e lattughe sono solo su {V}. Su melanzana e fragola la carenza è 7 giorni con {F} e 3 con {V}. Da novembre a febbraio l'etichetta di {V} non lo ammette su peperone, cucurbitacee, fragola e lattughe; quella di {F} non ha questo limite. Cambiano anche le regole per i bombi.
+⚠️ Quello che cambia è l'etichetta. Zucchino, cocomero, zucca e lattughe sono solo su {V}. Su melanzana e fragola la carenza è 7 giorni con {F} e 3 con {V}. Da novembre a febbraio l'etichetta di {V} non lo ammette su peperone, cucurbitacee, fragola e lattughe; quella di {F} non ha questo limite. Cambiano anche le regole per i bombi.
 
 💡 Lo sapevi? Passare dall'uno all'altro non è una rotazione: stessa molecola, stesso gruppo 6, come emamectina e milbemectina. Se il ragnetto non risponde più all'abamectina, cambiare marca non serve: serve cambiare gruppo.
 
-Sul pomodoro dose e carenza coincidono: lì la differenza la fa il prezzo. Salva la tabella e passa al banco di Studio 4, a Vittoria: ti diciamo quale conviene sulla tua coltura 👇
+Sul pomodoro dose e carenza coincidono: lì la differenza la fa il prezzo. Al nostro banco, a parità di confezione, {F} costa meno della metà di {V}. Salva la tabella e passa al banco di Studio 4, a Vittoria: ti diciamo quale conviene sulla tua coltura 👇
 
 {k.DISC}
 
@@ -158,6 +160,15 @@ def sl_uguali(s):
             f'<div class="d3">{dosi}</div></div>'
             + k._punti(s["punti"], 30))
 
+def sl_pratica(s):
+    e, a, b = s["prezzo"]
+    prezzo = (f'<div class="card scuro" style="display:flex;gap:22px;align-items:flex-start;border-radius:32px;padding:26px 32px">'
+              f'<span style="font-size:40px;line-height:1.1">{e}</span>'
+              f'<div><div style="font-size:21px;font-weight:700;letter-spacing:2px;opacity:.78;text-transform:uppercase">Prezzo</div>'
+              f'<div style="font-size:36px;font-weight:700;line-height:1.18;margin-top:2px">{a}</div>'
+              f'<div style="font-size:27px;font-weight:500;line-height:1.32;margin-top:8px;opacity:.9">{b}</div></div></div>')
+    return k.sl_schede({"titolo": s["titolo"], "voci": s["voci"]}) + prezzo + k._chiusa(s["chiusa"])
+
 def sl_tabella(s):
     testa = (f'<div class="tr th"><div class="ih">{s["intesta"]}</div>'
              f'<div class="ph"><img class="sh" src="{k._foto("fortezza")}"><span class="pn">{F}</span></div>'
@@ -166,7 +177,7 @@ def sl_tabella(s):
     return f'<h2>{s["titolo"]}</h2><div class="tb">{testa}{righe}</div><div class="tnota">{s["nota"]}</div>'
 
 def html():
-    slide = [("copertina2", COPERTINA), ("uguali", UGUALI), ("tabella", TABELLA), ("kit", PRATICA), ("kit", SAPEVI)]
+    slide = [("copertina2", COPERTINA), ("uguali", UGUALI), ("tabella", TABELLA), ("pratica", PRATICA), ("kit", SAPEVI)]
     T = len(slide); out = []
     for i, (tipo, s) in enumerate(slide):
         head = f'<img class="logo" src="{k.LOGO.as_uri()}"><div class="num">{i+1}/{T}</div>'
@@ -179,7 +190,7 @@ def html():
                 f'<figure><img class="sh" src="{k._foto("vertimec")}"><figcaption>{V}</figcaption></figure></div></div>'
                 f'<div class="cvbox scuro">{s["box"]}</div><div class="swipe">scorri →</div></div></div>')
             continue
-        corpo = {"uguali": sl_uguali, "tabella": sl_tabella}[tipo](s) if tipo != "kit" else k.SLIDE[s["tipo"]](s)
+        corpo = {"uguali": sl_uguali, "tabella": sl_tabella, "pratica": sl_pratica}[tipo](s) if tipo != "kit" else k.SLIDE[s["tipo"]](s)
         out.append(
             f'{apri}<div class="col"><div class="fit fitbox" data-min="0.78" data-max="1.22"><div class="zz">{corpo}</div></div>'
             f'<div class="disc">{s["fonte"]} {k.DISC}</div></div></div>')
@@ -202,7 +213,7 @@ def controlli():
             esito.append(f"ERRORE linguaggio assoluto: {p}")
     for p in k.PREZZI:
         if k._parola(p, low):
-            esito.append(f"nota: parola '{p}' (qui voluta: la richiesta è dire che il prezzo è diverso, senza cifre)")
+            esito.append(f"nota: parola '{p}' (qui voluta: Valerio ha chiesto di dire che il prezzo è diverso e quale costa meno, senza cifre)")
     for p, msg in k.PAROLE_NO.items():
         if k._parola(p, low):
             esito.append("ERRORE " + msg)
@@ -226,7 +237,7 @@ def nove_sedicesimi(src, dst, fondo=None):
     bg = ImageEnhance.Brightness(bg).enhance(1.04)
     bg.paste(s, (0, 285)); bg.save(dst)
 
-# video: apertura con "Quasi uguali." da solo, poi compare "Prezzo diverso."; le altre slide scorrono a sinistra.
+# video: apertura con la prima riga del titolo da sola, poi compare "Prezzo diverso."; le altre slide scorrono a sinistra.
 # (durata in secondi, passaggio verso questa slide, durata del passaggio)
 APERTURA = 1.1
 SCENE = [(3.3, "fade", 0.25), (5.8, "slideleft", 0.4), (7.5, "slideleft", 0.4), (6.8, "slideleft", 0.4), (7.0, "slideleft", 0.4)]
