@@ -7,8 +7,8 @@
   "slide": [
    {
     "tipo": "copertina",
-    "tag": "Orticole · stress",
-    "titolo": "Piante ferme dopo <em>trapianto o freddo?</em>",
+    "tag": "Peperone · stress",
+    "titolo": "Peperoni fermi dopo <em>trapianto o freddo?</em>",
     "sotto": "Sprintene: biostimolante che aiuta la pianta a <span>ripartire dopo lo stress.</span>",
     "foto": "sprintene",
     "box": "Cosa blocca la pianta e come farla ripartire. Scorri."
@@ -18,9 +18,21 @@
     "tag": "Il problema",
     "titolo": "Quando la pianta <em>si ferma.</em>",
     "voci": [
-     ["🌱", "Trapianto", "Le radici rovinate assorbono poco: per giorni la pianta vive di riserve."],
-     ["❄️", "Notti fredde", "Con il terreno freddo le radici rallentano e la crescita si blocca."],
-     ["🧪", "Trattamenti pesanti", "Un trattamento che stressa le foglie rallenta tutta la pianta."]
+     [
+      "🌱",
+      "Trapianto",
+      "Le radici rovinate assorbono poco: per giorni la pianta vive di riserve."
+     ],
+     [
+      "❄️",
+      "Notti fredde",
+      "Il peperone soffre il freddo più del pomodoro: con il terreno freddo le radici rallentano e la crescita si blocca."
+     ],
+     [
+      "🧪",
+      "Trattamenti pesanti",
+      "Un trattamento che stressa le foglie rallenta tutta la pianta."
+     ]
     ]
    },
    {
@@ -28,9 +40,21 @@
     "tag": "Cosa contiene",
     "titolo": "Niente ormoni: <em>sostegno al metabolismo.</em>",
     "voci": [
-     ["🌿", "Sostanze di origine vegetale", "Glucosidi flavonici, ossicumarine e antocianine."],
-     ["💊", "Vitamine del gruppo B e acido nicotinico", "Servono agli enzimi che fanno girare il metabolismo della pianta."],
-     ["⚙️", "Microelementi chelati", "Ferro, zinco, manganese, cobalto e boro."]
+     [
+      "🌿",
+      "Sostanze di origine vegetale",
+      "Glucosidi flavonici, ossicumarine e antocianine."
+     ],
+     [
+      "💊",
+      "Vitamine del gruppo B e acido nicotinico",
+      "Servono agli enzimi che fanno girare il metabolismo della pianta."
+     ],
+     [
+      "⚙️",
+      "Microelementi chelati",
+      "Ferro, zinco, manganese, cobalto e boro."
+     ]
     ]
    },
    {
@@ -38,11 +62,11 @@
     "tag": "Quando e quanto",
     "titolo": "Sprintene",
     "foto": "sprintene",
-    "etichetta": "Dose · orticole da frutto",
+    "etichetta": "Dose · peperone e ortaggi da frutto",
     "valore": "100 ml/hl",
     "nota": "fogliare, ogni settimana fino alla prima fioritura",
     "punti": [
-     "Orticole da foglia: 50 ml/hl",
+     "Su orticole da foglia: 50 ml/hl",
      "In fertirrigazione: 2–3 l/ha"
     ],
     "fonte": "Da scheda tecnica."
@@ -69,21 +93,32 @@
   "slide": [
    {
     "tipo": "copertina",
-    "tag": "Orticole, fragola, vite, agrumi",
-    "titolo": "Fiori che non <em>diventano frutti?</em>",
+    "tag": "Melanzana · allegagione",
+    "titolo": "Melanzane che <em>non legano?</em>",
     "sotto": "Gibaifar: fitoregolatore a base di gibberellina per <span>allegagione e pezzatura.</span>",
     "foto": "gibaifar",
-    "box": "Dove si usa, quanto darne e il limite che pochi guardano. Scorri."
+    "box": "Perché la melanzana non lega, quanto darne e il limite che pochi guardano. Scorri."
    },
    {
     "tipo": "schede",
-    "tag": "Cosa fa",
-    "titolo": "Un ormone, <em>tanti usi in etichetta.</em>",
+    "tag": "Il problema",
+    "titolo": "Perché la melanzana <em>non lega.</em>",
     "voci": [
-     ["🍅", "Pomodoro e melanzana", "Più fiori e più frutti, di pezzatura maggiore."],
-     ["🍓", "Fragola", "Più frutti e più grossi."],
-     ["🍇", "Uva da tavola", "Acini più grossi e distanziati, grappolo più lungo."],
-     ["🍋", "Agrumi", "Aiuta l'allegagione; poco prima della colorazione, buccia liscia."]
+     [
+      "🌸",
+      "Fiori a stilo corto",
+      "Nella melanzana i fiori con lo stilo più corto delle antere legano poco: il polline non arriva bene."
+     ],
+     [
+      "🌙",
+      "Notti fredde",
+      "Con il freddo il polline lavora male e i fiori cadono senza frutto."
+     ],
+     [
+      "🍆",
+      "In etichetta",
+      "Gibaifar su melanzana e pomodoro aumenta il numero di fiori e di frutti e la loro pezzatura."
+     ]
     ]
    },
    {
@@ -91,7 +126,7 @@
     "tag": "Quando e quanto",
     "titolo": "Gibaifar",
     "foto": "gibaifar",
-    "etichetta": "Dose · pomodoro e melanzana",
+    "etichetta": "Dose · melanzana e pomodoro",
     "valore": "25–100 ml/hl",
     "nota": "da inizio fioritura a inizio maturazione · max 3 trattamenti l'anno, ogni 7 giorni",
     "punti": [
@@ -134,8 +169,8 @@
   "slide": [
    {
     "tipo": "copertina",
-    "tag": "Orticole · radici e germogli",
-    "titolo": "Pianta che <em>non parte?</em>",
+    "tag": "Zucchina · dopo il trapianto",
+    "titolo": "Zucchine che <em>non partono?</em>",
     "sotto": "Cytokin: estratti vegetali che spingono la pianta a <span>produrre citochinine, per radici e germogli.</span>",
     "foto": "cytokin",
     "box": "Cosa sono le citochinine e quando darle. Scorri."
@@ -145,9 +180,21 @@
     "tag": "Come lavora",
     "titolo": "Il segnale <em>che fa crescere.</em>",
     "voci": [
-     ["🌱", "Più divisione cellulare", "Le citochinine fanno moltiplicare le cellule di radici e gemme."],
-     ["🍃", "Foglie verdi più a lungo", "Rallentano l'invecchiamento di foglie e frutti."],
-     ["🌿", "Germogli laterali", "Frenano la dominanza della cima: la pianta si apre."]
+     [
+      "🌱",
+      "Più divisione cellulare",
+      "Le citochinine fanno moltiplicare le cellule di radici e gemme."
+     ],
+     [
+      "🍃",
+      "Foglie verdi più a lungo",
+      "Rallentano l'invecchiamento di foglie e frutti."
+     ],
+     [
+      "🌿",
+      "Germogli laterali",
+      "Frenano la dominanza della cima: la pianta si apre."
+     ]
     ]
    },
    {
@@ -155,12 +202,12 @@
     "tag": "Quando e quanto",
     "titolo": "Cytokin",
     "foto": "cytokin",
-    "etichetta": "Dose · fertirrigazione",
-    "valore": "1 l/ha",
-    "nota": "pomodoro: dopo il trapianto, all'attecchimento",
+    "etichetta": "Dose · zucchina e cucurbitacee",
+    "valore": "0,4–0,6 l/ha",
+    "nota": "per foglia, circa 2 settimane dopo il trapianto",
     "punti": [
-     "Melanzana e peperone: 1 l/ha dalla 3ª alla 5ª foglia, poi in fioritura ogni 14–21 giorni",
-     "Cucurbitacee: 0,4–0,6 l/ha per foglia, circa 2 settimane dopo il trapianto"
+     "Sulle cucurbitacee la scheda lo lega alla comparsa dei fiori femminili",
+     "Sulle cucurbitacee si può dare anche per radice"
     ],
     "fonte": "Da scheda tecnica."
    },
@@ -173,7 +220,7 @@
      "Decide l'equilibrio con l'auxina: più auxina fa radici, più citochinine fanno germogli",
      "Le citochinine richiamano zuccheri e nutrienti verso i tessuti dove si trovano: così tengono vive foglie e frutti"
     ],
-    "chiusa": "Passa al banco di Studio 4: ti aiutiamo a far partire bene il trapianto.",
+    "chiusa": "Passa al banco di Studio 4: ti aiutiamo a far partire bene le zucchine.",
     "fonte": "Scheda tecnica e fisiologia vegetale."
    }
   ]
@@ -186,8 +233,8 @@
   "slide": [
    {
     "tipo": "copertina",
-    "tag": "Orticole · magnesio",
-    "titolo": "Foglie basse gialle <em>tra le nervature?</em>",
+    "tag": "Pomodoro · magnesio",
+    "titolo": "Pomodoro con foglie gialle <em>tra le nervature?</em>",
     "sotto": "Magnitron: nitrato di magnesio solubile, <span>magnesio e azoto pronti.</span>",
     "foto": "magnitron",
     "box": "Perché manca il magnesio e come rimediare. Scorri."
@@ -197,9 +244,21 @@
     "tag": "Il problema",
     "titolo": "Da dove nasce <em>la carenza.</em>",
     "voci": [
-     ["🍂", "Parte dal basso", "Il magnesio si sposta: la pianta lo toglie alle foglie vecchie per darlo a quelle nuove e ai frutti."],
-     ["🧂", "Troppo potassio", "Potassio, calcio e ammonio competono con il magnesio quando la radice assorbe."],
-     ["🍅", "Carica di frutti", "Quando i frutti ingrossano, le foglie vicino ai grappoli ingialliscono per prime."]
+     [
+      "🍂",
+      "Parte dal basso",
+      "Il magnesio si sposta: la pianta lo toglie alle foglie vecchie per darlo a quelle nuove e ai frutti."
+     ],
+     [
+      "🧂",
+      "Troppo potassio",
+      "Potassio, calcio e ammonio competono con il magnesio quando la radice assorbe."
+     ],
+     [
+      "🍅",
+      "Carica di frutti",
+      "Quando i frutti ingrossano, le foglie vicino ai grappoli ingialliscono per prime."
+     ]
     ]
    },
    {
@@ -238,8 +297,8 @@
   "slide": [
    {
     "tipo": "copertina",
-    "tag": "Orticole · trapianto e allegagione",
-    "titolo": "Trapianto lento, <em>fiori che non legano?</em>",
+    "tag": "Pomodoro · trapianto e allegagione",
+    "titolo": "Pomodoro fermo <em>e foglie viola?</em>",
     "sotto": "Sol-U-Gro 12-48-8: fosforo per foglia <span>quando la radice non ce la fa.</span>",
     "foto": "solugro",
     "box": "Perché d'inverno il fosforo non arriva e come darlo. Scorri."
@@ -249,9 +308,21 @@
     "tag": "Il problema",
     "titolo": "Il fosforo c'è, <em>ma non arriva.</em>",
     "voci": [
-     ["❄️", "Terreno freddo", "Con il terreno freddo la radice assorbe poco fosforo, anche se nel terreno c'è."],
-     ["🌱", "Radici giovani", "Dopo il trapianto le radici sono poche: il fosforo si muove poco e non le raggiunge."],
-     ["🟣", "Foglie violacee", "Il segnale classico: pagina sotto della foglia viola e pianta ferma."]
+     [
+      "❄️",
+      "Terreno freddo",
+      "Con il terreno freddo la radice assorbe poco fosforo, anche se nel terreno c'è."
+     ],
+     [
+      "🌱",
+      "Radici giovani",
+      "Dopo il trapianto le radici sono poche: il fosforo si muove poco e non le raggiunge."
+     ],
+     [
+      "🟣",
+      "Foglie violacee",
+      "Nel pomodoro è il segnale classico: pagina sotto della foglia viola e pianta ferma."
+     ]
     ]
    },
    {
@@ -259,9 +330,21 @@
     "tag": "Cosa contiene",
     "titolo": "Quasi metà <em>è fosforo.</em>",
     "voci": [
-     ["🔥", "Fosforo 48%", "Per superare la crisi di trapianto e favorire l'allegagione."],
-     ["🧪", "Azoto 12% senza urea", "Ammoniacale e nitrico."],
-     ["⚙️", "Microelementi", "Boro e molibdeno; ferro, manganese, zinco e rame chelati."]
+     [
+      "🔥",
+      "Fosforo 48%",
+      "Per superare la crisi di trapianto e favorire l'allegagione."
+     ],
+     [
+      "🧪",
+      "Azoto 12% senza urea",
+      "Ammoniacale e nitrico."
+     ],
+     [
+      "⚙️",
+      "Microelementi",
+      "Boro e molibdeno; ferro, manganese, zinco e rame chelati."
+     ]
     ]
    },
    {
@@ -269,7 +352,7 @@
     "tag": "Quando e quanto",
     "titolo": "Sol-U-Gro 12-48-8",
     "foto": "solugro",
-    "etichetta": "Dose · orticole, per foglia",
+    "etichetta": "Dose · pomodoro e orticole, per foglia",
     "valore": "2,3–4,6 kg/ha",
     "nota": "ogni 7–14 giorni · in serra le dosi più basse",
     "punti": [
@@ -301,7 +384,7 @@
   "slide": [
    {
     "tipo": "copertina",
-    "tag": "Serre · film plastico",
+    "tag": "Serre di pomodoro · film plastico",
     "titolo": "Film che vola <em>o si strappa?</em>",
     "sotto": "Clip per film serra Ø 32 mm: <span>blocchi il film sul tubo senza bucarlo.</span>",
     "foto": "clip",
@@ -312,9 +395,21 @@
     "tag": "Il problema",
     "titolo": "Il film non cede <em>a caso.</em>",
     "voci": [
-     ["🕳️", "Ogni buco è un punto debole", "Chiodi e punti concentrano lo sforzo: lo strappo parte quasi sempre da lì."],
-     ["🚩", "Film lento", "Se sbatte col vento, si consuma proprio dove è fissato."],
-     ["🌡️", "Caldo e freddo", "Il film si allunga di giorno e si ritira di notte: i fissaggi lavorano sempre."]
+     [
+      "🕳️",
+      "Ogni buco è un punto debole",
+      "Chiodi e punti concentrano lo sforzo: lo strappo parte quasi sempre da lì."
+     ],
+     [
+      "🚩",
+      "Film lento",
+      "Se sbatte col vento, si consuma proprio dove è fissato."
+     ],
+     [
+      "🌡️",
+      "Caldo e freddo",
+      "Il film si allunga di giorno e si ritira di notte: i fissaggi lavorano sempre."
+     ]
     ]
    },
    {
@@ -355,7 +450,7 @@
   "slide": [
    {
     "tipo": "copertina",
-    "tag": "Serre · tutoraggio",
+    "tag": "Pomodoro · tutoraggio",
     "titolo": "Piante che cadono <em>sotto il peso?</em>",
     "sotto": "Spago agricolo in polipropilene Tit. 1500: <span>per legare e tutorare in serra.</span>",
     "foto": "spago",
@@ -366,9 +461,21 @@
     "tag": "Il problema",
     "titolo": "Perché <em>la pianta cede.</em>",
     "voci": [
-     ["🍅", "Il peso cresce col ciclo", "Ogni grappolo che si carica aggiunge peso allo stelo e allo spago."],
-     ["🌞", "Sole e caldo", "I raggi UV invecchiano la plastica: lo spago lasciato al sole perde resistenza."],
-     ["🪢", "Nodi stretti", "Un nodo stretto sullo stelo lo strozza quando la pianta ingrossa."]
+     [
+      "🍅",
+      "Il peso cresce col ciclo",
+      "Ogni grappolo che si carica aggiunge peso allo stelo e allo spago."
+     ],
+     [
+      "🌞",
+      "Sole e caldo",
+      "I raggi UV invecchiano la plastica: lo spago lasciato al sole perde resistenza."
+     ],
+     [
+      "🪢",
+      "Nodi stretti",
+      "Un nodo stretto sullo stelo lo strozza quando la pianta ingrossa."
+     ]
     ]
    },
    {
