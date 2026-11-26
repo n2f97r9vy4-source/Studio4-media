@@ -6,9 +6,12 @@ Tutti i dati vengono dalle due etichette ministeriali (Fortezza reg. 15119, vali
 Vertimec EC reg. 8795, valida dal 03/01/2024), lette nel Prontuario del banco il 26/11/2026.
 
 Regole seguite: nessun nome di produttore, nessun giudizio su quale funzioni meglio: solo dati d'etichetta.
-Decisioni di Valerio del 26/11: si dice "molto simili" (non "quasi uguali" e nemmeno "uguali": le percentuali
-differiscono di qualche centesimo); sul prezzo si dice solo quale costa meno, senza cifre ("meno della metà":
-a listino nel Prontuario, export del gestionale del 23/10/2026, vale sia per 1 litro sia per 5 litri).
+Decisioni di Valerio del 26/11: in titolo e testi si scrive "stesso principio attivo" (è scritto così su tutte e due
+le etichette); niente "quasi uguali", "uguali" o "molto simili" riferito ai due prodotti (le percentuali differiscono
+di qualche centesimo); sul prezzo si dice solo quale costa meno, senza cifre ("meno della metà": a listino nel
+Prontuario, export del gestionale del 23/10/2026, vale sia per 1 litro sia per 5 litri).
+"Stessa dose" si scrive sempre insieme alle colture a cui si riferisce (pomodoro, peperone, melanzana, cetriolo,
+melone): su fragola le dosi delle due etichette sono diverse.
 Fonti del "Lo sapevi?" (archivio interno, non vanno nei post):
 - IRAC, MoA Classification, ed. 11.5 (febbraio 2026): gruppo 6 = avermectine e milbemicine (abamectina,
   emamectina benzoato, milbemectina); la rotazione si basa solo sul numero di gruppo.
@@ -32,17 +35,17 @@ F, V = "Fortezza", "Vertimec EC"
 # ---------------------------------------------------------------- contenuti
 COPERTINA = {
     "tag": "Abamectina a confronto",
-    "titolo": "Molto simili.<br><em>Prezzo diverso.</em>",
+    "titolo": "Stesso principio attivo.<br><em>Prezzo diverso.</em>",
     "sotto": "Fortezza e<br>Vertimec&nbsp;EC:<br><span>abamectina 18&nbsp;g/l</span><br>contro ragnetto rosso, tripidi e minatrici in&nbsp;serra.",
-    "box": "Stessa sostanza attiva, stessa dose. E uno costa meno della metà. Scorri.",
+    "box": "Stessa dose sulle orticole in comune. E uno costa meno della metà. Scorri.",
 }
 
 UGUALI = {
     "tag": "Cosa hanno in comune",
-    "titolo": "Stessa sostanza,<br><em>stessa dose.</em>",
-    "voci": [("Sostanza attiva", "Abamectina"), ("Concentrazione", "18 g/l"),
+    "titolo": "Stesso principio attivo,<br><em>stessa dose.</em>",
+    "voci": [("Principio attivo", "Abamectina"), ("Concentrazione", "18 g/l"),
              ("Formulazione (EC)", "Emulsionabile"), ("Gruppo IRAC", "6 · avermectine")],
-    "dose_su": "Dose sulle colture in comune",
+    "dose_su": "Dose sulle orticole in comune",
     "colture": "Pomodoro, peperone, melanzana, cetriolo, melone",
     "dosi": [("60 ml/hl", "Ragnetto rosso ed eriofide"), ("75 ml/hl", "Larve di tripide"),
              ("60 ml/hl", "Minatrici, 2 volte ogni 7–10 giorni")],
@@ -80,7 +83,7 @@ PRATICA = {
     ],
     "prezzo": ["🏷️", f"{F} costa meno della metà",
                "Al nostro banco, a parità di confezione. Dove dose e carenza coincidono, come sul pomodoro, è il prezzo a fare la differenza."],
-    "chiusa": "Stessa sostanza: vale l'etichetta della confezione che usi.",
+    "chiusa": "Vale sempre l'etichetta della confezione che usi.",
     "fonte": "Da etichetta.",
 }
 
@@ -98,14 +101,14 @@ SAPEVI = {
     "fonte": "Etichette e letteratura scientifica.",
 }
 
-DIDASCALIA = f"""{F} e {V}: molto simili, prezzo diverso 🕷️
-Tutti e due sono abamectina a 18 g/l (IRAC 6), concentrato emulsionabile, solo per serre permanenti. Su pomodoro, peperone, melanzana, cetriolo e melone la dose è la stessa: 60 ml/hl contro ragnetto rosso ed eriofide, 75 ml/hl sulle larve di tripide, 60 ml/hl sulle minatrici in 2 applicazioni ogni 7–10 giorni.
+DIDASCALIA = f"""{F} e {V}: stesso principio attivo, prezzo diverso 🕷️
+Tutti e due sono a base di abamectina a 18 g/l (IRAC 6), concentrato emulsionabile, e sulle orticole si usano solo in serre permanenti. Su pomodoro, peperone, melanzana, cetriolo e melone la dose è la stessa: 60 ml/hl contro ragnetto rosso ed eriofide, 75 ml/hl sulle larve di tripide, 60 ml/hl sulle minatrici in 2 applicazioni ogni 7–10 giorni.
 
 ⚠️ Quello che cambia è l'etichetta. Zucchino, cocomero, zucca e lattughe sono solo su {V}. Su melanzana e fragola la carenza è 7 giorni con {F} e 3 con {V}. Da novembre a febbraio l'etichetta di {V} non lo ammette su peperone, cucurbitacee, fragola e lattughe; quella di {F} non ha questo limite. Cambiano anche le regole per i bombi.
 
 💡 Lo sapevi? Passare dall'uno all'altro non è una rotazione: stessa molecola, stesso gruppo 6, come emamectina e milbemectina. Se il ragnetto non risponde più all'abamectina, cambiare marca non serve: serve cambiare gruppo.
 
-Sul pomodoro dose e carenza coincidono: lì la differenza la fa il prezzo. Al nostro banco, a parità di confezione, {F} costa meno della metà di {V}. Salva la tabella e passa al banco di Studio 4, a Vittoria: ti diciamo quale conviene sulla tua coltura 👇
+Sul pomodoro dose e carenza coincidono: lì la differenza la fa soprattutto il prezzo. Al nostro banco, a parità di confezione, {F} costa meno della metà di {V}. Salva la tabella e passa al banco di Studio 4, a Vittoria: ti diciamo quale conviene sulla tua coltura 👇
 
 {k.DISC}
 
@@ -115,7 +118,7 @@ Sul pomodoro dose e carenza coincidono: lì la differenza la fa il prezzo. Al no
 # ---------------------------------------------------------------- stile in più (solo per le tre slide su misura)
 CSS_EXTRA = """
 .c2{position:absolute;left:80px;right:80px;top:140px;bottom:70px;display:flex;flex-direction:column;gap:26px}
-.c2 h1{font-size:100px}
+.c2 h1{font-size:82px}
 .c2mid{flex:1;min-height:0;display:flex;gap:28px}
 .c2txt{flex:1;min-width:0;display:flex;flex-direction:column;justify-content:center}
 .c2txt .cvsub{font-size:42px}
