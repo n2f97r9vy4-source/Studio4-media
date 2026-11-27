@@ -1,0 +1,77 @@
+[
+ {
+  "id": "fengib",
+  "video": true,
+  "fito": true,
+  "colore": "viola",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Peperone · allegagione",
+    "titolo": "Peperoni che perdono <em>i fiori?</em>",
+    "sotto": "Fengib: gibberellina + auxina per <span>allegagione e frutti uniformi.</span>",
+    "foto": "fengib",
+    "box": "Perché il peperone non lega e cosa fare. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Il problema",
+    "titolo": "Perché il fiore <em>cade senza legare.</em>",
+    "voci": [
+     ["🌙", "Notti fredde", "Sotto i 12–15 °C il polline del peperone germina male: il fiore non viene fecondato."],
+     ["🔥", "Caldo forte", "Oltre i 32 °C di giorno la pianta lascia cadere fiori e frutticini."],
+     ["🫑", "Troppi frutti in carica", "I primi peperoni tirano gli zuccheri: i fiori nuovi cascano e la pianta lega a ondate."]
+    ]
+   },
+   {
+    "tipo": "schede",
+    "tag": "Come lavora",
+    "titolo": "Due ormoni, <em>due segnali diversi.</em>",
+    "voci": [
+     ["🌸", "Gibberellina (GA3)", "Stimola l'induzione fiorale: è il segnale che spinge la pianta a fiorire."],
+     ["🫑", "Auxina (MCPA)", "Dà al fiore il segnale di allegare e partire come frutto."],
+     ["📏", "Il risultato in etichetta", "Frutti di dimensione maggiore e di pezzatura più uniforme."]
+    ]
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Fengib",
+    "foto": "fengib",
+    "etichetta": "Dose · peperone e melanzana",
+    "valore": "30–50 ml/hl",
+    "nota": "1° intervento a inizio fioritura · 2° dopo 10 giorni · carenza 20 giorni",
+    "punti": [
+     "5–10 ettolitri d'acqua a ettaro",
+     "Bagnare i fiori, non la pianta intera"
+    ],
+    "fonte": "Da etichetta e scheda tecnica."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "4 dettagli <em>che fanno la differenza.</em>",
+    "punti": [
+     "Usa la miscela subito dopo averla preparata: non lasciarla nella botte",
+     "Tratta nelle ore fresche della giornata",
+     "In pieno campo, se piovono più di 10 mm entro 6 ore, il trattamento va ripetuto",
+     "Niente fosetil-alluminio né aminoacidi in miscela; un bagnante invece aiuta"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Il peperone cresce quanto i suoi semi.",
+    "grande": "Sono i semi a produrre gli ormoni che fanno ingrossare la bacca: pochi semi, peperone piccolo e storto.",
+    "piccolo": "Con le notti fredde il polline lavora male e si legano frutti con pochi semi. Un allegante porta dall'esterno lo stesso tipo di segnali: gibberelline e auxine.",
+    "punti": [
+     "A 40 ml per ettolitro, in ogni litro di miscela ci sono 2 mg di gibberellina e 4 mg di MCPA: per questo si bagnano solo i fiori",
+     "La gibberellina si degrada in acqua alcalina: con pH alto perde forza mentre aspetta in botte. Ecco perché l'etichetta dice di usarla subito"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti aiutiamo a impostare l'allegagione.",
+    "fonte": "Etichetta e fisiologia vegetale."
+   }
+  ]
+ }
+]

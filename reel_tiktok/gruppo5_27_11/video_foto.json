@@ -1,0 +1,561 @@
+[
+ {
+  "id": "sealife",
+  "colore": "petrolio",
+  "fito": false,
+  "prodotto": "sealife",
+  "tag": "Alghe · biostimolante",
+  "foto_a": {
+   "file": "alga_ascophyllum.jpg",
+   "pos": "50% 55%",
+   "credito": "Foto: Paul Brazier · CC BY 4.0 · iNaturalist"
+  },
+  "aggancio": "Cosa c'entra quest'alga <em>con le tue piante?</em>",
+  "invito": "Guarda dove vive 👇",
+  "domanda": "Dove vive quest'alga, l'Ascophyllum?",
+  "opzioni": [
+   "Sul fondo del mare, sempre sott'acqua",
+   "Sugli scogli, tra alta e bassa marea"
+  ],
+  "giusta": 1,
+  "spiega": "Ogni giorno resta <b>ore all'asciutto</b>, al sole o al gelo. Per resistere accumula sostanze protettive: per queste la si estrae.",
+  "nome": "NRG Sea-Life",
+  "tipo": "Estratto concentrato di alghe",
+  "pregi": [
+   "Ripresa dopo gli stress",
+   "Fioritura e allegagione",
+   "Consentito in biologico"
+  ],
+  "foto_b": {
+   "file": "pomodoro_allegato.jpg",
+   "pos": "50% 50%",
+   "credito": "Foto: cristina.sanvito · CC BY 2.0 · Flickr",
+   "etichetta": "Tutte le colture · fogliare"
+  },
+  "dose": {
+   "etichetta": "Dose da etichetta · fogliare",
+   "valore": "1,5–3 kg/ha",
+   "nota": "secondo il bisogno e ogni quanto lo dai",
+   "punti": [
+    "Dalla semina o dal post trapianto in poi",
+    "Si può dare anche per via radicale",
+    "Non con prodotti alcalini né oli minerali"
+   ]
+  },
+  "chiusa": "Per far ripartire le tue piante passa al banco di <em>Studio 4, a Vittoria.</em>",
+  "commenti": "💬 Avevi risposto giusto? Scrivilo nei commenti."
+ },
+ {
+  "id": "taegro",
+  "colore": "azzurro",
+  "fito": true,
+  "prodotto": "taegro",
+  "tag": "Funghi · biologico",
+  "foto_a": {
+   "file": "oidio_pomodoro.jpg",
+   "pos": "50% 45%",
+   "credito": "Foto: Katharine Khamhaengwong · CC BY 4.0 · iNaturalist"
+  },
+  "aggancio": "Quanti batteri servono <em>contro l'oidio?</em>",
+  "invito": "Indovina il numero 👇",
+  "domanda": "Quanti batteri ci sono in una busta da 370 g?",
+  "opzioni": [
+   "3,7 milioni",
+   "3,7 miliardi",
+   "3.700 miliardi"
+  ],
+  "giusta": 2,
+  "spiega": "Almeno <b>10 miliardi di spore per grammo</b>. Sono vive: sole, cloro e caldo le rovinano.",
+  "nome": "Taegro",
+  "tipo": "Fungicida biologico",
+  "pregi": [
+   "Oidio e alternaria",
+   "Carenza 4 ore",
+   "Peperone, pomodoro, melanzana"
+  ],
+  "foto_b": {
+   "file": "peperone_pianta.jpg",
+   "pos": "50% 45%",
+   "credito": "Foto: Hey Paul Studios · CC BY 2.0 · Flickr",
+   "etichetta": "Peperone · in serra"
+  },
+  "dose": {
+   "etichetta": "Dose da etichetta · oidio e alternaria",
+   "valore": "185–370 g/ha",
+   "nota": "in 180–1000 litri d'acqua per ettaro",
+   "punti": [
+    "Ogni 3–5 giorni, massimo 12 trattamenti",
+    "A fine giornata: gli UV rovinano le spore",
+    "Acqua non trattata con cloro, pH tra 5 e 8"
+   ]
+  },
+  "chiusa": "Per la difesa da oidio e alternaria passa al banco di <em>Studio 4, a Vittoria.</em>",
+  "commenti": "💬 Avevi indovinato il numero? Scrivilo nei commenti."
+ },
+ {
+  "id": "t34",
+  "colore": "giallo",
+  "fito": true,
+  "prodotto": "t34",
+  "tag": "Radice · biologico",
+  "foto_a": {
+   "file": "trichoderma_macro.jpg",
+   "pos": "42% 50%",
+   "credito": "Trichoderma su legno · Foto: Joss Carr · CC BY 4.0 · iNaturalist"
+  },
+  "aggancio": "Una muffa verde <em>che difende la radice?</em>",
+  "invito": "Sai quando si dà? 👇",
+  "domanda": "È un Trichoderma: quando va dato?",
+  "opzioni": [
+   "Quando vedi il marciume",
+   "Dal trapianto, in prevenzione"
+  ],
+  "giusta": 1,
+  "spiega": "È un <b>fungo antagonista</b>: occupa lo spazio attorno alla radice e toglie nutrienti al Pythium. Deve arrivare prima lui.",
+  "nome": "T34 Biocontrol",
+  "tipo": "Fungicida biologico per la radice",
+  "pregi": [
+   "Marciumi del colletto",
+   "In frigo a 4 °C",
+   "Solanacee e cucurbitacee in serra"
+  ],
+  "foto_b": {
+   "file": "trapianto_mani.jpg",
+   "pos": "50% 50%",
+   "credito": "Foto: Media Mike Hazard · CC BY 2.0 · Flickr",
+   "etichetta": "Al trapianto"
+  },
+  "dose": {
+   "etichetta": "Dose da etichetta · ortaggi in serra",
+   "valore": "10 g / 1000 vasi",
+   "nota": "vasi da 1 litro, con l'irrigazione",
+   "punti": [
+    "Oppure 5 g + 5 g a una settimana",
+    "Da ripetere dopo 2–3 mesi e a ogni stress",
+    "Nella penultima irrigazione del giorno"
+   ]
+  },
+  "chiusa": "Per difendere la radice dal trapianto passa al banco di <em>Studio 4, a Vittoria.</em>",
+  "commenti": "💬 Lo usi già al trapianto? Scrivilo nei commenti."
+ },
+ {
+  "id": "score",
+  "colore": "smeraldo",
+  "fito": true,
+  "prodotto": "score",
+  "tag": "Funghi · sistemico",
+  "foto_a": {
+   "file": "alternaria_pomodoro.jpg",
+   "pos": "50% 50%",
+   "credito": "Foto: Bryan Rennick · CC BY 4.0 · iNaturalist"
+  },
+  "aggancio": "Macchie scure <em>con gli anelli dentro?</em>",
+  "invito": "Sai che cos'è? 👇",
+  "domanda": "Macchie ad anelli, come un bersaglio: che cos'è?",
+  "opzioni": [
+   "Peronospora",
+   "Alternaria",
+   "Cladosporiosi"
+  ],
+  "giusta": 1,
+  "spiega": "È l'<b>alternaria</b>: cerchi uno dentro l'altro e alone giallo. Parte dalle foglie più vecchie.",
+  "nome": "Score 25 EC",
+  "tipo": "Fungicida sistemico",
+  "pregi": [
+   "Alternaria, cladosporiosi, oidio",
+   "Pomodoro e melanzana",
+   "Azione curativa"
+  ],
+  "foto_b": {
+   "file": "pomodoro_rosso.jpg",
+   "pos": "40% 50%",
+   "credito": "Foto: Serge Melki · CC BY 2.0 · Flickr",
+   "etichetta": "Pomodoro · serra e campo"
+  },
+  "dose": {
+   "etichetta": "Dose da etichetta · pomodoro",
+   "valore": "40–50 ml/hl",
+   "nota": "pari a 0,4–0,5 litri per ettaro",
+   "punti": [
+    "Massimo 3 trattamenti, ogni 7 giorni",
+    "Carenza: 3 giorni in serra, 7 in campo",
+    "Alternalo con fungicidi di altri gruppi"
+   ]
+  },
+  "chiusa": "Per la difesa del pomodoro passa al banco di <em>Studio 4, a Vittoria.</em>",
+  "commenti": "💬 L'avevi riconosciuta? Scrivilo nei commenti."
+ },
+ {
+  "id": "verimark",
+  "colore": "indaco",
+  "fito": true,
+  "prodotto": "verimark",
+  "tag": "Insetti · fuori suolo",
+  "foto_a": {
+   "file": "tuta_frutti.jpg",
+   "pos": "20% 50%",
+   "credito": "Foto: Henry Van T. Cotter · CC BY 4.0 · iNaturalist"
+  },
+  "aggancio": "Contro la Tuta c'è un insetticida <em>che non si spruzza.</em>",
+  "invito": "Sai come si dà? 👇",
+  "domanda": "Come si dà, allora?",
+  "opzioni": [
+   "Fumigando la serra",
+   "A goccia, con l'irrigazione",
+   "In granuli nel terreno"
+  ],
+  "giusta": 1,
+  "spiega": "Si dà <b>a goccia</b>: la radice lo assorbe e la larva lo ingerisce mangiando la foglia.",
+  "nome": "Verimark",
+  "tipo": "Insetticida per il fuori suolo",
+  "pregi": [
+   "Tuta e nottue",
+   "Mosche bianche",
+   "Carenza 1 giorno"
+  ],
+  "foto_b": {
+   "file": "serra_pomodoro.jpg",
+   "pos": "50% 50%",
+   "credito": "Foto: Scott McMurren · CC BY 2.0 · Flickr",
+   "etichetta": "Pomodoro · fuori suolo in serra"
+  },
+  "dose": {
+   "etichetta": "Dose da etichetta · a goccia",
+   "valore": "375–500 ml/ha",
+   "nota": "nel primo terzo del turno irriguo",
+   "punti": [
+    "Ogni 7–10 giorni, dalle prime ovideposizioni",
+    "Massimo 4 l'anno, non più di 2 di fila",
+    "Solo fuori suolo, in serra"
+   ]
+  },
+  "chiusa": "Per la difesa dalla Tuta passa al banco di <em>Studio 4, a Vittoria.</em>",
+  "commenti": "💬 Avevi risposto giusto? Scrivilo nei commenti."
+ },
+ {
+  "id": "radimix",
+  "colore": "oliva",
+  "fito": false,
+  "prodotto": "radimix",
+  "tag": "Radice · microrganismi",
+  "apertura": "scheda",
+  "foto_a": {
+   "file": "terreno_radici.jpg",
+   "pos": "50% 50%",
+   "credito": "Foto: C. Ulitsky, USDA-NRCS · CC BY 2.0 · Flickr"
+  },
+  "aggancio": "Da dove viene <em>l'odore di terra bagnata?</em>",
+  "invito": "C'entra con la radice 👇",
+  "domanda": "Chi fa l'odore di terra bagnata?",
+  "opzioni": [
+   "L'acqua della pioggia",
+   "Un batterio del terreno"
+  ],
+  "giusta": 1,
+  "spiega": "Sono gli <b>Streptomyces</b>: producono la geosmina. Uno di loro lavora per la radice in Radimix.",
+  "nome": "Radimix",
+  "tipo": "Micorrize e batteri della rizosfera",
+  "pregi": [
+   "Sviluppo della radice",
+   "Dopo il trapianto",
+   "Consentito in biologico"
+  ],
+  "foto_b": {
+   "file": "pomodoro_ciliegino.jpg",
+   "pos": "50% 45%",
+   "credito": "Foto: The Great Walter · CC BY 4.0 · iNaturalist",
+   "etichetta": "Tutte le colture · fertirrigazione"
+  },
+  "dose": {
+   "etichetta": "Dose da etichetta · al trapianto",
+   "valore": "200–300 g",
+   "nota": "ogni 1000 m², in fertirrigazione",
+   "punti": [
+    "Da ripetere dopo 15–20 giorni",
+    "Non con fungicidi, insetticidi, erbicidi",
+    "Sono vivi: tienilo tra 4 e 25 °C"
+   ]
+  },
+  "chiusa": "Per una radice che riparte passa al banco di <em>Studio 4, a Vittoria.</em>",
+  "commenti": "💬 Lo sapevi? Scrivilo nei commenti."
+ },
+ {
+  "id": "mittex",
+  "colore": "blu",
+  "fito": false,
+  "prodotto": "mittex",
+  "tag": "Biostimolante · in polvere",
+  "foto_a": {
+   "file": "trichoderma_colonie.jpg",
+   "pos": "50% 50%",
+   "credito": "Trichoderma su legno · Foto: Beau Meister · CC BY 4.0 · iNaturalist"
+  },
+  "aggancio": "Da questa muffa verde <em>nasce un biostimolante.</em>",
+  "invito": "Ma il fungo c'è? 👇",
+  "domanda": "Dentro Procrop Mittex c'è il fungo vivo?",
+  "opzioni": [
+   "Sì, è Trichoderma vivo",
+   "No, c'è quello che produce"
+  ],
+  "giusta": 1,
+  "spiega": "Il Trichoderma cresce in fermentatore: nel sacchetto restano <b>le sostanze che ha prodotto</b>, non il fungo.",
+  "nome": "Procrop Mittex",
+  "tipo": "Biostimolante in polvere",
+  "pregi": [
+   "Crescita e qualità dei frutti",
+   "Fogliare, 1 kg per ettaro",
+   "Utilizzabile in biologico"
+  ],
+  "foto_b": {
+   "file": "fiore_pomodoro_macro.jpg",
+   "pos": "60% 45%",
+   "credito": "Foto: Ellyne Geurts · CC0 · iNaturalist",
+   "etichetta": "Colture ortive · in fioritura"
+  },
+  "dose": {
+   "etichetta": "Dose da etichetta · fogliare",
+   "valore": "1 kg/ha",
+   "nota": "2 applicazioni, a 10 giorni di distanza",
+   "punti": [
+    "La prima in fioritura o a inizio massimo sviluppo",
+    "La seconda 10 giorni dopo",
+    "Niente rame o fungicidi nei giorni prima"
+   ]
+  },
+  "chiusa": "Per frutti di qualità passa al banco di <em>Studio 4, a Vittoria.</em>",
+  "commenti": "💬 Avevi risposto giusto? Scrivilo nei commenti."
+ },
+ {
+  "id": "portento",
+  "colore": "verde",
+  "fito": true,
+  "prodotto": "portentosl",
+  "tag": "Funghi · biologico",
+  "foto_a": {
+   "file": "oidio_cucurbitacea.jpg",
+   "pos": "50% 45%",
+   "credito": "Foto: T. Pedro Hafermann · CC0 · iNaturalist"
+  },
+  "aggancio": "Raccogli ogni giorno <em>e l'oidio avanza?</em>",
+  "invito": "Prima rispondi a questa 👇",
+  "domanda": "Per infettare, l'oidio vuole la foglia bagnata?",
+  "opzioni": [
+   "Sì, come gli altri funghi",
+   "No, gli basta l'aria umida"
+  ],
+  "giusta": 1,
+  "spiega": "Le sue spore germinano <b>senza acqua</b>: per questo esplode anche in serra asciutta.",
+  "nome": "Portento SL",
+  "tipo": "Fungicida biologico",
+  "pregi": [
+   "Oidio dello zucchino",
+   "Serra e pieno campo",
+   "Intervallo pre-raccolta: non necessario"
+  ],
+  "foto_b": {
+   "file": "zucchino_pianta.jpg",
+   "pos": "50% 40%",
+   "credito": "Foto: L. Ockels, UD Cooperative Extension · CC BY 2.0 · Flickr",
+   "etichetta": "Zucchino · serra e campo"
+  },
+  "dose": {
+   "etichetta": "Dose da etichetta · oidio",
+   "valore": "1–3 l/ha",
+   "nota": "in 500–1000 litri d'acqua per ettaro",
+   "punti": [
+    "Ogni 5–7 giorni",
+    "Massimo 5 applicazioni",
+    "In prevenzione, prima dei sintomi"
+   ]
+  },
+  "chiusa": "Per la difesa dall'oidio passa al banco di <em>Studio 4, a Vittoria.</em>",
+  "commenti": "💬 Avevi risposto giusto? Scrivilo nei commenti."
+ },
+ {
+  "id": "oroquin",
+  "colore": "arancio",
+  "fito": true,
+  "prodotto": "oroquin",
+  "tag": "Insetti e funghi · biologico",
+  "foto_a": {
+   "file": "mosca_bianca.jpg",
+   "pos": "58% 50%",
+   "credito": "Foto: Mike Bowie · CC BY 4.0 · iNaturalist"
+  },
+  "aggancio": "Buccia d'arancia <em>contro la mosca bianca?</em>",
+  "invito": "Sai come agisce? 👇",
+  "domanda": "Come agisce l'olio d'arancio sull'insetto?",
+  "opzioni": [
+   "Lo avvelena",
+   "Lo secca"
+  ],
+  "giusta": 1,
+  "spiega": "Intacca lo strato ceroso che lo tiene idratato: <b>l'insetto si disidrata</b>. È un'azione fisica.",
+  "nome": "Oro-Quin",
+  "tipo": "Olio essenziale di arancio dolce",
+  "pregi": [
+   "Mosche bianche e tripidi",
+   "Anche contro l'oidio",
+   "Carenza 3 giorni"
+  ],
+  "foto_b": {
+   "file": "melanzana_campo.jpg",
+   "pos": "40% 50%",
+   "credito": "Foto: olmagon · CC BY 4.0 · iNaturalist",
+   "etichetta": "Melanzana · serra e campo"
+  },
+  "dose": {
+   "etichetta": "Dose da etichetta · melanzana",
+   "valore": "2–4 l/ha",
+   "nota": "mosche bianche 2 l/ha, tripidi 4 l/ha",
+   "punti": [
+    "Massimo 6 applicazioni per ciclo",
+    "Non in fioritura",
+    "Vegetazione asciutta, senza bagnanti"
+   ]
+  },
+  "chiusa": "Contro la mosca bianca passa al banco di <em>Studio 4, a Vittoria.</em>",
+  "commenti": "💬 Lo sapevi? Scrivilo nei commenti."
+ },
+ {
+  "id": "synext",
+  "colore": "studio4",
+  "fito": false,
+  "prodotto": "synext",
+  "tag": "Microelementi · chelati",
+  "foto_a": {
+   "file": "foglie_gialle_peperone.jpg",
+   "pos": "50% 60%",
+   "credito": "Foto: Afsar Nayakkan · CC BY 4.0 · iNaturalist"
+  },
+  "aggancio": "Foglie gialle? <em>Non è sempre ferro.</em>",
+  "invito": "Sai cos'altro può essere? 👇",
+  "domanda": "Foglie giovani gialle: se non è ferro, cosa manca?",
+  "opzioni": [
+   "Azoto",
+   "Manganese",
+   "Magnesio"
+  ],
+  "giusta": 1,
+  "spiega": "Azoto e magnesio partono dalle foglie vecchie. Il <b>manganese</b> dalle giovani e medie, con una fascia verde lungo le nervature.",
+  "nome": "Sy-Next",
+  "tipo": "Manganese e zinco chelati",
+  "pregi": [
+   "Con azoto e zolfo",
+   "Fogliare o al suolo",
+   "Chelato stabile da pH 4 a 9"
+  ],
+  "foto_b": {
+   "file": "zucchino_fiore.jpg",
+   "pos": "50% 40%",
+   "credito": "Foto: colincolincol · CC BY 4.0 · iNaturalist",
+   "etichetta": "Ortaggi · fogliare"
+  },
+  "dose": {
+   "etichetta": "Dose da etichetta · ortaggi",
+   "valore": "200–500 ml/hl",
+   "nota": "fogliare. Al suolo: 5–10 l/ha",
+   "punti": [
+    "Solo quando la carenza c'è davvero",
+    "Miscibile con concimi, rame e zolfo bagnabile",
+    "Non con prodotti molto acidi o alcalini"
+   ]
+  },
+  "chiusa": "Per capire cosa manca porta una foglia al banco di <em>Studio 4, a Vittoria.</em>",
+  "commenti": "💬 Avevi risposto giusto? Scrivilo nei commenti."
+ },
+ {
+  "id": "radicone",
+  "colore": "terracotta",
+  "fito": false,
+  "prodotto": "radicone",
+  "tag": "Radice · alghe e zinco",
+  "apertura": "scheda",
+  "foto_a": {
+   "file": "radici_piantina.jpg",
+   "pos": "62% 50%",
+   "credito": "Foto: gill.holgate · CC BY 2.0 · Flickr"
+  },
+  "aggancio": "Cosa c'entra lo zinco <em>con le radici?</em>",
+  "invito": "Prova a rispondere 👇",
+  "domanda": "Come riconosci una pianta con poco zinco?",
+  "opzioni": [
+   "Foglie grandi e scure",
+   "Foglie piccole, internodi corti"
+  ],
+  "giusta": 1,
+  "spiega": "Con poco zinco c'è <b>poca auxina</b>: l'ormone che allunga gli internodi e fa nascere le radici.",
+  "nome": "NRG Radic One",
+  "tipo": "Alghe, amminoacidi e zinco",
+  "pregi": [
+   "Più radice",
+   "Stress da trapianto e gelo",
+   "Consentito in biologico"
+  ],
+  "foto_b": {
+   "file": "peperone_verde.jpg",
+   "pos": "50% 45%",
+   "credito": "Foto: cristina.sanvito · CC BY 2.0 · Flickr",
+   "etichetta": "Ortaggi da frutto"
+  },
+  "dose": {
+   "etichetta": "Dose da etichetta · ortaggi da frutto",
+   "valore": "5–10 l/ha",
+   "nota": "a 7 giorni dal trapianto, 2 interventi",
+   "punti": [
+    "Da seme: a 15 giorni dalla semina",
+    "Fragola: 5 l/ha dal trapianto",
+    "Zinco chelato, stabile da pH 4 a 9"
+   ]
+  },
+  "chiusa": "Per far partire la radice passa al banco di <em>Studio 4, a Vittoria.</em>",
+  "commenti": "💬 Avevi risposto giusto? Scrivilo nei commenti."
+ },
+ {
+  "id": "falgro",
+  "colore": "viola",
+  "fito": true,
+  "prodotto": "falgro",
+  "tag": "Regolatore di crescita",
+  "foto_a": {
+   "file": "fiori_pomodoro.jpg",
+   "pos": "50% 45%",
+   "credito": "Foto: Jean-Paul Boerekamps · CC0 · iNaturalist"
+  },
+  "aggancio": "Per questi fiori <em>una compressa in 100 litri.</em>",
+  "invito": "Indovina quanto ormone c'è 👇",
+  "domanda": "Quanto ormone c'è in una compressa?",
+  "opzioni": [
+   "Circa 10 grammi",
+   "Circa 5 grammi",
+   "Meno di 1 grammo"
+  ],
+  "giusta": 2,
+  "spiega": "Sono 0,9 grammi: in 100 litri fanno circa <b>9 milligrammi per litro</b>. Gli ormoni lavorano a dosi minime.",
+  "nome": "Falgro Tablet",
+  "tipo": "Regolatore di crescita",
+  "pregi": [
+   "Acido gibberellico",
+   "Produzione precoce",
+   "Allegagione del pomodoro in serra"
+  ],
+  "foto_b": {
+   "file": "pomodoro_grappolo_verde.jpg",
+   "pos": "50% 50%",
+   "credito": "Foto: Stacy Spensley · CC BY 2.0 · Flickr",
+   "etichetta": "Pomodoro · in serra"
+  },
+  "dose": {
+   "etichetta": "Dose da etichetta · pomodoro in serra",
+   "valore": "1–2 compresse/hl",
+   "nota": "massimo 3 trattamenti a stagione",
+   "punti": [
+    "Alla prima fioritura del palco da far legare",
+    "Mattina presto o sera, con più umidità",
+    "Soluzione da usare subito, non lasciarla in botte"
+   ]
+  },
+  "chiusa": "Per l'allegagione del pomodoro passa al banco di <em>Studio 4, a Vittoria.</em>",
+  "commenti": "💬 Avevi indovinato? Scrivilo nei commenti."
+ }
+]

@@ -1,0 +1,203 @@
+[
+ {
+  "id": "signum",
+  "video": true,
+  "fito": true,
+  "colore": "verde",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Muffa grigia · Oidio",
+    "titolo": "Muffa grigia e oidio? <em>Giocali d'anticipo.</em>",
+    "sotto": "Signum: due fungicidi in un granulo, per <span>orticole, fragola e frutta.</span>",
+    "foto": "signum",
+    "box": "Come lavora e come usarlo bene. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Come lavora",
+    "titolo": "Due blocchi diversi <em>nello stesso granulo.</em>",
+    "voci": [
+     [
+      "🍄",
+      "Boscalid · FRAC 7",
+      "Blocca la respirazione del fungo in un punto della sua centrale energetica."
+     ],
+     [
+      "⚡",
+      "Piraclostrobin · FRAC 11",
+      "La blocca in un secondo punto: il fungo resta senza energia."
+     ],
+     [
+      "🛡️",
+      "Si usa prima",
+      "Va dato in via preventiva, nei periodi a rischio, prima che la malattia parta."
+     ]
+    ]
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Signum",
+    "foto": "signum",
+    "etichetta": "Dose da etichetta · pomodoro, peperone",
+    "valore": "100–150 g/hl",
+    "nota": "Ogni 7–10 giorni · massimo 3 l'anno · carenza 3 giorni",
+    "punti": [
+     "Botrite, oidio e cladosporiosi",
+     "In campo e in serra",
+     "Pressione alta o crescita rapida: dose alta, intervallo corto",
+     "Sotto 1.000 l/ha d'acqua si ragiona a ettaro"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Cambiare strobilurina non è alternare.",
+    "grande": "Una sola mutazione della botrite (G143A) la rende resistente a tutto il gruppo FRAC 11.",
+    "piccolo": "Azoxystrobin, trifloxystrobin, piraclostrobin: nomi diversi, stesso bersaglio nel fungo. Per alternare conta il gruppo FRAC, non il nome.",
+    "punti": [
+     "Anche contro il boscalid la botrite ha mutazioni note (H272R, H272Y)",
+     "Esistono ceppi con le due mutazioni insieme: resistenti a strobilurine e boscalid nello stesso momento",
+     "Per questo i 3 trattamenti l'anno contano tutti i prodotti con boscalid o strobilurine, non solo Signum"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti aiutiamo a costruire la rotazione.",
+    "fonte": "Etichetta e classificazione FRAC."
+   }
+  ]
+ },
+ {
+  "id": "affirm",
+  "video": true,
+  "fito": true,
+  "colore": "arancio",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Bruchi · Lepidotteri",
+    "titolo": "Bruchi che mangiano <em>foglie e frutti?</em>",
+    "sotto": "Affirm: il bruco <span>smette di nutrirsi.</span> Orticole, vite e frutta.",
+    "foto": "affirm",
+    "box": "Come agisce e quando usarlo. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Come lavora",
+    "titolo": "Blocca i nervi <em>della larva.</em>",
+    "voci": [
+     [
+      "🐛",
+      "Contatto e ingestione",
+      "Apre il canale del cloro nei nervi: la larva smette di mangiare e va in paralisi."
+     ],
+     [
+      "🍃",
+      "Entra nella foglia",
+      "Penetrante e translaminare: forma una riserva attiva dentro i tessuti da proteggere."
+     ],
+     [
+      "🎯",
+      "Solo lepidotteri",
+      "Nottue, tuta, piralide, plusia. Acari, afidi e mosca bianca richiedono altro."
+     ]
+    ]
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Affirm",
+    "foto": "affirm",
+    "etichetta": "Dose da etichetta · orticole",
+    "valore": "150 g/hl",
+    "nota": "Massimo 3 trattamenti l'anno · carenza 3 giorni",
+    "punti": [
+     "Alla schiusura delle uova o sulle larve giovani",
+     "Poi ogni 7–14 giorni; sulla tuta alle prime mine, ogni 7–10",
+     "Serra e pieno campo",
+     "Mai nelle ore calde o su foglie bagnate"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Le foglie nuove non sono protette.",
+    "grande": "Affirm entra nella foglia ma non viaggia nella pianta: la vegetazione cresciuta dopo il trattamento resta scoperta.",
+    "piccolo": "E la luce UV degrada la parte rimasta in superficie: a proteggere è la riserva entrata nei tessuti.",
+    "punti": [
+     "Serra in piena crescita? Prima di ripetere controlla le cime nuove: lì il bruco trova foglia non trattata",
+     "Nasce dall'abamectina ed è nello stesso gruppo IRAC 6: alternalo con gruppi diversi, non con l'abamectina",
+     "In etichetta vince la dose a ettaro, qualunque sia l'acqua in botte: con tanta acqua non salire oltre la dose a ettaro"
+    ],
+    "chiusa": "Passa al banco di Studio 4: scegliamo insieme il momento giusto.",
+    "fonte": "Etichetta e dati sulla sostanza attiva."
+   }
+  ]
+ },
+ {
+  "id": "nifert",
+  "video": true,
+  "fito": false,
+  "colore": "smeraldo",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Pianta ferma · Stress",
+    "titolo": "Pianta ferma dopo <em>freddo, grandine o diserbo?</em>",
+    "sotto": "Nifert: azoto organico che la aiuta a ripartire. <span>Consentito in biologico.</span>",
+    "foto": "nifert",
+    "box": "Come lavora e quando darlo. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Come lavora",
+    "titolo": "Azoto da proteine, <em>pronto da usare.</em>",
+    "voci": [
+     [
+      "🍃",
+      "Per foglia",
+      "Entra veloce dalla cuticola e va agli organi più attivi: diventa proteine, enzimi e zuccheri."
+     ],
+     [
+      "🌱",
+      "In fertirrigazione",
+      "Risveglia microbi ed enzimi del terreno: la pianta assorbe meglio anche gli altri concimi."
+     ],
+     [
+      "🧪",
+      "Cosa contiene",
+      "Azoto organico 6,5%, tutto solubile, e carbonio organico 23,5%."
+     ]
+    ]
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Nifert",
+    "foto": "nifert",
+    "etichetta": "Dose da etichetta · orticole in serra",
+    "valore": "200–300 g/hl",
+    "nota": "Per foglia, oppure 6,5–9 kg/ha in fertirrigazione · ogni 10–15 giorni",
+    "punti": [
+     "Trapianto, fioritura, allegagione, ingrossamento",
+     "Dopo uno stress: dose alta entro 24–48 ore",
+     "Poi ripeti dopo 8–10 giorni"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Con lo zolfo non va.",
+    "grande": "Né insieme né a pochi giorni.",
+    "piccolo": "Tienilo lontano da zolfo, polisolfuri, fosetil alluminio, dodina, insetticidi oleosi e prodotti molto alcalini.",
+    "punti": [
+     "Conservalo tra 10 e 30 °C: d'inverno non lasciarlo nel magazzino freddo"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti diciamo come inserirlo nel tuo programma.",
+    "fonte": "Da etichetta."
+   }
+  ]
+ }
+]
