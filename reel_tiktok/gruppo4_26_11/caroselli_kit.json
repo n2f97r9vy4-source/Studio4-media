@@ -236,17 +236,42 @@
   "argomento": "",
   "slide": [
    {
-    "tipo": "copertina",
-    "tag": "Peperone · fioritura e allegagione",
-    "titolo": "Peperone che va <em>solo in foglia?</em>",
-    "sotto": "Hortipray MKP 0-52-34: <span>fosforo e potassio, zero azoto.</span>",
+    "tipo": "copertina_formula",
+    "tag": "Fosfato monopotassico",
+    "nome": "MKP",
+    "formula": [
+     [
+      "0",
+      "azoto",
+      "evidenza"
+     ],
+     [
+      "52",
+      "fosforo"
+     ],
+     [
+      "34",
+      "potassio"
+     ]
+    ],
+    "titolo": "Fiori e frutti, <em>senza spingere la vegetazione.</em>",
+    "modi": [
+     [
+      "💧",
+      "Fertirrigazione"
+     ],
+     [
+      "🍃",
+      "Fogliare"
+     ]
+    ],
     "foto": "mkp",
-    "box": "Come spingere fiori e frutti senza spingere la vegetazione. Scorri."
+    "box": "Quando usarlo e con cosa non va mai nella stessa vasca. Scorri."
    },
    {
     "tipo": "schede",
     "tag": "Cosa fa",
-    "titolo": "Fiori e frutti, <em>non foglie.</em>",
+    "titolo": "Fosforo e potassio,<br><em>zero azoto.</em>",
     "voci": [
      [
       "🌸",
