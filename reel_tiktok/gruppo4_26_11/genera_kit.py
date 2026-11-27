@@ -2,7 +2,8 @@
 """Caroselli TikTok nello stile dei video già pubblicati (QZyme, Razormin, Cidely, Turbo Root):
 slide del kit 1080x1350 (kit/s4kit.py: logo in alto a destra, senza cornice) al centro di un fondo 1080x1920
 fatto dalla stessa slide sfocata. Uscite: <prodotto>/s1..sN.png (9:16) e, se "video": true, <prodotto>_tiktok.mp4.
-Uso: NODE_PATH=$(npm root -g) python3 genera_kit.py
+Uso: NODE_PATH=$(npm root -g) python3 genera_kit.py            (tutti i prodotti)
+     NODE_PATH=$(npm root -g) python3 genera_kit.py juvinal    (solo i prodotti indicati, gli altri non si toccano)
 """
 import json, subprocess, sys
 from pathlib import Path
@@ -19,7 +20,9 @@ def nove_sedicesimi(src, dst):
 DISC_FITO = k.DISC
 IG = QUI / "instagram_kit"; IG.mkdir(exist_ok=True)
 jsf = QUI / ".js_fit.txt"; jsf.write_text(k.JS_FIT)
+SOLO = set(sys.argv[1:])
 for c in json.loads((QUI / "caroselli_kit.json").read_text(encoding="utf-8")):
+    if SOLO and c["id"] not in SOLO: continue
     k.DISC = DISC_FITO if c.get("fito", True) else "Prima dell'uso leggere sempre l'etichetta del prodotto."
     out = QUI / ("kit_" + c["id"]); out.mkdir(exist_ok=True)
     for f in out.glob("*.png"): f.unlink()
