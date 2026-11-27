@@ -1,0 +1,807 @@
+[
+ {
+  "id": "sealife",
+  "video": false,
+  "fito": false,
+  "colore": "petrolio",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Alghe · biostimolante",
+    "titolo": "Pianta ferma <em>dopo il freddo?</em>",
+    "sotto": "NRG Sea-Life: <span>estratto concentrato di alghe</span> per ripartire, fiorire e ingrossare i frutti.",
+    "foto": "sealife",
+    "box": "Dentro ci sono due alghe. Una vive fuori dall'acqua. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Cosa fa",
+    "titolo": "Tre lavori <em>in una tanica.</em>",
+    "voci": [
+     ["🌱", "Fa ripartire", "Aiuta la pianta a superare gli stress e a riprendersi. Stimola anche la radice."],
+     ["🌼", "Fiori e frutti", "Sostiene fioritura, allegagione e ingrossamento dei frutti."],
+     ["🧬", "Ormoni naturali", "Porta auxine, citochinine e gibberelline naturali delle alghe."]
+    ],
+    "chiusa": "Da etichetta. Consentito in agricoltura biologica."
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "NRG Sea-Life",
+    "foto": "sealife",
+    "etichetta": "Dose · fogliare, tutte le colture",
+    "valore": "1,5–3 kg/ha",
+    "nota": "Secondo il bisogno e ogni quanto lo dai",
+    "punti": [
+     "Per tutto il ciclo: dalla semina o dal post trapianto in poi",
+     "Si può dare anche per via radicale",
+     "Estratto di due alghe: Ascophyllum e Laminaria"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "In botte: <em>cosa sapere.</em>",
+    "punti": [
+     "Ha pH 4,5: per l'etichetta aiuta la miscela e l'ingresso nella foglia",
+     "Va d'accordo con la maggior parte di agrofarmaci e concimi",
+     "Non con prodotti a reazione alcalina e non con oli minerali",
+     "Con più prodotti insieme, prova prima la miscela in piccolo"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "L'alga che vive fuori dall'acqua.",
+    "grande": "L'Ascophyllum cresce sugli scogli tra alta e bassa marea: ogni giorno resta per ore all'asciutto, al sole o al gelo.",
+    "piccolo": "Per resistere accumula sostanze protettive: è per queste che la si estrae.",
+    "punti": [
+     "Gli ormoni dell'alga sono pochissimi: secondo gli studi è la pianta che, stimolata dall'estratto, ne produce di suoi",
+     "Si estrae a freddo (Cold Cell Burst) per non alterare queste sostanze"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti diciamo quando inserirlo nel tuo piano.",
+    "fonte": "Etichetta e letteratura sulle alghe."
+   }
+  ]
+ },
+ {
+  "id": "taegro",
+  "video": false,
+  "fito": true,
+  "colore": "azzurro",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Funghi · biologico",
+    "titolo": "3.700 miliardi <em>di batteri in una busta.</em>",
+    "sotto": "Taegro: fungicida biologico <span>contro l'oidio e l'alternaria</span> degli ortaggi.",
+    "foto": "taegro",
+    "box": "E si sospende solo 4 ore prima del raccolto. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Come lavora",
+    "titolo": "Un batterio <em>contro il fungo.</em>",
+    "voci": [
+     ["🦠", "Occupa il posto", "Compete con il fungo sulla foglia."],
+     ["🧪", "Lo contrasta", "Agisce sulle membrane delle cellule del fungo."],
+     ["🛡️", "Sveglia la pianta", "Può indurre nella coltura una resistenza ai patogeni."]
+    ],
+    "chiusa": "Gruppo FRAC BM02: non sono note resistenze."
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Taegro",
+    "foto": "taegro",
+    "etichetta": "Dose · peperone in serra, oidio e alternaria",
+    "valore": "185–370 g/ha",
+    "nota": "Ogni 3–5 giorni · max 12 trattamenti · in 180–1000 l/ha d'acqua",
+    "punti": [
+     "Stesse dosi su pomodoro e melanzana; su zucchino, cetriolo e melone contro l'oidio",
+     "In campo: max 10 trattamenti, ogni 7–10 giorni",
+     "Da sospendere 4 ore prima del raccolto"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "È vivo: <em>trattalo bene.</em>",
+    "punti": [
+     "Tratta a fine giornata: i raggi UV danneggiano le spore",
+     "Acqua con pH tra 5 e 8, e non acqua trattata con cloro",
+     "Scioglilo prima in 2–5 litri d'acqua, poi nella botte piena a metà",
+     "Usa la miscela entro poche ore e non lasciarla al sole"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Quei batteri sono vivi.",
+    "grande": "Ogni grammo contiene almeno 10 miliardi di spore. Una busta da 370 g, la dose piena per un ettaro, ne porta 3.700 miliardi.",
+    "piccolo": "Per questo sole, cloro e caldo contano più che con un fungicida chimico.",
+    "punti": [
+     "Lavora al meglio tra 15 e 30 °C. Le spore restano vive fino a 40 °C, poi la vitalità cala in fretta",
+     "Non è compatibile con i prodotti a base di penthiopyrad",
+     "È selettivo per pronubi e insetti utili, in serra e in campo"
+    ],
+    "chiusa": "Passa al banco di Studio 4: lo inseriamo nel tuo piano contro l'oidio.",
+    "fonte": "Da etichetta."
+   }
+  ]
+ },
+ {
+  "id": "t34",
+  "video": false,
+  "fito": true,
+  "colore": "giallo",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Radice · biologico",
+    "titolo": "Perché questo fungicida <em>sta in frigo?</em>",
+    "sotto": "T34 Biocontrol: <span>un fungo vivo che difende la radice</span> dai marciumi del colletto.",
+    "foto": "t34",
+    "box": "E va dato nella penultima irrigazione del giorno. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Come lavora",
+    "titolo": "Arriva prima <em>del Pythium.</em>",
+    "voci": [
+     ["🍄", "È un fungo antagonista", "Trichoderma asperellum, ceppo T34."],
+     ["📍", "Occupa lo spazio", "Colonizza il terreno e il substrato attorno alla radice."],
+     ["🍽️", "Si prende i nutrienti", "Li toglie al Pythium, che fa marcire colletto e radici."]
+    ],
+    "chiusa": "Per questo si parte dal trapianto, in prevenzione."
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "T34 Biocontrol",
+    "foto": "t34",
+    "etichetta": "Dose · ortaggi in serra, al trapianto",
+    "valore": "10 g / 1000 vasi",
+    "nota": "Vasi da 1 litro · con l'irrigazione, il giorno del trapianto",
+    "punti": [
+     "Oppure 5 g + 5 g a una settimana di distanza",
+     "Da ripetere dopo 2–3 mesi e a ogni stress della pianta",
+     "Solanacee e cucurbitacee in serra, contro il Pythium",
+     "Nel substrato, prima di seminare o trapiantare: 10 g per metro cubo"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "4 regole <em>per tenerlo vivo.</em>",
+    "punti": [
+     "Conservalo in frigo, a 4 °C",
+     "Dallo nella penultima irrigazione del giorno: impianto senza residui e meno dilavamento",
+     "Botte e impianto puliti: niente tracce di altri fitofarmaci",
+     "Dopo solarizzazione o fumigazione aspetta prima di trattare"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Dopo la solarizzazione il terreno è vuoto.",
+    "grande": "Solarizzazione e fumigazione abbassano anche i microrganismi utili. Il primo che torna si prende il posto.",
+    "piccolo": "Se arriva prima un Trichoderma, il Pythium trova la radice già occupata.",
+    "punti": [
+     "In 10 grammi di prodotto ci sono 10 miliardi di spore del fungo",
+     "Da etichetta è stato provato su torba, fibra di cocco e lana di roccia"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti diciamo quando darlo dopo la solarizzazione.",
+    "fonte": "Etichetta e letteratura sui Trichoderma."
+   }
+  ]
+ },
+ {
+  "id": "score",
+  "video": false,
+  "fito": true,
+  "colore": "smeraldo",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Funghi · sistemico",
+    "titolo": "Giallo sopra, <em>muffa sotto la foglia?</em>",
+    "sotto": "Score 25 EC: <span>fungicida sistemico</span> con azione curativa e lunga persistenza.",
+    "foto": "score",
+    "box": "Muffa bianca o color oliva? Sono due funghi diversi. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Riconosci il fungo",
+    "titolo": "Gira la foglia <em>e guarda sotto.</em>",
+    "voci": [
+     ["⚪", "Muffa bianca", "Oidio interno (Leveillula): cresce dentro la foglia ed esce da sotto."],
+     ["🟤", "Feltro color oliva", "Cladosporiosi: ama la serra umida e parte dalle foglie basse."],
+     ["🎯", "Macchie scure ad anelli", "Alternaria: cerchi uno dentro l'altro, come un bersaglio."]
+    ],
+    "chiusa": "Su pomodoro e melanzana sono tutti e tre in etichetta."
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Score 25 EC",
+    "foto": "score",
+    "etichetta": "Dose · pomodoro, serra e campo",
+    "valore": "40–50 ml/hl",
+    "nota": "0,4–0,5 l/ha · max 3 trattamenti ogni 7 giorni",
+    "punti": [
+     "Carenza: 3 giorni in serra, 7 in campo",
+     "Stessa dose sulla melanzana",
+     "Peperone e zucchino non sono in etichetta"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "3 cose <em>che fanno la differenza.</em>",
+    "punti": [
+     "La dose a ettolitro vale per 1000 litri d'acqua: se usi meno acqua, tieni la dose a ettaro",
+     "È un triazolo, gruppo FRAC 3: alternalo con fungicidi di altri gruppi",
+     "Arieggia e togli le foglie basse colpite: sotto l'85% di umidità la cladosporiosi fatica a infettare"
+    ],
+    "fonte": "Etichetta, FRAC e buona pratica."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Non ferma la spora: ferma il fungo che cresce.",
+    "grande": "I triazoli bloccano l'ergosterolo, il mattone della membrana del fungo. La spora ne ha una scorta e germina lo stesso.",
+    "piccolo": "Il fungo si ferma subito dopo, quando deve costruire membrana nuova. Da qui l'azione curativa.",
+    "punti": [
+     "Nella pianta sale verso l'alto con la linfa, non scende: la vegetazione nata dopo il trattamento non è coperta",
+     "Sul catalogo dei semi la sigla Ff (o Pf) A-E indica la resistenza alla cladosporiosi"
+    ],
+    "chiusa": "Passa al banco di Studio 4: impostiamo insieme la difesa in serra.",
+    "fonte": "Etichetta, FRAC e letteratura tecnica."
+   }
+  ]
+ },
+ {
+  "id": "verimark",
+  "video": false,
+  "fito": true,
+  "colore": "indaco",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Insetti · fuori suolo",
+    "titolo": "L'insetticida <em>che non si spruzza.</em>",
+    "sotto": "Verimark: si dà a goccia. <span>La pianta lo assorbe dalla radice.</span>",
+    "foto": "verimark",
+    "box": "Tuta, nottue e mosche bianche: solo fuori suolo. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Contro chi",
+    "titolo": "Dalla radice <em>fino alla foglia.</em>",
+    "voci": [
+     ["🐛", "Tuta e nottue", "Tuta absoluta, Helicoverpa, Spodoptera, Chrysodeixis."],
+     ["🦟", "Mosche bianche", "Bemisia tabaci e Trialeurodes vaporariorum."],
+     ["🔎", "E ancora", "Minatrici fogliari (Liriomyza), Aphis gossypii, Thrips tabaci."]
+    ],
+    "chiusa": "Su pomodoro, peperone e melanzana fuori suolo, in serra."
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Verimark",
+    "foto": "verimark",
+    "etichetta": "Dose · pomodoro, peperone, melanzana",
+    "valore": "375–500 ml/ha",
+    "nota": "A goccia, fuori suolo · ogni 7–10 giorni · carenza 1 giorno",
+    "punti": [
+     "Max 4 applicazioni l'anno, non più di 2 di seguito",
+     "Nel primo terzo del turno irriguo",
+     "Miscela a pH 5–6, da usare entro 8 ore"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "Prima di <em>aprire la valvola.</em>",
+    "punti": [
+     "Bombi in serra: chiudi o togli le arnie la sera prima, riaprile dopo almeno 24 ore",
+     "Parti presto: alle ovideposizioni per Tuta, nottue, minatrici e mosche bianche",
+     "Non si usa in fogliare e non su piante in stress",
+     "Le piante trattate non vanno trapiantate in suolo"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Verimark e Altacor: stesso gruppo.",
+    "grande": "Sono diammidi, gruppo IRAC 28: per la resistenza contano come un prodotto solo.",
+    "piccolo": "Da etichetta: non più di 2 applicazioni del gruppo 28 per generazione dell'insetto, poi si cambia gruppo.",
+    "punti": [
+     "La prima resistenza della Tuta alle diammidi mai segnalata veniva da popolazioni siciliane (studio del 2015)",
+     "Non colpisce i nervi: svuota le riserve di calcio dei muscoli. L'insetto si paralizza e muore in poche ore o in qualche giorno"
+    ],
+    "chiusa": "Passa al banco di Studio 4: costruiamo insieme le finestre d'impiego.",
+    "fonte": "Etichetta, IRAC e letteratura tecnica."
+   }
+  ]
+ },
+ {
+  "id": "radimix",
+  "video": false,
+  "fito": false,
+  "colore": "oliva",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Radice · microrganismi",
+    "titolo": "La radice <em>non lavora da sola.</em>",
+    "sotto": "Radimix: <span>micorrize e batteri della rizosfera</span> per ripartire dopo il trapianto.",
+    "foto": "radimix",
+    "box": "Uno di questi batteri fa l'odore di terra bagnata. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Cosa c'è dentro",
+    "titolo": "Una squadra <em>per la radice.</em>",
+    "voci": [
+     ["🍄", "Micorrize", "Funghi che si legano alla radice e ne allungano il raggio d'azione."],
+     ["🦠", "4 batteri della rizosfera", "Pseudomonas, Streptomyces, Rhodopseudomonas e Bacillus megaterium."],
+     ["🌱", "A cosa serve", "Favorisce lo sviluppo della radice e l'assorbimento dei nutrienti."]
+    ],
+    "chiusa": "Sostiene la ripresa dopo il trapianto e con temperature sfavorevoli."
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Radimix",
+    "foto": "radimix",
+    "etichetta": "Dose · tutte le colture, fertirrigazione",
+    "valore": "200–300 g",
+    "nota": "ogni 1000 m² (2–3 kg/ha) · primo trattamento al trapianto",
+    "punti": [
+     "Da ripetere dopo 15–20 giorni, alla stessa dose",
+     "Di nuovo subito dopo il maltempo o ai primi segni di stress",
+     "Consentito in agricoltura biologica"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "Sono vivi: <em>3 attenzioni.</em>",
+    "punti": [
+     "Non miscelarlo con fungicidi, insetticidi ed erbicidi",
+     "Dallo vicino alla radice, con la fertirrigazione",
+     "Non lasciarlo al caldo: l'etichetta lo vuole tra 4 e 25 °C"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Uno di loro fa l'odore di terra bagnata.",
+    "grande": "Gli Streptomyces producono la geosmina, la sostanza che senti nel terreno dopo la pioggia.",
+    "piccolo": "Nel consorzio di Radimix c'è lo Streptomyces griseus, con altri tre batteri della rizosfera.",
+    "punti": [
+     "Le ife delle micorrize sono più sottili dei peli radicali: entrano nei pori dove la radice non passa",
+     "Con molto fosforo la pianta accoglie meno le micorrize: non esagerare con lo starter",
+     "Il Bacillus megaterium è tra i batteri più studiati per liberare il fosforo bloccato nel terreno"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti diciamo come inserirlo dal trapianto.",
+    "fonte": "Etichetta e letteratura sui microrganismi del suolo."
+   }
+  ]
+ },
+ {
+  "id": "mittex",
+  "video": false,
+  "fito": false,
+  "colore": "blu",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Biostimolante · in polvere",
+    "titolo": "Il fungo non c'è. <em>C'è quello che produce.</em>",
+    "sotto": "Procrop Mittex: <span>da fermentazione di Trichoderma</span>, per crescita e qualità dei frutti.",
+    "foto": "mittex",
+    "box": "1 kg per ettaro, due volte. Ecco quando. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Cosa fa",
+    "titolo": "Dalla foglia <em>al frutto.</em>",
+    "voci": [
+     ["⚡", "Entra in fretta", "I suoi composti vengono assorbiti rapidamente dai tessuti."],
+     ["☀️", "Attiva la pianta", "Stimola la fotosintesi e l'equilibrio ormonale."],
+     ["🍅", "Qualità e resa", "Migliora crescita, qualità del frutto e antiossidanti naturali."]
+    ],
+    "chiusa": "Da etichetta. Utilizzabile in agricoltura biologica."
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Procrop Mittex",
+    "foto": "mittex",
+    "etichetta": "Dose · colture ortive, fogliare",
+    "valore": "1 kg/ha",
+    "nota": "2 applicazioni, a 10 giorni l'una dall'altra",
+    "punti": [
+     "La prima a inizio del massimo sviluppo vegetativo o in fioritura",
+     "La seconda 10 giorni dopo",
+     "Colture arboree: 1 kg/ha a ingrossamento del frutto, poi dopo 10 giorni"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "Occhio <em>a cosa hai dato prima.</em>",
+    "punti": [
+     "Nei giorni prima niente rame, fungicidi o fungistatici, e non in miscela",
+     "Con altri prodotti, prova prima la miscela in piccolo",
+     "Punta sulla fioritura: è il momento che l'etichetta indica per la qualità"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "\"Non microbico\": senza fungo vivo.",
+    "grande": "Il Trichoderma viene fatto crescere in fermentatore, poi si filtra: nel sacchetto restano le sostanze che ha prodotto, non il fungo.",
+    "piccolo": "Per questo è un biostimolante e non un fungicida: lavora sulla pianta, non contro le malattie.",
+    "punti": [
+     "Per la legge europea un biostimolante può vantare solo questo: nutrienti usati meglio, più tolleranza agli stress, più qualità",
+     "I Trichoderma, crescendo, rilasciano molecole che la pianta legge come segnali: alcune agiscono in modo simile all'auxina"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti diciamo come inserirlo in fioritura.",
+    "fonte": "Etichetta, Reg. UE 2019/1009 e letteratura tecnica."
+   }
+  ]
+ },
+ {
+  "id": "portento",
+  "video": false,
+  "fito": true,
+  "colore": "verde",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Funghi · biologico",
+    "titolo": "Raccogli ogni giorno <em>e l'oidio avanza?</em>",
+    "sotto": "Portento SL: fungicida biologico. <span>Da etichetta non serve un intervallo prima della raccolta.</span>",
+    "foto": "portentosl",
+    "box": "Perché l'oidio arriva anche con la foglia asciutta? Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Come lavora",
+    "titolo": "Tre azioni <em>sulla pianta.</em>",
+    "voci": [
+     ["🦠", "Occupa la foglia", "Compete con il fungo per lo spazio e per i nutrienti."],
+     ["🧱", "Colpisce la membrana", "Danneggia la membrana delle cellule del fungo."],
+     ["🛡️", "Attiva la pianta", "Promuove la resistenza sistemica indotta (ISR)."]
+    ],
+    "chiusa": "È Bacillus subtilis: lavora dalle prime fasi, va dato in prevenzione."
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Portento SL",
+    "foto": "portentosl",
+    "etichetta": "Dose · zucchino, oidio (serra e campo)",
+    "valore": "1–3 l/ha",
+    "nota": "Ogni 5–7 giorni · in 500–1000 l/ha d'acqua · max 5 applicazioni",
+    "punti": [
+     "Stessa dose su cetriolo, melone e anguria",
+     "Su pomodoro, melanzana e peperone contro la botrite",
+     "Rientro in serra dopo 8 ore"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "Per farlo <em>lavorare bene.</em>",
+    "punti": [
+     "Parti prima dei sintomi, quando il clima favorisce l'oidio",
+     "Porta l'acqua della botte a pH 5–7",
+     "Agita la tanica e versalo con la botte piena a metà, poi completa",
+     "Si può usare insieme ad altri fungicidi, insetticidi e concimi"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "L'oidio non vuole la foglia bagnata.",
+    "grande": "A differenza di molti altri funghi, per infettare non gli serve acqua sulla foglia: gli basta l'umidità dell'aria.",
+    "piccolo": "L'acqua libera tende anzi a ostacolarlo. Dal contagio alla macchia bianca passano circa 5–7 giorni: per questo si tratta prima dei sintomi.",
+    "punti": [
+     "Sulle cucurbitacee la resistenza dell'oidio è documentata a più gruppi di fungicidi, tra cui DMI, SDHI e strobilurine (FRAC 3, 7, 11)",
+     "Portento SL è del gruppo BM02, a più meccanismi d'azione: da etichetta è adatto alla gestione delle resistenze"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti aiutiamo a metterlo in turno.",
+    "fonte": "Etichetta, INRAE, UF/IFAS."
+   }
+  ]
+ },
+ {
+  "id": "oroquin",
+  "video": false,
+  "fito": true,
+  "colore": "arancio",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Insetti e funghi · biologico",
+    "titolo": "Buccia d'arancia <em>contro la mosca bianca?</em>",
+    "sotto": "Oro-Quin: <span>olio essenziale di arancio dolce</span> contro mosche bianche, tripidi e oidio.",
+    "foto": "oroquin",
+    "box": "Non agisce da veleno: secca l'insetto. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Come lavora",
+    "titolo": "Un'azione <em>fisica.</em>",
+    "voci": [
+     ["🍊", "Secca l'insetto", "Dissecca la cuticola degli insetti a corpo molle: mosche bianche, tripidi, cicaline."],
+     ["🍄", "Anche sui funghi", "Secca le parti esterne del fungo: micelio e spore."],
+     ["♻️", "Niente resistenze", "Con un'azione fisica, da etichetta, non compaiono resistenze."]
+    ],
+    "chiusa": "Lavora per contatto: quello che non bagna, non lo prende."
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Oro-Quin",
+    "foto": "oroquin",
+    "etichetta": "Dose · melanzana, serra e campo",
+    "valore": "2–4 l/ha",
+    "nota": "Mosche bianche 2 l/ha (400 ml/hl) · tripidi 4 l/ha (800 ml/hl) · in 500 l/ha d'acqua",
+    "punti": [
+     "In serra riduci la concentrazione di 100–200 ml/hl",
+     "Max 6 applicazioni per ciclo · carenza 3 giorni",
+     "Stesse dosi su pomodoro e peperone"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "Come darlo <em>senza errori.</em>",
+    "punti": [
+     "Non in fioritura: l'etichetta lo vieta per proteggere api e impollinatori",
+     "Su vegetazione asciutta, con nebulizzazione fine",
+     "Niente bagnanti o adiuvanti, e niente zolfo bagnabile a dose piena",
+     "Con attacchi forti va in miscela con un prodotto specifico, alle dosi più basse"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "È limonene per oltre il 90%.",
+    "grande": "L'olio d'arancio è quasi tutto limonene, un solvente naturale delle cere: lo stesso degli sgrassatori agli agrumi.",
+    "piccolo": "Sull'insetto intacca lo strato ceroso che lo tiene idratato. Senza, si disidrata.",
+    "punti": [
+     "Il limonene evapora in fretta: colpisce chi c'è al momento del trattamento, non chi arriva dopo",
+     "Per questo conta la bagnatura: sotto la foglia, dove stanno neanidi e tripidi"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti diciamo con cosa alternarlo.",
+    "fonte": "Etichetta e letteratura tecnica."
+   }
+  ]
+ },
+ {
+  "id": "synext",
+  "video": false,
+  "fito": false,
+  "colore": "studio4",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Microelementi · manganese e zinco",
+    "titolo": "Foglie gialle? <em>Non è sempre ferro.</em>",
+    "sotto": "Sy-Next: <span>manganese e zinco chelati</span>, con azoto e zolfo.",
+    "foto": "synext",
+    "box": "Dove ingiallisce la foglia ti dice cosa manca. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Leggi la foglia",
+    "titolo": "Dove ingiallisce, <em>cosa manca.</em>",
+    "voci": [
+     ["🟡", "Ferro", "Foglie più giovani, in cima: gialle quasi bianche, nervature verdi sottili."],
+     ["🟢", "Manganese", "Foglie giovani e medie: giallo a rete, con una fascia verde lungo le nervature."],
+     ["📏", "Zinco", "Foglie piccole e strette, internodi corti."]
+    ],
+    "chiusa": "Se il giallo parte dalle foglie vecchie in basso, pensa al magnesio."
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Sy-Next",
+    "foto": "synext",
+    "etichetta": "Dose · ortaggi, fogliare",
+    "valore": "200–500 ml/hl",
+    "nota": "Al suolo: 5–10 l/ha",
+    "punti": [
+     "Manganese 1% e zinco 1%, chelati EDTA",
+     "Azoto 7,1% e zolfo (SO₃) 32%",
+     "Chelato stabile da pH 4 a pH 9"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "In botte <em>e in campo.</em>",
+    "punti": [
+     "Si miscela con concimi, biostimolanti, rameici e zolfi bagnabili",
+     "Non con prodotti fortemente acidi o alcalini",
+     "Usalo quando la carenza c'è davvero: nel dubbio porta una foglia al banco",
+     "Nei terreni calcarei il manganese conviene darlo in fogliare"
+    ],
+    "fonte": "Etichetta e buona pratica."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Un punto di pH, cento volte meno manganese.",
+    "grande": "A ogni punto di pH in più il manganese disponibile nel terreno cala di circa 100 volte.",
+    "piccolo": "A pH 8 c'è, ma la radice non lo prende: nei terreni calcarei la carenza è quasi sempre da blocco.",
+    "punti": [
+     "Troppo ferro chelato può far mancare il manganese: si fanno concorrenza",
+     "L'ossigeno che la foglia libera nasce in un punto del cloroplasto con 4 atomi di manganese",
+     "Per avere auxina la pianta ha bisogno di zinco: se manca, internodi corti"
+    ],
+    "chiusa": "Passa al banco di Studio 4: guardiamo insieme la foglia.",
+    "fonte": "Etichetta e letteratura sulla nutrizione."
+   }
+  ]
+ },
+ {
+  "id": "radicone",
+  "video": false,
+  "fito": false,
+  "colore": "terracotta",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Radice · alghe e zinco",
+    "titolo": "Cosa c'entra lo zinco <em>con le radici?</em>",
+    "sotto": "NRG Radic One: <span>alghe, amminoacidi e zinco</span> per far partire la radice dopo il trapianto.",
+    "foto": "radicone",
+    "box": "Si dà a 7 giorni dal trapianto, due volte. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "Cosa fa",
+    "titolo": "Più radice, <em>meno stress.</em>",
+    "voci": [
+     ["🌱", "Spinge la radice", "Citochinine, auxine e amminoacidi vegetali: da etichetta, fino a 2,5 volte la massa radicale."],
+     ["❄️", "Regge gli stress", "Aiuta a superare la crisi da trapianto, il gelo e la carenza d'acqua."],
+     ["⚙️", "Zinco", "Serve a molti enzimi e all'ormone che allunga gli internodi."]
+    ],
+    "chiusa": "Da etichetta. Consentito in agricoltura biologica."
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "NRG Radic One",
+    "foto": "radicone",
+    "etichetta": "Dose · ortaggi da frutto",
+    "valore": "5–10 l/ha",
+    "nota": "A 7 giorni dal trapianto · 2 interventi",
+    "punti": [
+     "Pomodoro, melanzana, peperone, zucchino, cetriolo, melone e anguria",
+     "Da seme: a 15 giorni dalla semina",
+     "Fragola: 5 l/ha dal trapianto, 2–3 volte ogni 10 giorni"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "La radice <em>si gioca all'inizio.</em>",
+    "punti": [
+     "Non aspettare che la pianta sia ferma: il primo intervento è a 7 giorni dal trapianto",
+     "Terreno freddo e troppo bagnato frenano la radice: regola i turni",
+     "Lo zinco è chelato EDTA: resta stabile da pH 4 a pH 9"
+    ],
+    "fonte": "Etichetta e buona pratica."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Senza zinco, poca auxina.",
+    "grande": "L'auxina è l'ormone che fa nascere le radici e allunga gli internodi. Per produrla e mantenerla la pianta ha bisogno di zinco.",
+    "piccolo": "Per questo la carenza di zinco dà internodi corti e foglie piccole.",
+    "punti": [
+     "Col terreno freddo la radice assorbe meno zinco: d'inverno la carenza è più facile",
+     "Troppo fosforo blocca lo zinco: è uno degli antagonismi più comuni"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti diciamo come darlo con il tuo impianto.",
+    "fonte": "Etichetta e letteratura sulla nutrizione."
+   }
+  ]
+ },
+ {
+  "id": "falgro",
+  "video": false,
+  "fito": true,
+  "colore": "viola",
+  "argomento": "",
+  "slide": [
+   {
+    "tipo": "copertina",
+    "tag": "Regolatore di crescita",
+    "titolo": "Una compressa <em>in 100 litri.</em>",
+    "sotto": "Falgro Tablet: <span>acido gibberellico</span> per allegagione e produzione precoce.",
+    "foto": "falgro",
+    "box": "Dentro c'è meno di 1 grammo di ormone. E basta. Scorri."
+   },
+   {
+    "tipo": "schede",
+    "tag": "A cosa serve",
+    "titolo": "Un ormone, <em>più lavori.</em>",
+    "voci": [
+     ["🍅", "Pomodoro in serra", "Più allegagione e produzione più precoce."],
+     ["🌿", "Carciofo", "Produzione precoce, più qualità e resa."],
+     ["🍇", "Uva, agrumi, pero, ciliegio", "Allegagione, acini più grandi, frutti più sodi."]
+    ],
+    "chiusa": "Il momento del trattamento è decisivo: lo dice anche l'etichetta."
+   },
+   {
+    "tipo": "dose",
+    "tag": "Quando e quanto",
+    "titolo": "Falgro Tablet",
+    "foto": "falgro",
+    "etichetta": "Dose · pomodoro in serra",
+    "valore": "1–2 compresse/hl",
+    "nota": "Max 3 trattamenti a stagione",
+    "punti": [
+     "Alla prima fioritura del palco che vuoi far legare",
+     "Si può ripetere sul palco successivo",
+     "Puoi nebulizzare direttamente le infiorescenze nuove",
+     "Melanzana e peperone non sono in etichetta"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "elenco",
+    "tag": "Il consiglio",
+    "titolo": "4 errori <em>da non fare.</em>",
+    "punti": [
+     "Lasciare la soluzione nella botte: né in pausa pranzo né di notte",
+     "Mescolarlo con oli minerali o miscele alcaline, come la poltiglia bordolese",
+     "Trattare nelle ore secche: meglio mattina presto o sera, con più umidità",
+     "Trattare piante in stress idrico"
+    ],
+    "fonte": "Da etichetta."
+   },
+   {
+    "tipo": "sapevi",
+    "titolo": "Scoperta per colpa di un riso troppo alto.",
+    "grande": "In Giappone un fungo faceva allungare il riso fino a farlo cadere. Nel 1926 si capì che era una sostanza prodotta dal fungo: la gibberellina.",
+    "piccolo": "Ancora oggi l'acido gibberellico si ottiene per fermentazione.",
+    "punti": [
+     "1 compressa in 100 litri sono circa 10 milligrammi per litro: gli ormoni lavorano a dosi minime",
+     "In acqua alcalina la gibberellina si degrada: per gli agrumi l'etichetta indica pH 4–5,5"
+    ],
+    "chiusa": "Passa al banco di Studio 4: ti diciamo su quale palco partire.",
+    "fonte": "Etichetta e letteratura tecnica."
+   }
+  ]
+ }
+]

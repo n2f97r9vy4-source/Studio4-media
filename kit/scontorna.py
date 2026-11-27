@@ -9,7 +9,9 @@ Non usa rettangoli né maschere a mano: il contorno lo trova il modello ISNet (l
   4. bordo netto e liscio: contorno ricalcolato a 4x, stretto di una frazione di pixel, antialias vero;
   5. colore del bordo ripulito: i pixel di bordo prendono il colore del prodotto, non quello dello sfondo della foto
      (niente aloni scuri o chiari quando il ritaglio va su un altro fondo);
-  6. ritocchi facoltativi di piccoli segni (polvere, graffi) che cadono proprio sul bordo.
+  6. ritocchi facoltativi di piccoli segni (polvere, graffi) che cadono proprio sul bordo;
+  7. buchi facoltativi (--buco): il vuoto della maniglia di una tanica, dove si vede il magazzino dietro. Sulla foto
+     intera il modello lo lascia pieno; guardando solo la maniglia lo riconosce, e lì il ritaglio diventa trasparente.
 
 Serve solo Pillow, numpy e onnxruntime (già presenti nel container). Il modello (circa 170 MB) si scarica da solo
 la prima volta in ~/.cache/studio4/ e NON va messo nel repository.
@@ -22,6 +24,8 @@ Uso:
   --raddrizza              raddrizza il prodotto sull'asse verticale (per flaconi e taniche simmetrici)
   --angolo G               oppure rotazione scelta a mano, in gradi (positivo = senso antiorario)
   --ritocco x0,y0,x1,y1    riquadro (pixel della foto originale) dove togliere un segno scuro sul bordo; ripetibile
+  --buco x0,y0,x1,y1       riquadro (pixel della foto originale) attorno al vuoto di una maniglia, con un po' di plastica
+                           su tutti i lati: il vuoto diventa trasparente; ripetibile
   --stringi PX             di quanto stringere il contorno, in pixel (predefinito 0.75)
   --anteprima PREFISSO     salva anche PREFISSO_chiaro.png, _nero.png, _magenta.png per controllare gli orli
 """
@@ -94,6 +98,37 @@ def solo_il_prodotto(m):
     grande = Image.fromarray((etich == max(aree, key=aree.get)).astype(np.uint8) * 255, "L")
     vicino = np.asarray(grande.filter(ImageFilter.MaxFilter(17))) > 0   # tiene anche la sfumatura del bordo
     return np.where(vicino, m, 0.0).astype(np.float32)
+
+
+def buco_maniglia(sess, ritaglio, zona, allarga=2):
+    """Maschera booleana (grande come il ritaglio) del vuoto di una maniglia dentro 'zona' (booleana).
+    Sul solo riquadro della maniglia il modello segna come soggetto proprio il vuoto: si tiene la macchia che
+    contiene il centro del riquadro e la si allarga di 'allarga' pixel, così non resta un filo di sfondo sul bordo."""
+    ys, xs = np.nonzero(zona)
+    x0, x1, y0, y1 = xs.min(), xs.max() + 1, ys.min(), ys.max() + 1
+    d = maschera_isnet(sess, ritaglio.crop((x0, y0, x1, y1)))
+    b = d >= 0.5
+    cy, cx = (y1 - y0) // 2, (x1 - x0) // 2
+    if not b[cy, cx]:
+        raise SystemExit("--buco: al centro del riquadro il modello non vede un vuoto; controlla il riquadro")
+    vista = np.zeros_like(b)
+    pila = [(cy, cx)]
+    vista[cy, cx] = True
+    H, W = b.shape
+    while pila:
+        y, x = pila.pop()
+        for dy, dx in ((1, 0), (-1, 0), (0, 1), (0, -1)):
+            yy, xx = y + dy, x + dx
+            if 0 <= yy < H and 0 <= xx < W and b[yy, xx] and not vista[yy, xx]:
+                vista[yy, xx] = True
+                pila.append((yy, xx))
+    if vista[0].any() or vista[-1].any() or vista[:, 0].any() or vista[:, -1].any():
+        raise SystemExit("--buco: il vuoto trovato tocca il bordo del riquadro; allarga il riquadro sulla plastica")
+    if allarga > 0:
+        vista = np.asarray(Image.fromarray(vista.astype(np.uint8) * 255, "L").filter(ImageFilter.MaxFilter(2 * allarga + 1))) > 0
+    out = np.zeros(zona.shape, bool)
+    out[y0:y1, x0:x1] = vista
+    return out
 
 
 def asse(m):
@@ -172,6 +207,7 @@ def main():
     ap.add_argument("--raddrizza", action="store_true")
     ap.add_argument("--angolo", type=float, default=None)
     ap.add_argument("--ritocco", action="append", default=[])
+    ap.add_argument("--buco", action="append", default=[])
     ap.add_argument("--stringi", type=float, default=0.75)
     ap.add_argument("--anteprima", default=None)
     ap.add_argument("--modello", default=str(MODELLO))
@@ -198,21 +234,27 @@ def main():
     rgb = np.asarray(ritaglio).astype(np.float32)
     H, W = rgb.shape[:2]
 
-    # 3-4. maschera e contorno
+    # posizione di ogni pixel del ritaglio nella foto originale (inverso della rotazione di PIL)
+    th = math.radians(angolo)
+    yy, xx = np.mgrid[0:H, 0:W]
+    dx, dy = xx + x0 - centro[0], yy + y0 - centro[1]
+    ox = centro[0] + math.cos(th) * dx - math.sin(th) * dy
+    oy = centro[1] + math.sin(th) * dx + math.cos(th) * dy
+
+    def zona_di(r):
+        rx0, ry0, rx1, ry1 = map(int, r.split(","))
+        return (ox >= rx0) & (ox <= rx1) & (oy >= ry0) & (oy <= ry1)
+
+    # 3-4. maschera e contorno (7: i vuoti delle maniglie escono dalla maschera prima di rifare il contorno)
     m = solo_il_prodotto(maschera_isnet(sess, ritaglio))
+    for r in a.buco:
+        m = np.where(buco_maniglia(sess, ritaglio, zona_di(r)), 0.0, m).astype(np.float32)
     alfa = contorno_netto(m, a.stringi)
 
     # 5-6. colore del bordo: noti = pixel sicuramente del prodotto (2 px dentro il contorno), meno i ritocchi
     noto = erodi(alfa >= 0.99, 1.0)
-    th = math.radians(angolo)
     for r in a.ritocco:
-        rx0, ry0, rx1, ry1 = map(int, r.split(","))
-        yy, xx = np.mgrid[0:H, 0:W]
-        # posizione di ogni pixel del ritaglio nella foto originale (inverso della rotazione di PIL)
-        dx, dy = xx + x0 - centro[0], yy + y0 - centro[1]
-        ox = centro[0] + math.cos(th) * dx - math.sin(th) * dy
-        oy = centro[1] + math.sin(th) * dx + math.cos(th) * dy
-        zona = (ox >= rx0) & (ox <= rx1) & (oy >= ry0) & (oy <= ry1)
+        zona = zona_di(r)
         lum = rgb @ np.array([0.299, 0.587, 0.114], np.float32)
         rif = np.median(lum[zona & noto]) if (zona & noto).any() else 255
         scuro = zona & (lum < rif - 9)

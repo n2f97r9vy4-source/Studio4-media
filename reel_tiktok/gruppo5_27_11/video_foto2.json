@@ -1,0 +1,87 @@
+[
+ {
+  "id": "portento",
+  "colore": "verde",
+  "fito": true,
+  "prodotto": "portentosl",
+  "tag": "Funghi · biologico",
+  "foto_a": {
+   "file": "oidio_cucurbitacea.jpg",
+   "pos": "50% 45%",
+   "credito": "Foto: T. Pedro Hafermann · CC0 · iNaturalist"
+  },
+  "aggancio": "L'oidio che vedi oggi <em>è un'infezione di <span style=\"white-space:nowrap\">5–7 giorni fa.</span></em>",
+  "invito": "Ecco perché si tratta prima 👇",
+  "spiegazione": {
+   "grande": {
+    "etichetta": "Dal contagio alla macchia bianca",
+    "prefisso": "circa",
+    "valore": "5–7 giorni",
+    "nota": "Nel frattempo la foglia sembra sana.",
+    "da": "Contagio",
+    "a": "Macchia visibile"
+   },
+   "fatto": {
+    "icona": "💧",
+    "classe": "no",
+    "testo": "Non serve la foglia bagnata: <b>basta l'umidità dell'aria.</b>"
+   },
+   "chiusa": "Per questo si parte prima dei sintomi."
+  },
+  "meccanismi": {
+   "foto": {
+    "file": "zucchino_fiore.jpg",
+    "pos": "50% 38%",
+    "credito": "Foto: colincolincol · CC BY 4.0 · iNaturalist",
+    "etichetta": "Tutta la parte aerea"
+   },
+   "voci": [
+    [
+     "🦠",
+     "Occupa la foglia",
+     "Compete col fungo per spazio e nutrienti"
+    ],
+    [
+     "🧱",
+     "Rompe la membrana",
+     "Abbatte la membrana cellulare del fungo"
+    ],
+    [
+     "🛡️",
+     "Allerta la pianta",
+     "Attiva l'ISR, la resistenza sistemica indotta"
+    ]
+   ],
+   "chiusa": "Tre meccanismi insieme · gruppo BM02"
+  },
+  "nome": "Portento SL",
+  "tipo": "Fungicida biologico",
+  "pregi": [
+   "Bacillus subtilis IAB/BS03",
+   "Intervallo pre-raccolta: non necessario"
+  ],
+  "bollino": {
+   "sopra": "almeno",
+   "grande": "100",
+   "sotto": "miliardi di batteri vivi per litro"
+  },
+  "foto_b": {
+   "file": "zucchino_pianta.jpg",
+   "pos": "50% 40%",
+   "credito": "Foto: L. Ockels, UD Cooperative Extension · CC BY 2.0 · Flickr",
+   "etichetta": "Zucchino · serra e campo"
+  },
+  "dose": {
+   "etichetta": "Dose da etichetta · oidio",
+   "valore": "1–3 l/ha",
+   "nota": "in 500–1000 litri d'acqua per ettaro",
+   "punti": [
+    "Ogni 5–7 giorni, massimo 5 applicazioni",
+    "Acqua a pH 5–7, botte piena a metà",
+    "Rientro in serra: 8 ore"
+   ]
+  },
+  "chiusa": "Per la difesa dall'oidio passa al banco di <em>Studio 4, a Vittoria.</em>",
+  "commenti": "💬 Ogni quanti giorni tratti l'oidio? Scrivilo nei commenti."
+ }
+]
