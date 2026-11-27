@@ -5,13 +5,19 @@ Valerio (27/11, 13:34): il formato con le foto vere va bene, ma "dobbiamo toglie
 non è il format giusto" e "devi aggiungere cose più tecniche anche per agricoltori esperti". Si perfeziona prima UN video
 (Portento SL), poi si rifanno gli altri.
 
-Come è fatto (1080x1920, 30 fotogrammi al secondo, circa 27 secondi, senza audio: la musica la mette Valerio dall'app):
+Ordine (Valerio, 27/11 18:19, dopo la prima bozza): "il prodotto deve essere presentato abbastanza subito, intanto colpisci col
+problema, poi dai la soluzione e poi spieghi la soluzione". Quindi: PROBLEMA (aggancio + dettaglio), PRODOTTO entro i primi
+7 secondi, poi COME LAVORA e DOSE.
+
+Come è fatto (1080x1920, 30 fotogrammi al secondo, circa 26 secondi, senza audio: la musica la mette Valerio dall'app):
   1. aggancio   foto vera a tutto schermo e, subito, un dato tecnico che incuriosisce (nessuna domanda, nessuna attesa)
-  2. perché     la foto si stringe in un riquadro: due dati verificati su cosa fa il fungo e quindi quando intervenire
-  3. come       foto della coltura e i meccanismi d'azione scritti in etichetta (da dove arriva ogni dato: vedi video_foto2.json)
-  4. prodotto   la confezione scontornata entra al centro con nome, tipo, un bollino con il numero e due punti
+  2. problema   la foto si stringe in un riquadro: due dati verificati su cosa fa il fungo e quindi quando intervenire
+  3. prodotto   "la soluzione": la confezione scontornata entra al centro con nome, tipo, un bollino con il numero e due punti
+  4. come       foto della coltura e i meccanismi d'azione scritti in etichetta (da dove arriva ogni dato: vedi video_foto2.json)
   5. dose       foto della coltura, dose di etichetta in grande, tre regole d'uso
   6. banco      logo, invito al banco di Vittoria, frase di legge
+In alto a sinistra l'etichetta cambia a ogni capitolo ("Il problema", "La soluzione", "Come lavora", "Quando e quanto"),
+come nelle slide dei caroselli; i testi si possono cambiare con il campo "capitoli" del JSON.
 Stile Studio 4: sfondo chiaro del kit nel colore del prodotto, logo e carattere del kit (kit/s4kit.py, non modificato).
 Zona sicura di TikTok: testi essenziali tra y 131 e y 1560 e senza superare x 940 (a destra ci sono le icone).
 
@@ -25,8 +31,8 @@ QUI = Path(__file__).resolve().parent; REPO = QUI.parent.parent
 sys.path.insert(0, str(REPO / "kit")); import s4kit as k
 FOTO = QUI / "foto_video"
 FPS = 30
-# inizio di ogni scena, in secondi: S perché, M come, P prodotto, D dose, F finale
-TEMPI = {"S": 3.6, "M": 9.2, "P": 14.4, "D": 18.0, "F": 23.6, "FINE": 27.2}
+# inizio di ogni scena, in secondi: S problema in dettaglio, P prodotto, M come lavora, D dose, F finale
+TEMPI = {"S": 3.0, "P": 7.2, "M": 11.4, "D": 17.0, "F": 22.6, "FINE": 26.4}
 FONDO = 1560    # sotto questa quota TikTok mette nome e didascalia: i testi devono finire prima
 
 CSS = """
@@ -49,9 +55,9 @@ em{font-style:normal;color:var(--acc)}
 
 /* ---- foto A: a tutto schermo, poi riquadro */
 #fa{position:absolute;left:0;top:0;width:1080px;height:1920px;overflow:hidden;z-index:2;box-shadow:0 26px 60px rgba(0,0,0,.24);
- animation:faCard .9s cubic-bezier(.7,0,.2,1) [[S]] forwards, faVia .55s cubic-bezier(.6,0,.9,.3) [[M-0.45]] forwards}
+ animation:faCard .9s cubic-bezier(.7,0,.2,1) [[S]] forwards, faVia .55s cubic-bezier(.6,0,.9,.3) [[P-0.45]] forwards}
 #fa img,#fb img,#fc img{width:100%;height:100%;object-fit:cover;display:block}
-#fa img{animation:kb [[M]] linear 0s both}
+#fa img{animation:kb [[P]] linear 0s both}
 @keyframes kb{from{transform:scale(1.02)}to{transform:scale(1.2)}}
 @keyframes faCard{to{left:60px;top:290px;width:960px;height:var(--ch);border-radius:56px}}
 @keyframes faVia{to{transform:translateX(-1150px) rotate(-7deg);opacity:0}}
@@ -66,7 +72,10 @@ body.scheda #fa .cred{animation:none;opacity:.95}
 body.scheda #hook{bottom:auto;top:1050px;transform-origin:20% 0}
 #velo{position:absolute;left:0;top:0;width:1080px;height:440px;z-index:3;
  background:linear-gradient(180deg,rgba(255,255,255,.97) 0%,rgba(255,255,255,.93) 55%,rgba(255,255,255,0) 100%);animation:svanisci .5s ease [[S+0.2]] forwards}
-#tag{position:absolute;left:60px;top:186px;z-index:9;font-size:29px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:var(--acc);white-space:nowrap;max-width:700px;overflow:hidden}
+#tag{position:absolute;left:60px;top:186px;width:700px;height:40px;z-index:9}
+.tg{position:absolute;left:0;top:0;font-size:29px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:var(--acc);white-space:nowrap;opacity:0}
+@keyframes tgOn{to{opacity:1}}
+@keyframes tgOff{to{opacity:0}}
 .dot{display:inline-block;width:16px;height:16px;border-radius:50%;background:var(--acc);margin-right:14px}
 #logo{position:absolute;left:790px;top:160px;width:230px;z-index:9;animation:svanisci .3s ease [[F-0.1]] forwards}
 
@@ -83,32 +92,32 @@ body.scheda #hook{bottom:auto;top:1050px;transform-origin:20% 0}
 @keyframes pulsa{to{transform:scale(1.06)}}
 
 /* ---- 2. perché: due dati verificati */
-#ex{position:absolute;left:0;top:0;width:1080px;height:1920px;z-index:6;animation:viaSu .4s ease-in [[M-0.4]] forwards}
+#ex{position:absolute;left:0;top:0;width:1080px;height:1920px;z-index:6;animation:viaSu .4s ease-in [[P-0.25]] forwards}
 #xcol{position:absolute;left:60px;top:calc(328px + var(--ch));width:880px;display:flex;flex-direction:column;gap:22px}
-#xs1{border-radius:40px;padding:24px 40px 28px;background:var(--dark);color:#fff;animation:suIn .6s cubic-bezier(.2,1.2,.3,1) [[S+0.5]] both}
+#xs1{border-radius:40px;padding:24px 40px 28px;background:var(--dark);color:#fff;animation:suIn .5s cubic-bezier(.2,1.2,.3,1) [[S+0.3]] both}
 #xs1 .xl{font-size:25px;font-weight:700;letter-spacing:3px;text-transform:uppercase;opacity:.78}
-#xs1 .xv{font-size:124px;font-weight:700;line-height:1.04;letter-spacing:-3.5px;margin-top:2px;white-space:nowrap;width:800px;transform-origin:0 50%;animation:timbro .55s cubic-bezier(.2,1.6,.3,1) [[S+1.0]] both}
+#xs1 .xv{font-size:124px;font-weight:700;line-height:1.04;letter-spacing:-3.5px;margin-top:2px;white-space:nowrap;width:800px;transform-origin:0 50%;animation:timbro .5s cubic-bezier(.2,1.6,.3,1) [[S+0.7]] both}
 #xs1 .xv small{font-size:.34em;font-weight:600;letter-spacing:0;opacity:.8;margin-right:.3em}
 #xs1 .xb{position:relative;height:16px;border-radius:8px;background:rgba(255,255,255,.2);margin:20px 15px 12px}
-#xs1 .xb::before{content:"";position:absolute;left:0;top:0;bottom:0;width:100%;border-radius:8px;background:var(--hl);transform-origin:0 50%;animation:riempi 1.6s cubic-bezier(.5,0,.3,1) [[S+1.3]] both}
+#xs1 .xb::before{content:"";position:absolute;left:0;top:0;bottom:0;width:100%;border-radius:8px;background:var(--hl);transform-origin:0 50%;animation:riempi 1.2s cubic-bezier(.5,0,.3,1) [[S+0.85]] both}
 @keyframes riempi{from{transform:scaleX(0)}to{transform:scaleX(1)}}
 #xs1 .xb i{position:absolute;top:50%;width:32px;height:32px;margin:-16px 0 0 -16px;border-radius:50%;background:#fff;box-shadow:0 0 0 7px rgba(255,255,255,.25)}
 #xs1 .xb i.a{left:0}
-#xs1 .xb i.b{left:100%;animation:pop .45s cubic-bezier(.2,1.7,.3,1) [[S+2.75]] both}
+#xs1 .xb i.b{left:100%;animation:pop .45s cubic-bezier(.2,1.7,.3,1) [[S+1.95]] both}
 #xs1 .xe{display:flex;justify-content:space-between;font-size:26px;font-weight:700;letter-spacing:.5px}
 #xs1 .xn{font-size:34px;font-weight:500;line-height:1.25;opacity:.92;margin-top:14px}
-#xs2{display:flex;align-items:center;gap:22px;border-radius:36px;padding:20px 30px 20px 22px;background:#fff;box-shadow:0 12px 34px rgba(0,0,0,.10);font-size:40px;font-weight:700;line-height:1.16;animation:daDes .55s cubic-bezier(.2,1.2,.3,1) [[S+2.0]] both}
+#xs2{display:flex;align-items:center;gap:22px;border-radius:36px;padding:20px 30px 20px 22px;background:#fff;box-shadow:0 12px 34px rgba(0,0,0,.10);font-size:40px;font-weight:700;line-height:1.16;animation:daDes .5s cubic-bezier(.2,1.2,.3,1) [[S+1.3]] both}
 #xs2 i{flex:none;position:relative;width:84px;height:84px;border-radius:50%;background:var(--bg2);font-style:normal;font-size:46px;display:flex;align-items:center;justify-content:center}
 #xs2 i.no::after{content:"";position:absolute;left:10px;right:10px;top:50%;height:7px;margin-top:-3px;background:var(--acc);border-radius:4px;transform:rotate(-42deg);box-shadow:0 0 0 3px var(--bg2)}
 #xs2 b{color:var(--acc);font-weight:700}
-#xs3{align-self:flex-start;border-radius:999px;padding:18px 40px;background:var(--acc);color:#fff;font-size:40px;font-weight:700;animation:suIn .55s cubic-bezier(.2,1.3,.3,1) [[S+3.5]] both}
+#xs3{align-self:flex-start;border-radius:999px;padding:18px 40px;background:var(--acc);color:#fff;font-size:40px;font-weight:700;animation:suIn .5s cubic-bezier(.2,1.3,.3,1) [[S+2.0]] both}
 
-/* ---- 3. come lavora: meccanismi d'azione */
-#co{position:absolute;left:0;top:0;width:1080px;height:1920px;z-index:6;animation:viaSu .4s ease-in [[P-0.4]] forwards}
+/* ---- 4. come lavora: meccanismi d'azione (dopo il prodotto) */
+#co{position:absolute;left:0;top:0;width:1080px;height:1920px;z-index:6;animation:viaSu .4s ease-in [[D-0.4]] forwards}
 #fc{position:absolute;left:60px;top:290px;width:960px;height:440px;border-radius:56px;overflow:hidden;box-shadow:0 26px 60px rgba(0,0,0,.22);
  animation:fbIn .8s cubic-bezier(.2,1.15,.3,1) [[M]] both}
 @keyframes fbIn{from{transform:translateX(1150px) rotate(5deg)}to{transform:none}}
-#fc img{animation:kb2 [[P-M+1]] linear [[M]] both}
+#fc img{animation:kb2 [[D-M+1]] linear [[M]] both}
 @keyframes kb2{from{transform:scale(1.04)}to{transform:scale(1.17)}}
 .phlab{position:absolute;right:26px;top:24px;background:rgba(255,255,255,.95);color:var(--dark);border-radius:999px;padding:9px 24px;font-size:27px;font-weight:700}
 #mcol{position:absolute;left:60px;top:768px;width:880px;display:flex;flex-direction:column;gap:22px}
@@ -118,26 +127,28 @@ body.scheda #hook{bottom:auto;top:1050px;transform-origin:20% 0}
 .mec span{display:block;font-size:31px;line-height:1.2;font-weight:500;opacity:.86;margin-top:4px}
 #bm{align-self:flex-start;border-radius:999px;padding:14px 34px;background:var(--dark);color:#fff;font-size:33px;font-weight:700;white-space:nowrap}
 
-/* ---- 4. prodotto */
+/* ---- 3. prodotto: la soluzione, subito dopo il problema */
 #disc{position:absolute;left:150px;top:350px;width:780px;height:780px;border-radius:50%;z-index:4;
  background:linear-gradient(150deg,color-mix(in srgb,var(--acc) 70%,#fff) 0%,var(--acc) 66%,color-mix(in srgb,var(--acc) 80%,var(--dark)) 100%);
- animation:pop .7s cubic-bezier(.2,1.3,.3,1) [[P-0.05]] both, discVia .5s ease-in [[D-0.1]] forwards}
+ animation:pop .7s cubic-bezier(.2,1.3,.3,1) [[P-0.05]] both, discVia .5s ease-in [[M-0.25]] forwards}
 @keyframes discVia{to{transform:scale(0);opacity:0}}
 #pmove{position:absolute;left:190px;top:330px;width:700px;height:820px;z-index:8;display:flex;align-items:center;justify-content:center;
- animation:pEntra .85s cubic-bezier(.2,1.3,.3,1) [[P+0.1]] both, pDose .8s cubic-bezier(.65,0,.2,1) [[D]] forwards, pVia .45s ease-in [[F-0.3]] forwards}
+ animation:pEntra .85s cubic-bezier(.2,1.3,.3,1) [[P+0.1]] both, pEsce .5s ease-in [[M-0.35]] forwards,
+ pDoseIn .8s cubic-bezier(.2,1.2,.3,1) [[D+0.25]] forwards, pVia .45s ease-in [[F-0.3]] forwards}
 @keyframes pEntra{from{transform:translateY(1900px) rotate(-10deg) scale(.7)}to{transform:none}}
-@keyframes pDose{to{transform:translate(-335px,640px) scale(var(--ps))}}
+@keyframes pEsce{to{transform:translateX(-1300px) rotate(-9deg);opacity:0}}
+@keyframes pDoseIn{from{transform:translate(-335px,1750px) scale(var(--ps));opacity:1}to{transform:translate(-335px,640px) scale(var(--ps));opacity:1}}
 @keyframes pVia{from{transform:translate(-335px,640px) scale(var(--ps))}to{transform:translate(-335px,1700px) scale(var(--ps))}}
 #pimg{max-width:640px;max-height:780px;filter:drop-shadow(0 26px 30px rgba(0,0,0,.30));animation:galla 3s ease-in-out [[P+1]] infinite}
 @keyframes galla{0%,100%{transform:translateY(0) rotate(0)}50%{transform:translateY(-14px) rotate(.8deg)}}
 #stk{position:absolute;left:760px;top:322px;width:262px;height:262px;border-radius:50%;z-index:9;background:#fff;box-shadow:0 18px 44px rgba(0,0,0,.24);
  display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:0 22px;border:7px solid var(--acc);
- animation:stkIn .65s cubic-bezier(.2,1.6,.3,1) [[P+1.2]] both, discVia .5s ease-in [[D-0.1]] forwards}
+ animation:stkIn .65s cubic-bezier(.2,1.6,.3,1) [[P+1.2]] both, discVia .4s ease-in [[M-0.4]] forwards}
 @keyframes stkIn{from{transform:scale(0) rotate(-30deg)}to{transform:rotate(8deg)}}
 #stk small{font-size:25px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--acc);line-height:1}
 #stk b{font-size:104px;font-weight:700;line-height:.96;letter-spacing:-4px;color:var(--dark)}
 #stk span{font-size:23px;font-weight:700;line-height:1.14;color:var(--dark)}
-#ptxt{position:absolute;left:0;top:0;width:1080px;height:1920px;z-index:7;animation:viaSu .4s ease-in [[D-0.35]] forwards}
+#ptxt{position:absolute;left:0;top:0;width:1080px;height:1920px;z-index:7;animation:viaSu .4s ease-in [[M-0.35]] forwards}
 #pnome{position:absolute;left:140px;top:1186px;width:800px;text-align:center;font-size:104px;line-height:1.05;font-weight:700;letter-spacing:-3.5px;white-space:nowrap;animation:suIn .6s cubic-bezier(.2,1.2,.3,1) [[P+0.55]] both}
 #ptipo{position:absolute;left:140px;top:1310px;width:800px;text-align:center;font-size:40px;font-weight:700;color:var(--acc);white-space:nowrap;animation:suIn .6s cubic-bezier(.2,1.2,.3,1) [[P+0.7]] both}
 #pregi{position:absolute;left:140px;top:1392px;width:800px;display:flex;flex-wrap:wrap;gap:14px;justify-content:center;font-size:31px}
@@ -191,6 +202,15 @@ def html_video(v, T=TEMPI):
                     for i, p in enumerate(v["pregi"]))
     punti = "".join(f'<div class="dp" style="animation:daDes .55s cubic-bezier(.2,1.2,.3,1) {T["D"] + 1.2 + i * 0.22:.3f}s both"><i>✓</i><span>{p}</span></div>'
                     for i, p in enumerate(d["punti"]))
+    cap = dict({"problema": "Il problema", "soluzione": "La soluzione", "come": "Come lavora", "dose": "Quando e quanto"}, **v.get("capitoli", {}))
+    # (etichetta, entra, esce): la prima c'è già dall'inizio, l'ultima (categoria del prodotto) resta fino alla fine
+    finestre = [(cap["problema"], None, T["P"] - 0.12), (cap["soluzione"], T["P"] - 0.02, T["M"] - 0.12),
+                (cap["come"], T["M"] + 0.08, T["D"] - 0.12), (cap["dose"], T["D"] + 0.08, T["F"] - 0.12), (v["tag"], T["F"] + 0.08, None)]
+    def _tg(t, a, b):
+        anim = ([f"tgOn .25s ease {a:.3f}s both"] if a is not None else []) + ([f"tgOff .25s ease {b:.3f}s forwards"] if b is not None else [])
+        stile = (f"animation:{', '.join(anim)};" if anim else "") + ("opacity:1;" if a is None else "")
+        return f'<div class="tg" style="{stile}"><span class="dot"></span>{t}</div>'
+    tags = "".join(_tg(t, a, b) for t, a, b in finestre)
     bol = v.get("bollino")
     stk = (f'<div id="stk"><small>{bol["sopra"]}</small><b>{bol["grande"]}</b><span>{bol["sotto"]}</span></div>') if bol else ""
     return f"""<!DOCTYPE html><html><head><meta charset="utf-8"><style>{k.FONT}{css}</style></head>
@@ -198,7 +218,7 @@ def html_video(v, T=TEMPI):
 <div class="blob b1"></div><div class="blob b2"></div>
 <div id="fa"><img src="{(FOTO / fa['file']).as_uri()}" style="object-position:{fa.get('pos', '50% 50%')};transform-origin:{fa.get('pos', '50% 50%')}"><div class="cred">{fa.get('credito', '')}</div></div>
 <div id="velo"></div>
-<div id="tag"><span class="dot"></span>{v['tag']}</div><img id="logo" src="{k.LOGO.as_uri()}">
+<div id="tag">{tags}</div><img id="logo" src="{k.LOGO.as_uri()}">
 <div id="hook"><h1 data-min="60"><div>{v['aggancio']}</div></h1><div class="invito">{v['invito']}</div></div>
 <div id="ex">
  <div id="xcol" data-fondo="{FONDO}">
@@ -250,8 +270,8 @@ def main():
         shutil.rmtree(fr, ignore_errors=True); fr.mkdir()
         cmd = ["node", str(QUI / "rendi_video.js"), str(html), str(fr), str(T["FINE"]), str(FPS)]
         if prova:
-            ts = (0, 1.5, T["S"] + 0.3, T["S"] + 1.3, T["S"] + 2.6, T["S"] + 4.4, T["M"] + 0.45, T["M"] + 1.5, T["M"] + 3.0, T["M"] + 4.3,
-                  T["P"] + 0.5, T["P"] + 2.8, T["D"] + 0.5, T["D"] + 3.0, T["D"] + 4.8, T["F"] + 2.5)
+            ts = (0, 1.5, T["S"] + 0.3, T["S"] + 1.2, T["S"] + 2.4, T["S"] + 3.9, T["P"] + 0.5, T["P"] + 1.5, T["P"] + 3.3,
+                  T["M"] + 0.45, T["M"] + 1.5, T["M"] + 3.0, T["M"] + 5.0, T["D"] + 0.5, T["D"] + 3.0, T["D"] + 4.8, T["F"] + 2.5)
             cmd.append(",".join(str(int(t * FPS)) for t in ts))
         r = subprocess.run(cmd, capture_output=True, text=True)
         print(v["id"], r.stdout.strip(), r.stderr.strip()[-400:])

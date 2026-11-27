@@ -5,6 +5,7 @@
   "fito": true,
   "prodotto": "portentosl",
   "tag": "Funghi · biologico",
+ "capitoli": {"problema": "Il problema · oidio"},
   "foto_a": {
    "file": "oidio_cucurbitacea.jpg",
    "pos": "50% 45%",
