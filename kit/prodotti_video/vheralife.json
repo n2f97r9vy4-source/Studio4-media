@@ -30,28 +30,28 @@
   },
   {
    "tipo": "schede",
-   "tag": "A cosa serve",
-   "titolo": "Un terreno<br><em>che lavora.</em>",
+   "tag": "Come agisce",
+   "titolo": "Come<br><em>agisce.</em>",
    "voci": [
     [
      "🦠",
-     "Prebiotico",
-     "Nutre i microrganismi utili del terreno."
+     "Cibo per i microrganismi",
+     "È un prebiotico: nutre batteri e funghi utili intorno alle radici."
     ],
     [
      "🌊",
      "Alga Macrocystis",
-     "Estratto fluido azotato, da raccolta sostenibile."
+     "Estratto fluido con azoto e carbonio organico al 13%, ricco di terpeni."
     ],
     [
-     "🍅",
-     "Orticole e fragola",
-     "15–20 l/ha in fertirrigazione."
+     "🍄",
+     "Prepara le micorrize",
+     "Con Vhera, l'inoculo di micorrize, crea l'ambiente dove i funghi colonizzano le radici."
     ],
     [
-     "🌸",
-     "Floricole",
-     "2 l ogni 1.000 m²."
+     "🌱",
+     "Radici che lavorano",
+     "Secondo l'etichetta favorisce la crescita delle radici e ne migliora la funzionalità."
     ]
    ],
    "fonte": "Dall'etichetta."
@@ -70,6 +70,6 @@
    "fonte": "Dall'etichetta."
   }
  ],
- "didascalia": "Terreno stanco? 🌱\n\nRadici che non partono dopo il trapianto: prima si nutre il terreno vivo. Vhera Life è un prebiotico a base di alga che prepara l'ambiente per micorrize e batteri utili.\n\n💧 La dose giusta (orticole e fragola, fertirrigazione)\n• 15–20 l/ha vicino a semina o trapianto, con Vhera 3–5 l/ha\n• Dopo 20–30 giorni: Vhera Life da solo\n• Dopo altri 30–40 giorni: di nuovo con Vhera\nNon con prodotti a base di rame.\n\nConsentito in agricoltura biologica. Dosi da etichetta. Lo trovi al banco, Studio 4 · Vittoria.\n\n#studio4srl #terreno #radici #trapianto #biologico",
+ "didascalia": "Terreno stanco? 🌱\n\nRadici che non partono dopo il trapianto: prima si nutre il terreno vivo. Vhera Life è un prebiotico a base di alga: nutre batteri e funghi utili intorno alle radici e, con Vhera, prepara l'ambiente in cui le micorrize colonizzano le radici.\n\n💧 La dose giusta (orticole e fragola, fertirrigazione)\n• 15–20 l/ha vicino a semina o trapianto, con Vhera 3–5 l/ha\n• Dopo 20–30 giorni: Vhera Life da solo\n• Dopo altri 30–40 giorni: di nuovo con Vhera\nNon con prodotti a base di rame.\n\nConsentito in agricoltura biologica. Dosi da etichetta. Lo trovi al banco, Studio 4 · Vittoria.\n\n#studio4srl #terreno #radici #trapianto #biologico",
  "id": "vheralife"
 }

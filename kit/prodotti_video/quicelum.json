@@ -29,46 +29,46 @@
   },
   {
    "tipo": "schede",
-   "tag": "A cosa serve",
-   "titolo": "Quando<br><em>si usa.</em>",
+   "tag": "Come agisce",
+   "titolo": "Cosa fa<br><em>ogni elemento.</em>",
    "voci": [
     [
-     "🍅",
-     "Pomodoro",
-     "Dalla fioritura, ogni 20 giorni."
+     "🌸",
+     "Boro 0,2%",
+     "Serve al polline e al tubetto che porta il polline all'ovario: più fiori che allegano."
     ],
     [
-     "🍈",
-     "Melone",
-     "In pre-fioritura e all'ingrossamento."
+     "🍃",
+     "Ferro 2%",
+     "Serve a fare la clorofilla: niente giallo tra le nervature delle foglie nuove."
     ],
     [
-     "🍓",
-     "Fragola",
-     "In pre-fioritura, poi dopo 25 giorni."
+     "⚡",
+     "Manganese 0,5%",
+     "Lavora nella fotosintesi, nella parte che spezza l'acqua con la luce."
     ],
     [
-     "🍇",
-     "Vite",
-     "In fioritura e all'ingrossamento."
+     "🧪",
+     "Molibdeno 0,02%",
+     "Serve a trasformare i nitrati in proteine dentro la pianta."
     ]
    ],
-   "fonte": "Dall'etichetta."
+   "fonte": "Composizione dall'etichetta; ruoli da nozioni di fisiologia vegetale."
   },
   {
    "tipo": "sapevi",
-   "titolo": "Il boro porta lo zucchero al frutto.",
-   "grande": "Il boro aiuta i fiori ad allegare e gli zuccheri a spostarsi verso i frutti.",
-   "piccolo": "Il produttore dichiara più pezzatura, numero e consistenza dei frutti.",
+   "titolo": "Il boro non si sposta.",
+   "grande": "Il boro si muove poco nella pianta: va dato quando si formano i fiori nuovi.",
+   "piccolo": "Per questo l'etichetta dice: sul pomodoro dalla fioritura, ogni 20 giorni.",
    "punti": [
-    "Boro 0,2%, ferro 2%, manganese 0,5%, molibdeno 0,02%",
-    "Consentito in agricoltura biologica",
-    "Uso riservato agli utilizzatori professionali"
+    "Il produttore dichiara più pezzatura, numero e consistenza dei frutti",
+    "Si miscela solo con Anticrack",
+    "Consentito in biologico, uso professionale"
    ],
-   "chiusa": "Pochi grammi al momento giusto: dalla fioritura in poi.",
-   "fonte": "Dall'etichetta; ruolo del boro da nozioni generali."
+   "chiusa": "Poco, spesso, al momento giusto.",
+   "fonte": "Dall'etichetta; mobilità del boro da nozioni generali."
   }
  ],
- "didascalia": "Frutti piccoli? 🍅\n\nPochi frutti e poco consistenti: a volte mancano i microelementi giusti. Quicelum porta boro, ferro, manganese e molibdeno per via fogliare.\n\n💧 La dose giusta (pomodoro)\n• 75–100 ml/hl oppure 1 l/ha\n• Dalla fioritura, ogni 20 giorni\nSi miscela solo con Anticrack.\n\n💡 Lo sapevi? Il boro aiuta i fiori ad allegare e gli zuccheri a spostarsi verso i frutti.\n\nConsentito in agricoltura biologica. Dosi da etichetta. Lo trovi al banco, Studio 4 · Vittoria.\n\n#studio4srl #pomodoro #microelementi #fioritura #serra",
+ "didascalia": "Frutti piccoli? Falli allegare. 🍅\n\nQuicelum porta quattro microelementi per foglia: boro per il polline e l'allegagione, ferro per la clorofilla, manganese per la fotosintesi e molibdeno per trasformare i nitrati in proteine.\n\n💧 La dose giusta (pomodoro)\n• 75–100 ml/hl oppure 1 l/ha\n• Dalla fioritura, ogni 20 giorni\nSi miscela solo con Anticrack.\n\n💡 Lo sapevi? Il boro si muove poco nella pianta: per questo va dato quando si formano i fiori nuovi, ogni 20 giorni.\n\nConsentito in agricoltura biologica. Dosi da etichetta. Lo trovi al banco, Studio 4 · Vittoria.\n\n#studio4srl #pomodoro #microelementi #fioritura #serra",
  "id": "quicelum"
 }

@@ -7,10 +7,10 @@
  ],
  "larghezza_foto": 480,
  "copertina": {
-  "tag": "Rame · Serra",
-  "titolo": "Piante<br>deboli?<br><em>Rame e azoto<br>insieme.</em>",
-  "sotto": "Protamin Cu 62: rame legato <span>alle proteine.</span>",
-  "box": "Come si usa in serra e perché entra meglio. Scorri."
+  "tag": "Rame · Fertirrigazione",
+  "titolo": "Germogli<br>molli?<br><em>Può mancare<br>rame.</em>",
+  "sotto": "Protamin Cu 62: rame legato alle proteine, <span>per foglia e fertirrigazione.</span>",
+  "box": "Cosa fa il rame nella pianta e come darlo. Scorri."
  },
  "slide": [
   {
@@ -30,46 +30,46 @@
   },
   {
    "tipo": "schede",
-   "tag": "A cosa serve",
-   "titolo": "Rame e azoto,<br><em>dove servono.</em>",
+   "tag": "Come agisce",
+   "titolo": "Cosa fa<br><em>nella pianta.</em>",
    "voci": [
     [
+     "🌿",
+     "Tessuti più robusti",
+     "Il rame serve a costruire la lignina: pareti delle cellule più solide, germogli meno molli."
+    ],
+    [
+     "☀️",
+     "Fotosintesi",
+     "È nella plastocianina, la proteina che porta l'energia della luce dentro la foglia."
+    ],
+    [
+     "🧬",
+     "Rame legato agli amminoacidi",
+     "È carniccio fluido: peptidi e amminoacidi accompagnano il rame dentro foglie e radici."
+    ],
+    [
      "🌱",
-     "Fertirrigazione",
-     "Orticole e serra, per tutto il ciclo."
-    ],
-    [
-     "🍅",
-     "Pomodoro",
-     "Per foglia, 4–5 interventi."
-    ],
-    [
-     "🥕",
-     "Carota e carciofo",
-     "1 l/ha, insieme alla difesa."
-    ],
-    [
-     "🧪",
-     "Cosa contiene",
-     "Rame 6,2% (83 g/l), azoto organico 3%, carbonio organico 10%."
+     "Azoto organico 3%",
+     "Un apporto di azoto che accompagna il rame nella ripresa della vegetazione."
     ]
    ],
-   "fonte": "Dall'etichetta."
+   "fonte": "Dall'etichetta; ruoli degli elementi da nozioni di fisiologia vegetale."
   },
   {
    "tipo": "sapevi",
-   "titolo": "Il rame viaggia con le proteine.",
-   "grande": "È carniccio fluido: il rame è legato a peptidi e amminoacidi.",
-   "piccolo": "L'etichetta parla di azione preventiva e veicolante: la parte organica aiuta il rame a entrare.",
+   "titolo": "La carenza parte dalla punta.",
+   "grande": "Il rame si sposta poco nella pianta: i sintomi compaiono sui germogli, non sulle foglie vecchie.",
+   "piccolo": "Foglie nuove piegate e punte che appassiscono anche con il terreno bagnato.",
    "punti": [
-    "Rame 6,2% = 83 g per litro",
-    "Cromo VI non rilevabile, come dice l'etichetta",
-    "Dosi pensate per volumi d'acqua normali"
+    "Più frequente in terreni ricchi di sostanza organica o calcarei",
+    "Troppo fosforo e zinco ne frenano l'assorbimento",
+    "Rame 6,2% = 83 g per litro"
    ],
-   "chiusa": "Nutrimento e rame nello stesso passaggio.",
-   "fonte": "Dall'etichetta."
+   "chiusa": "Prima di dare più acqua, guarda la punta.",
+   "fonte": "Dall'etichetta; ruoli degli elementi da nozioni di fisiologia vegetale."
   }
  ],
- "didascalia": "Piante deboli? 🌱\n\nProtamin Cu 62 porta rame legato a peptidi e amminoacidi, con azoto organico: nutre e rinforza la pianta.\n\n💧 La dose giusta\n• Serra, fertirrigazione: 1–1,5 l ogni 1.000 m², per tutto il ciclo\n• Pomodoro per foglia: 1–1,5 l/ha, 4–5 interventi ogni 7–10 giorni\nEvita i trattamenti in piena fioritura.\n\n💡 Lo sapevi? È carniccio fluido: la parte organica fa da veicolo al rame.\n\nConsentito in agricoltura biologica. Dosi da etichetta. Lo trovi al banco, Studio 4 · Vittoria.\n\n#studio4srl #rame #concime #biologico #serra",
+ "didascalia": "Germogli molli? Può mancare rame. 🌱\n\nIl rame serve a costruire la lignina, cioè pareti delle cellule più solide, ed è dentro la proteina che porta l'energia della luce nella foglia. Protamin Cu 62 lo porta legato a peptidi e amminoacidi, con un po' di azoto organico.\n\n💧 La dose giusta\n• Serra, fertirrigazione: 1–1,5 l ogni 1.000 m², per tutto il ciclo\n• Pomodoro per foglia: 1–1,5 l/ha, 4–5 interventi ogni 7–10 giorni\nEvita i trattamenti in piena fioritura.\n\n💡 Lo sapevi? Il rame si sposta poco nella pianta: la carenza si vede prima sui germogli, con foglie nuove piegate e punte che appassiscono anche con il terreno bagnato.\n\nConsentito in agricoltura biologica. Dosi da etichetta. Lo trovi al banco, Studio 4 · Vittoria.\n\n#studio4srl #rame #concime #biologico #serra",
  "id": "protamin"
 }

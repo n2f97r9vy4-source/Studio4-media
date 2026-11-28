@@ -7,10 +7,10 @@
  ],
  "larghezza_foto": 480,
  "copertina": {
-  "tag": "Rame · Biologico",
-  "titolo": "Carenza<br>di rame?<br><em>Portalo<br>dove serve.</em>",
-  "sotto": "Cubico: rame legato all'acido gluconico, <span>anche in biologico.</span>",
-  "box": "Dosi, uso e perché resta in soluzione. Scorri."
+  "tag": "Rame · Acqua in botte",
+  "titolo": "Rame che<br>precipita<br>in botte?<br><em>Usa quello<br>legato.</em>",
+  "sotto": "Cubico: rame al gluconato, <span>stabile da pH 1 a 10.</span>",
+  "box": "Cosa fa il rame e perché questo resta sciolto. Scorri."
  },
  "slide": [
   {
@@ -30,46 +30,46 @@
   },
   {
    "tipo": "schede",
-   "tag": "A cosa serve",
-   "titolo": "Rame,<br><em>per foglia o per radice.</em>",
+   "tag": "Come agisce",
+   "titolo": "Cosa fa<br><em>nella pianta.</em>",
    "voci": [
     [
-     "🍃",
-     "Per foglia",
-     "200–400 ml/hl, assorbito dalle foglie."
-    ],
-    [
-     "🌱",
-     "Per radice",
-     "2–3 l/ha in fertirrigazione."
-    ],
-    [
      "🌿",
-     "Biologico",
-     "Consentito in agricoltura biologica."
+     "Pareti più robuste",
+     "Il rame serve a fare la lignina: tessuti più consistenti."
+    ],
+    [
+     "☀️",
+     "Fotosintesi e respirazione",
+     "È negli enzimi che spostano l'energia dentro le cellule."
     ],
     [
      "🧪",
-     "Cosa contiene",
-     "Rame 6% complessato con acido gluconico, azoto 2,2%."
+     "Legato al gluconato",
+     "L'acido gluconico avvolge il rame: resta sciolto e passa meglio nella foglia."
+    ],
+    [
+     "🍃",
+     "Foglia o radice",
+     "200–400 ml/hl per foglia, 2–3 l/ha in fertirrigazione."
     ]
    ],
-   "fonte": "Dall'etichetta."
+   "fonte": "Dall'etichetta; ruoli degli elementi da nozioni di fisiologia vegetale."
   },
   {
    "tipo": "sapevi",
-   "titolo": "Stabile da pH 1 a 10.",
-   "grande": "Il rame legato al gluconato resta in soluzione con quasi ogni acqua.",
-   "piccolo": "In etichetta: la frazione chelata è stabile da pH 1 a pH 10.",
+   "titolo": "Rame e calcare non vanno d'accordo.",
+   "grande": "Con il pH sopra 7 il rame libero forma sali che non si sciolgono più.",
+   "piccolo": "Legato al gluconato resta disponibile: in etichetta è stabile da pH 1 a pH 10.",
    "punti": [
-    "Il rame libero tende a precipitare nelle acque dure",
-    "Il gluconato è un complessante organico",
-    "Il rame serve agli enzimi della fotosintesi e alla lignina"
+    "Il rame si sposta poco: i sintomi partono dalle foglie giovani",
+    "Troppo fosforo e zinco ne frenano l'assorbimento",
+    "Consentito in agricoltura biologica"
    ],
-   "chiusa": "Meno rame perso in botte, più rame alla pianta.",
-   "fonte": "Dall'etichetta; ruolo del rame da nozioni generali."
+   "chiusa": "Con acqua dura, il rame giusto è quello legato.",
+   "fonte": "Dall'etichetta; ruoli degli elementi da nozioni di fisiologia vegetale."
   }
  ],
- "didascalia": "Carenza di rame? 🌿\n\nFoglie giovani deformi e punte secche: la pianta chiede rame. Cubico porta rame legato all'acido gluconico, stabile in soluzione da pH 1 a 10.\n\n💧 La dose giusta\n• Per foglia: 200–400 ml/hl\n• Per radice: 2–3 l/ha\nSolo in caso di bisogno riconosciuto, senza superare le dosi.\n\n💡 Lo sapevi? Il rame libero tende a precipitare nelle acque dure: legato al gluconato resta disponibile.\n\nConsentito in agricoltura biologica. Dosi da etichetta. Lo trovi al banco, Studio 4 · Vittoria.\n\n#studio4srl #rame #concime #biologico #serra",
+ "didascalia": "Rame che precipita in botte? 🌿\n\nCon acqua dura e pH sopra 7 il rame libero forma sali che non si sciolgono più. Cubico porta rame legato all'acido gluconico: resta in soluzione da pH 1 a 10 e passa meglio nella foglia.\n\nCosa fa il rame: serve a costruire la lignina, quindi tessuti più robusti, ed è negli enzimi che spostano l'energia nelle cellule.\n\n💧 La dose giusta\n• Per foglia: 200–400 ml/hl\n• Per radice: 2–3 l/ha\nSolo in caso di bisogno riconosciuto, senza superare le dosi.\n\nConsentito in agricoltura biologica. Dosi da etichetta. Lo trovi al banco, Studio 4 · Vittoria.\n\n#studio4srl #rame #concime #biologico #serra",
  "id": "cubico"
 }
