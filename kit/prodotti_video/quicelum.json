@@ -6,19 +6,10 @@
   "quicelum"
  ],
  "copertina": {
-  "tag": "Pomodoro · Melone · Fragola",
-  "righe": [
-   [
-    "Frutti",
-    150
-   ],
-   [
-    "piccoli?",
-    150
-   ]
-  ],
-  "sotto": "Pochi frutti e poco consistenti: <span>servono i microelementi giusti.</span>",
-  "box": "Quicelum: boro, ferro, manganese e molibdeno."
+  "tag": "Microelementi · Fioritura",
+  "titolo": "Frutti<br>piccoli?<br><em>Falli<br>allegare.</em>",
+  "sotto": "Quicelum: boro, ferro, manganese e molibdeno <span>per via fogliare.</span>",
+  "box": "Dose, quando darlo e cosa fa il boro. Scorri."
  },
  "slide": [
   {

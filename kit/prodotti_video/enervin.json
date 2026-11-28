@@ -1,0 +1,75 @@
+{
+ "id": "enervin",
+ "colore": "petrolio",
+ "argomento": "Peronospora",
+ "foto": "enervin",
+ "prodotti": [
+  "enervin"
+ ],
+ "slide": [
+  {
+   "tipo": "dose",
+   "tag": "La dose giusta",
+   "titolo": "Enervin System:<br><em>la dose giusta.</em>",
+   "foto": "enervin",
+   "etichetta": "Pomodoro e melanzana, campo e serra",
+   "valore": "3,2 l/ha",
+   "nota": "Stessa dose su cetriolo e zucchina in serra",
+   "punti": [
+    "Massimo 2 trattamenti a stagione",
+    "Almeno 7 giorni tra uno e l'altro",
+    "Carenza: 1 giorno",
+    "Non con concimi fogliari a base di azoto"
+   ],
+   "fonte": "Dosi da etichetta (reg. 17766)."
+  },
+  {
+   "tipo": "schede",
+   "tag": "A cosa serve",
+   "titolo": "Peronospora,<br><em>su cosa.</em>",
+   "voci": [
+    [
+     "🍅",
+     "Pomodoro e melanzana",
+     "Phytophthora infestans, in campo e in serra."
+    ],
+    [
+     "🥒",
+     "Cetriolo e zucchina",
+     "Peronospora delle cucurbitacee, in serra."
+    ],
+    [
+     "🥬",
+     "Lattughe, spinaci, bietole",
+     "Solo in pieno campo: sospendere 7 giorni prima della raccolta."
+    ],
+    [
+     "🍇",
+     "Vite",
+     "2,5–4,2 l/ha, ogni 10–12 giorni, sospendere 35 giorni prima."
+    ]
+   ],
+   "fonte": "Dall'etichetta."
+  },
+  {
+   "tipo": "sapevi",
+   "titolo": "Il fosfonato viaggia in due direzioni.",
+   "grande": "Si muove nella pianta sia verso l'alto sia verso il basso.",
+   "piccolo": "Per questo protegge anche la vegetazione nata dopo il trattamento.",
+   "punti": [
+    "Ametoctradina resta sullo strato ceroso: barriera preventiva e durevole",
+    "Ferma i mitocondri del fungo: niente ATP, niente crescita",
+    "L'etichetta chiede di alternare sostanze con meccanismo diverso"
+   ],
+   "chiusa": "Si tratta prima della malattia, non dopo.",
+   "fonte": "Dall'etichetta."
+  }
+ ],
+ "didascalia": "Peronospora? Fermala prima. 🌿\n\nFoglie bagnate e umidità sono il suo momento. Enervin System unisce due sostanze con due meccanismi diversi: una resta sulla superficie, l'altra si muove dentro la pianta.\n\n💧 La dose giusta (da etichetta)\n• Pomodoro e melanzana, campo e serra: 3,2 l/ha\n• Stessa dose su cetriolo e zucchina in serra\n• Massimo 2 trattamenti a stagione, almeno 7 giorni tra uno e l'altro\n• Carenza: 1 giorno\nNon mescolarlo con concimi fogliari a base di azoto.\n\n💡 Lo sapevi? Il fosfonato di potassio viaggia nella pianta sia verso l'alto sia verso il basso: protegge anche la vegetazione che nasce dopo il trattamento.\n\nLo trovi al banco.\n\n#peronospora #pomodoro #melanzana #serra #fungicida #vittoria #studio4srl",
+ "copertina": {
+  "tag": "Pomodoro · Melanzana · Serra",
+  "titolo": "Peronospora?<br><em>Fermala<br>prima.</em>",
+  "sotto": "Enervin System: due sostanze, <span>dentro e fuori la foglia.</span>",
+  "box": "Come lavora e come usarlo bene. Scorri."
+ }
+}

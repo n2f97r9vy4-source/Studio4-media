@@ -6,23 +6,10 @@
   "ranman"
  ],
  "copertina": {
-  "tag": "Pomodoro · Cucurbitacee · Serra",
-  "righe": [
-   [
-    "Macchie",
-    150
-   ],
-   [
-    "oleose?",
-    150
-   ],
-   [
-    "È peronospora.",
-    80
-   ]
-  ],
-  "sotto": "Foglie che si chiazzano dopo l'umido: <span>fermala sul nascere.</span>",
-  "box": "Ranman Top: mezzo litro per ettaro contro la peronospora."
+  "tag": "Peronospora · Pomodoro",
+  "titolo": "Macchie<br>oleose sulle<br>foglie?<br><em>Fermale<br>subito.</em>",
+  "sotto": "Ranman Top: <span>mezzo litro per ettaro</span> su pomodoro e cucurbitacee.",
+  "box": "La dose, dove si usa e il trucco per scioglierlo. Scorri."
  },
  "slide": [
   {

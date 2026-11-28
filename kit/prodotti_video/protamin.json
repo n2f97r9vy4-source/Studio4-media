@@ -7,19 +7,10 @@
  ],
  "larghezza_foto": 480,
  "copertina": {
-  "tag": "Orticole · Serra · Biologico",
-  "righe": [
-   [
-    "Piante",
-    150
-   ],
-   [
-    "deboli?",
-    150
-   ]
-  ],
-  "sotto": "Rame e azoto organico insieme: <span>nutre e rinforza.</span>",
-  "box": "Protamin Cu 62: rame legato alle proteine."
+  "tag": "Rame · Serra",
+  "titolo": "Piante<br>deboli?<br><em>Rame e azoto<br>insieme.</em>",
+  "sotto": "Protamin Cu 62: rame legato <span>alle proteine.</span>",
+  "box": "Come si usa in serra e perché entra meglio. Scorri."
  },
  "slide": [
   {

@@ -7,23 +7,10 @@
   "dagonis"
  ],
  "copertina": {
-  "tag": "Pomodoro · Peperone · Cucurbitacee",
-  "righe": [
-   [
-    "Oidio?",
-    150
-   ],
-   [
-    "Bloccalo",
-    125
-   ],
-   [
-    "in tempo.",
-    125
-   ]
-  ],
-  "sotto": "Polvere bianca sulle foglie: <span>non aspettare che si allarghi.</span>",
-  "box": "Dagonis: oidio e alternaria, con due sostanze."
+  "tag": "Oidio · Alternaria",
+  "titolo": "Oidio e<br>alternaria?<br><em>Bloccali<br>in tempo.</em>",
+  "sotto": "Dagonis: fungicida translaminare <span>per solanacee e cucurbitacee.</span>",
+  "box": "Dove si usa, la dose giusta e perché passa la foglia. Scorri."
  },
  "slide": [
   {

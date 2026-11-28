@@ -6,23 +6,10 @@
   "switch"
  ],
  "copertina": {
-  "tag": "Orticole · Fragola · Serra",
-  "righe": [
-   [
-    "Muffa",
-    150
-   ],
-   [
-    "grigia?",
-    150
-   ],
-   [
-    "Fermala prima.",
-    85
-   ]
-  ],
-  "sotto": "Umidità alta e frutti che marciscono: <span>è il suo momento.</span>",
-  "box": "Switch: due sostanze contro la botrite."
+  "tag": "Muffa grigia · Botrite",
+  "titolo": "Muffa<br>grigia?<br><em>Fermala<br>prima.</em>",
+  "sotto": "Switch: due fungicidi <span>che rispettano gli insetti utili.</span>",
+  "box": "Dose, colture e perché va d'accordo con gli ausiliari. Scorri."
  },
  "slide": [
   {

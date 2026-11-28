@@ -7,19 +7,10 @@
  ],
  "larghezza_foto": 480,
  "copertina": {
-  "tag": "Tutte le colture · Biologico",
-  "righe": [
-   [
-    "Carenza",
-    150
-   ],
-   [
-    "di rame?",
-    150
-   ]
-  ],
-  "sotto": "Foglie giovani deformi e punte secche: <span>la pianta chiede rame.</span>",
-  "box": "Cubico: rame legato all'acido gluconico."
+  "tag": "Rame · Biologico",
+  "titolo": "Carenza<br>di rame?<br><em>Portalo<br>dove serve.</em>",
+  "sotto": "Cubico: rame legato all'acido gluconico, <span>anche in biologico.</span>",
+  "box": "Dosi, uso e perché resta in soluzione. Scorri."
  },
  "slide": [
   {

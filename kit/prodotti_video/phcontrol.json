@@ -6,19 +6,10 @@
   "phcontrol"
  ],
  "copertina": {
-  "tag": "In botte · Tutti i trattamenti",
-  "righe": [
-   [
-    "Acqua",
-    150
-   ],
-   [
-    "dura?",
-    150
-   ]
-  ],
-  "sotto": "Il trattamento rende meno: <span>il pH dell'acqua conta.</span>",
-  "box": "pH Control: corregge il pH e te lo mostra col colore."
+  "tag": "Acqua in botte · pH",
+  "titolo": "Acqua<br>dura?<br><em>Il pH<br>conta.</em>",
+  "sotto": "pH Control: corregge il pH <span>e te lo mostra col colore.</span>",
+  "box": "Dose, scala dei colori e perché pH 6. Scorri."
  },
  "slide": [
   {

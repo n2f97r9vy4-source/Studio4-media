@@ -7,19 +7,10 @@
  ],
  "larghezza_foto": 480,
  "copertina": {
-  "tag": "Orticole · Trapianto · Biologico",
-  "righe": [
-   [
-    "Terreno",
-    150
-   ],
-   [
-    "stanco?",
-    150
-   ]
-  ],
-  "sotto": "Radici che non partono dopo il trapianto: <span>nutri il terreno vivo.</span>",
-  "box": "Vhera Life: prebiotico da alga per il terreno."
+  "tag": "Terreno · Trapianto",
+  "titolo": "Terreno<br>stanco?<br><em>Nutri<br>quello vivo.</em>",
+  "sotto": "Vhera Life: prebiotico da alga <span>per radici che partono.</span>",
+  "box": "Quando darlo e con cosa abbinarlo. Scorri."
  },
  "slide": [
   {
