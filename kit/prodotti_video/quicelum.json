@@ -1,0 +1,83 @@
+{
+ "colore": "indaco",
+ "argomento": "Microelementi",
+ "foto": "quicelum",
+ "prodotti": [
+  "quicelum"
+ ],
+ "copertina": {
+  "tag": "Pomodoro · Melone · Fragola",
+  "righe": [
+   [
+    "Frutti",
+    150
+   ],
+   [
+    "piccoli?",
+    150
+   ]
+  ],
+  "sotto": "Pochi frutti e poco consistenti: <span>servono i microelementi giusti.</span>",
+  "box": "Quicelum: boro, ferro, manganese e molibdeno."
+ },
+ "slide": [
+  {
+   "tipo": "dose",
+   "titolo": "Quicelum:<br><em>la dose giusta.</em>",
+   "foto": "quicelum",
+   "etichetta": "Pomodoro, per foglia",
+   "valore": "75–100 ml/hl",
+   "nota": "Oppure 1 l/ha",
+   "punti": [
+    "Dalla fioritura, ogni 20 giorni",
+    "Melone: pre-fioritura e ingrossamento",
+    "Si miscela solo con Anticrack",
+    "Solo in caso di bisogno riconosciuto"
+   ],
+   "fonte": "Dosi da etichetta."
+  },
+  {
+   "tipo": "schede",
+   "tag": "A cosa serve",
+   "titolo": "Quando<br><em>si usa.</em>",
+   "voci": [
+    [
+     "🍅",
+     "Pomodoro",
+     "Dalla fioritura, ogni 20 giorni."
+    ],
+    [
+     "🍈",
+     "Melone",
+     "In pre-fioritura e all'ingrossamento."
+    ],
+    [
+     "🍓",
+     "Fragola",
+     "In pre-fioritura, poi dopo 25 giorni."
+    ],
+    [
+     "🍇",
+     "Vite",
+     "In fioritura e all'ingrossamento."
+    ]
+   ],
+   "fonte": "Dall'etichetta."
+  },
+  {
+   "tipo": "sapevi",
+   "titolo": "Il boro porta lo zucchero al frutto.",
+   "grande": "Il boro aiuta i fiori ad allegare e gli zuccheri a spostarsi verso i frutti.",
+   "piccolo": "Il produttore dichiara più pezzatura, numero e consistenza dei frutti.",
+   "punti": [
+    "Boro 0,2%, ferro 2%, manganese 0,5%, molibdeno 0,02%",
+    "Consentito in agricoltura biologica",
+    "Uso riservato agli utilizzatori professionali"
+   ],
+   "chiusa": "Pochi grammi al momento giusto: dalla fioritura in poi.",
+   "fonte": "Dall'etichetta; ruolo del boro da nozioni generali."
+  }
+ ],
+ "didascalia": "Frutti piccoli? 🍅\n\nPochi frutti e poco consistenti: a volte mancano i microelementi giusti. Quicelum porta boro, ferro, manganese e molibdeno per via fogliare.\n\n💧 La dose giusta (pomodoro)\n• 75–100 ml/hl oppure 1 l/ha\n• Dalla fioritura, ogni 20 giorni\nSi miscela solo con Anticrack.\n\n💡 Lo sapevi? Il boro aiuta i fiori ad allegare e gli zuccheri a spostarsi verso i frutti.\n\nConsentito in agricoltura biologica. Dosi da etichetta. Lo trovi al banco, Studio 4 · Vittoria.\n\n#studio4srl #pomodoro #microelementi #fioritura #serra",
+ "id": "quicelum"
+}

@@ -1,0 +1,83 @@
+{
+ "colore": "azzurro",
+ "argomento": "Peronospora e batteri",
+ "foto": "cumeta",
+ "prodotti": [
+  "cumeta"
+ ],
+ "copertina": {
+  "tag": "Pomodoro · Cucurbitacee · Serra",
+  "righe": [
+   [
+    "Peronospora",
+    150
+   ],
+   [
+    "e batteri?",
+    150
+   ]
+  ],
+  "sotto": "Rame e sistemico insieme: <span>fuori e dentro la pianta.</span>",
+  "box": "Cumeta Flow: rame e metalaxil-M nello stesso flacone."
+ },
+ "slide": [
+  {
+   "tipo": "dose",
+   "titolo": "Cumeta Flow:<br><em>la dose giusta.</em>",
+   "foto": "cumeta",
+   "etichetta": "Pomodoro, campo e serra",
+   "valore": "4 l/ha",
+   "nota": "Volume normale: 6–10 hl/ha",
+   "punti": [
+    "3–4 trattamenti ogni 10–14 giorni",
+    "Massimo 4 l'anno",
+    "Carenza: 10 giorni",
+    "Non trattare in fioritura"
+   ],
+   "fonte": "Dosi da etichetta (reg. 10701)."
+  },
+  {
+   "tipo": "schede",
+   "tag": "A cosa serve",
+   "titolo": "Tre problemi,<br><em>un trattamento.</em>",
+   "voci": [
+    [
+     "🍅",
+     "Pomodoro",
+     "Peronospora, alternaria e batteriosi, campo e serra."
+    ],
+    [
+     "🍈",
+     "Melone e cetriolo",
+     "Peronospora e alternaria: 2–3 interventi."
+    ],
+    [
+     "🍉",
+     "Cocomero",
+     "Pieno campo: carenza 7 giorni."
+    ],
+    [
+     "🥬",
+     "Lattughe e insalate",
+     "Peronospora, campo e serra."
+    ]
+   ],
+   "fonte": "Dall'etichetta."
+  },
+  {
+   "tipo": "sapevi",
+   "titolo": "Due difese in una.",
+   "grande": "Il metalaxil-M entra nella pianta e protegge anche la vegetazione nuova.",
+   "piccolo": "Il rame (solfato tribasico) resta fuori: copre, resiste al dilavamento e agisce sui batteri.",
+   "punti": [
+    "Non va con prodotti a reazione alcalina",
+    "Entro 7 giorni dall'ultimo trattamento passa a un meccanismo diverso",
+    "Rame: massimo 28 kg/ha in 7 anni"
+   ],
+   "chiusa": "Si inizia appena arrivano le condizioni per la malattia.",
+   "fonte": "Dall'etichetta."
+  }
+ ],
+ "didascalia": "Peronospora e batteri? 🍅\n\nCumeta Flow mette insieme rame e metalaxil-M: il rame copre la pianta da fuori, il metalaxil-M entra e protegge anche le foglie nuove.\n\n💧 La dose giusta (pomodoro, campo e serra)\n• 4 l/ha, volume normale 6–10 hl/ha\n• 3–4 trattamenti ogni 10–14 giorni, massimo 4 l'anno\n• Carenza: 10 giorni\nNon trattare in fioritura. Non va con prodotti alcalini.\n\nDosi da etichetta. Lo trovi al banco, Studio 4 · Vittoria.\n\n#studio4srl #peronospora #pomodoro #rame #serra",
+ "id": "cumeta"
+}

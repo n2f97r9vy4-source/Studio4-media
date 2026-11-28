@@ -1,0 +1,93 @@
+{
+ "colore": "magenta",
+ "argomento": "Acqua in botte",
+ "foto": "phcontrol28",
+ "prodotti": [
+  "phcontrol"
+ ],
+ "copertina": {
+  "tag": "In botte · Tutti i trattamenti",
+  "righe": [
+   [
+    "Acqua",
+    150
+   ],
+   [
+    "dura?",
+    150
+   ]
+  ],
+  "sotto": "Il trattamento rende meno: <span>il pH dell'acqua conta.</span>",
+  "box": "pH Control: corregge il pH e te lo mostra col colore."
+ },
+ "slide": [
+  {
+   "tipo": "dose",
+   "titolo": "pH Control:<br><em>la dose giusta.</em>",
+   "foto": "phcontrol28",
+   "etichetta": "In botte",
+   "valore": "70–100 ml/hl",
+   "nota": "Si mette per primo, prima degli altri prodotti",
+   "punti": [
+    "Giallo limone = pH 6",
+    "Guarda il colore mentre lo aggiungi",
+    "Utile con fitoregolatori e fogliari",
+    "Concime NP"
+   ],
+   "fonte": "Dosi da scheda tecnica."
+  },
+  {
+   "tipo": "scala",
+   "tag": "A cosa serve",
+   "titolo": "Il colore<br><em>ti dice il pH.</em>",
+   "righe": [
+    [
+     "#7B1FA2",
+     "pH 4",
+     "Viola"
+    ],
+    [
+     "#D81B60",
+     "pH 4,5",
+     "Fucsia"
+    ],
+    [
+     "#F57C00",
+     "pH 5",
+     "Arancio"
+    ],
+    [
+     "#C9A227",
+     "pH 5,5",
+     "Ocra"
+    ],
+    [
+     "#F4E04D",
+     "pH 6",
+     "Giallo limone: il punto giusto"
+    ],
+    [
+     "#FFF3B0",
+     "pH 7",
+     "Giallo chiaro"
+    ]
+   ],
+   "fonte": "Dalla scheda tecnica."
+  },
+  {
+   "tipo": "sapevi",
+   "titolo": "Perché pH 6?",
+   "grande": "In acqua alcalina molti prodotti si degradano prima di arrivare sulla foglia.",
+   "piccolo": "È l'idrolisi alcalina: con pH alto alcune sostanze perdono efficacia in poche ore.",
+   "punti": [
+    "L'acqua di pozzo qui è spesso sopra pH 7,5",
+    "Correggi il pH prima di aggiungere gli altri prodotti",
+    "L'acido gibberellico è tra i più sensibili"
+   ],
+   "chiusa": "Prima l'acqua giusta, poi il trattamento.",
+   "fonte": "Dall'etichetta; idrolisi da nozioni generali."
+  }
+ ],
+ "didascalia": "Acqua dura? 💧\n\nSe il trattamento rende meno, guarda il pH dell'acqua. pH Control lo corregge e ti mostra col colore quando sei arrivato.\n\n💧 La dose giusta\n• 70–100 ml/hl, messo per primo in botte\n• Giallo limone = pH 6, il punto giusto\n\n💡 Lo sapevi? In acqua alcalina molti prodotti si degradano prima ancora di arrivare sulla foglia: si chiama idrolisi alcalina.\n\nDosi da scheda tecnica. Lo trovi al banco, Studio 4 · Vittoria.\n\n#studio4srl #ph #acqua #trattamenti #serra",
+ "id": "phcontrol"
+}

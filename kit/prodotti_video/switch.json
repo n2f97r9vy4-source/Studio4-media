@@ -1,0 +1,87 @@
+{
+ "colore": "verde",
+ "argomento": "Muffa grigia",
+ "foto": "switch28",
+ "prodotti": [
+  "switch"
+ ],
+ "copertina": {
+  "tag": "Orticole · Fragola · Serra",
+  "righe": [
+   [
+    "Muffa",
+    150
+   ],
+   [
+    "grigia?",
+    150
+   ],
+   [
+    "Fermala prima.",
+    85
+   ]
+  ],
+  "sotto": "Umidità alta e frutti che marciscono: <span>è il suo momento.</span>",
+  "box": "Switch: due sostanze contro la botrite."
+ },
+ "slide": [
+  {
+   "tipo": "dose",
+   "titolo": "Switch:<br><em>la dose giusta.</em>",
+   "foto": "switch28",
+   "etichetta": "Pomodoro, campo e serra",
+   "valore": "60–80 g/hl",
+   "nota": "0,8 kg/ha",
+   "punti": [
+    "Ogni 10–14 giorni",
+    "Massimo 3 trattamenti",
+    "Carenza: 3 giorni",
+    "Dalle prime condizioni favorevoli"
+   ],
+   "fonte": "Dosi da etichetta (reg. 9578)."
+  },
+  {
+   "tipo": "schede",
+   "tag": "A cosa serve",
+   "titolo": "Botrite,<br><em>su cosa.</em>",
+   "voci": [
+    [
+     "🍅",
+     "Orticole",
+     "Muffa grigia, campo e serra."
+    ],
+    [
+     "🥬",
+     "Lattughe e insalate",
+     "Muffa grigia e marciume del colletto."
+    ],
+    [
+     "🍓",
+     "Fragola",
+     "Muffa grigia."
+    ],
+    [
+     "🍇",
+     "Vite",
+     "Muffa grigia."
+    ]
+   ],
+   "fonte": "Dall'etichetta."
+  },
+  {
+   "tipo": "sapevi",
+   "titolo": "Rispetta gli insetti utili.",
+   "grande": "È selettivo verso insetti e acari utili.",
+   "piccolo": "In serra, con i lanci di ausiliari, fa la differenza.",
+   "punti": [
+    "Ciprodinil (FRAC 9) e fludioxonil (FRAC 12): due meccanismi diversi",
+    "Granuli idrodisperdibili: si sciolgono in acqua",
+    "La botrite parte dove l'acqua ristagna: arieggia la serra"
+   ],
+   "chiusa": "Massimo 3 trattamenti: tienili per i momenti a rischio.",
+   "fonte": "Dall'etichetta e dal Prontuario."
+  }
+ ],
+ "didascalia": "Muffa grigia? Fermala prima. 🍅\n\nUmidità alta e frutti che marciscono: è il momento della botrite. Switch unisce due sostanze con meccanismi diversi.\n\n💧 La dose giusta (pomodoro, campo e serra)\n• 60–80 g/hl (0,8 kg/ha)\n• Ogni 10–14 giorni, massimo 3 trattamenti\n• Carenza: 3 giorni\n\n💡 Lo sapevi? È selettivo verso insetti e acari utili: in serra, con gli ausiliari, conta.\n\nDosi da etichetta. Lo trovi al banco, Studio 4 · Vittoria.\n\n#studio4srl #botrite #pomodoro #serra #fungicida",
+ "id": "switch"
+}

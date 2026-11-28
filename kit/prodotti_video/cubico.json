@@ -1,0 +1,84 @@
+{
+ "colore": "oliva",
+ "argomento": "Rame",
+ "foto": "cubico",
+ "prodotti": [
+  "cubico"
+ ],
+ "larghezza_foto": 480,
+ "copertina": {
+  "tag": "Tutte le colture · Biologico",
+  "righe": [
+   [
+    "Carenza",
+    150
+   ],
+   [
+    "di rame?",
+    150
+   ]
+  ],
+  "sotto": "Foglie giovani deformi e punte secche: <span>la pianta chiede rame.</span>",
+  "box": "Cubico: rame legato all'acido gluconico."
+ },
+ "slide": [
+  {
+   "tipo": "dose",
+   "titolo": "Cubico:<br><em>la dose giusta.</em>",
+   "foto": "cubico",
+   "etichetta": "Per foglia, tutte le colture",
+   "valore": "200–400 ml/hl",
+   "nota": "Per radice: 2–3 l/ha",
+   "punti": [
+    "Solo in caso di bisogno riconosciuto",
+    "Non superare le dosi",
+    "Rame 6% e azoto 2,2%",
+    "Consentito in biologico"
+   ],
+   "fonte": "Dosi da etichetta."
+  },
+  {
+   "tipo": "schede",
+   "tag": "A cosa serve",
+   "titolo": "Rame,<br><em>per foglia o per radice.</em>",
+   "voci": [
+    [
+     "🍃",
+     "Per foglia",
+     "200–400 ml/hl, assorbito dalle foglie."
+    ],
+    [
+     "🌱",
+     "Per radice",
+     "2–3 l/ha in fertirrigazione."
+    ],
+    [
+     "🌿",
+     "Biologico",
+     "Consentito in agricoltura biologica."
+    ],
+    [
+     "🧪",
+     "Cosa contiene",
+     "Rame 6% complessato con acido gluconico, azoto 2,2%."
+    ]
+   ],
+   "fonte": "Dall'etichetta."
+  },
+  {
+   "tipo": "sapevi",
+   "titolo": "Stabile da pH 1 a 10.",
+   "grande": "Il rame legato al gluconato resta in soluzione con quasi ogni acqua.",
+   "piccolo": "In etichetta: la frazione chelata è stabile da pH 1 a pH 10.",
+   "punti": [
+    "Il rame libero tende a precipitare nelle acque dure",
+    "Il gluconato è un complessante organico",
+    "Il rame serve agli enzimi della fotosintesi e alla lignina"
+   ],
+   "chiusa": "Meno rame perso in botte, più rame alla pianta.",
+   "fonte": "Dall'etichetta; ruolo del rame da nozioni generali."
+  }
+ ],
+ "didascalia": "Carenza di rame? 🌿\n\nFoglie giovani deformi e punte secche: la pianta chiede rame. Cubico porta rame legato all'acido gluconico, stabile in soluzione da pH 1 a 10.\n\n💧 La dose giusta\n• Per foglia: 200–400 ml/hl\n• Per radice: 2–3 l/ha\nSolo in caso di bisogno riconosciuto, senza superare le dosi.\n\n💡 Lo sapevi? Il rame libero tende a precipitare nelle acque dure: legato al gluconato resta disponibile.\n\nConsentito in agricoltura biologica. Dosi da etichetta. Lo trovi al banco, Studio 4 · Vittoria.\n\n#studio4srl #rame #concime #biologico #serra",
+ "id": "cubico"
+}

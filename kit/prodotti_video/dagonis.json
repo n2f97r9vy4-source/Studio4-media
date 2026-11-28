@@ -1,0 +1,87 @@
+{
+ "id": "dagonis",
+ "colore": "rosso",
+ "argomento": "Oidio",
+ "foto": "dagonis",
+ "prodotti": [
+  "dagonis"
+ ],
+ "copertina": {
+  "tag": "Pomodoro · Peperone · Cucurbitacee",
+  "righe": [
+   [
+    "Oidio?",
+    150
+   ],
+   [
+    "Bloccalo",
+    125
+   ],
+   [
+    "in tempo.",
+    125
+   ]
+  ],
+  "sotto": "Polvere bianca sulle foglie: <span>non aspettare che si allarghi.</span>",
+  "box": "Dagonis: oidio e alternaria, con due sostanze."
+ },
+ "slide": [
+  {
+   "tipo": "dose",
+   "titolo": "Dagonis:<br><em>la dose giusta.</em>",
+   "foto": "dagonis",
+   "etichetta": "Pomodoro, peperone, melanzana",
+   "valore": "60 ml/hl",
+   "nota": "Contro oidio (0,6 l/ha). Alternaria: 100 ml/hl (1 l/ha)",
+   "punti": [
+    "Ogni 7 giorni",
+    "Massimo 2 trattamenti l'anno",
+    "Carenza: 3 giorni",
+    "Cucurbitacee: 60 ml/hl, fino a 3 volte"
+   ],
+   "fonte": "Dosi da etichetta (reg. 16658)."
+  },
+  {
+   "tipo": "schede",
+   "tag": "A cosa serve",
+   "titolo": "Oidio e alternaria,<br><em>su cosa.</em>",
+   "voci": [
+    [
+     "🍅",
+     "Pomodoro e peperone",
+     "Oidio e alternaria, in campo e in serra."
+    ],
+    [
+     "🍆",
+     "Melanzana",
+     "Oidio e alternaria, in pieno campo."
+    ],
+    [
+     "🥒",
+     "Cetriolo, zucchina, melone",
+     "Oidio e cancro gommoso, campo e serra: da inizio fioritura."
+    ],
+    [
+     "🍓",
+     "Fragola",
+     "Oidio, campo e serra: carenza 1 giorno."
+    ]
+   ],
+   "fonte": "Dall'etichetta."
+  },
+  {
+   "tipo": "sapevi",
+   "titolo": "Passa da sopra a sotto la foglia.",
+   "grande": "È translaminare: entra dalla pagina trattata e protegge anche quella sotto.",
+   "piccolo": "L'oidio parte spesso proprio dove lo spruzzo arriva peggio.",
+   "punti": [
+    "Fluxapyroxad blocca la respirazione del fungo",
+    "Difenoconazolo gli impedisce di costruire la membrana",
+    "Due meccanismi diversi: alterna comunque con altri fungicidi"
+   ],
+   "chiusa": "Piogge forti o crescita veloce? L'etichetta indica le dosi più alte.",
+   "fonte": "Dall'etichetta; meccanismi da nozioni generali (FRAC)."
+  }
+ ],
+ "didascalia": "Oidio? Bloccalo in tempo. 🍅\n\nPolvere bianca sulle foglie: non aspettare che si allarghi. Dagonis unisce due sostanze con meccanismi diversi contro oidio e alternaria, ed è translaminare: protegge anche la pagina sotto della foglia.\n\n💧 La dose giusta (pomodoro, peperone, melanzana)\n• Oidio: 60 ml/hl (0,6 l/ha)\n• Alternaria: 100 ml/hl (1 l/ha)\n• Ogni 7 giorni, massimo 2 trattamenti l'anno\n• Carenza: 3 giorni\nSu cucurbitacee: 60 ml/hl, fino a 3 volte, da inizio fioritura.\n\nDosi da etichetta. Lo trovi al banco, Studio 4 · Vittoria.\n\n#studio4srl #oidio #pomodoro #serra #fungicida"
+}

@@ -1,0 +1,87 @@
+{
+ "colore": "blu",
+ "argomento": "Peronospora",
+ "foto": "ranman",
+ "prodotti": [
+  "ranman"
+ ],
+ "copertina": {
+  "tag": "Pomodoro · Cucurbitacee · Serra",
+  "righe": [
+   [
+    "Macchie",
+    150
+   ],
+   [
+    "oleose?",
+    150
+   ],
+   [
+    "È peronospora.",
+    80
+   ]
+  ],
+  "sotto": "Foglie che si chiazzano dopo l'umido: <span>fermala sul nascere.</span>",
+  "box": "Ranman Top: mezzo litro per ettaro contro la peronospora."
+ },
+ "slide": [
+  {
+   "tipo": "dose",
+   "titolo": "Ranman Top:<br><em>la dose giusta.</em>",
+   "foto": "ranman",
+   "etichetta": "Pomodoro, campo e serra",
+   "valore": "0,5 l/ha",
+   "nota": "Acqua 400–600 l/ha in campo, fino a 1.000 l/ha in serra",
+   "punti": [
+    "Ogni 7–10 giorni",
+    "Massimo 4 trattamenti a stagione",
+    "Carenza: 3 giorni",
+    "Dalle prime condizioni favorevoli"
+   ],
+   "fonte": "Dosi da etichetta (reg. 14735)."
+  },
+  {
+   "tipo": "schede",
+   "tag": "A cosa serve",
+   "titolo": "Peronospora,<br><em>su cosa.</em>",
+   "voci": [
+    [
+     "🍅",
+     "Pomodoro",
+     "Campo e serra."
+    ],
+    [
+     "🥒",
+     "Cucurbitacee",
+     "Cetriolo, zucchina, melone."
+    ],
+    [
+     "🌶️",
+     "Peperone e melanzana",
+     "Peronospora, dalla banca dati del Ministero."
+    ],
+    [
+     "🧅",
+     "Cipolla, aglio, porro",
+     "Anche sulle liliacee."
+    ]
+   ],
+   "fonte": "Dall'etichetta e dalla banca dati del Ministero."
+  },
+  {
+   "tipo": "sapevi",
+   "titolo": "Si versa senza agitare.",
+   "grande": "Prima il 10% dell'acqua, poi il prodotto senza mescolare.",
+   "piccolo": "Solo dopo aver aggiunto il resto dell'acqua si accende l'agitatore.",
+   "punti": [
+    "Lo chiede l'etichetta: così la sospensione si disperde bene",
+    "Ciazofamide (FRAC 21) blocca la respirazione del fungo",
+    "Si parte quando arrivano le condizioni favorevoli, non dopo i sintomi"
+   ],
+   "chiusa": "Una piccola regola che cambia la riuscita del trattamento.",
+   "fonte": "Dall'etichetta; meccanismo da nozioni generali (FRAC)."
+  }
+ ],
+ "didascalia": "Macchie oleose sulle foglie? È peronospora. 🍅\n\nDopo giorni umidi le foglie si chiazzano: è il momento di fermarla sul nascere. Ranman Top lavora a dose bassissima.\n\n💧 La dose giusta (pomodoro, campo e serra)\n• 0,5 l/ha\n• Acqua 400–600 l/ha in campo, fino a 1.000 l/ha in serra\n• Ogni 7–10 giorni, massimo 4 trattamenti a stagione\n• Carenza: 3 giorni\n\n💡 Lo sapevi? Si versa senza agitare: prima il 10% dell'acqua, poi il prodotto, poi il resto dell'acqua e solo alla fine l'agitatore.\n\nDosi da etichetta. Lo trovi al banco, Studio 4 · Vittoria.\n\n#studio4srl #peronospora #pomodoro #serra #fungicida",
+ "id": "ranman"
+}

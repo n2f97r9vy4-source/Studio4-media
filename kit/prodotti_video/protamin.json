@@ -1,0 +1,84 @@
+{
+ "colore": "giallo",
+ "argomento": "Rame",
+ "foto": "protamin",
+ "prodotti": [
+  "protamin"
+ ],
+ "larghezza_foto": 480,
+ "copertina": {
+  "tag": "Orticole · Serra · Biologico",
+  "righe": [
+   [
+    "Piante",
+    150
+   ],
+   [
+    "deboli?",
+    150
+   ]
+  ],
+  "sotto": "Rame e azoto organico insieme: <span>nutre e rinforza.</span>",
+  "box": "Protamin Cu 62: rame legato alle proteine."
+ },
+ "slide": [
+  {
+   "tipo": "dose",
+   "titolo": "Protamin Cu 62:<br><em>la dose giusta.</em>",
+   "foto": "protamin",
+   "etichetta": "Colture in serra, fertirrigazione",
+   "valore": "1–1,5 l",
+   "nota": "Ogni 1.000 m², per tutto il ciclo, secondo necessità",
+   "punti": [
+    "Pomodoro per foglia: 1–1,5 l/ha",
+    "4–5 interventi ogni 7–10 giorni",
+    "Evita la piena fioritura",
+    "Consentito in biologico"
+   ],
+   "fonte": "Dosi da etichetta e dal Prontuario."
+  },
+  {
+   "tipo": "schede",
+   "tag": "A cosa serve",
+   "titolo": "Rame e azoto,<br><em>dove servono.</em>",
+   "voci": [
+    [
+     "🌱",
+     "Fertirrigazione",
+     "Orticole e serra, per tutto il ciclo."
+    ],
+    [
+     "🍅",
+     "Pomodoro",
+     "Per foglia, 4–5 interventi."
+    ],
+    [
+     "🥕",
+     "Carota e carciofo",
+     "1 l/ha, insieme alla difesa."
+    ],
+    [
+     "🧪",
+     "Cosa contiene",
+     "Rame 6,2% (83 g/l), azoto organico 3%, carbonio organico 10%."
+    ]
+   ],
+   "fonte": "Dall'etichetta."
+  },
+  {
+   "tipo": "sapevi",
+   "titolo": "Il rame viaggia con le proteine.",
+   "grande": "È carniccio fluido: il rame è legato a peptidi e amminoacidi.",
+   "piccolo": "L'etichetta parla di azione preventiva e veicolante: la parte organica aiuta il rame a entrare.",
+   "punti": [
+    "Rame 6,2% = 83 g per litro",
+    "Cromo VI non rilevabile, come dice l'etichetta",
+    "Dosi pensate per volumi d'acqua normali"
+   ],
+   "chiusa": "Nutrimento e rame nello stesso passaggio.",
+   "fonte": "Dall'etichetta."
+  }
+ ],
+ "didascalia": "Piante deboli? 🌱\n\nProtamin Cu 62 porta rame legato a peptidi e amminoacidi, con azoto organico: nutre e rinforza la pianta.\n\n💧 La dose giusta\n• Serra, fertirrigazione: 1–1,5 l ogni 1.000 m², per tutto il ciclo\n• Pomodoro per foglia: 1–1,5 l/ha, 4–5 interventi ogni 7–10 giorni\nEvita i trattamenti in piena fioritura.\n\n💡 Lo sapevi? È carniccio fluido: la parte organica fa da veicolo al rame.\n\nConsentito in agricoltura biologica. Dosi da etichetta. Lo trovi al banco, Studio 4 · Vittoria.\n\n#studio4srl #rame #concime #biologico #serra",
+ "id": "protamin"
+}

@@ -116,7 +116,8 @@
     "reg": "9578",
     "fonte": "etichetta",
     "dosi": [
-      "60–80 g/hl"
+      "60–80 g/hl",
+      "0,8 kg/ha"
     ],
     "fatti": [
       "botrite, ogni 10–14 giorni, massimo 3",
@@ -470,5 +471,120 @@
       "non con concimi fogliari con azoto nitrico o ammoniacale"
     ],
     "foto": "enervin"
+  },
+  "dagonis": {
+    "nome": "Dagonis",
+    "tipo": "fungicida (fluxapyroxad + difenoconazolo, FRAC 7 e 3)",
+    "reg": "16658",
+    "fonte": "etichetta",
+    "dosi": [
+      "60 ml/hl",
+      "100 ml/hl",
+      "0,6 l/ha",
+      "1 l/ha"
+    ],
+    "fatti": [
+      "pomodoro, peperone, melanzana: oidio 60 ml/hl, alternaria 100 ml/hl",
+      "ogni 7 giorni, max 2 l'anno su solanacee, 3 su cucurbitacee",
+      "carenza 3 giorni su solanacee e cucurbitacee, 1 su fragola",
+      "translaminare, preventivo"
+    ],
+    "foto": "dagonis"
+  },
+  "ranman": {
+    "nome": "Ranman Top",
+    "tipo": "fungicida (ciazofamide, FRAC 21)",
+    "reg": "14735",
+    "fonte": "etichetta",
+    "dosi": [
+      "0,5 l/ha",
+      "400–600 l/ha",
+      "1.000 l/ha"
+    ],
+    "fatti": [
+      "ogni 7–10 giorni, max 4 a stagione",
+      "carenza 3 giorni pomodoro",
+      "versare senza agitare nel 10% dell'acqua"
+    ],
+    "foto": "ranman"
+  },
+  "cumeta": {
+    "nome": "Cumeta Flow",
+    "tipo": "fungicida (rame solfato tribasico + metalaxil-M)",
+    "reg": "10701",
+    "fonte": "etichetta",
+    "dosi": [
+      "4 l/ha",
+      "28 kg/ha"
+    ],
+    "fatti": [
+      "3–4 trattamenti ogni 10–14 giorni, max 4 l'anno",
+      "carenza 10 giorni pomodoro",
+      "non in fioritura",
+      "non con prodotti alcalini"
+    ],
+    "foto": "cumeta"
+  },
+  "cubico": {
+    "nome": "Cubico",
+    "tipo": "concime a base di rame (gluconato)",
+    "reg": null,
+    "fonte": "etichetta",
+    "dosi": [
+      "200–400 ml/hl",
+      "2–3 l/ha"
+    ],
+    "fatti": [
+      "Cu 6%, N 2,2%",
+      "stabilità pH 1–10",
+      "consentito in biologico"
+    ],
+    "foto": "cubico"
+  },
+  "protamin": {
+    "nome": "Protamin Cu 62",
+    "tipo": "concime organico azotato con rame",
+    "reg": null,
+    "fonte": "etichetta",
+    "dosi": [
+      "1–1,5 l/ha",
+      "1 l/ha"
+    ],
+    "fatti": [
+      "serra fertirrigazione 1–1,5 l/1000 m²",
+      "Cu 6,2%, N org 3%",
+      "evitare la piena fioritura"
+    ],
+    "foto": "protamin"
+  },
+  "vheralife": {
+    "nome": "Vhera Life",
+    "tipo": "biostimolante prebiotico (alga Macrocystis)",
+    "reg": null,
+    "fonte": "etichetta",
+    "dosi": [
+      "15–20 l/ha",
+      "3–5 l/ha"
+    ],
+    "fatti": [
+      "non con rame",
+      "con Vhera al trapianto"
+    ],
+    "foto": "vheralife"
+  },
+  "quicelum": {
+    "nome": "Quicelum",
+    "tipo": "concime a base di microelementi (B, Fe, Mn, Mo)",
+    "reg": null,
+    "fonte": "etichetta",
+    "dosi": [
+      "75–100 ml/hl",
+      "1 l/ha"
+    ],
+    "fatti": [
+      "pomodoro dalla fioritura ogni 20 giorni",
+      "miscibile solo con Anticrack"
+    ],
+    "foto": "quicelum"
   }
 }

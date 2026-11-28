@@ -1,0 +1,84 @@
+{
+ "colore": "oliva",
+ "argomento": "Terreno",
+ "foto": "vheralife",
+ "prodotti": [
+  "vheralife"
+ ],
+ "larghezza_foto": 480,
+ "copertina": {
+  "tag": "Orticole · Trapianto · Biologico",
+  "righe": [
+   [
+    "Terreno",
+    150
+   ],
+   [
+    "stanco?",
+    150
+   ]
+  ],
+  "sotto": "Radici che non partono dopo il trapianto: <span>nutri il terreno vivo.</span>",
+  "box": "Vhera Life: prebiotico da alga per il terreno."
+ },
+ "slide": [
+  {
+   "tipo": "dose",
+   "titolo": "Vhera Life:<br><em>la dose giusta.</em>",
+   "foto": "vheralife",
+   "etichetta": "Orticole e fragola, fertirrigazione",
+   "valore": "15–20 l/ha",
+   "nota": "Vicino a semina o trapianto, con Vhera 3–5 l/ha",
+   "punti": [
+    "Dopo 20–30 giorni: Vhera Life da solo",
+    "Dopo altri 30–40 giorni: di nuovo con Vhera",
+    "Non con prodotti a base di rame",
+    "Con una buona bagnatura"
+   ],
+   "fonte": "Dosi da etichetta."
+  },
+  {
+   "tipo": "schede",
+   "tag": "A cosa serve",
+   "titolo": "Un terreno<br><em>che lavora.</em>",
+   "voci": [
+    [
+     "🦠",
+     "Prebiotico",
+     "Nutre i microrganismi utili del terreno."
+    ],
+    [
+     "🌊",
+     "Alga Macrocystis",
+     "Estratto fluido azotato, da raccolta sostenibile."
+    ],
+    [
+     "🍅",
+     "Orticole e fragola",
+     "15–20 l/ha in fertirrigazione."
+    ],
+    [
+     "🌸",
+     "Floricole",
+     "2 l ogni 1.000 m²."
+    ]
+   ],
+   "fonte": "Dall'etichetta."
+  },
+  {
+   "tipo": "sapevi",
+   "titolo": "Prepara la casa ai funghi buoni.",
+   "grande": "È la base prebiotica per Vhera, l'inoculo di funghi micorrizici.",
+   "piccolo": "Crea nel terreno l'ambiente in cui micorrize e batteri utili si sviluppano.",
+   "punti": [
+    "Ricco di terpeni, dagli estratti vegetali",
+    "Carbonio organico 13%, pH 3,5",
+    "Aiuta a chiudere il ciclo anche in terreni non ottimali"
+   ],
+   "chiusa": "Prima si nutre il terreno, poi la pianta.",
+   "fonte": "Dall'etichetta."
+  }
+ ],
+ "didascalia": "Terreno stanco? 🌱\n\nRadici che non partono dopo il trapianto: prima si nutre il terreno vivo. Vhera Life è un prebiotico a base di alga che prepara l'ambiente per micorrize e batteri utili.\n\n💧 La dose giusta (orticole e fragola, fertirrigazione)\n• 15–20 l/ha vicino a semina o trapianto, con Vhera 3–5 l/ha\n• Dopo 20–30 giorni: Vhera Life da solo\n• Dopo altri 30–40 giorni: di nuovo con Vhera\nNon con prodotti a base di rame.\n\nConsentito in agricoltura biologica. Dosi da etichetta. Lo trovi al banco, Studio 4 · Vittoria.\n\n#studio4srl #terreno #radici #trapianto #biologico",
+ "id": "vheralife"
+}
